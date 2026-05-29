@@ -1,1 +1,46 @@
+name: Momentum Scanner
 
+on:
+
+  schedule:
+    - cron: "*/15 * * * *"
+
+  workflow_dispatch:
+
+jobs:
+
+  scan:
+
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Libraries
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run Scanner
+        run: |
+          python scanner.py
+
+      - name: Commit CSV Files
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+
+          git add output/*.csv
+
+          git commit -m "Auto update scan results" || echo "No changes"
+
+          git push
