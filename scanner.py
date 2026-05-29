@@ -2,7 +2,7 @@ import yfinance as yf
 import pandas as pd
 from bs4 import BeautifulSoup
 import requests
-from datetime import datetime
+from datetime import datetime, timedelta
 import os
 import time
 
@@ -61,20 +61,29 @@ for sector, ticker in sector_indices.items():
             progress=False
         )
 
-        latest = sector_data["Close"].iloc[-1]
-        prev_week = sector_data["Close"].iloc[-6]
+        # FIX 1: Flatten MultiIndex columns from yfinance
+        if isinstance(sector_data.columns, pd.MultiIndex):
+            sector_data.columns = sector_data.columns.get_level_values(0)
+
+        # FIX 2: Guard against empty or insufficient data
+        if sector_data.empty or len(sector_data) < 2:
+            print(f"Not enough data for sector: {sector}")
+            sector_performance[sector] = 0
+            continue
+
+        latest = float(sector_data["Close"].iloc[-1])
+
+        # FIX 3: Use min of available rows instead of hardcoded -6
+        lookback = min(6, len(sector_data))
+        prev_week = float(sector_data["Close"].iloc[-lookback])
 
         weekly_gain = ((latest - prev_week) / prev_week) * 100
 
-        sector_performance[sector] = round(
-            float(weekly_gain),
-            2
-        )
+        sector_performance[sector] = round(weekly_gain, 2)
 
     except Exception as e:
 
         print(f"Sector error {sector}: {e}")
-
         sector_performance[sector] = 0
 
 print(sector_performance)
@@ -89,7 +98,8 @@ def get_et_news(company_name):
 
     try:
 
-        search_query = company_name.replace(" ", "-")
+        # FIX 4: Target specific article elements instead of all <a> tags
+        search_query = company_name.replace(" ", "-").lower()
 
         url = (
             f"https://economictimes.indiatimes.com/topic/"
@@ -97,7 +107,11 @@ def get_et_news(company_name):
         )
 
         headers = {
-            "User-Agent": "Mozilla/5.0"
+            "User-Agent": (
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/120.0.0.0 Safari/537.36"
+            )
         }
 
         response = requests.get(
@@ -106,19 +120,24 @@ def get_et_news(company_name):
             timeout=10
         )
 
-        soup = BeautifulSoup(
-            response.text,
-            "lxml"
-        )
+        soup = BeautifulSoup(response.text, "lxml")
 
-        articles = soup.find_all("a")
+        # Target story containers specifically
+        story_containers = soup.find_all("div", class_="eachStory")
 
-        for article in articles:
+        for story in story_containers:
+            headline_tag = story.find("h3") or story.find("a")
+            if headline_tag:
+                text = headline_tag.get_text(strip=True)
+                if len(text) > 40:
+                    headlines.append(text)
 
-            text = article.get_text(strip=True)
-
-            if len(text) > 40:
-                headlines.append(text)
+        # Fallback: grab <h3> tags if eachStory not found
+        if not headlines:
+            for h3 in soup.find_all("h3"):
+                text = h3.get_text(strip=True)
+                if len(text) > 40:
+                    headlines.append(text)
 
         headlines = list(dict.fromkeys(headlines))
 
@@ -126,8 +145,7 @@ def get_et_news(company_name):
 
     except Exception as e:
 
-        print(f"News error: {e}")
-
+        print(f"News error for {company_name}: {e}")
         return []
 
 # ==========================================
@@ -151,30 +169,29 @@ for stock in stocks:
             progress=False
         )
 
+        # FIX 1: Flatten MultiIndex columns
+        if isinstance(data.columns, pd.MultiIndex):
+            data.columns = data.columns.get_level_values(0)
+
         if len(data) < 21:
             continue
 
-        latest = data.iloc[-1]
-        prev = data.iloc[-2]
+        # FIX 5: Extract scalars explicitly to avoid Series arithmetic issues
+        latest_close = float(data["Close"].iloc[-1])
+        prev_close = float(data["Close"].iloc[-2])
+        latest_volume = float(data["Volume"].iloc[-1])
 
-        daily_return = (
-            (latest["Close"] - prev["Close"])
-            / prev["Close"]
-        ) * 100
+        daily_return = ((latest_close - prev_close) / prev_close) * 100
 
-        avg_volume = (
-            data["Volume"]
-            .tail(20)
-            .mean()
-        )
+        avg_volume = float(data["Volume"].tail(20).mean())
 
-        volume_spike = (
-            latest["Volume"]
-            / avg_volume
-        )
+        # FIX 2: Guard against zero volume
+        if avg_volume == 0:
+            continue
+
+        volume_spike = latest_volume / avg_volume
 
         # FILTERS
-
         if daily_return < 7:
             continue
 
@@ -182,33 +199,16 @@ for stock in stocks:
             continue
 
         # STOCK INFO
+        ticker_obj = yf.Ticker(stock)
+        info = ticker_obj.info
 
-        ticker = yf.Ticker(stock)
+        company_name = info.get("shortName", stock)
+        sector = info.get("sector", "Unknown")
+        market_cap = info.get("marketCap", 0)
 
-        info = ticker.info
-
-        company_name = info.get(
-            "shortName",
-            stock
-        )
-
-        sector = info.get(
-            "sector",
-            "Unknown"
-        )
-
-        market_cap = info.get(
-            "marketCap",
-            0
-        )
-
-        sector_gain = sector_performance.get(
-            sector,
-            0
-        )
+        sector_gain = sector_performance.get(sector, 0)
 
         # FETCH NEWS
-
         news = get_et_news(company_name)
 
         results.append({
@@ -219,15 +219,9 @@ for stock in stocks:
 
             "Company": company_name,
 
-            "Daily Gain %": round(
-                float(daily_return),
-                2
-            ),
+            "Daily Gain %": round(daily_return, 2),
 
-            "Volume Spike": round(
-                float(volume_spike),
-                2
-            ),
+            "Volume Spike": round(volume_spike, 2),
 
             "Sector": sector,
 
@@ -235,12 +229,12 @@ for stock in stocks:
 
             "Market Cap": market_cap,
 
-            "Economic Times News":
-                "\n".join(news)
+            "Economic Times News": "\n".join(news)
 
         })
 
-        time.sleep(1)
+        # FIX 6: Reduced sleep to 0.3s for better performance
+        time.sleep(0.3)
 
     except Exception as e:
 
@@ -254,33 +248,17 @@ df = pd.DataFrame(results)
 
 if len(df) > 0:
 
-    df = df.sort_values(
-        by="Daily Gain %",
-        ascending=False
-    )
+    df = df.sort_values(by="Daily Gain %", ascending=False)
 
     print("\nFINAL RESULTS:\n")
-
     print(df)
 
     # SAVE LATEST CSV
-
-    df.to_csv(
-        "output/latest_scan.csv",
-        index=False
-    )
+    df.to_csv("output/latest_scan.csv", index=False)
 
     # SAVE HISTORY CSV
-
-    history_file = (
-        f"output/scan_"
-        f"{datetime.now().date()}.csv"
-    )
-
-    df.to_csv(
-        history_file,
-        index=False
-    )
+    history_file = f"output/scan_{datetime.now().date()}.csv"
+    df.to_csv(history_file, index=False)
 
     print("\nCSV FILES SAVED.")
 
