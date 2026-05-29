@@ -6,71 +6,49 @@ from datetime import datetime
 import os
 import time
 
-# =====================================================
+# ==========================================
 # CREATE OUTPUT FOLDER
-# =====================================================
+# ==========================================
 
 os.makedirs("output", exist_ok=True)
 
-# =====================================================
+# ==========================================
 # DOWNLOAD MIDCAP + SMALLCAP LIST
-# =====================================================
+# ==========================================
 
-midcap_url = (
-    "https://archives.nseindia.com/content/"
-    "indices/ind_niftymidcap100list.csv"
-)
-
-smallcap_url = (
-    "https://archives.nseindia.com/content/"
-    "indices/ind_niftysmallcap100list.csv"
-)
+midcap_url = "https://archives.nseindia.com/content/indices/ind_niftymidcap100list.csv"
+smallcap_url = "https://archives.nseindia.com/content/indices/ind_niftysmallcap100list.csv"
 
 midcap_df = pd.read_csv(midcap_url)
 smallcap_df = pd.read_csv(smallcap_url)
 
-midcap = [
-    x + ".NS"
-    for x in midcap_df["Symbol"]
-]
-
-smallcap = [
-    x + ".NS"
-    for x in smallcap_df["Symbol"]
-]
+midcap = [x + ".NS" for x in midcap_df["Symbol"]]
+smallcap = [x + ".NS" for x in smallcap_df["Symbol"]]
 
 stocks = list(set(midcap + smallcap))
 
-# =====================================================
-# NSE SECTOR INDICES
-# =====================================================
+# ==========================================
+# SECTOR INDICES
+# ==========================================
 
 sector_indices = {
-
     "Technology": "^CNXIT",
-
     "Financial Services": "^NSEBANK",
-
     "Healthcare": "^CNXPHARMA",
-
     "Automotive": "^CNXAUTO",
-
     "Energy": "^CNXENERGY",
-
     "Industrials": "^CNXINFRA",
-
     "Consumer Defensive": "^CNXFMCG",
-
     "Basic Materials": "^CNXMETAL"
 }
 
-# =====================================================
+# ==========================================
 # FETCH SECTOR PERFORMANCE
-# =====================================================
+# ==========================================
 
 sector_performance = {}
 
-print("Fetching sector performance...\n")
+print("Fetching sector performance...")
 
 for sector, ticker in sector_indices.items():
 
@@ -84,28 +62,26 @@ for sector, ticker in sector_indices.items():
         )
 
         latest = sector_data["Close"].iloc[-1]
-
         prev_week = sector_data["Close"].iloc[-6]
 
-        weekly_gain = (
-            (latest - prev_week)
-            / prev_week
-        ) * 100
+        weekly_gain = ((latest - prev_week) / prev_week) * 100
 
         sector_performance[sector] = round(
             float(weekly_gain),
             2
         )
 
-    except:
+    except Exception as e:
+
+        print(f"Sector error {sector}: {e}")
 
         sector_performance[sector] = 0
 
 print(sector_performance)
 
-# =====================================================
+# ==========================================
 # ECONOMIC TIMES NEWS
-# =====================================================
+# ==========================================
 
 def get_et_news(company_name):
 
@@ -116,13 +92,12 @@ def get_et_news(company_name):
         search_query = company_name.replace(" ", "-")
 
         url = (
-            f"https://economictimes.indiatimes.com/"
-            f"topic/{search_query}"
+            f"https://economictimes.indiatimes.com/topic/"
+            f"{search_query}"
         )
 
         headers = {
-            "User-Agent":
-            "Mozilla/5.0"
+            "User-Agent": "Mozilla/5.0"
         }
 
         response = requests.get(
@@ -143,24 +118,25 @@ def get_et_news(company_name):
             text = article.get_text(strip=True)
 
             if len(text) > 40:
-
                 headlines.append(text)
 
         headlines = list(dict.fromkeys(headlines))
 
         return headlines[:5]
 
-    except:
+    except Exception as e:
+
+        print(f"News error: {e}")
 
         return []
 
-# =====================================================
+# ==========================================
 # MAIN SCANNER
-# =====================================================
+# ==========================================
 
 results = []
 
-print(f"\nScanning {len(stocks)} stocks...\n")
+print(f"Scanning {len(stocks)} stocks...")
 
 for stock in stocks:
 
@@ -231,7 +207,7 @@ for stock in stocks:
             0
         )
 
-        # NEWS
+        # FETCH NEWS
 
         news = get_et_news(company_name)
 
@@ -260,18 +236,19 @@ for stock in stocks:
             "Market Cap": market_cap,
 
             "Economic Times News":
-            "\n".join(news)
+                "\n".join(news)
+
         })
 
         time.sleep(1)
 
-    except as e:
+    except Exception as e:
 
         print(f"Error in {stock}: {e}")
 
-# =====================================================
+# ==========================================
 # FINAL OUTPUT
-# =====================================================
+# ==========================================
 
 df = pd.DataFrame(results)
 
@@ -286,14 +263,14 @@ if len(df) > 0:
 
     print(df)
 
-    # SAVE CSV
+    # SAVE LATEST CSV
 
     df.to_csv(
         "output/latest_scan.csv",
         index=False
     )
 
-    # SAVE HISTORY
+    # SAVE HISTORY CSV
 
     history_file = (
         f"output/scan_"
