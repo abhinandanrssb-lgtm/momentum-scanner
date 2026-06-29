@@ -1,16 +1,39 @@
 Date,Stock,Company,Sector,Close Price,Daily Gain %,Week Gain %,Volume Spike (x avg),RSI (14d),52W High,52W Low,Dist from 52W High %,Sector Weekly Gain %,Market Cap,P/E Ratio,Revenue (Cr),Revenue QoQ %,Revenue YoY %,Net Profit (Cr),Profit QoQ %,Profit YoY %,Operating Profit (Cr),EBITDA Margin %,EPS,EPS Growth YoY %,Operating CF (Cr),Debt to Equity,ROE %,ROCE %,Growth Flags,News (Last 2 Days)
-2026-06-29,TSFINV.NS,TSF INVESTMENTS LIMITED,Financial Services,442.65,11.57,11.95,6.85,72.6,442.65,385.6,0.0,0.29,97689239552,18.84,266.62,17.42,756.12,161.07,56.31,50.34,66.78,25.04,7.25,50.41,N/A,0.04,9.06,1.86,Revenue +756.12% YoY | Revenue +17.42% QoQ | Profit +50.34% YoY | Profit +56.31% QoQ | EPS +50.41% YoY | EBITDA Margin 25.04%,No recent news
-2026-06-29,ZYDUSWELL.NS,ZYDUS WELLNESS LIMITED,Consumer Defensive,563.95,8.85,10.07,10.87,63.0,563.95,481.05,0.0,-0.79,179424804864,90.67,1476.1,53.23,227.44,162.0,506.02,2431.25,271.3,18.38,5.09,2445.0,N/A,0.55,3.43,2.65,Revenue +227.44% YoY | Revenue +53.23% QoQ | Profit +2431.25% YoY | Profit +506.02% QoQ | EPS +2445.0% YoY,"From Tata to tech giants, Indian companies tighten grip on UK economy
+2026-06-29,TSFINV.NS,TSF INVESTMENTS LIMITED,Financial Services,443.95,11.9,12.28,8.32,73.0,443.95,385.6,0.0,0.07,97976147968,18.9,266.62,17.42,756.12,161.07,56.31,50.34,66.78,25.04,7.25,50.41,N/A,0.04,9.06,1.86,Revenue +756.12% YoY | Revenue +17.42% QoQ | Profit +50.34% YoY | Profit +56.31% QoQ | EPS +50.41% YoY | EBITDA Margin 25.04%,No recent news
+2026-06-29,ZYDUSWELL.NS,ZYDUS WELLNESS LIMITED,Consumer Defensive,569.45,9.91,11.14,13.34,64.2,569.45,481.05,0.0,-0.87,181174665216,91.55,1476.1,53.23,227.44,162.0,506.02,2431.25,271.3,18.38,5.09,2445.0,N/A,0.55,3.43,2.65,Revenue +227.44% YoY | Revenue +53.23% QoQ | Profit +2431.25% YoY | Profit +506.02% QoQ | EPS +2445.0% YoY,"From Tata to tech giants, Indian companies tighten grip on UK economy
 Zydus Lifesciences acquires US pharma firm Assertio for $166 million
 Get multiple analysts' prediction on Zydus Wellness"
-2026-06-29,AJANTPHARM.NS,AJANTA PHARMA LIMITED,Healthcare,3414.4,7.36,11.39,2.71,77.6,3414.4,2804.2,0.0,3.19,426580180992,40.36,1421.64,3.4,24.04,266.7,-2.58,14.52,394.84,27.77,21.35,14.78,N/A,0.06,25.39,14.82,EBITDA Margin 27.77% | ROE 25.39%,"Stocks in news: Emcure Pharma, Dixon Technologies, Ajanta Pharma, Godrej Properties, Vedanta
-Promoter sells Rs 1,024 crore worth of Ajanta Pharma shares in block deal to Kotak MF and ABSL MF
-Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011.
-Get multiple analysts' prediction on Ajanta Pharma"
-2026-06-29,HONASA.NS,HONASA CONSUMER LIMITED,Consumer Defensive,443.2,6.1,6.18,1.92,66.1,443.2,340.6,0.0,-0.79,144493936640,72.18,657.08,9.23,23.15,69.19,37.83,177.0,95.97,14.6,2.13,176.62,N/A,0.1,15.45,6.17,Profit +177.0% YoY | Profit +37.83% QoQ | EPS +176.62% YoY,"Why Meta tapped Kunal Shah; Beauty’s new factory boom
+2026-06-29,SCHNEIDER.NS,SCHNEIDER ELECTRIC INFRA,Industrials,1453.6,8.86,9.18,2.0,71.8,1453.6,1082.9,0.0,-1.33,347561623552,162.41,589.69,-42.7,0.48,21.97,-77.36,-59.77,49.74,8.43,0.92,-59.65,N/A,0.71,31.81,9.9,ROE 31.81%,No recent news
+2026-06-29,ATHERENERG.NS,ATHER ENERGY LIMITED,Consumer Cyclical,1083.75,8.51,11.53,2.77,64.3,1083.75,883.8,0.0,0.0,415207325696,N/A,1174.66,23.18,73.75,-100.23,-18.48,57.23,-30.47,-2.59,-2.62,58.36,-3.6,0.26,-33.74,-10.65,Revenue +73.75% YoY | Revenue +23.18% QoQ | Profit +57.23% YoY | EPS +58.36% YoY,"Laurus Labs, Biocon, Ather Energy, Lenskart among probable MSCI India Standard Index inclusion candidates, says JM Financial
+Startup investors cash out nearly Rs 18,000 crore after IPO lock-ins end
+Zepto's market position; TCS' AI verdict at AGM
+Intimation Of Grant Of Stock Options Under Ather Energy ESOP 2025
+Get multiple analysts' prediction on Ather Energy"
+2026-06-29,ACUTAAS.NS,ACUTAAS CHEMICALS LIMITED,Basic Materials,3568.2,8.13,9.92,4.44,63.1,3568.2,2502.4,0.0,-3.65,292132519936,102.01,393.18,89.73,59.36,107.96,143.74,187.38,155.35,39.51,13.19,181.24,N/A,0.02,23.52,15.72,Revenue +59.36% YoY | Revenue +89.73% QoQ | Profit +187.38% YoY | Profit +143.74% QoQ | EPS +181.24% YoY | EBITDA Margin 39.51% | ROE 23.52%,No recent news
+2026-06-29,HONASA.NS,HONASA CONSUMER LIMITED,Consumer Defensive,446.45,6.88,6.96,2.91,67.3,446.45,340.6,0.0,-0.87,145553522688,72.71,657.08,9.23,23.15,69.19,37.83,177.0,95.97,14.6,2.13,176.62,N/A,0.1,15.45,6.17,Profit +177.0% YoY | Profit +37.83% QoQ | EPS +176.62% YoY,"Why Meta tapped Kunal Shah; Beauty’s new factory boom
 Stocks in news: Vedanta, Honasa Consumer, IRCTC, Bajaj Auto, Tata Motors
 Honasa Consumer to buy 58% stake in Fluence Pharma at Rs 135-crore enterprise value
 Favorable Rectification Order In Arbitration Proceedings Against RSMM General Trading LLC
 Get multiple analysts' prediction on Honasa Consumer"
-2026-06-29,ACUTAAS.NS,ACUTAAS CHEMICALS LIMITED,Basic Materials,3478.8,5.42,7.17,1.92,59.3,3478.8,2502.4,0.0,-3.78,284813262848,99.45,393.18,89.73,59.36,107.96,143.74,187.38,155.35,39.51,13.19,181.24,N/A,0.02,23.52,15.72,Revenue +59.36% YoY | Revenue +89.73% QoQ | Profit +187.38% YoY | Profit +143.74% QoQ | EPS +181.24% YoY | EBITDA Margin 39.51% | ROE 23.52%,No recent news
-2026-06-29,ABDL.NS,ALLIED BLEND N DISTILS L,Consumer Defensive,654.45,5.17,4.57,2.37,76.2,654.45,523.07,0.0,-0.79,183056302080,80.3,1006.89,0.39,3.38,40.97,-38.37,-28.7,182.05,18.08,1.46,-28.78,N/A,0.68,13.55,7.57,—,No recent news
+2026-06-29,AJANTPHARM.NS,AJANTA PHARMA LIMITED,Healthcare,3384.2,6.41,10.41,5.59,76.7,3384.2,2804.2,0.0,3.14,422807142400,40.0,1421.64,3.4,24.04,266.7,-2.58,14.52,394.84,27.77,21.35,14.78,N/A,0.06,25.39,14.82,EBITDA Margin 27.77% | ROE 25.39%,"Stocks in news: Emcure Pharma, Dixon Technologies, Ajanta Pharma, Godrej Properties, Vedanta
+Promoter sells Rs 1,024 crore worth of Ajanta Pharma shares in block deal to Kotak MF and ABSL MF
+Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011.
+Get multiple analysts' prediction on Ajanta Pharma"
+2026-06-29,THERMAX.NS,THERMAX LTD,Industrials,5125.1,6.14,8.99,3.6,68.0,5125.1,3990.0,0.0,-1.33,577335721984,80.41,3428.04,30.11,12.53,244.28,19.64,18.74,441.41,12.88,21.68,18.73,N/A,0.42,13.69,4.04,Revenue +30.11% QoQ,"Two Trades for Today: A real estate major for an upmove of 4.75%, a mid-cap capital goods stock for an almost 6% gain
+Thermax shares jump 8% as Q4 profit rises 19% YoY to Rs 244 crore; order book strengthens
+Announcement Under Regulation 30 Of SEBI (LODR) Regulations, 2015 - Incorporation
+Get multiple analysts' prediction on Thermax"
+2026-06-29,ABDL.NS,ALLIED BLEND N DISTILS L,Consumer Defensive,659.5,5.98,5.38,3.32,76.9,659.5,523.07,0.0,-0.87,184468832256,80.92,1006.89,0.39,3.38,40.97,-38.37,-28.7,182.05,18.08,1.46,-28.78,N/A,0.68,13.55,7.57,—,No recent news
+2026-06-29,MAHABANK.NS,BANK OF MAHARASHTRA,Financial Services,93.85,5.79,4.06,2.72,79.4,93.85,76.47,0.0,0.07,721852432384,10.29,4641.18,6.56,24.37,2044.88,13.67,44.86,N/A,N/A,2.66,44.57,N/A,N/A,22.66,1.76,Profit +44.86% YoY | EPS +44.57% YoY | ROE 22.66%,"Highest 1-year FD rates: Where will Rs 5 lakh grow the most in just one year?
+Eight public sector banks add 13,223 employees in FY26; SBI leads hiring spree
+Stock Radar: Bank of Maharashtra breaks out from multi-year swing high on monthly charts; time to buy?
+Get multiple analysts' prediction on Bank of Maharashtra"
+2026-06-29,FINCABLES.NS,FINOLEX CABLES LTD,Industrials,1179.2,5.62,1.28,1.91,70.8,1190.5,989.7,-0.95,-1.33,180346060800,25.27,1951.08,22.05,22.36,224.43,36.82,17.07,320.49,16.43,14.67,17.08,N/A,0.0,12.33,5.27,Revenue +22.05% QoQ | Profit +36.82% QoQ,"Some low beta stocks shine as market volatility rises
+Market Trading Guide: Buy Data Patterns and Finolex Cables on Friday for short term gains
+Two Trades for Today: A major AMC player for a 6.6% gain, an electric and telecom cable stock for about 6% upmove
+Get multiple analysts' prediction on Finolex Cables"
+2026-06-29,THANGAMAYL.NS,THANGAMAYIL JEWELLERY LTD,Consumer Cyclical,5875.1,5.02,7.71,2.18,63.7,5875.1,3546.9,0.0,0.0,182609985536,51.99,2838.21,18.2,150.81,142.66,36.15,196.04,214.4,7.55,45.89,161.33,N/A,0.64,27.93,10.28,Revenue +150.81% YoY | Revenue +18.2% QoQ | Profit +196.04% YoY | Profit +36.15% QoQ | EPS +161.33% YoY | ROE 27.93%,"Jewellery stocks take Rs 60,000 crore hit in 3 days on govt's double-blow. Is the worst behind?
+Announcement under Regulation 30 (LODR)-Credit Rating
+Announcement under Regulation 30 (LODR)-Newspaper Publication
+Unlock Stock Score, Analyst' Ratings & Recommendations
+Get multiple analysts' prediction on Thangamayil Jewellery"
