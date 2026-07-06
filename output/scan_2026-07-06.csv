@@ -1,19 +1,9 @@
 Date,Stock,Company,Sector,Close Price,Daily Gain %,Week Gain %,Volume Spike (x avg),RSI (14d),52W High,52W Low,Dist from 52W High %,Sector Weekly Gain %,Market Cap,P/E Ratio,Revenue (Cr),Revenue QoQ %,Revenue YoY %,Net Profit (Cr),Profit QoQ %,Profit YoY %,Operating Profit (Cr),EBITDA Margin %,EPS,EPS Growth YoY %,Operating CF (Cr),Debt to Equity,ROE %,ROCE %,Growth Flags,News (Last 2 Days)
-2026-07-03,SUMICHEM.NS,SUMITOMO CHEM INDIA LTD,Basic Materials,502.3,13.85,15.39,15.83,58.5,502.3,419.9,0.0,1.23,250072006656,45.96,683.74,20.38,6.52,111.23,47.07,27.92,166.4,24.34,2.23,28.16,N/A,0.02,17.24,8.96,Revenue +20.38% QoQ | Profit +47.07% QoQ,No recent news
-2026-07-03,ZENSARTECH.NS,ZENSAR TECHNOLOGIES  LTD,Technology,516.1,10.43,15.87,11.0,69.2,525.4,425.3,-1.77,0.4,116596211712,15.26,1450.4,1.38,9.41,210.6,5.41,31.79,300.6,20.73,9.29,31.96,N/A,0.02,N/A,N/A,Profit +31.79% YoY | EPS +31.96% YoY,"Ahead of Market: 10 things that will decide stock market action on Friday
+2026-07-06,DIACABS.NS,DIAMOND POWER INFRA LTD,Industrials,218.77,10.0,4.91,2.26,60.3,218.77,169.77,0.0,1.56,115285467136,72.92,695.87,46.78,108.46,60.61,21.91,690.9,84.72,12.17,1.15,666.67,N/A,N/A,N/A,5.99,Revenue +108.46% YoY | Revenue +46.78% QoQ | Profit +690.9% YoY | Profit +21.91% QoQ | EPS +666.67% YoY,No recent news
+2026-07-06,AEGISVOPAK.NS,AEGIS VOPAK TERMINALS LTD,Energy,280.63,9.01,20.56,4.14,75.8,280.63,184.26,0.0,-0.68,311002136576,98.14,243.45,23.27,22.23,68.64,11.59,17.55,128.16,52.64,0.62,17.64,245.75,0.84,10.79,4.11,Revenue +23.27% QoQ | EBITDA Margin 52.64%,No recent news
+2026-07-06,SPARC.NS,SUN PHARMA ADV.RES.CO.LTD,Healthcare,258.0,7.78,11.6,2.11,67.9,258.0,157.08,0.0,2.03,83726573568,5.39,1853.22,21831.6,6715.81,1761.34,2290.18,3046.86,1775.0,95.78,54.27,3049.46,N/A,0.42,276.89,79.22,Revenue +6715.81% YoY | Revenue +21831.6% QoQ | Profit +3046.86% YoY | Profit +2290.18% QoQ | EPS +3049.46% YoY | EBITDA Margin 95.78% | ROE 276.89%,No recent news
+2026-07-06,WELCORP.NS,WELSPUN CORP LIMITED,Basic Materials,1517.6,5.44,0.78,2.82,67.9,1521.9,1273.27,-0.28,1.38,400197091328,24.81,4312.56,-4.85,19.35,370.36,-18.17,-45.11,645.99,14.98,14.04,-45.43,N/A,0.25,18.92,6.91,—,"Stocks in news: Emcure Pharma, Dixon Technologies, Ajanta Pharma, Godrej Properties, Vedanta
+Explained: Why Gokaldas Exports, KPR Mill and other textile stocks soared up to 8% on Monday
 Announcement under Regulation 30 (LODR)-Newspaper Publication
-Intimation Of 63Rd Annual General Meeting (AGM) And Of Record Date
-Get multiple analysts' prediction on Zensar Tech"
-2026-07-03,AEGISVOPAK.NS,AEGIS VOPAK TERMINALS LTD,Energy,257.43,9.67,10.39,4.91,69.2,257.43,184.26,0.0,-1.16,286083416064,90.28,243.45,23.27,22.23,68.64,11.59,17.55,128.16,52.64,0.62,17.64,245.75,0.84,10.79,4.11,Revenue +23.27% QoQ | EBITDA Margin 52.64%,No recent news
-2026-07-03,ECLERX.NS,ECLERX SERVICES LTD,Technology,1488.8,7.01,6.0,4.42,59.2,1688.0,1324.9,-11.8,0.4,136657526784,19.95,1107.29,3.45,23.27,189.36,-1.36,24.45,313.35,28.3,20.47,26.44,N/A,0.15,29.0,16.0,EBITDA Margin 28.3% | ROE 29.0%,"Promoters Buying: 9 Nifty 500 stocks that saw stake hikes in March quarter
-D-Street gets a bit of momentum, don’t take it for long bounce
-Ahead of Market: 10 things that will decide stock market action on Friday
-Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
-Get multiple analysts' prediction on eClerx Services"
-2026-07-03,HCLTECH.NS,HCL TECHNOLOGIES LTD,Technology,1139.0,5.65,3.48,3.13,53.3,1243.5,1034.2,-8.4,0.4,3084573999104,18.57,33981.0,0.32,12.35,4488.0,10.11,4.2,7034.0,20.7,16.59,4.34,N/A,0.07,23.36,12.83,ROE 23.36%,"Sensex jumps 262 points, Nifty closes above 24,270. 7 key factors behind today's D-Street gains
-HCL Tech surges 6% on $1.14 billion AI deal; Mercedes-Benz likely client
-Will AI-led tech unwinding pause Rs 60,000 crore FII selloff in Indian IT stocks?
-Get multiple analysts' prediction on HCL Tech"
-2026-07-03,KAYNES.NS,KAYNES TECHNOLOGY IND LTD,Technology,3333.8,5.55,2.12,2.56,63.1,4507.5,3001.0,-26.04,0.4,222957273088,61.21,1242.64,54.55,87.94,91.22,19.02,37.26,235.56,18.96,13.32,28.2,N/A,0.19,9.57,5.06,Revenue +87.94% YoY | Revenue +54.55% QoQ | Profit +37.26% YoY,No recent news
-2026-07-03,M&MFIN.NS,M&M FIN. SERVICES LTD,Financial Services,334.05,5.05,1.67,2.57,73.5,339.1,275.7,-1.49,-0.41,465706057728,16.08,2962.86,4.4,27.19,938.02,13.82,2.23,N/A,N/A,6.75,-6.38,N/A,4.3,11.86,1.89,Revenue +27.19% YoY,No recent news
-2026-07-03,LODHA.NS,LODHA DEVELOPERS LIMITED,Real Estate,1057.0,5.05,11.56,3.1,78.2,1057.0,849.95,0.0,0.0,1059948855296,30.98,4713.5,0.88,15.44,1007.9,5.33,6.72,1541.9,32.71,10.09,6.43,N/A,0.42,15.71,5.26,EBITDA Margin 32.71%,No recent news
+Get multiple analysts' prediction on Welspun Corp"
+2026-07-06,SHAKTIPUMP.NS,SHAKTI PUMPS (I) LTD,Industrials,603.0,5.03,2.26,7.1,71.6,603.0,501.25,0.0,1.56,74408976384,28.7,857.77,55.68,28.93,38.33,20.91,-65.23,92.85,10.82,3.11,-66.09,N/A,0.3,17.97,9.79,Revenue +28.93% YoY | Revenue +55.68% QoQ | Profit +20.91% QoQ,No recent news
