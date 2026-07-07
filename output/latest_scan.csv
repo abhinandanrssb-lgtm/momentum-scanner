@@ -1,19 +1,27 @@
 Date,Stock,Company,Sector,Close Price,Daily Gain %,Week Gain %,Volume Spike (x avg),RSI (14d),52W High,52W Low,Dist from 52W High %,Sector Weekly Gain %,Market Cap,P/E Ratio,Revenue (Cr),Revenue QoQ %,Revenue YoY %,Net Profit (Cr),Profit QoQ %,Profit YoY %,Operating Profit (Cr),EBITDA Margin %,EPS,EPS Growth YoY %,Operating CF (Cr),Debt to Equity,ROE %,ROCE %,Growth Flags,News (Last 2 Days)
-2026-07-07,SHAREINDIA.NS,SHARE IND. SECURITIES LTD,Financial Services,162.95,18.57,21.19,17.97,79.0,162.95,126.96,0.0,1.31,35657621504,11.04,199.46,36.86,66.24,57.83,-34.69,-29.44,121.89,61.11,2.61,-28.69,N/A,0.46,12.97,7.75,Revenue +66.24% YoY | Revenue +36.86% QoQ | EBITDA Margin 61.11%,No recent news
-2026-07-07,NAUKRI.NS,INFO EDGE (I) LTD,Communication Services,1157.0,12.86,18.3,6.0,72.7,1157.0,925.95,0.0,0.0,749432209408,51.77,869.0,6.05,15.93,565.8,108.24,22.1,834.67,96.05,8.73,21.93,N/A,0.01,4.57,1.45,Profit +108.24% QoQ | EBITDA Margin 96.05%,No recent news
-2026-07-07,RITES.NS,RITES LIMITED,Industrials,239.6,10.85,17.16,8.44,66.9,239.6,199.79,0.0,0.93,115171885056,28.09,768.26,26.24,27.56,129.97,27.43,-2.06,203.15,26.44,2.7,-2.17,N/A,0.0,16.4,5.07,Revenue +27.56% YoY | Revenue +26.24% QoQ | Profit +27.43% QoQ | EBITDA Margin 26.44%,"RITES shares soar 9% after bagging a $36 million locomotive supply order from South Africa
-RITES shares rocket 16% on Rs 175 crore consultancy order from Ambedkar University
-India to resume train coach exports to Bangladesh, first shipment since Sheikh Hasina's ouster likely in July
-Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order
-Get multiple analysts' prediction on Rites"
-2026-07-07,PWL.NS,PHYSICSWALLAH LIMITED,Consumer Defensive,146.07,8.12,17.68,2.34,81.4,146.07,92.04,0.0,2.26,417715322880,N/A,918.8,-15.12,13.48,-74.89,-174.51,-181.71,61.42,6.68,-0.26,-181.13,966.71,0.23,-0.79,-0.6,—,"Young, loss-making startups keep OFS portion lean as investor scrutiny grows
+2026-07-07,SHAREINDIA.NS,SHARE IND. SECURITIES LTD,Financial Services,164.91,20.0,22.65,18.03,80.0,164.91,126.96,0.0,1.14,36086521856,11.17,199.46,36.86,66.24,57.83,-34.69,-29.44,121.89,61.11,2.61,-28.69,N/A,0.46,12.97,7.75,Revenue +66.24% YoY | Revenue +36.86% QoQ | EBITDA Margin 61.11%,No recent news
+2026-07-07,NAUKRI.NS,INFO EDGE (I) LTD,Communication Services,1159.45,13.1,18.55,6.86,73.0,1159.45,925.95,0.0,0.0,751019098112,51.88,869.0,6.05,15.93,565.8,108.24,22.1,834.67,96.05,8.73,21.93,N/A,0.01,4.57,1.45,Profit +108.24% QoQ | EBITDA Margin 96.05%,No recent news
+2026-07-07,PWL.NS,PHYSICSWALLAH LIMITED,Consumer Defensive,148.78,10.13,19.86,4.87,82.3,148.78,92.04,0.0,2.24,425465053184,N/A,918.8,-15.12,13.48,-74.89,-174.51,-181.71,61.42,6.68,-0.26,-181.13,966.71,0.23,-0.79,-0.6,—,"Young, loss-making startups keep OFS portion lean as investor scrutiny grows
 Physicswallah is ‘class’ apart, says DAM Capital after initiating with Buy rating. 3 reasons why
 Physicswallah shares rally 18%, snap 5-day losing streak. What's behind the surge?
 Announcement Under Regulation 30 (LODR) - Grant Of Stock Options
 Get multiple analysts' prediction on Physicswallah"
-2026-07-07,TARC.NS,TARC LIMITED,Real Estate,131.86,5.89,4.28,18.08,55.9,140.05,121.22,-5.85,0.0,38911401984,209.3,208.7,443.81,1666.3,1.62,107.71,101.55,1.05,0.5,0.05,101.41,N/A,1.78,1.81,-3.89,Revenue +1666.3% YoY | Revenue +443.81% QoQ | Profit +101.55% YoY | Profit +107.71% QoQ | EPS +101.41% YoY,"TARC Ltd income jumps to Rs 671.78 crore in FY26, company turns profitable
-Announcement under Regulation 30 (LODR)-Press Release / Media Release
-Announcement under Regulation 30 (LODR)-Investor Presentation
-Unlock Stock Score, Analyst' Ratings & Recommendations
-Get multiple analysts' prediction on TARC"
-2026-07-07,SWIGGY.NS,SWIGGY LIMITED,Consumer Cyclical,262.3,5.61,9.59,1.92,53.0,280.5,238.75,-6.49,0.0,683568136192,N/A,6383.0,3.82,44.74,-800.0,24.88,25.99,-432.0,-6.77,-3.34,27.39,N/A,0.14,-29.12,-13.75,Revenue +44.74% YoY | Profit +24.88% QoQ,No recent news
+2026-07-07,RITES.NS,RITES LIMITED,Industrials,235.43,8.92,15.12,9.44,65.1,235.43,199.79,0.0,0.73,113148542976,27.6,768.26,26.24,27.56,129.97,27.43,-2.06,203.15,26.44,2.7,-2.17,N/A,0.0,16.4,5.07,Revenue +27.56% YoY | Revenue +26.24% QoQ | Profit +27.43% QoQ | EBITDA Margin 26.44%,"RITES shares soar 9% after bagging a $36 million locomotive supply order from South Africa
+RITES shares rocket 16% on Rs 175 crore consultancy order from Ambedkar University
+India to resume train coach exports to Bangladesh, first shipment since Sheikh Hasina's ouster likely in July
+Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order
+Get multiple analysts' prediction on Rites"
+2026-07-07,SWIGGY.NS,SWIGGY LIMITED,Consumer Cyclical,266.27,7.21,11.25,2.65,56.7,280.5,238.75,-5.07,0.0,693914173440,N/A,6383.0,3.82,44.74,-800.0,24.88,25.99,-432.0,-6.77,-3.34,27.39,N/A,0.14,-29.12,-13.75,Revenue +44.74% YoY | Profit +24.88% QoQ,No recent news
+2026-07-07,WABAG.NS,VA TECH WABAG LTD,Industrials,2203.2,7.2,9.66,1.64,73.4,2203.2,1374.7,0.0,0.73,137380036608,31.81,1414.4,47.13,22.33,128.3,39.91,28.94,188.0,13.29,22.68,20.45,N/A,0.09,15.67,5.17,Revenue +47.13% QoQ | Profit +39.91% QoQ,"Water crisis ahead? PL Capital says water deficit creates Rs 20 lakh cr infra opportunity, picks 3 stocks
+A pail of water may unleash India's ₹20 lakh crore opportunity
+Forget power: The unquenchable AI thirst propelling water stocks up to 45%
+Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-07-07,NATCOPHARM.NS,NATCO PHARMA LTD.,Healthcare,984.15,5.6,5.67,3.21,91.0,1206.0,842.2,-18.4,1.39,176270983168,12.43,739.1,14.18,-39.47,267.9,76.83,-34.11,205.4,27.79,14.96,-34.1,N/A,0.08,16.85,7.8,Profit +76.83% QoQ | EBITDA Margin 27.79%,"Natco Pharma shares crash 15% after weak Q4 results; net profit tanks 34% YoY
+Announcement under Regulation 30 (LODR)-Change in Management
+Get multiple analysts' prediction on Natco Pharma"
+2026-07-07,LATENTVIEW.NS,LATENT VIEW ANALYTICS LTD,Industrials,301.05,5.3,11.17,5.38,48.6,326.5,264.25,-7.79,0.73,62294761472,31.52,288.62,3.82,24.31,52.75,5.21,-1.35,83.72,29.01,2.55,-1.54,N/A,0.02,12.17,6.29,EBITDA Margin 29.01%,"Two Trades for Today: An auto ancillary player for a rise of 7.2%, a mid-cap IT stock for an almost 7% gain
+Announcement under Regulation 30 (LODR)-Updates on Acquisition
+Announcement under Regulation 30 (LODR)-Newspaper Publication
+Get multiple analysts' prediction on Latent View Analytics"
+2026-07-07,AEGISVOPAK.NS,AEGIS VOPAK TERMINALS LTD,Energy,294.32,5.13,25.41,4.48,78.9,294.32,184.26,0.0,-1.33,326104088576,94.64,243.45,23.27,22.23,68.64,11.59,17.55,128.16,52.64,0.62,17.64,245.75,0.84,10.79,4.11,Revenue +23.27% QoQ | EBITDA Margin 52.64%,No recent news
