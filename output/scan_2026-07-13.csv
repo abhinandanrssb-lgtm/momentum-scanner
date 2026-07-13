@@ -1,45 +1,69 @@
 Date,Stock,Company,Sector,Close Price,Daily Gain %,Week Gain %,Volume Spike (x avg),RSI (14d),52W High,52W Low,Dist from 52W High %,Sector Weekly Gain %,Market Cap,P/E Ratio,Revenue (Cr),Revenue QoQ %,Revenue YoY %,Net Profit (Cr),Profit QoQ %,Profit YoY %,Operating Profit (Cr),EBITDA Margin %,EPS,EPS Growth YoY %,Operating CF (Cr),Debt to Equity,ROE %,ROCE %,Growth Flags,News (Last 2 Days)
 2026-07-13,JUSTDIAL.NS,JUSTDIAL LTD.,Communication Services,676.85,20.0,23.65,16.27,78.7,676.85,513.2,0.0,0.0,57565433856,11.43,307.24,0.51,6.93,100.0,-15.2,-23.84,97.29,31.67,11.76,-23.83,N/A,0.02,10.23,3.38,EBITDA Margin 31.67%,No recent news
-2026-07-13,NEWGEN.NS,NEWGEN SOFTWARE TECH LTD,Technology,584.55,13.02,21.77,4.76,86.5,584.55,435.9,0.0,6.62,82514788352,27.5,452.67,13.09,18.78,106.3,69.22,19.43,127.34,28.13,N/A,N/A,N/A,0.02,18.25,10.54,Profit +69.22% QoQ | EBITDA Margin 28.13%,"Dividends and stock splits: TCS, Dabur, MRF among nearly 100 stocks turning ex-date this week. Do you own any?
+2026-07-13,NEWGEN.NS,NEWGEN SOFTWARE TECH LTD,Technology,590.5,14.17,23.01,7.84,87.0,590.5,435.9,0.0,6.38,83354689536,27.78,452.67,13.09,18.78,106.3,69.22,19.43,127.34,28.13,N/A,N/A,N/A,0.02,18.25,10.54,Profit +69.22% QoQ | EBITDA Margin 28.13%,"Dividends and stock splits: TCS, Dabur, MRF among nearly 100 stocks turning ex-date this week. Do you own any?
 Newgen Software shares surge 15% as broad-based IT stocks rally
 Ahead of Market: 10 things that will decide stock market action on Wednesday
-Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018
+Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
 Get multiple analysts' prediction on Newgen Software"
-2026-07-13,PURVA.NS,PURAVANKARA LIMITED,Real Estate,249.1,11.18,12.35,16.18,80.3,249.1,203.39,0.0,0.0,59073986560,92.6,1501.92,40.46,177.33,113.24,88.92,231.95,340.13,22.65,4.77,231.77,N/A,3.15,3.23,2.58,Revenue +177.33% YoY | Revenue +40.46% QoQ | Profit +231.95% YoY | Profit +88.92% QoQ | EPS +231.77% YoY,No recent news
-2026-07-13,KALYANKJIL.NS,KALYAN JEWELLERS IND LTD,Consumer Cyclical,519.75,9.16,36.33,4.97,82.6,519.75,330.8,0.0,0.0,536766742528,39.83,10274.94,-0.66,66.22,409.5,-1.63,118.28,781.85,7.61,3.97,118.13,N/A,0.97,24.31,7.21,Revenue +66.22% YoY | Profit +118.28% YoY | EPS +118.13% YoY | ROE 24.31%,"Titan Company, Kalyan Jewellers, Senco Gold, other stocks fall up to 2% as Centre tightens duty-free gold imports
+2026-07-13,PURVA.NS,PURAVANKARA LIMITED,Real Estate,248.4,10.86,12.03,16.61,80.1,248.4,203.39,0.0,0.0,58907979776,92.34,1501.92,40.46,177.33,113.24,88.92,231.95,340.13,22.65,4.77,231.77,N/A,3.15,3.23,2.58,Revenue +177.33% YoY | Revenue +40.46% QoQ | Profit +231.95% YoY | Profit +88.92% QoQ | EPS +231.77% YoY,No recent news
+2026-07-13,SONATSOFTW.NS,SONATA SOFTWARE LTD,Technology,316.05,10.76,14.1,5.0,65.1,316.05,254.05,0.0,6.38,87480885248,18.87,2536.19,-17.67,-3.1,130.5,25.05,21.36,246.26,9.71,4.71,21.71,N/A,0.38,25.72,6.89,Profit +25.05% QoQ | ROE 25.72%,"Top-level rejig hits mid-cap ITs; Fintechs wary of RBI wallet rules
+Eye on AI push, IT midcaps rejig top leadership
+Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018
+Announcement under Regulation 30 (LODR)-Newspaper Publication
+Get multiple analysts' prediction on Sonata Software"
+2026-07-13,MAPMYINDIA.NS,C.E. INFO SYSTEMS LIMITED,Technology,1184.9,9.37,25.11,3.63,82.2,1184.9,809.75,0.0,6.38,64886378496,48.4,145.04,54.82,1.04,50.77,170.48,4.53,81.28,56.04,9.28,3.92,N/A,0.01,15.8,9.17,Revenue +54.82% QoQ | Profit +170.48% QoQ | EBITDA Margin 56.04%,No recent news
+2026-07-13,ASHAPURMIN.NS,ASHAPURA MINECHEM LTD,Basic Materials,703.5,8.84,9.0,3.95,52.4,740.6,627.35,-5.01,-0.95,67202609152,16.75,1968.63,104.97,254.55,110.73,31.49,28.03,180.58,9.17,11.59,27.64,N/A,0.88,29.05,7.84,Revenue +254.55% YoY | Revenue +104.97% QoQ | Profit +31.49% QoQ | ROE 29.05%,"Birla Capital, L&T Finance enter MSCI Index
+MSCI Rejig: Aditya Birla Capital, L&T Finance in, IRCTC out. Here’s everything you need to know
+17 multibaggers dampen silver's shine, deliver up to 13,052% returns over one year
+Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-07-13,KALYANKJIL.NS,KALYAN JEWELLERS IND LTD,Consumer Cyclical,510.65,7.25,33.94,5.84,81.9,510.65,330.8,0.0,0.0,527368781824,39.13,10274.94,-0.66,66.22,409.5,-1.63,118.28,781.85,7.61,3.97,118.13,N/A,0.97,24.31,7.21,Revenue +66.22% YoY | Profit +118.28% YoY | EPS +118.13% YoY | ROE 24.31%,"Titan Company, Kalyan Jewellers, Senco Gold, other stocks fall up to 2% as Centre tightens duty-free gold imports
 Federal Bank, Indian Bank, MCX & Nalco in MSCI Global
 Gold, housing plays take a hit as PM Modi's austerity pitch rattles consumer-facing stocks
 Get multiple analysts' prediction on Kalyan Jewellers Ind"
-2026-07-13,MAPMYINDIA.NS,C.E. INFO SYSTEMS LIMITED,Technology,1177.25,8.67,24.31,2.51,82.0,1177.25,809.75,0.0,6.62,64461979648,48.09,145.04,54.82,1.04,50.77,170.48,4.53,81.28,56.04,9.28,3.92,N/A,0.01,15.8,9.17,Revenue +54.82% QoQ | Profit +170.48% QoQ | EBITDA Margin 56.04%,No recent news
-2026-07-13,JSWINFRA.NS,JSW INFRASTRUCTURE LTD,Industrials,351.8,6.59,8.58,1.91,67.7,351.8,262.11,0.0,-1.45,814473936896,48.26,1522.34,12.79,28.81,418.29,16.48,26.85,700.69,46.03,2.01,26.42,N/A,0.59,13.95,6.7,Revenue +28.81% YoY | EBITDA Margin 46.03%,"JSW Infra raises ₹7,503 crore via QIP to fund capex plan
-Stocks in news: TCS, JSW Infra, Craftsman Automation, IIFL Finance, Transrail Lighting
-JSW Infrastructure launches Rs 7,500 crore QIP, to fund capex, repay debt
-Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018
-Get multiple analysts' prediction on JSW Infrastructure"
-2026-07-13,ZENSARTECH.NS,ZENSAR TECHNOLOGIES  LTD,Technology,540.35,6.32,13.06,2.91,66.7,540.35,425.3,0.0,6.62,122525786112,16.03,1450.4,1.38,9.41,210.6,5.41,31.79,300.6,20.73,9.29,31.96,N/A,0.02,N/A,N/A,Profit +31.79% YoY | EPS +31.96% YoY,"Ahead of Market: 10 things that will decide stock market action on Friday
-Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018
-Announcement under Regulation 30 (LODR)-Newspaper Publication
-In Compliance With Regulation 36(1)(B) Of The SEBI Listing Regulations, A Letter Providing Weblink Of Company'S Website Where The Integrated Annual Report For FY 2025-26 Has Been Uploaded And The Same Can Be Accessed By The Shareholders.
-Get multiple analysts' prediction on Zensar Tech"
-2026-07-13,PINELABS.NS,PINE LABS LIMITED,Technology,154.39,6.28,2.25,1.85,54.3,162.18,137.94,-4.8,6.62,178144149504,151.36,700.51,-5.88,16.43,59.36,40.03,204.75,163.62,23.36,0.52,205.37,-281.19,0.07,2.39,0.49,Profit +204.75% YoY | Profit +40.03% QoQ | EPS +205.37% YoY,"UPI and AI: 'Buy Rs 500 worth gold if price drops below Rs 16,000/g'; your wish is AI agent's command, and it can make UPI payments at your target price
+2026-07-13,AEGISVOPAK.NS,AEGIS VOPAK TERMINALS LTD,Energy,303.3,7.11,8.41,1.98,81.3,303.3,184.13,0.0,-0.66,336053829632,106.05,243.45,23.27,22.23,68.64,11.59,17.55,128.16,52.64,0.62,17.64,245.75,0.84,10.79,4.11,Revenue +23.27% QoQ | EBITDA Margin 52.64%,No recent news
+2026-07-13,PICCADIL.NS,PICCADILY AGRO INDUSTRI L,Consumer Defensive,718.9,7.01,7.37,3.33,85.7,718.9,562.75,0.0,-2.76,70861553664,50.48,334.6,21.57,32.86,45.23,-5.15,13.63,75.49,22.56,4.62,9.22,N/A,0.59,17.37,9.43,Revenue +32.86% YoY | Revenue +21.57% QoQ,No recent news
+2026-07-13,ETHOSLTD.NS,ETHOS LIMITED,Consumer Cyclical,2649.0,6.92,4.41,1.99,72.5,2649.0,2275.9,0.0,0.0,70881124352,73.24,414.01,-11.63,32.99,22.0,-27.69,-3.28,62.96,15.21,8.2,-11.73,N/A,0.19,7.27,4.1,Revenue +32.99% YoY,No recent news
+2026-07-13,PINELABS.NS,PINE LABS LIMITED,Technology,155.14,6.79,2.74,2.17,54.9,162.18,137.94,-4.34,6.38,179009536000,152.1,700.51,-5.88,16.43,59.36,40.03,204.75,163.62,23.36,0.52,205.37,-281.19,0.07,2.39,0.49,Profit +204.75% YoY | Profit +40.03% QoQ | EPS +205.37% YoY,"UPI and AI: 'Buy Rs 500 worth gold if price drops below Rs 16,000/g'; your wish is AI agent's command, and it can make UPI payments at your target price
 Listed digital payment majors finally turn a corner in FY26
 Pine Labs shares rise over 4% after Q4 results. Why Morgan Stanley forecasts 67% upside
 Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018
 Get multiple analysts' prediction on Pine Labs"
-2026-07-13,HAPPSTMNDS.NS,HAPPIEST MINDS TECHNO LTD,Technology,409.6,6.03,17.92,4.44,79.6,409.6,336.9,0.0,6.62,61547290624,29.05,604.08,2.81,13.8,61.17,51.79,22.1,121.21,20.07,4.06,21.92,N/A,0.88,13.03,5.64,Profit +51.79% QoQ,No recent news
-2026-07-13,TATATECH.NS,TATA TECHNOLOGIES LIMITED,Technology,759.7,5.73,6.77,1.52,50.1,767.81,611.07,-1.06,6.62,308477591552,56.53,1572.22,15.12,19.34,204.17,2974.85,21.07,289.74,18.43,5.03,20.91,N/A,0.24,14.57,5.67,Revenue +15.12% QoQ | Profit +2974.85% QoQ,"Indian ER&D firms brace for a bumpy first quarter on EU auto speedbump
+2026-07-13,ROUTE.NS,ROUTE MOBILE LIMITED,Communication Services,582.85,6.7,6.08,8.48,68.9,582.85,500.8,0.0,0.0,36721344512,15.35,1130.9,2.15,-4.47,109.32,11.89,32.54,164.08,14.51,17.35,32.44,N/A,0.01,9.72,7.3,Profit +32.54% YoY | EPS +32.44% YoY,"From red to black: 50 companies turn losses into profit in Q3. Do you own them?
+Power Grid shares to approach ex-date for Rs 4.5 per share interim dividend. Last chance to buy
+Last day to buy shares of 13 companies to qualify for dividends as Aug 27 record date approaches
+Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-07-13,JSWINFRA.NS,JSW INFRASTRUCTURE LTD,Industrials,351.2,6.41,8.4,2.24,67.6,351.2,262.11,0.0,-1.46,813084901376,48.18,1522.34,12.79,28.81,418.29,16.48,26.85,700.69,46.03,2.01,26.42,N/A,0.59,13.95,6.7,Revenue +28.81% YoY | EBITDA Margin 46.03%,"JSW Infra raises ₹7,503 crore via QIP to fund capex plan
+Stocks in news: TCS, JSW Infra, Craftsman Automation, IIFL Finance, Transrail Lighting
+JSW Infrastructure launches Rs 7,500 crore QIP, to fund capex, repay debt
+Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018
+Get multiple analysts' prediction on JSW Infrastructure"
+2026-07-13,ZENSARTECH.NS,ZENSAR TECHNOLOGIES  LTD,Technology,540.2,6.29,13.02,3.27,66.7,540.2,425.3,0.0,6.38,122491781120,16.03,1450.4,1.38,9.41,210.6,5.41,31.79,300.6,20.73,9.29,31.96,N/A,0.02,N/A,N/A,Profit +31.79% YoY | EPS +31.96% YoY,"Ahead of Market: 10 things that will decide stock market action on Friday
+Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018
+Announcement under Regulation 30 (LODR)-Newspaper Publication
+In Compliance With Regulation 36(1)(B) Of The SEBI Listing Regulations, A Letter Providing Weblink Of Company'S Website Where The Integrated Annual Report For FY 2025-26 Has Been Uploaded And The Same Can Be Accessed By The Shareholders.
+Get multiple analysts' prediction on Zensar Tech"
+2026-07-13,TATATECH.NS,TATA TECHNOLOGIES LIMITED,Technology,760.8,5.88,6.92,2.08,50.4,767.81,611.07,-0.91,6.38,308924219392,56.61,1572.22,15.12,19.34,204.17,2974.85,21.07,289.74,18.43,5.03,20.91,N/A,0.24,14.57,5.67,Revenue +15.12% QoQ | Profit +2974.85% QoQ,"Indian ER&D firms brace for a bumpy first quarter on EU auto speedbump
 Tata Technologies expands partnership with Tenneco in $100 million deal
 Accumulate quality stocks in current market phase: Deven Choksey
 Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018
 Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation"
-2026-07-13,TCS.NS,TATA CONSULTANCY SERV LT,Technology,2184.8,5.6,6.18,2.04,61.4,2446.9,1982.6,-10.71,6.62,7903349571584,15.88,72275.0,2.23,12.09,13349.0,-2.69,9.2,20124.0,27.84,36.9,9.2,11919.0,0.1,47.74,24.48,EBITDA Margin 27.84% | ROE 47.74%,No recent news
-2026-07-13,SFL.NS,SHEELA FOAM LIMITED,Consumer Cyclical,806.3,5.36,7.34,3.82,71.6,806.3,539.67,0.0,0.0,88050630656,55.15,1050.06,-2.27,8.58,91.28,75.1,446.26,134.96,12.85,8.36,446.41,N/A,0.28,5.12,2.83,Profit +446.26% YoY | Profit +75.1% QoQ | EPS +446.41% YoY,"Long-term investing with a different perspective: Stocks of 5 companies with strong brands which have stood the test of time
+2026-07-13,LXCHEM.NS,LAXMI ORGANIC INDUS LTD,Basic Materials,164.2,5.59,4.06,1.66,52.7,164.55,147.78,-0.21,-0.95,45518135296,57.41,735.31,2.31,-6.49,21.55,-15.17,-26.47,56.34,7.66,-0.77,-172.64,N/A,0.27,4.08,1.82,—,No recent news
+2026-07-13,HEG.NS,HEG LTD,Industrials,575.4,5.57,5.94,3.04,66.1,624.6,512.0,-7.88,-1.46,111039275008,32.88,603.21,-8.09,12.42,-118.8,-157.4,-72.6,112.46,18.64,-5.9,-54.45,N/A,0.17,7.34,3.3,—,"HEG, Graphite India shares jump up to 14% despite broader market weakness: Here’s why
+Siddhartha Bhaiya’s global playbook: Top sectors in US, China and Europe
+If not a fund manager, Siddhartha Bhaiya would have been a ""bean counter"". Ace investor's motto, key learnings
+Announcement under Regulation 30 (LODR)-Investor Presentation"
+2026-07-13,SHYAMMETL.NS,SHYAM METALICS AND ENGY L,Basic Materials,1029.35,5.56,7.39,3.79,67.7,1029.35,865.2,0.0,-0.95,286495440896,27.14,5240.36,18.52,26.34,319.09,61.78,45.87,757.79,14.46,11.2,41.41,N/A,0.08,8.97,5.01,Revenue +26.34% YoY | Revenue +18.52% QoQ | Profit +45.87% YoY | Profit +61.78% QoQ | EPS +41.41% YoY,No recent news
+2026-07-13,HAPPSTMNDS.NS,HAPPIEST MINDS TECHNO LTD,Technology,407.55,5.5,17.33,6.26,79.2,407.55,336.9,0.0,6.38,61239250944,28.9,604.08,2.81,13.8,61.17,51.79,22.1,121.21,20.07,4.06,21.92,N/A,0.88,13.03,5.64,Profit +51.79% QoQ,No recent news
+2026-07-13,TCS.NS,TATA CONSULTANCY SERV LT,Technology,2181.5,5.44,6.02,2.42,61.2,2446.9,1982.6,-10.85,6.38,7892857520128,15.86,72275.0,2.23,12.09,13349.0,-2.69,9.2,20124.0,27.84,36.9,9.2,11919.0,0.1,47.74,24.48,EBITDA Margin 27.84% | ROE 47.74%,No recent news
+2026-07-13,SFL.NS,SHEELA FOAM LIMITED,Consumer Cyclical,806.95,5.44,7.43,4.32,71.7,806.95,539.67,0.0,0.0,88121614336,55.19,1050.06,-2.27,8.58,91.28,75.1,446.26,134.96,12.85,8.36,446.41,N/A,0.28,5.12,2.83,Profit +446.26% YoY | Profit +75.1% QoQ | EPS +446.41% YoY,"Long-term investing with a different perspective: Stocks of 5 companies with strong brands which have stood the test of time
 Better placed than many: 4 stocks from different sectors, common thread, MOAT of strong brands, with an upside potential of up to 43 %
 Buy Sheela Foam, target price Rs 1150: ICICI Securities
 Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018
 Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-07-13,SHYAMMETL.NS,SHYAM METALICS AND ENGY L,Basic Materials,1027.25,5.35,7.17,2.6,67.3,1027.25,865.2,0.0,-1.14,285910958080,27.08,5240.36,18.52,26.34,319.09,61.78,45.87,757.79,14.46,11.2,41.41,N/A,0.08,8.97,5.01,Revenue +26.34% YoY | Revenue +18.52% QoQ | Profit +45.87% YoY | Profit +61.78% QoQ | EPS +41.41% YoY,No recent news
-2026-07-13,HEG.NS,HEG LTD,Industrials,574.0,5.31,5.68,2.43,65.8,624.6,512.0,-8.1,-1.45,110769102848,32.8,603.21,-8.09,12.42,-118.8,-157.4,-72.6,112.46,18.64,-5.9,-54.45,N/A,0.17,7.34,3.3,—,"HEG, Graphite India shares jump up to 14% despite broader market weakness: Here’s why
-Siddhartha Bhaiya’s global playbook: Top sectors in US, China and Europe
-If not a fund manager, Siddhartha Bhaiya would have been a ""bean counter"". Ace investor's motto, key learnings
-Announcement under Regulation 30 (LODR)-Investor Presentation"
+2026-07-13,SENCO.NS,SENCO GOLD LIMITED,Consumer Cyclical,381.0,5.21,16.69,3.63,76.8,381.0,323.55,0.0,0.0,62422528000,10.87,1996.66,-34.98,44.93,156.88,-40.58,151.29,287.71,14.41,9.58,150.79,N/A,1.07,25.62,9.39,Revenue +44.93% YoY | Profit +151.29% YoY | EPS +150.79% YoY | ROE 25.62%,"Jewellery companies put shine on D-St with strong biz updates
+Senco Gold shares soar 6% as Q1 business update highlights 60% revenue growth
+Senco Gold Q4 Results: Profit skyrockets 151% to Rs 157 crore
+Unlock Stock Score, Analyst' Ratings & Recommendations
+Get multiple analysts' prediction on Senco Gold"
