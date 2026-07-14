@@ -1,35 +1,15 @@
 Date,Stock,Company,Sector,Close Price,Daily Gain %,Week Gain %,Volume Spike (x avg),RSI (14d),52W High,52W Low,Dist from 52W High %,Sector Weekly Gain %,Market Cap,P/E Ratio,Revenue (Cr),Revenue QoQ %,Revenue YoY %,Net Profit (Cr),Profit QoQ %,Profit YoY %,Operating Profit (Cr),EBITDA Margin %,EPS,EPS Growth YoY %,Operating CF (Cr),Debt to Equity,ROE %,ROCE %,Growth Flags,News (Last 2 Days)
-2026-07-14,JUSTDIAL.NS,JUSTDIAL LTD.,Communication Services,761.15,34.94,39.05,17.76,84.5,761.15,513.2,0.0,0.0,64492679168,12.8,327.47,6.58,13.23,166.22,66.22,5.47,97.63,29.81,19.54,5.45,N/A,0.02,10.23,3.38,Profit +66.22% QoQ | EBITDA Margin 29.81%,No recent news
-2026-07-14,CARTRADE.NS,CARTRADE TECH LIMITED,Consumer Cyclical,3033.0,7.94,8.66,2.06,72.7,3033.0,1700.4,0.0,0.0,134430883840,62.65,203.14,-3.11,15.28,64.61,15.66,51.33,79.39,39.08,13.5,50.84,N/A,0.05,9.85,4.78,Profit +51.33% YoY | EPS +50.84% YoY | EBITDA Margin 39.08%,"UBS initiates coverage on CarTrade Tech with Buy rating, sees 42% upside. 4 reasons why
-CarTrade Tech shares rocket 6% as Nomura raises target price. Here are 3 reasons why
-CarTrade Tech shares surge 12% in two days after launching new used-car platform
-Announcement under Regulation 30 (LODR)-Investor Presentation
-Get multiple analysts' prediction on CarTrade Tech"
-2026-07-14,STYL.NS,SESHAASAI TECHNOLOGIES L,Technology,386.1,7.4,16.54,2.79,86.6,386.1,250.72,0.0,3.08,59512180736,23.79,404.18,8.14,19.08,81.79,27.62,52.31,124.5,30.8,5.06,41.08,N/A,0.06,23.24,14.82,Profit +52.31% YoY | Profit +27.62% QoQ | EPS +41.08% YoY | EBITDA Margin 30.8% | ROE 23.24%,No recent news
-2026-07-14,NEWGEN.NS,NEWGEN SOFTWARE TECH LTD,Technology,554.85,7.28,15.58,2.17,83.3,554.85,435.9,0.0,3.08,83354689536,27.78,452.67,13.09,18.78,106.3,69.22,19.43,127.34,28.13,N/A,N/A,N/A,0.02,18.25,10.54,Profit +69.22% QoQ | EBITDA Margin 28.13%,"Dividends and stock splits: TCS, Dabur, MRF among nearly 100 stocks turning ex-date this week. Do you own any?
-Newgen Software shares surge 15% as broad-based IT stocks rally
-Ahead of Market: 10 things that will decide stock market action on Wednesday
-Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
-Get multiple analysts' prediction on Newgen Software"
-2026-07-14,NUVOCO.NS,NUVOCO VISTAS CORP LTD,Basic Materials,341.35,6.61,7.33,15.93,70.8,348.65,301.3,-2.09,-0.34,113057775616,31.5,3306.75,22.41,37.25,140.81,187.07,329.44,590.19,17.85,3.94,329.07,N/A,0.48,3.74,3.16,Revenue +37.25% YoY | Revenue +22.41% QoQ | Profit +329.44% YoY | Profit +187.07% QoQ | EPS +329.07% YoY,"Cement companies expect costs, muted demand to dent growth
+2026-07-14,JUSTDIAL.NS,JUSTDIAL LTD.,Communication Services,764.95,13.02,37.84,13.02,84.4,764.95,513.2,0.0,0.0,65058258944,12.91,327.47,6.58,13.23,166.22,66.22,5.47,97.63,29.81,19.54,5.45,N/A,0.02,10.23,3.38,Profit +66.22% QoQ | EBITDA Margin 29.81%,No recent news
+2026-07-14,NUVOCO.NS,NUVOCO VISTAS CORP LTD,Basic Materials,340.35,7.52,7.93,15.96,66.2,348.65,301.3,-2.38,-0.5,121558097920,33.87,3306.75,22.41,37.25,140.81,187.07,329.44,590.19,17.85,3.94,329.07,N/A,0.48,3.74,3.16,Revenue +37.25% YoY | Revenue +22.41% QoQ | Profit +329.44% YoY | Profit +187.07% QoQ | EPS +329.07% YoY,"Cement companies expect costs, muted demand to dent growth
 Nuvoco Vistas reports strong Q2 performance with 62% EBITDA surge
 Weekly wrap: 8 BSE 500 stocks deliver double-digit returns. Infosys joins top Sensex gainers
 Announcement under Regulation 30 (LODR)-Investor Presentation
 Get multiple analysts' prediction on Nuvoco Vistas Corp"
-2026-07-14,BIOCON.NS,BIOCON LIMITED.,Healthcare,437.7,6.51,7.57,6.24,58.5,437.7,397.05,0.0,1.02,718891712512,160.55,4484.3,7.46,2.9,125.9,-12.45,-63.45,1072.8,23.92,0.79,-72.57,N/A,0.42,1.15,1.53,—,"Biocon shares jump 6% as Mylan likely exits drugmaker after Rs 3,481 crore stake sale
+2026-07-14,CONCOR.NS,CONTAINER CORP OF IND LTD,Industrials,495.45,6.79,4.8,5.56,59.9,522.95,440.25,-5.26,-1.9,377343606784,30.25,2263.3,-1.92,-1.07,262.65,-21.34,-12.39,363.18,16.05,3.46,-12.18,N/A,0.07,9.76,5.62,—,No recent news
+2026-07-14,BIOCON.NS,BIOCON LIMITED.,Healthcare,437.2,6.39,7.45,6.83,58.3,437.2,397.05,0.0,0.84,711890042880,158.98,4484.3,7.46,2.9,125.9,-12.45,-63.45,1072.8,23.92,0.79,-72.57,N/A,0.42,1.15,1.53,—,"Biocon shares jump 6% as Mylan likely exits drugmaker after Rs 3,481 crore stake sale
 Stocks in news: Tata Elxsi, HCL Tech, ICICI Pru AMC, Biocon, SpiceJet
 Kiran Mazumdar-Shaw warns against long-term GLP-1 use, urges caution over weight-loss drugs, says 'for those who are not diabetic or clinically obese...'
 Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018
 Get multiple analysts' prediction on Biocon"
-2026-07-14,SAATVIKGL.NS,SAATVIK GREEN ENERGY LTD,Technology,478.0,6.41,10.25,4.24,54.8,487.65,420.0,-1.98,3.08,57101926400,15.09,1607.66,27.89,210.25,60.61,-38.61,49.83,116.59,7.25,5.06,40.2,-38.66,0.69,42.05,13.6,Revenue +210.25% YoY | Revenue +27.89% QoQ | Profit +49.83% YoY | EPS +40.2% YoY | ROE 42.05%,"Saatvik Green Energy bags Rs 171-cr solar modules supply order
-Compliances-Reg.24(A)-Annual Secretarial Compliance
-Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order
-Unlock Stock Score, Analyst' Ratings & Recommendations
-Get multiple analysts' prediction on Saatvik Green Energy"
-2026-07-14,CONCOR.NS,CONTAINER CORP OF IND LTD,Unknown,490.05,5.63,3.66,3.86,57.8,522.95,440.25,-6.29,0.0,353352646656,28.32,2263.3,-1.92,-1.07,262.65,-21.34,-12.39,363.18,16.05,3.46,-12.18,N/A,N/A,N/A,N/A,—,No recent news
-2026-07-14,GALLANTT.NS,GALLANTT ISPAT LIMITED,Basic Materials,705.0,5.6,5.45,1.58,40.4,768.55,621.05,-8.27,-0.34,169125888000,34.89,1204.81,12.22,7.73,122.83,22.33,8.06,208.91,17.34,5.09,8.07,N/A,N/A,N/A,N/A,Profit +22.33% QoQ,No recent news
-2026-07-14,BALRAMCHIN.NS,BALRAMPUR CHINI MILLS LTD,Consumer Defensive,595.55,5.05,4.3,1.67,73.6,595.55,514.8,0.0,-3.21,126042005504,32.09,1603.99,10.31,6.67,159.57,40.68,-30.36,306.43,19.1,7.9,-30.4,N/A,0.77,9.54,4.54,Profit +40.68% QoQ,"Ethanol ecosystem: Judging fear by noise is not evidence; 15 stocks from the ecosystem
-Dwarikesh Sugar, Dhampur Sugar and other sugar stocks gain up to 4% after excise duty cut on ethanol-blended petrol
-Explained: Why Balrampur Chini, Dhampur Sugar, other stocks tumbled up to 4% on Thursday
-Announcement under Regulation 30 (LODR)-Press Release / Media Release
-Get multiple analysts' prediction on Balrampur Chini"
+2026-07-14,STYL.NS,SESHAASAI TECHNOLOGIES L,Technology,390.35,6.13,12.25,3.45,88.4,390.35,250.72,0.0,2.85,63160905728,25.25,404.18,8.14,19.08,81.79,27.62,52.31,124.5,30.8,5.06,41.08,N/A,0.06,23.24,14.82,Profit +52.31% YoY | Profit +27.62% QoQ | EPS +41.08% YoY | EBITDA Margin 30.8% | ROE 23.24%,No recent news
+2026-07-14,THYROCARE.NS,THYROCARE TECH LTD,Healthcare,539.55,5.76,1.42,1.79,45.8,558.4,446.39,-3.38,0.84,85875687424,52.85,223.95,14.53,19.66,47.12,62.43,117.14,79.98,35.71,2.99,115.11,N/A,0.09,28.75,17.69,Profit +117.14% YoY | Profit +62.43% QoQ | EPS +115.11% YoY | EBITDA Margin 35.71% | ROE 28.75%,No recent news
