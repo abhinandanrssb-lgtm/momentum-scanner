@@ -1,9 +1,9 @@
 Date,Stock,Company,Sector,Close Price,Daily Gain %,Week Gain %,Volume Spike (x avg),RSI (14d),52W High,52W Low,Dist from 52W High %,Sector Weekly Gain %,Market Cap,P/E Ratio,Revenue (Cr),Revenue QoQ %,Revenue YoY %,Net Profit (Cr),Profit QoQ %,Profit YoY %,Operating Profit (Cr),EBITDA Margin %,EPS,EPS Growth YoY %,Operating CF (Cr),Debt to Equity,ROE %,ROCE %,Growth Flags,News (Last 2 Days)
-2026-07-21,BLUESTONE.NS,BLUESTONE JEWEL LFSTL LTD,Consumer Cyclical,728.65,19.37,19.98,14.87,82.1,728.65,461.35,0.0,0.0,111047557120,192.76,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,No recent news
+2026-07-21,BLUESTONE.NS,BLUESTONE JEWEL LFSTL LTD,Consumer Cyclical,728.65,19.37,19.98,14.87,82.1,728.65,461.35,0.0,0.0,111047557120,192.76,736.85,8.13,59.73,6.96,-77.68,113.57,121.77,16.53,0.46,113.57,N/A,1.1,N/A,N/A,Revenue +59.73% YoY | Profit +113.57% YoY | EPS +113.57% YoY,No recent news
 2026-07-21,WESTLIFE.NS,WESTLIFE FOODWORLD LTD,Consumer Cyclical,512.55,13.87,6.31,12.55,53.2,512.55,419.85,0.0,0.0,79555837952,247.61,642.4,-3.72,-1.21,2.38,132.82,-66.13,93.17,14.5,0.15,-66.67,N/A,2.92,5.29,2.52,Profit +132.82% QoQ,No recent news
-2026-07-21,KARURVYSYA.NS,KARUR VYSYA BANK LTD,Financial Services,340.3,13.06,13.6,12.19,67.6,340.3,272.7,0.0,0.65,328940421120,11.99,1864.54,-5.57,16.64,755.7,4.24,47.21,N/A,N/A,7.82,47.27,N/A,N/A,19.28,1.96,Profit +47.21% YoY | EPS +47.27% YoY,"Karur Vysya Bank shares soar 11% after stellar Q1 results. What investors should know
+2026-07-21,KARURVYSYA.NS,KARUR VYSYA BANK LTD,Financial Services,340.3,13.06,13.6,12.19,67.6,340.3,272.7,0.0,0.65,328940421120,11.99,1864.54,-5.57,16.64,755.7,4.24,47.21,N/A,N/A,7.82,47.27,N/A,N/A,19.28,1.96,Profit +47.21% YoY | EPS +47.27% YoY,"Ahead of Market: 10 things that will decide stock market action on Wednesday
+Karur Vysya Bank shares soar 11% after stellar Q1 results. What investors should know
 Karur Vysya Bank net profit surges 45% to Rs 756 crore in Q1, asset quality sees slight slip
-Shapoorji secures commitments for Rs 21,350 cr from investors including Mercury Finance, Deutsche Bank
 Get multiple analysts' prediction on Karur Vysya Bank"
 2026-07-21,DIACABS.NS,DIAMOND POWER INFRA LTD,Industrials,269.07,10.0,19.6,2.85,75.2,269.07,182.99,0.0,0.74,141792116736,89.39,695.87,46.78,108.46,60.61,21.91,690.9,84.72,12.17,1.15,666.67,N/A,N/A,N/A,5.99,Revenue +108.46% YoY | Revenue +46.78% QoQ | Profit +690.9% YoY | Profit +21.91% QoQ | EPS +666.67% YoY,No recent news
 2026-07-21,M&MFIN.NS,M&M FIN. SERVICES LTD,Financial Services,349.85,8.46,7.61,3.8,78.4,349.85,269.63,0.0,0.65,486132416512,16.76,2962.86,4.4,27.19,938.02,13.82,2.23,N/A,N/A,6.75,-6.38,N/A,4.3,11.86,1.89,Revenue +27.19% YoY,No recent news
@@ -13,9 +13,8 @@ For investors looking beyond the short-term horizon: 5 mid-cap stocks from diffe
 Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
 Get multiple analysts' prediction on Gujarat Fluorochem"
 2026-07-21,GABRIEL.NS,GABRIEL INDIA LTD,Consumer Cyclical,1488.5,6.47,19.21,3.76,76.9,1488.5,981.0,0.0,0.0,263806877696,84.53,1209.59,2.62,12.71,66.61,21.85,3.49,122.11,10.09,4.63,3.35,N/A,0.11,19.58,9.48,Profit +21.85% QoQ,"Two Trades for Today: A private sector bank for a 8.7% rise, a mid-cap auto ancillary stock for a gain of almost 6%
+Announcement under Regulation 30 (LODR)-Amendments to Memorandum & Articles of Association
 Announcement under Regulation 30 (LODR)-Preferential Issue
-Announcement under Regulation 30 (LODR)-Issue of Securities
-Announcement under Regulation 30 (LODR)-Acquisition
 Get multiple analysts' prediction on Gabriel India"
 2026-07-21,DATAPATTNS.NS,DATA PATTERNS INDIA LTD,Industrials,4243.9,6.34,0.7,1.9,39.5,4866.2,3839.9,-12.79,0.74,237590364160,87.88,344.85,99.19,-12.96,138.38,137.36,21.3,198.5,57.56,24.71,21.25,N/A,0.0,16.73,11.64,Revenue +99.19% QoQ | Profit +137.36% QoQ | EBITDA Margin 57.56%,"Two Trades for Today: A defence electronics player for an 8.35% rise, a mid-cap transmission equipment stock for a 7% gain
 Union Budget FY27: Defence budget set to soar, Jefferies says betting on HAL, BEL and Data Patterns
@@ -24,7 +23,7 @@ Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018
 Get multiple analysts' prediction on Data Patterns (India)"
 2026-07-21,SHRIPISTON.NS,SPR AUTO TECHNOLOGIES LTD,Consumer Cyclical,4475.3,5.7,6.98,1.55,55.2,4475.3,3234.82,0.0,0.0,197136171008,35.71,1455.8,42.28,71.69,156.3,27.07,30.47,292.8,20.11,35.47,30.31,N/A,N/A,N/A,N/A,Revenue +71.69% YoY | Revenue +42.28% QoQ | Profit +30.47% YoY | Profit +27.07% QoQ | EPS +30.31% YoY,No recent news
 2026-07-21,JSFB.NS,JANA SMALL FIN BANK LTD,Financial Services,561.6,5.64,14.62,2.47,75.9,561.6,441.2,0.0,0.65,59369250816,15.63,1009.38,0.82,23.8,155.23,11.02,25.72,N/A,N/A,14.74,25.34,N/A,N/A,N/A,N/A,—,No recent news
-2026-07-21,TVSMOTOR.NS,TVS MOTOR COMPANY  LTD,Consumer Cyclical,3792.0,5.62,5.09,2.2,69.4,3792.0,3287.4,0.0,0.0,1802057940992,59.67,15052.73,2.01,36.41,771.52,-8.29,37.4,2178.49,14.47,16.24,36.36,N/A,3.06,31.62,8.49,Revenue +36.41% YoY | Profit +37.4% YoY | EPS +36.36% YoY | ROE 31.62%,"June auto sales data: Commercial vehicle turns consensus player; brokerages list stocks to buy
+2026-07-21,TVSMOTOR.NS,TVS MOTOR COMPANY  LTD,Consumer Cyclical,3792.0,5.62,5.09,2.2,69.4,3792.0,3287.4,0.0,0.0,1802057940992,59.67,16295.52,8.26,41.18,1019.43,32.13,59.95,2351.76,14.43,21.46,57.33,N/A,3.06,31.62,8.49,Revenue +41.18% YoY | Profit +59.95% YoY | Profit +32.13% QoQ | EPS +57.33% YoY | ROE 31.62%,"June auto sales data: Commercial vehicle turns consensus player; brokerages list stocks to buy
 Announcement under Regulation 30 (LODR)-Credit Rating
 Announcement under Regulation 30 (LODR)-Press Release / Media Release
 Board Meeting Outcome for Board Meeting Outcome For Unaudited Financial Results For The Quarter Ended 30Th June 2026 & Raising Of Funds Through Issuance Of Debt Instruments And/Or Commercial Papers And/Or Availing Of Other Permissible Borrowings
@@ -34,9 +33,9 @@ Dolly Khanna portfolio rejig: Ace investor likely exits 2 stocks, pares holding 
 How Ashish Kacholia, Mukul Agrawal, Madhu Kela, Dolly Khanna reshuffled portfolios amid Iran war?
 D-Street superstars go crash hunting: What Ashish Kacholia, Mukul Agrawal and others bought in March quarter?
 Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-07-21,LOTUSDEV.NS,SRI LOTUS DEVLPRS N RTY L,Industrials,148.16,5.09,3.94,8.14,47.9,152.32,129.27,-2.73,0.74,72409309184,29.46,307.5,37.26,164.57,95.58,37.03,86.65,135.81,44.17,1.96,87.06,N/A,0.07,17.06,9.77,Revenue +164.57% YoY | Revenue +37.26% QoQ | Profit +86.65% YoY | Profit +37.03% QoQ | EPS +87.06% YoY | EBITDA Margin 44.17%,No recent news
-2026-07-21,JPPOWER.NS,JAIPRAKASH POWER VEN. LTD,Utilities,17.75,5.09,6.54,4.02,46.5,22.87,16.66,-22.39,0.0,121648898048,25.36,1386.43,19.98,21.6,-13.37,-454.64,-110.55,205.71,14.84,-0.02,-110.93,N/A,0.27,N/A,N/A,Revenue +19.98% QoQ,"The accounting trick used by companies to make a weak balance sheet look strong
+2026-07-21,JPPOWER.NS,JAIPRAKASH POWER VEN. LTD,Utilities,17.75,5.09,6.54,4.02,46.5,22.87,16.66,-22.39,0.0,121648898048,25.36,1775.7,28.08,32.42,468.84,3606.66,201.18,789.81,44.48,0.52,246.67,N/A,0.27,N/A,N/A,Revenue +32.42% YoY | Revenue +28.08% QoQ | Profit +201.18% YoY | Profit +3606.66% QoQ | EPS +246.67% YoY | EBITDA Margin 44.48%,"The accounting trick used by companies to make a weak balance sheet look strong
 Ahead of Market: 10 things that will decide stock market action on Tuesday
 JP Power shares surge 28% in 2 days, Adani Power hits fresh 52-week high amid optimism around stake acquisition
 JP Power shares soar 20% on optimism around Adani Powerâs 24% stake purchase
 Announcement under Regulation 30 (LODR)-Newspaper Publication"
+2026-07-21,LOTUSDEV.NS,SRI LOTUS DEVLPRS N RTY L,Industrials,148.16,5.09,3.94,8.14,47.9,152.32,129.27,-2.73,0.74,72409309184,29.46,307.5,37.26,164.57,95.58,37.03,86.65,135.81,44.17,1.96,87.06,N/A,0.07,17.06,9.77,Revenue +164.57% YoY | Revenue +37.26% QoQ | Profit +86.65% YoY | Profit +37.03% QoQ | EPS +87.06% YoY | EBITDA Margin 44.17%,No recent news
