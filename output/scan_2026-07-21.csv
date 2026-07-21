@@ -1,13 +1,36 @@
 Date,Stock,Company,Sector,Close Price,Daily Gain %,Week Gain %,Volume Spike (x avg),RSI (14d),52W High,52W Low,Dist from 52W High %,Sector Weekly Gain %,Market Cap,P/E Ratio,Revenue (Cr),Revenue QoQ %,Revenue YoY %,Net Profit (Cr),Profit QoQ %,Profit YoY %,Operating Profit (Cr),EBITDA Margin %,EPS,EPS Growth YoY %,Operating CF (Cr),Debt to Equity,ROE %,ROCE %,Growth Flags,News (Last 2 Days)
-2026-07-21,MANYAVAR.NS,VEDANT FASHIONS LIMITED,Consumer Cyclical,434.0,8.72,8.79,1.69,65.1,434.0,387.75,0.0,0.0,105452126208,28.09,399.43,-18.77,-21.88,114.3,-15.27,-27.64,205.18,51.37,4.71,-27.54,N/A,0.23,20.03,10.24,EBITDA Margin 51.37% | ROE 20.03%,"Buy, Sell or Hold: Goldman Sachs maintains buy on Shyam Metalics; Morgan Stanley remains underweight on Vedant Fashions
+2026-07-21,DIACABS.NS,DIAMOND POWER INFRA LTD,Industrials,264.6,18.99,16.33,2.18,73.8,264.6,182.99,0.0,0.51,139436556288,88.2,695.87,46.78,108.46,60.61,21.91,690.9,84.72,12.17,1.15,666.67,N/A,N/A,N/A,5.99,Revenue +108.46% YoY | Revenue +46.78% QoQ | Profit +690.9% YoY | Profit +21.91% QoQ | EPS +666.67% YoY,No recent news
+2026-07-21,BLUESTONE.NS,BLUESTONE JEWEL LFSTL LTD,Consumer Cyclical,687.35,14.74,16.74,12.25,80.7,687.35,461.35,0.0,0.0,104753356800,636.44,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,No recent news
+2026-07-21,FLUOROCHEM.NS,GUJARAT FLUOROCHEM LTD,Basic Materials,4622.5,11.52,18.55,3.02,79.4,4622.5,3492.6,0.0,-0.03,507781611520,88.5,1369.0,20.51,11.76,112.0,8.74,-41.36,313.0,22.86,9.92,-42.96,N/A,0.29,7.55,4.64,Revenue +20.51% QoQ,"For long-term investors: Look beyond strength of balance sheet; 5 stocks from different sectors with upside potential of up to 31%
+For investors looking beyond the short-term horizon: 5 mid-cap stocks from different sectors with upside potential up to 28%
+For investors who focus on the long term: 5 mid-cap stocks from different sectors with upside potential up to 28%
+Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
+Get multiple analysts' prediction on Gujarat Fluorochem"
+2026-07-21,SMARTWORKS.NS,SMARTWORKS COWORKING SP L,Real Estate,506.0,11.09,6.68,2.66,57.4,506.0,434.75,0.0,0.0,57816612864,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,No recent news
+2026-07-21,KARURVYSYA.NS,KARUR VYSYA BANK LTD,Financial Services,337.85,9.05,9.55,11.04,71.3,337.85,272.7,0.0,0.76,326572212224,13.01,1864.54,-5.57,16.64,755.7,4.24,47.21,N/A,N/A,7.82,47.27,N/A,N/A,19.28,1.96,Profit +47.21% YoY | EPS +47.27% YoY,"Karur Vysya Bank shares soar 11% after stellar Q1 results. What investors should know
+Karur Vysya Bank net profit surges 45% to Rs 756 crore in Q1, asset quality sees slight slip
+Shapoorji secures commitments for Rs 21,350 cr from investors including Mercury Finance, Deutsche Bank
+Get multiple analysts' prediction on Karur Vysya Bank"
+2026-07-21,ACI.NS,ARCHEAN CHEMICAL IND LTD,Basic Materials,598.05,8.66,13.0,4.25,80.8,598.05,514.55,0.0,-0.03,73834291200,69.22,300.94,18.22,-12.92,13.42,-43.23,-74.94,49.08,16.31,1.13,-73.9,N/A,0.24,5.55,3.62,Revenue +18.22% QoQ,No recent news
+2026-07-21,MANAPPURAM.NS,MANAPPURAM FINANCE LTD,Financial Services,352.1,8.19,6.13,2.35,63.5,352.1,288.25,0.0,0.76,330740269056,30.04,1496.66,7.24,-7.31,403.96,67.58,43.22,N/A,N/A,4.77,44.98,N/A,3.6,6.97,1.6,Profit +43.22% YoY | Profit +67.58% QoQ | EPS +44.98% YoY,"Tata Capital joins the race to own a piece of India's dormant wealth
+Tata Capital to buy 88.6% in Yogloans, enters gold loan business
+Manappuram Finance, Muthoot Finance, other gold financier stocks drop up to 3%. Here's why
+Notice Of The 34Th Annual General Meeting Of Manappuram Finance Limited And Annual Report Of The Company For FY 2025-26
+Get multiple analysts' prediction on Manappuram Finance"
+2026-07-21,CANHLIFE.NS,CANARA HSBC LIFE INS CO L,Financial Services,160.0,6.85,8.62,8.39,80.1,160.0,134.83,0.0,0.76,151597580288,120.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,No recent news
+2026-07-21,ACE.NS,ACTION CONST EQUIP LTD,Industrials,1054.9,6.84,7.02,8.99,55.3,1054.9,867.1,0.0,0.51,125562519552,30.26,1029.49,20.46,17.64,110.91,-4.72,-0.69,160.84,15.62,9.32,-0.64,N/A,0.0,22.89,9.83,Revenue +20.46% QoQ | ROE 22.89%,No recent news
+2026-07-21,SMLMAH.NS,SML MAHINDRA LIMITED,Consumer Cyclical,4238.0,6.33,3.69,3.03,63.3,4238.0,3635.75,0.0,0.0,61307678720,38.41,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,No recent news
+2026-07-21,GABRIEL.NS,GABRIEL INDIA LTD,Consumer Cyclical,1475.4,5.54,18.16,2.56,76.2,1475.4,981.0,0.0,0.0,261626937344,80.62,1209.59,2.62,12.71,66.61,21.85,3.49,122.11,10.09,4.63,3.35,N/A,0.11,19.58,9.48,Profit +21.85% QoQ,"Two Trades for Today: A private sector bank for a 8.7% rise, a mid-cap auto ancillary stock for a gain of almost 6%
+Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
+Board Meeting Intimation for 1. Declaration Of Un-Audited Financial Results For The Quarter Ended 30 June, 2026.2. Consider Issue Of Equity Shares Or Any Other Eligible Securities, Whether Convertible Or Not, Through Permissible Modes And  Increase In Authorised Share Capital.
+Get multiple analysts' prediction on Gabriel India"
+2026-07-21,BALRAMCHIN.NS,BALRAMPUR CHINI MILLS LTD,Consumer Defensive,635.6,5.15,8.68,2.47,78.0,635.6,514.8,0.0,0.04,134281428992,34.14,1603.99,10.31,6.67,159.57,40.68,-30.36,306.43,19.1,7.9,-30.4,N/A,0.77,9.54,4.54,Profit +40.68% QoQ,"Ethanol ecosystem: Judging fear by noise is not evidence; 15 stocks from the ecosystem
+Dwarikesh Sugar, Dhampur Sugar and other sugar stocks gain up to 4% after excise duty cut on ethanol-blended petrol
+Explained: Why Balrampur Chini, Dhampur Sugar, other stocks tumbled up to 4% on Thursday
+Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018
+Get multiple analysts' prediction on Balrampur Chini"
+2026-07-21,MANYAVAR.NS,VEDANT FASHIONS LIMITED,Consumer Cyclical,419.4,5.06,5.13,4.22,57.9,422.2,387.75,-0.66,0.0,101904654336,27.15,399.43,-18.77,-21.88,114.3,-15.27,-27.64,205.18,51.37,4.71,-27.54,N/A,0.23,20.03,10.24,EBITDA Margin 51.37% | ROE 20.03%,"Buy, Sell or Hold: Goldman Sachs maintains buy on Shyam Metalics; Morgan Stanley remains underweight on Vedant Fashions
 Ahead of Market: 10 things that will decide stock market action on Monday
 Festive season: It’s different this time, so be more selective. 25 stocks for investors to watch – and also be watchful about
 Announcement under Regulation 30 (LODR)-Demise
 Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-07-21,ACE.NS,ACTION CONST EQUIP LTD,Industrials,1071.1,8.48,8.66,6.19,57.6,1071.1,867.1,0.0,0.83,127490768896,30.73,1029.49,20.46,17.64,110.91,-4.72,-0.69,160.84,15.62,9.32,-0.64,N/A,0.0,22.89,9.83,Revenue +20.46% QoQ | ROE 22.89%,No recent news
-2026-07-21,BLUESTONE.NS,BLUESTONE JEWEL LFSTL LTD,Consumer Cyclical,635.55,6.09,7.94,4.62,75.1,635.55,461.35,0.0,0.0,96858947584,588.47,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,No recent news
-2026-07-21,JPPOWER.NS,JAIPRAKASH POWER VEN. LTD,Utilities,17.72,5.04,5.54,2.53,50.8,22.87,16.66,-22.52,0.0,121443287040,36.16,1386.43,19.98,21.6,-13.37,-454.64,-110.55,205.71,14.84,-0.02,-110.93,N/A,0.27,3.6,3.15,Revenue +19.98% QoQ,"The accounting trick used by companies to make a weak balance sheet look strong
-Ahead of Market: 10 things that will decide stock market action on Tuesday
-JP Power shares surge 28% in 2 days, Adani Power hits fresh 52-week high amid optimism around stake acquisition
-JP Power shares soar 20% on optimism around Adani Powerâs 24% stake purchase
-Board Meeting Outcome for Outcome Of The 159Th Board Meeting Of The Company Held On 20Th July 2026 To Consider, Inter Alia, The Un-Audited Financial Results For The Quarter Ended On 30Th June, 2026"
