@@ -1,12 +1,12 @@
 Date,Stock,Company,Sector,Close Price,Daily Gain %,Week Gain %,Volume Spike (x avg),RSI (14d),52W High,52W Low,Dist from 52W High %,Sector Weekly Gain %,Market Cap,P/E Ratio,Revenue (Cr),Revenue QoQ %,Revenue YoY %,Net Profit (Cr),Profit QoQ %,Profit YoY %,Operating Profit (Cr),EBITDA Margin %,EPS,EPS Growth YoY %,Operating CF (Cr),Debt to Equity,ROE %,ROCE %,Growth Flags,News (Last 2 Days)
-2026-07-21,BLUESTONE.NS,BLUESTONE JEWEL LFSTL LTD,Consumer Cyclical,728.65,19.37,19.98,14.87,82.1,728.65,461.35,0.0,0.0,111047557120,674.68,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,No recent news
+2026-07-21,BLUESTONE.NS,BLUESTONE JEWEL LFSTL LTD,Consumer Cyclical,728.65,19.37,19.98,14.87,82.1,728.65,461.35,0.0,0.0,111047557120,192.76,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,No recent news
 2026-07-21,WESTLIFE.NS,WESTLIFE FOODWORLD LTD,Consumer Cyclical,512.55,13.87,6.31,12.55,53.2,512.55,419.85,0.0,0.0,79555837952,247.61,642.4,-3.72,-1.21,2.38,132.82,-66.13,93.17,14.5,0.15,-66.67,N/A,2.92,5.29,2.52,Profit +132.82% QoQ,No recent news
 2026-07-21,KARURVYSYA.NS,KARUR VYSYA BANK LTD,Financial Services,340.3,13.06,13.6,12.19,67.6,340.3,272.7,0.0,0.65,328940421120,11.99,1864.54,-5.57,16.64,755.7,4.24,47.21,N/A,N/A,7.82,47.27,N/A,N/A,19.28,1.96,Profit +47.21% YoY | EPS +47.27% YoY,"Karur Vysya Bank shares soar 11% after stellar Q1 results. What investors should know
 Karur Vysya Bank net profit surges 45% to Rs 756 crore in Q1, asset quality sees slight slip
 Shapoorji secures commitments for Rs 21,350 cr from investors including Mercury Finance, Deutsche Bank
 Get multiple analysts' prediction on Karur Vysya Bank"
 2026-07-21,DIACABS.NS,DIAMOND POWER INFRA LTD,Industrials,269.07,10.0,19.6,2.85,75.2,269.07,182.99,0.0,0.74,141792116736,89.39,695.87,46.78,108.46,60.61,21.91,690.9,84.72,12.17,1.15,666.67,N/A,N/A,N/A,5.99,Revenue +108.46% YoY | Revenue +46.78% QoQ | Profit +690.9% YoY | Profit +21.91% QoQ | EPS +666.67% YoY,No recent news
-2026-07-21,M&MFIN.NS,M&M FIN. SERVICES LTD,Financial Services,349.85,8.46,7.61,3.8,78.4,349.85,269.63,0.0,0.65,486132416512,16.87,2962.86,4.4,27.19,938.02,13.82,2.23,N/A,N/A,6.75,-6.38,N/A,4.3,11.86,1.89,Revenue +27.19% YoY,No recent news
+2026-07-21,M&MFIN.NS,M&M FIN. SERVICES LTD,Financial Services,349.85,8.46,7.61,3.8,78.4,349.85,269.63,0.0,0.65,486132416512,16.76,2962.86,4.4,27.19,938.02,13.82,2.23,N/A,N/A,6.75,-6.38,N/A,4.3,11.86,1.89,Revenue +27.19% YoY,No recent news
 2026-07-21,FLUOROCHEM.NS,GUJARAT FLUOROCHEM LTD,Basic Materials,4607.1,6.74,17.41,3.91,81.6,4607.1,3492.6,0.0,0.17,506089930752,88.21,1369.0,20.51,11.76,112.0,8.74,-41.36,313.0,22.86,9.92,-42.96,N/A,0.29,7.55,4.64,Revenue +20.51% QoQ,"For long-term investors: Look beyond strength of balance sheet; 5 stocks from different sectors with upside potential of up to 31%
 For investors looking beyond the short-term horizon: 5 mid-cap stocks from different sectors with upside potential up to 28%
 For investors who focus on the long term: 5 mid-cap stocks from different sectors with upside potential up to 28%
@@ -23,7 +23,7 @@ Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018
 Get multiple analysts' prediction on Data Patterns (India)"
 2026-07-21,SHRIPISTON.NS,SPR AUTO TECHNOLOGIES LTD,Consumer Cyclical,4475.3,5.7,6.98,1.55,55.2,4475.3,3234.82,0.0,0.0,197136171008,35.71,1455.8,42.28,71.69,156.3,27.07,30.47,292.8,20.11,35.47,30.31,N/A,N/A,N/A,N/A,Revenue +71.69% YoY | Revenue +42.28% QoQ | Profit +30.47% YoY | Profit +27.07% QoQ | EPS +30.31% YoY,No recent news
 2026-07-21,JSFB.NS,JANA SMALL FIN BANK LTD,Financial Services,561.6,5.64,14.62,2.47,75.9,561.6,441.2,0.0,0.65,59369250816,15.63,1009.38,0.82,23.8,155.23,11.02,25.72,N/A,N/A,14.74,25.34,N/A,N/A,N/A,N/A,—,No recent news
-2026-07-21,TVSMOTOR.NS,TVS MOTOR COMPANY  LTD,Consumer Cyclical,3792.0,5.62,5.09,2.2,69.4,3792.0,3287.4,0.0,0.0,0,59.67,15052.73,2.01,36.41,771.52,-8.29,37.4,2178.49,14.47,16.24,36.36,N/A,3.06,31.62,8.49,Revenue +36.41% YoY | Profit +37.4% YoY | EPS +36.36% YoY | ROE 31.62%,"June auto sales data: Commercial vehicle turns consensus player; brokerages list stocks to buy
+2026-07-21,TVSMOTOR.NS,TVS MOTOR COMPANY  LTD,Consumer Cyclical,3792.0,5.62,5.09,2.2,69.4,3792.0,3287.4,0.0,0.0,1802057940992,59.67,15052.73,2.01,36.41,771.52,-8.29,37.4,2178.49,14.47,16.24,36.36,N/A,3.06,31.62,8.49,Revenue +36.41% YoY | Profit +37.4% YoY | EPS +36.36% YoY | ROE 31.62%,"June auto sales data: Commercial vehicle turns consensus player; brokerages list stocks to buy
 Announcement under Regulation 30 (LODR)-Press Release / Media Release
 Board Meeting Outcome for Board Meeting Outcome For Unaudited Financial Results For The Quarter Ended 30Th June 2026 & Raising Of Funds Through Issuance Of Debt Instruments And/Or Commercial Papers And/Or Availing Of Other Permissible Borrowings
 Unaudited Financial Results For The Quarter Ended 30Th June 2026
@@ -38,4 +38,3 @@ Ahead of Market: 10 things that will decide stock market action on Tuesday
 JP Power shares surge 28% in 2 days, Adani Power hits fresh 52-week high amid optimism around stake acquisition
 JP Power shares soar 20% on optimism around Adani Powerâs 24% stake purchase
 Announcement under Regulation 30 (LODR)-Newspaper Publication"
-2026-07-21,LOTUSDEV.NS,SRI LOTUS DEVLPRS N RTY L,Industrials,148.16,5.09,3.94,8.14,47.9,152.32,129.27,-2.73,0.74,72409309184,29.46,307.5,37.26,164.57,95.58,37.03,86.65,135.81,44.17,1.96,87.06,N/A,0.07,17.06,9.77,Revenue +164.57% YoY | Revenue +37.26% QoQ | Profit +86.65% YoY | Profit +37.03% QoQ | EPS +87.06% YoY | EBITDA Margin 44.17%,No recent news
