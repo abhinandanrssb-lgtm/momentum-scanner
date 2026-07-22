@@ -1,13 +1,25 @@
 Date,Stock,Company,Sector,Close Price,Daily Gain %,Week Gain %,Volume Spike (x avg),RSI (14d),52W High,52W Low,Dist from 52W High %,Sector Weekly Gain %,Market Cap,P/E Ratio,Revenue (Cr),Revenue QoQ %,Revenue YoY %,Net Profit (Cr),Profit QoQ %,Profit YoY %,Operating Profit (Cr),EBITDA Margin %,EPS,EPS Growth YoY %,Operating CF (Cr),Debt to Equity,ROE %,ROCE %,Growth Flags,News (Last 2 Days)
-2026-07-22,CRAMC.NS,CANARA ROBECO AMC LIMITED,Financial Services,269.97,7.05,3.27,2.13,62.8,269.97,237.13,0.0,0.02,53836722176,26.76,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,"Stock picks of the week: 4 stocks with consistent score improvement and upside potential of up to 28%
+2026-07-22,LOTUSDEV.NS,SRI LOTUS DEVLPRS N RTY L,Industrials,160.64,13.94,12.7,9.03,62.8,160.64,129.27,0.0,0.13,78508580864,31.94,307.5,37.26,164.57,95.58,37.03,86.65,135.81,44.17,1.96,87.06,N/A,0.07,17.06,9.77,Revenue +164.57% YoY | Revenue +37.26% QoQ | Profit +86.65% YoY | Profit +37.03% QoQ | EPS +87.06% YoY | EBITDA Margin 44.17%,No recent news
+2026-07-22,BLUESTONE.NS,BLUESTONE JEWEL LFSTL LTD,Consumer Cyclical,804.6,10.42,28.47,8.83,86.2,804.6,469.9,0.0,0.0,122626375680,178.01,736.85,8.13,59.73,6.96,-77.68,113.57,121.77,16.53,0.46,113.57,N/A,1.1,N/A,N/A,Revenue +59.73% YoY | Profit +113.57% YoY | EPS +113.57% YoY,No recent news
+2026-07-22,CRAMC.NS,CANARA ROBECO AMC LIMITED,Financial Services,278.32,10.36,6.47,15.94,67.0,278.32,237.13,0.0,-0.86,55501860864,27.58,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,"Stock picks of the week: 4 stocks with consistent score improvement and upside potential of up to 28%
 Dividends and stock splits: TCS, Dabur, MRF among nearly 100 stocks turning ex-date this week. Do you own any?
 India’s savings story, much bigger & stable: 9 stocks from the savings & growth ecosystem with upside potential of up to 43%
 Announcement under Regulation 30 (LODR)-Press Release / Media Release
 Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-07-22,PCBL.NS,PCBL CHEMICAL LIMITED,Basic Materials,332.3,,4.83,1.6,,332.3,277.75,0.0,0.43,130747613184,64.65,2066.06,11.94,2.79,40.25,1882.76,-56.74,247.77,11.99,1.02,-58.7,N/A,1.24,5.12,3.64,Profit +1882.76% QoQ,No recent news
-2026-07-22,UBL.NS,UNITED BREWERIES LTD,Consumer Defensive,1404.4,,3.47,3.85,,1404.4,1286.0,0.0,0.19,371330613248,89.62,2250.07,8.56,12.49,101.78,25.65,165.05,147.33,6.55,3.85,165.52,N/A,0.29,9.29,3.72,Profit +165.05% YoY | Profit +25.65% QoQ | EPS +165.52% YoY,"Carlsberg bolsters India leadership ahead of planned IPO, appoints four new board members
+2026-07-22,WESTLIFE.NS,WESTLIFE FOODWORLD LTD,Consumer Cyclical,492.25,9.36,2.09,4.4,46.1,507.8,419.85,-3.06,0.0,76404957184,237.8,642.4,-3.72,-1.21,2.38,132.82,-66.13,93.17,14.5,0.15,-66.67,N/A,2.92,5.29,2.52,Profit +132.82% QoQ,No recent news
+2026-07-22,DATAPATTNS.NS,DATA PATTERNS INDIA LTD,Industrials,4620.6,8.88,10.28,3.59,48.9,4866.2,3839.9,-5.05,0.13,258679521280,89.98,344.85,99.19,-12.96,138.38,137.36,21.3,198.5,57.56,24.71,21.25,N/A,0.0,16.73,11.64,Revenue +99.19% QoQ | Profit +137.36% QoQ | EBITDA Margin 57.56%,"Two Trades for Today: A defence electronics player for an 8.35% rise, a mid-cap transmission equipment stock for a 7% gain
+Union Budget FY27: Defence budget set to soar, Jefferies says betting on HAL, BEL and Data Patterns
+Data Patterns shares jump 9% as Q2 net profit soars over 60% to Rs 49 crore
+Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018
+Get multiple analysts' prediction on Data Patterns (India)"
+2026-07-22,PNGJL.NS,P N GADGIL JEWELLERS LTD,Consumer Cyclical,640.55,8.55,7.96,4.48,85.6,640.55,525.7,0.0,0.0,86927974400,21.2,3544.31,7.32,123.16,90.26,-47.19,45.6,166.33,4.69,6.65,45.51,N/A,0.89,23.31,8.61,Revenue +123.16% YoY | Profit +45.6% YoY | EPS +45.51% YoY | ROE 23.31%,"Jewellery stocks tank up to 9% on PM Modi's remark
+Jewellery stocks rally on back of US-India trade deal
+P N Gadgil Jewellers shares rally 5% after festive season sales soar 65% YoY
+Announcement under Regulation 30 (LODR)-Credit Rating
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-07-22,M&MFIN.NS,M&M FIN. SERVICES LTD,Financial Services,375.25,7.26,15.48,5.49,83.5,375.25,269.63,0.0,-0.86,521426829312,16.57,2962.86,4.4,27.19,938.02,13.82,2.23,N/A,N/A,6.75,-6.38,N/A,4.3,11.86,1.89,Revenue +27.19% YoY,No recent news
+2026-07-22,UBL.NS,UNITED BREWERIES LTD,Consumer Defensive,1434.5,6.19,6.36,1.99,66.6,1434.5,1286.0,0.0,0.69,379289206784,91.54,2250.07,8.56,12.49,101.78,25.65,165.05,147.33,6.55,3.85,165.52,N/A,0.29,9.29,3.72,Profit +165.05% YoY | Profit +25.65% QoQ | EPS +165.52% YoY,"Carlsberg bolsters India leadership ahead of planned IPO, appoints four new board members
 General Update - Communication To Members Of The Company On Intimation Of Tax Deduction On Dividend For The Financial Year 2025-26
 Announcement under Regulation 30 (LODR)-Newspaper Publication
 Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
 Get multiple analysts' prediction on United Breweries"
-2026-07-22,TMB.NS,TAMILNAD MERCA BANK LTD,Financial Services,818.45,,0.33,1.74,,818.45,667.99,0.0,0.02,129602748416,9.69,946.21,12.36,24.61,373.65,9.41,24.45,N/A,N/A,23.6,24.47,N/A,N/A,13.99,1.89,—,No recent news
