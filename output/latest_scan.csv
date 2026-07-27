@@ -1,55 +1,64 @@
 Date,Stock,Company,Sector,Close Price,Daily Gain %,Week Gain %,Volume Spike (x avg),RSI (14d),52W High,52W Low,Dist from 52W High %,Sector Weekly Gain %,Market Cap,P/E Ratio,Revenue (Cr),Revenue QoQ %,Revenue YoY %,Net Profit (Cr),Profit QoQ %,Profit YoY %,Operating Profit (Cr),EBITDA Margin %,EPS,EPS Growth YoY %,Operating CF (Cr),Debt to Equity,ROE %,ROCE %,Growth Flags,News (Last 2 Days)
-2026-07-27,CAPILLARY.NS,CAPILLARY TECHNO INDIA L,Technology,543.5,14.12,12.46,10.7,61.5,543.5,476.25,0.0,0.79,43208916992,79.26,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,No recent news
-2026-07-27,CARTRADE.NS,CARTRADE TECH LIMITED,Consumer Cyclical,2959.3,11.4,7.4,2.8,58.3,2959.3,1721.6,0.0,0.0,143012724736,66.31,203.14,-3.11,15.28,64.61,15.66,51.33,79.39,39.08,13.5,50.84,N/A,0.05,9.85,4.78,Profit +51.33% YoY | EPS +50.84% YoY | EBITDA Margin 39.08%,"UBS initiates coverage on CarTrade Tech with Buy rating, sees 42% upside. 4 reasons why
+2026-07-27,CAPILLARY.NS,CAPILLARY TECHNO INDIA L,Technology,535.3,12.4,10.76,15.54,58.5,535.3,476.25,0.0,0.96,42541350912,78.03,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,No recent news
+2026-07-27,CARTRADE.NS,CARTRADE TECH LIMITED,Consumer Cyclical,2978.5,12.13,8.1,4.49,59.0,2978.5,1721.6,0.0,0.0,143940583424,66.74,203.14,-3.11,15.28,64.61,15.66,51.33,79.39,39.08,13.5,50.84,N/A,0.05,9.85,4.78,Profit +51.33% YoY | EPS +50.84% YoY | EBITDA Margin 39.08%,"UBS initiates coverage on CarTrade Tech with Buy rating, sees 42% upside. 4 reasons why
 CarTrade Tech shares rocket 6% as Nomura raises target price. Here are 3 reasons why
 CarTrade Tech shares surge 12% in two days after launching new used-car platform
+Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011
 Get multiple analysts' prediction on CarTrade Tech"
-2026-07-27,KFINTECH.NS,KFIN TECHNOLOGIES LIMITED,Technology,931.2,8.56,5.6,3.45,63.3,931.2,794.84,0.0,0.79,160954466304,47.2,347.33,-6.35,19.76,81.15,-11.79,-10.01,143.06,41.19,4.7,-10.48,N/A,0.03,N/A,N/A,EBITDA Margin 41.19%,No recent news
-2026-07-27,SAGILITY.NS,SAGILITY LIMITED,Healthcare,43.44,7.47,5.16,2.38,58.8,43.44,39.0,0.0,0.85,203356913664,20.49,1963.48,-3.0,25.18,216.81,-15.88,18.75,452.49,23.05,0.46,17.95,N/A,0.11,N/A,N/A,Revenue +25.18% YoY,No recent news
-2026-07-27,REDINGTON.NS,REDINGTON LIMITED,Technology,277.3,7.04,2.89,1.83,52.1,283.3,218.01,-2.12,0.79,216786026496,14.54,33213.03,7.41,24.32,391.32,-10.21,-2.25,669.93,2.02,5.01,-2.15,N/A,0.27,13.09,4.43,—,"Will Nifty hit 25,000 this month? Key levels to watch in the week ahead
-Redington shares rally 10% after Apple CEO Tim Cook says price hikes 'unavoidable' amid AI boom
-Redington shares rally 5% after Apple unveils new features at WWDC 2026
-Board Meeting Intimation for Q1 FY 2026-27- Financial Results
-Get multiple analysts' prediction on Redington"
-2026-07-27,SENCO.NS,SENCO GOLD LIMITED,Consumer Cyclical,409.35,6.92,11.84,4.64,81.0,409.35,323.55,0.0,0.0,67067355136,11.67,1996.66,-34.98,44.93,156.88,-40.58,151.29,287.71,14.41,9.58,150.79,N/A,1.07,25.62,9.39,Revenue +44.93% YoY | Profit +151.29% YoY | EPS +150.79% YoY | ROE 25.62%,"Jewellery companies put shine on D-St with strong biz updates
+2026-07-27,TMB.NS,TAMILNAD MERCA BANK LTD,Financial Services,893.65,11.08,10.87,12.4,72.6,893.65,667.99,0.0,-1.48,141510787072,10.58,946.21,12.36,24.61,373.65,9.41,24.45,N/A,N/A,23.6,24.47,N/A,N/A,13.99,1.89,—,No recent news
+2026-07-27,KFINTECH.NS,KFIN TECHNOLOGIES LIMITED,Technology,949.25,10.67,7.65,6.81,65.4,949.25,794.84,0.0,0.96,164074340352,48.11,347.33,-6.35,19.76,81.15,-11.79,-10.01,143.06,41.19,4.7,-10.48,N/A,0.03,N/A,N/A,EBITDA Margin 41.19%,No recent news
+2026-07-27,SENCO.NS,SENCO GOLD LIMITED,Consumer Cyclical,417.95,9.17,14.19,6.0,82.1,417.95,323.55,0.0,0.0,68476366848,11.92,1996.66,-34.98,44.93,156.88,-40.58,151.29,287.71,14.41,9.58,150.79,N/A,1.07,25.62,9.39,Revenue +44.93% YoY | Profit +151.29% YoY | EPS +150.79% YoY | ROE 25.62%,"Jewellery companies put shine on D-St with strong biz updates
 Senco Gold shares soar 6% as Q1 business update highlights 60% revenue growth
 Unlock Stock Score, Analyst' Ratings & Recommendations
 Get multiple analysts' prediction on Senco Gold"
-2026-07-27,LATENTVIEW.NS,LATENT VIEW ANALYTICS LTD,Industrials,316.15,6.79,1.75,2.51,60.0,325.3,264.25,-2.81,-1.03,65419329536,33.07,288.62,3.82,24.31,52.75,5.21,-1.35,83.72,29.01,2.55,-1.54,N/A,0.02,12.17,6.39,EBITDA Margin 29.01%,"Ahead of Market: 10 things that will decide stock market action on Wednesday
-Two Trades for Today: An auto ancillary player for a rise of 7.2%, a mid-cap IT stock for an almost 7% gain
-Ahead of Market: 10 things that will decide stock market action on Tuesday
-Latent View Analytics shares rally 8% after Q3FY26 profit up 19% YoY
-Get multiple analysts' prediction on Latent View Analytics"
-2026-07-27,ATUL.NS,ATUL LTD,Basic Materials,6814.5,6.35,11.87,3.85,63.5,6968.14,6042.21,-2.2,-1.04,200630845440,25.2,1847.95,10.66,27.3,245.3,16.73,93.91,428.94,23.21,83.32,93.9,N/A,0.03,N/A,N/A,Revenue +27.3% YoY | Profit +93.91% YoY | EPS +93.9% YoY,No recent news
-2026-07-27,RKFORGE.NS,RAMKRISHNA FORGINGS LTD,Industrials,616.8,6.22,9.72,3.51,67.0,616.8,534.6,0.0,-1.03,112362463232,106.16,1216.67,-0.01,19.84,46.88,-16.19,297.63,221.3,18.19,2.58,296.92,N/A,0.74,N/A,N/A,Profit +297.63% YoY | EPS +296.92% YoY,"Two Trades for Today: A financial services major for a 8% upmove, a mid-cap auto ancillary stock for a rise of about 7%
+2026-07-27,RKFORGE.NS,RAMKRISHNA FORGINGS LTD,Industrials,625.45,7.71,11.26,5.77,68.8,625.45,534.6,0.0,-0.85,113938235392,107.65,1216.67,-0.01,19.84,46.88,-16.19,297.63,221.3,18.19,2.58,296.92,N/A,0.74,N/A,N/A,Profit +297.63% YoY | EPS +296.92% YoY,"Two Trades for Today: A financial services major for a 8% upmove, a mid-cap auto ancillary stock for a rise of about 7%
 Announcement under Regulation 30 (LODR)-Newspaper Publication
 Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome
 Announcement under Regulation 30 (LODR)-Investor Presentation
 Get multiple analysts' prediction on Ramkrishna Forg"
-2026-07-27,CAPLIPOINT.NS,CAPLIN POINT LAB LTD.,Healthcare,2620.5,6.22,-1.08,1.89,53.7,2671.5,1972.9,-1.91,0.85,199188643840,31.15,600.16,10.57,21.75,170.11,3.8,22.42,232.6,38.76,22.38,22.43,N/A,0.0,19.94,11.86,EBITDA Margin 38.76%,"Two Trades for Today: A top technology supplier for a 5.75% upmove, a mid-cap pharma stock for a 7% rise
-Get multiple analysts' prediction on Caplin Point"
-2026-07-27,LALPATHLAB.NS,DR. LAL PATH LABS LTD.,Healthcare,1865.0,6.01,10.14,3.93,73.1,1865.0,1533.2,0.0,0.85,311413538816,57.62,797.7,13.52,19.1,169.5,29.09,28.02,279.4,35.03,10.15,27.83,N/A,0.08,N/A,N/A,Profit +29.09% QoQ | EBITDA Margin 35.03%,No recent news
-2026-07-27,BLUESTONE.NS,BLUESTONE JEWEL LFSTL LTD,Consumer Cyclical,817.4,5.83,33.91,2.19,81.7,817.4,469.9,0.0,0.0,124577193984,216.24,736.85,8.13,59.73,6.96,-77.68,113.57,121.77,16.53,0.46,113.57,N/A,1.1,N/A,N/A,Revenue +59.73% YoY | Profit +113.57% YoY | EPS +113.57% YoY,No recent news
-2026-07-27,CONCOR.NS,CONTAINER CORP OF IND LTD,Industrials,505.4,5.83,1.28,2.9,62.5,505.4,440.25,0.0,-1.03,384921698304,30.85,2263.3,-1.92,-1.07,262.65,-21.34,-12.39,363.18,16.05,3.46,-12.18,N/A,0.07,N/A,N/A,—,No recent news
-2026-07-27,IDFCFIRSTB.NS,IDFC FIRST BANK LIMITED,Financial Services,85.35,5.64,4.37,6.27,64.1,85.35,71.25,0.0,-2.44,735452725248,45.4,7307.47,-4.07,9.35,330.64,-30.92,-2.8,N/A,N/A,0.38,-17.39,N/A,N/A,N/A,N/A,—,"IDFC First Bank shares soar 9% after Q1 profit jumps 132% to Rs 1,075 crore. What are analysts saying?
-Highest 5-year senior citizen FD interest rates: Public vs private sector banks- which offers highest maturity
-Quant Small Cap Fund exits RIL, 8 others; raises exposure to two Adani stocks. Check full list
-Stocks in news: Adani Enterprises, Cochin Shipyard, IDFC First Bank, Premier Energies, Glenmark Pharma
-Stock picks of the week: 5 stocks with consistent score improvement and upside potential of up to 25%"
-2026-07-27,LAURUSLABS.NS,LAURUS LABS LIMITED,Healthcare,1691.0,5.61,8.47,1.99,80.7,1691.0,1362.0,0.0,0.85,913562075136,83.8,2026.31,11.85,17.79,367.6,31.69,57.32,647.45,31.95,6.81,56.91,N/A,0.46,N/A,N/A,Profit +57.32% YoY | Profit +31.69% QoQ | EPS +56.91% YoY | EBITDA Margin 31.95%,"Laurus Labs shares rally over 4% as Q1FY27 profit jumps 126% on strong CDMO growth
+2026-07-27,REDINGTON.NS,REDINGTON LIMITED,Technology,278.15,7.37,3.21,3.52,52.8,283.3,218.01,-1.82,0.96,217450545152,14.59,33213.03,7.41,24.32,391.32,-10.21,-2.25,669.93,2.02,5.01,-2.15,N/A,0.27,13.09,4.43,—,"Will Nifty hit 25,000 this month? Key levels to watch in the week ahead
+Redington shares rally 10% after Apple CEO Tim Cook says price hikes 'unavoidable' amid AI boom
+Redington shares rally 5% after Apple unveils new features at WWDC 2026
+Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
+Get multiple analysts' prediction on Redington"
+2026-07-27,SAGILITY.NS,SAGILITY LIMITED,Healthcare,43.29,7.1,4.79,3.87,58.2,43.29,39.0,0.0,-0.22,202654728192,20.42,1963.48,-3.0,25.18,216.81,-15.88,18.75,452.49,23.05,0.46,17.95,N/A,0.11,N/A,N/A,Revenue +25.18% YoY,No recent news
+2026-07-27,LAURUSLABS.NS,LAURUS LABS LIMITED,Healthcare,1713.4,7.01,9.91,3.6,81.8,1713.4,1362.0,0.0,-0.22,925663690752,84.91,2026.31,11.85,17.79,367.6,31.69,57.32,647.45,31.95,6.81,56.91,N/A,0.46,N/A,N/A,Profit +57.32% YoY | Profit +31.69% QoQ | EPS +56.91% YoY | EBITDA Margin 31.95%,"Laurus Labs shares rally over 4% as Q1FY27 profit jumps 126% on strong CDMO growth
 Laurus Labs, Biocon, Ather Energy, Lenskart among probable MSCI India Standard Index inclusion candidates, says JM Financial
 Sweet pills: How pharma stocks delivered bumper returns to Indian investors, defying 2026 whiplash
 Get multiple analysts' prediction on Laurus Labs"
-2026-07-27,KANSAINER.NS,KANSAI NEROLAC PAINTS LTD,Basic Materials,203.86,5.52,1.32,1.69,45.5,215.77,193.19,-5.52,-1.04,164877631488,28.0,1953.71,-1.43,1.66,112.27,-7.49,-83.51,240.43,12.31,1.39,-83.49,N/A,0.05,8.8,5.51,—,"India's paint industry remains optimistic on growth despite crude volatility, pricing pressures and competition
+2026-07-27,CONCOR.NS,CONTAINER CORP OF IND LTD,Industrials,510.5,6.9,2.3,4.55,63.9,510.5,440.25,0.0,-0.85,388805951488,31.17,2263.3,-1.92,-1.07,262.65,-21.34,-12.39,363.18,16.05,3.46,-12.18,N/A,0.07,N/A,N/A,—,No recent news
+2026-07-27,PNGJL.NS,P N GADGIL JEWELLERS LTD,Consumer Cyclical,689.05,6.5,16.77,4.33,90.5,689.05,529.0,0.0,0.0,93509828608,22.81,3544.31,7.32,123.16,90.26,-47.19,45.6,166.33,4.69,6.65,45.51,N/A,0.89,23.31,8.61,Revenue +123.16% YoY | Profit +45.6% YoY | EPS +45.51% YoY | ROE 23.31%,"Jewellery stocks tank up to 9% on PM Modi's remark
+Jewellery stocks rally on back of US-India trade deal
+P N Gadgil Jewellers shares rally 5% after festive season sales soar 65% YoY
+P N Gadgil Jewellers shares in focus after Q1 revenue rises 2.8% YoY; retail segment up 19.4%
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-07-27,BLUESTONE.NS,BLUESTONE JEWEL LFSTL LTD,Consumer Cyclical,820.75,6.26,34.46,3.1,81.8,820.75,469.9,0.0,0.0,125087752192,217.13,736.85,8.13,59.73,6.96,-77.68,113.57,121.77,16.53,0.46,113.57,N/A,1.1,N/A,N/A,Revenue +59.73% YoY | Profit +113.57% YoY | EPS +113.57% YoY,No recent news
+2026-07-27,CAPLIPOINT.NS,CAPLIN POINT LAB LTD.,Healthcare,2621.4,6.25,-1.05,2.67,53.8,2671.5,1972.9,-1.88,-0.22,199257047040,31.16,600.16,10.57,21.75,170.11,3.8,22.42,232.6,38.76,22.38,22.43,N/A,0.0,19.94,11.86,EBITDA Margin 38.76%,"Two Trades for Today: A top technology supplier for a 5.75% upmove, a mid-cap pharma stock for a 7% rise
+Get multiple analysts' prediction on Caplin Point"
+2026-07-27,AWFIS.NS,AWFIS SPACE SOLUTIONS LTD,Industrials,288.65,6.18,0.4,2.8,40.6,345.85,271.85,-16.54,-0.85,20656711680,29.1,410.14,7.43,20.74,23.25,7.36,106.98,170.74,41.63,3.25,105.7,N/A,2.72,14.01,3.83,Profit +106.98% YoY | EPS +105.7% YoY | EBITDA Margin 41.63%,No recent news
+2026-07-27,LATENTVIEW.NS,LATENT VIEW ANALYTICS LTD,Industrials,313.85,6.01,1.01,3.55,58.7,325.3,264.25,-3.52,-0.85,64943403008,32.83,288.62,3.82,24.31,52.75,5.21,-1.35,83.72,29.01,2.55,-1.54,N/A,0.02,12.17,6.39,EBITDA Margin 29.01%,"Ahead of Market: 10 things that will decide stock market action on Wednesday
+Two Trades for Today: An auto ancillary player for a rise of 7.2%, a mid-cap IT stock for an almost 7% gain
+Ahead of Market: 10 things that will decide stock market action on Tuesday
+Latent View Analytics shares rally 8% after Q3FY26 profit up 19% YoY
+Get multiple analysts' prediction on Latent View Analytics"
+2026-07-27,ATUL.NS,ATUL LTD,Basic Materials,6789.5,5.96,11.46,5.0,62.9,6968.14,6042.21,-2.56,-0.99,199894794240,25.11,1847.95,10.66,27.3,245.3,16.73,93.91,428.94,23.21,83.32,93.9,N/A,0.03,N/A,N/A,Revenue +27.3% YoY | Profit +93.91% YoY | EPS +93.9% YoY,No recent news
+2026-07-27,PPLPHARMA.NS,PIRAMAL PHARMA LIMITED,Healthcare,192.05,5.95,7.37,1.98,64.4,192.05,158.51,0.0,-0.22,254820401152,N/A,2751.77,28.6,24.84,-8.82,93.52,-339.67,520.14,18.9,-0.07,-333.33,N/A,0.7,-4.0,0.36,Revenue +28.6% QoQ | Profit +93.52% QoQ,No recent news
+2026-07-27,LXCHEM.NS,LAXMI ORGANIC INDUS LTD,Basic Materials,193.05,5.91,9.53,2.18,79.8,193.05,147.53,0.0,-0.99,53515689984,67.5,735.31,2.31,-6.49,21.55,-15.17,-26.47,56.34,7.66,-0.77,-172.64,N/A,0.27,4.08,2.17,—,No recent news
+2026-07-27,PRICOLLTD.NS,PRICOL LIMITED,Consumer Cyclical,665.35,5.83,8.43,2.39,66.3,665.35,543.05,0.0,0.0,81093853184,32.36,1077.9,5.64,75.01,73.23,14.98,76.67,135.05,12.53,6.0,76.47,N/A,0.3,22.09,10.81,Revenue +75.01% YoY | Profit +76.67% YoY | EPS +76.47% YoY | ROE 22.09%,No recent news
+2026-07-27,CRIZAC.NS,CRIZAC LIMITED,Consumer Defensive,194.98,5.71,4.81,1.9,44.9,227.33,184.44,-14.23,1.55,34118086656,15.57,391.73,40.59,79.97,74.5,49.18,72.08,100.77,25.72,4.29,73.39,N/A,0.0,40.0,18.18,Revenue +79.97% YoY | Revenue +40.59% QoQ | Profit +72.08% YoY | Profit +49.18% QoQ | EPS +73.39% YoY | EBITDA Margin 25.72% | ROE 40.0%,No recent news
+2026-07-27,DBL.NS,DILIP BUILDCON LIMITED,Industrials,443.65,5.57,9.39,2.43,55.9,463.85,386.8,-4.35,-0.85,72068644864,5.15,2299.81,7.57,-25.72,62.05,-92.52,-63.68,453.18,19.7,7.62,-59.73,N/A,1.16,22.89,4.75,ROE 22.89%,"Stocks in news: RIL, Tata Motors, Ola Electric, Dilip Buildcon, Sun Pharma
+Shakti Pumps, NCC & KEC International soar up to 16% as govt clears Rs 8.7 lakh crore Jal Jeevan Mission extension
+Dilip Buildcon shares rally 4% as lowest bidder for Rs 702 crore Gujarat flood control project
+Stocks in news: Maruti Suzuki, Dabur, Info Edge, GR Infraprojects, Dilip Buildcon
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-07-27,PVRINOX.NS,PVR INOX LIMITED,Communication Services,1123.2,5.57,10.2,3.74,72.6,1123.2,943.5,0.0,0.0,110298193920,39.4,1622.2,4.84,31.9,56.5,269.28,146.89,554.7,34.19,5.75,145.17,N/A,0.92,N/A,N/A,Revenue +31.9% YoY | Profit +146.89% YoY | Profit +269.28% QoQ | EPS +145.17% YoY | EBITDA Margin 34.19%,No recent news
+2026-07-27,KANSAINER.NS,KANSAI NEROLAC PAINTS LTD,Basic Materials,203.88,5.53,1.33,3.21,45.5,215.77,193.19,-5.51,-0.99,164893818880,28.01,1953.71,-1.43,1.66,112.27,-7.49,-83.51,240.43,12.31,1.39,-83.49,N/A,0.05,8.8,5.51,—,"India's paint industry remains optimistic on growth despite crude volatility, pricing pressures and competition
 Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS
 Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
 Unlock Stock Score, Analyst' Ratings & Recommendations
 Get multiple analysts' prediction on Kansai Nerolac"
-2026-07-27,AWFIS.NS,AWFIS SPACE SOLUTIONS LTD,Industrials,286.5,5.39,-0.35,2.13,38.8,345.85,271.85,-17.16,-1.03,20502851584,28.88,410.14,7.43,20.74,23.25,7.36,106.98,170.74,41.63,3.25,105.7,N/A,2.72,14.01,3.83,Profit +106.98% YoY | EPS +105.7% YoY | EBITDA Margin 41.63%,No recent news
-2026-07-27,AUBANK.NS,AU SMALL FINANCE BANK LTD,Financial Services,1057.7,5.35,6.48,2.05,48.2,1072.1,958.9,-1.34,-2.44,791860215808,30.19,3313.28,8.1,25.45,831.87,24.6,57.42,N/A,N/A,11.13,56.76,N/A,N/A,N/A,N/A,Revenue +25.45% YoY | Profit +57.42% YoY | Profit +24.6% QoQ | EPS +56.76% YoY,"AU Small Finance Bank shares rally 5% as Q1 PAT jumps 37% to Rs 796 crore, NII up 32% YoY
-Haryana scam shocker: IAS officer arrested on retirement day in ₹593-crore IDFC Bank fraud probe
-CBI arrests three in embezzlement of Rs 504 crore from Haryana govt accounts
-FD interest rates up to 7.80%: These 2 banks have increased fixed deposit rates on select tenures; investors to earn more
-Get multiple analysts' prediction on Au Small Fin Bank"
-2026-07-27,PVRINOX.NS,PVR INOX LIMITED,Communication Services,1120.75,5.34,9.96,2.61,72.3,1120.75,943.5,0.0,0.0,110057603072,39.31,1622.2,4.84,31.9,56.5,269.28,146.89,554.7,34.19,5.75,145.17,N/A,0.92,N/A,N/A,Revenue +31.9% YoY | Profit +146.89% YoY | Profit +269.28% QoQ | EPS +145.17% YoY | EBITDA Margin 34.19%,No recent news
-2026-07-27,PRUDENT.NS,PRUDENT CORP ADV SER LTD,Financial Services,3003.3,5.05,6.09,3.57,50.1,3075.54,2610.61,-2.35,-2.44,124356681728,55.88,357.94,5.05,26.61,59.11,2.58,22.66,87.78,24.52,14.28,22.68,N/A,0.04,N/A,N/A,Revenue +26.61% YoY,No recent news
+2026-07-27,IDFCFIRSTB.NS,IDFC FIRST BANK LIMITED,Financial Services,84.88,5.06,3.79,7.06,63.1,84.88,71.25,0.0,-1.48,731402731520,45.15,7307.47,-4.07,9.35,330.64,-30.92,-2.8,N/A,N/A,0.38,-17.39,N/A,N/A,N/A,N/A,—,"IDFC First Bank shares soar 9% after Q1 profit jumps 132% to Rs 1,075 crore. What are analysts saying?
+Highest 5-year senior citizen FD interest rates: Public vs private sector banks- which offers highest maturity
+Quant Small Cap Fund exits RIL, 8 others; raises exposure to two Adani stocks. Check full list
+Stocks in news: Adani Enterprises, Cochin Shipyard, IDFC First Bank, Premier Energies, Glenmark Pharma
+Stock picks of the week: 5 stocks with consistent score improvement and upside potential of up to 25%"
