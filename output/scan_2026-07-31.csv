@@ -1,21 +1,61 @@
 Date,Stock,Company,Sector,Close Price,Daily Gain %,Week Gain %,Volume Spike (x avg),RSI (14d),52W High,52W Low,Dist from 52W High %,Sector Weekly Gain %,Market Cap,P/E Ratio,Revenue (Cr),Revenue QoQ %,Revenue YoY %,Net Profit (Cr),Profit QoQ %,Profit YoY %,Operating Profit (Cr),EBITDA Margin %,EPS,EPS Growth YoY %,Operating CF (Cr),Debt to Equity,ROE %,ROCE %,Growth Flags,News (Last 2 Days)
-2026-07-31,SMLMAH.NS,SML MAHINDRA LIMITED,Consumer Cyclical,5685.9,24.53,45.82,5.59,77.9,5685.9,3635.75,0.0,0.0,82284331008,52.55,957.54,77.56,188.59,63.62,262.71,11903.77,101.29,10.58,43.96,12111.11,N/A,0.56,N/A,N/A,Revenue +188.59% YoY | Revenue +77.56% QoQ | Profit +11903.77% YoY | Profit +262.71% QoQ | EPS +12111.11% YoY,No recent news
-2026-07-31,ASTRAMICRO.NS,ASTRA MICROWAVE LTD,Technology,1920.2,8.25,7.69,5.23,60.2,1920.2,1316.2,0.0,6.08,182313402368,94.97,488.24,87.61,19.71,105.98,126.38,44.22,168.48,34.51,11.16,44.19,N/A,0.22,15.99,9.44,Revenue +87.61% QoQ | Profit +44.22% YoY | Profit +126.38% QoQ | EPS +44.19% YoY | EBITDA Margin 34.51%,"Paras Defence, ideaForge, other defence stocks slide up to 5%. What’s triggering the selloff?
-Zen Tech, HAL & other defence stocks rally up to 6% on DAC's Rs 52,000-crore approval. Motilal picks 3 shares to buy
-Defence stocks fire up! Paras Defence, BEL, GRSE, other stocks surge up to 24% in 2 days. What's powering the rally?
-Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order
+2026-07-31,SMLMAH.NS,SML MAHINDRA LIMITED,Consumer Cyclical,5618.4,23.05,44.09,8.52,77.3,5618.4,3635.75,0.0,0.0,81307492352,51.92,957.54,77.56,188.59,63.62,262.71,11903.77,101.29,10.58,43.96,12111.11,N/A,0.56,N/A,N/A,Revenue +188.59% YoY | Revenue +77.56% QoQ | Profit +11903.77% YoY | Profit +262.71% QoQ | EPS +12111.11% YoY,No recent news
+2026-07-31,NAZARA.NS,NAZARA TECHNOLOGIES LTD,Communication Services,336.0,10.65,10.45,4.31,74.8,336.0,268.05,0.0,0.0,124476243968,12.35,397.78,-2.02,-23.53,46.96,377.24,187.39,97.79,24.58,1.27,2216.67,N/A,0.06,1.97,0.34,Profit +187.39% YoY | Profit +377.24% QoQ | EPS +2216.67% YoY,"Digital entertainment firm Rusk Media bags Rs 100 crore in funding led by Nazara Tech
+​Rusk Media raises Rs 100 crore Pre-Series C round led by Nazara Technologies​
+Unlock Stock Score, Analyst' Ratings & Recommendations
+Get multiple analysts' prediction on Nazara Technologies"
+2026-07-31,QUESS.NS,QUESS CORP LIMITED,Industrials,335.5,9.14,12.72,13.1,81.4,335.5,206.7,0.0,0.25,50110230528,22.59,4181.69,7.43,14.37,81.9,27.7,185.76,110.09,2.63,5.5,185.67,N/A,0.11,19.71,5.78,Profit +185.76% YoY | Profit +27.7% QoQ | EPS +185.67% YoY,"Beyond code, 9,000 physical AI jobs open in India as global demand rises to 80,000
+Talent shortage slows AI project progress beyond pilot stages
+BigBasket founder's exit; Pocket FM’s reverse flip
+Unlock Stock Score, Analyst' Ratings & Recommendations
+Get multiple analysts' prediction on Quess Corp"
+2026-07-31,AVALON.NS,AVALON TECHNOLOGIES LTD,Technology,1818.6,8.42,4.47,1.91,54.3,1818.6,1451.8,0.0,7.24,121503858688,107.36,479.89,14.93,40.0,41.15,26.22,69.51,68.78,14.33,6.16,67.85,N/A,0.3,16.94,9.15,Revenue +40.0% YoY | Profit +69.51% YoY | Profit +26.22% QoQ | EPS +67.85% YoY,"Silent winners! 43 stocks turned multibaggers even as Nifty went nowhere in 2 years
+Broader market winners! How investors found 15 multibaggers in a muted Nifty year?
+Holding stocks is harder than finding them: 10 mid- and small-caps stocks that may be worth holding on to
+Some obvious & some not so obvious: 8 stocks from 4 different sectors where US business matters
 Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-07-31,NETWEB.NS,NETWEB TECH INDIA LTD,Technology,4519.2,7.72,8.74,2.5,54.8,5111.1,4156.0,-11.58,6.08,257326366720,102.59,819.69,5.94,172.13,85.32,20.87,179.94,128.99,15.74,14.98,178.44,N/A,0.39,N/A,N/A,Revenue +172.13% YoY | Profit +179.94% YoY | Profit +20.87% QoQ | EPS +178.44% YoY,No recent news
-2026-07-31,PRICOLLTD.NS,PRICOL LIMITED,Consumer Cyclical,711.5,7.71,13.64,2.14,77.3,711.5,543.05,0.0,0.0,0,34.64,1077.9,5.64,75.01,73.23,14.98,76.67,135.05,12.53,6.0,76.47,N/A,0.3,22.09,10.81,Revenue +75.01% YoY | Profit +76.67% YoY | EPS +76.47% YoY | ROE 22.09%,No recent news
-2026-07-31,BALKRISIND.NS,BALKRISHNA IND. LTD,Consumer Cyclical,2475.6,7.31,22.95,3.5,68.4,2475.6,1970.32,0.0,0.0,478576050176,30.75,3455.27,17.81,25.54,450.77,50.53,22.31,844.07,24.43,23.32,22.35,N/A,0.35,N/A,N/A,Revenue +25.54% YoY | Revenue +17.81% QoQ | Profit +50.53% QoQ,No recent news
-2026-07-31,HYUNDAI.NS,HYUNDAI MOTOR INDIA LTD,Consumer Cyclical,2164.0,7.22,10.83,3.07,70.2,2164.0,1866.4,0.0,0.0,1758339006464,32.01,18437.91,4.65,12.96,1255.63,1.72,8.18,2225.35,12.07,15.45,8.12,N/A,0.05,29.92,12.4,ROE 29.92%,"Hyundai Motor Q1 Results: Profit slumps 35% YoY to Rs 889 crore as headwinds weigh on volumes
+2026-07-31,HYUNDAI.NS,HYUNDAI MOTOR INDIA LTD,Consumer Cyclical,2187.5,8.39,12.03,5.12,71.8,2187.5,1866.4,0.0,0.0,1777433706496,32.35,18437.91,4.65,12.96,1255.63,1.72,8.18,2225.35,12.07,15.45,8.12,N/A,0.05,29.92,12.4,ROE 29.92%,"Hyundai Motor Q1 Results: Profit slumps 35% YoY to Rs 889 crore as headwinds weigh on volumes
 Auto companies find it difficult to monetise software services after complimentary term ends
 June auto sales data: Commercial vehicle turns consensus player; brokerages list stocks to buy
 Domestic car sales surge in June on tax cuts, lower interest rates & strong demand
 Get multiple analysts' prediction on Hyundai Motor India"
-2026-07-31,BAJFINANCE.NS,BAJAJ FINANCE LIMITED,Financial Services,1123.8,6.67,10.96,1.92,70.4,1123.8,865.23,0.0,0.93,6987649646592,36.91,13162.66,2.3,19.37,5464.57,37.37,21.99,N/A,N/A,8.79,21.41,N/A,3.15,17.91,3.77,Profit +37.37% QoQ,"Mcap of nine of top-10 most valued firms erodes by Rs 2.74 lakh cr; HDFC Bank takes biggest hit
+2026-07-31,NETWEB.NS,NETWEB TECH INDIA LTD,Technology,4540.4,8.23,9.25,3.97,55.6,5111.1,4156.0,-11.17,7.24,258533490688,103.07,819.69,5.94,172.13,85.32,20.87,179.94,128.99,15.74,14.98,178.44,N/A,0.39,N/A,N/A,Revenue +172.13% YoY | Profit +179.94% YoY | Profit +20.87% QoQ | EPS +178.44% YoY,No recent news
+2026-07-31,BAJFINANCE.NS,BAJAJ FINANCE LIMITED,Financial Services,1140.2,8.23,12.58,3.04,72.3,1140.2,865.23,0.0,1.06,7088379002880,37.44,13162.66,2.3,19.37,5464.57,37.37,21.99,N/A,N/A,8.79,21.41,N/A,3.15,17.91,3.77,Profit +37.37% QoQ,"Mcap of nine of top-10 most valued firms erodes by Rs 2.74 lakh cr; HDFC Bank takes biggest hit
 M-cap of five of top 10 most valued firms jumps Rs 1.54 lakh cr; TCS biggest winner
 Reliance Industries, Groww and MTAR Technologies among stocks bought and sold by mutual funds in June
 Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome
 Get multiple analysts' prediction on Bajaj Finance"
-2026-07-31,VGUARD.NS,V-GUARD IND LTD.,Industrials,319.0,5.65,8.36,2.33,62.2,319.0,290.8,0.0,-0.0,139368235008,38.43,1810.65,3.16,17.72,130.25,16.16,42.93,202.64,11.19,2.97,42.79,N/A,0.07,N/A,N/A,Profit +42.93% YoY | EPS +42.79% YoY,No recent news
+2026-07-31,TDPOWERSYS.NS,TD POWER SYSTEMS LTD.,Industrials,1142.0,8.02,2.55,1.58,48.9,1354.1,1036.0,-15.66,0.25,178412863488,73.49,589.19,33.1,68.18,72.19,28.19,60.67,105.93,17.98,4.62,60.42,N/A,0.02,24.72,11.83,Revenue +68.18% YoY | Revenue +33.1% QoQ | Profit +60.67% YoY | Profit +28.19% QoQ | EPS +60.42% YoY | ROE 24.72%,"HPCL shares approach record date for Rs 5 interim dividend on Thursday. Do you own?
+Market Wrap: D-Street gains for 4th consecutive day, oil & gas lift sentiment; Sensex ends 303 points higher, Nifty over 25,600
+Stock Radar: TD Power Systems stock breaks out from Cup pattern to hit record highs; check target & stop loss
+TD Power Systems shares in focus after Goldman Sachs buys Rs 50 crore stake via block deal
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-07-31,JPPOWER.NS,JAIPRAKASH POWER VEN. LTD,Utilities,18.36,7.75,7.62,3.48,66.4,19.33,16.66,-5.02,0.0,125829513216,26.23,1775.7,28.08,32.42,468.84,3606.66,201.18,789.81,44.48,0.52,246.67,N/A,0.27,N/A,N/A,Revenue +32.42% YoY | Revenue +28.08% QoQ | Profit +201.18% YoY | Profit +3606.66% QoQ | EPS +246.67% YoY | EBITDA Margin 44.48%,"The accounting trick used by companies to make a weak balance sheet look strong
+Ahead of Market: 10 things that will decide stock market action on Tuesday
+Shareholder Meeting / Postal Ballot-Outcome of AGM
+Shareholder Meeting / Postal Ballot-Scrutinizer''s Report
+Announcement under Regulation 30 (LODR)-Cessation"
+2026-07-31,BALKRISIND.NS,BALKRISHNA IND. LTD,Consumer Cyclical,2478.8,7.45,23.11,4.86,68.5,2478.8,1970.32,0.0,0.0,479194644480,30.79,3455.27,17.81,25.54,450.77,50.53,22.31,844.07,24.43,23.32,22.35,N/A,0.35,N/A,N/A,Revenue +25.54% YoY | Revenue +17.81% QoQ | Profit +50.53% QoQ,No recent news
+2026-07-31,AETHER.NS,AETHER INDUSTRIES LIMITED,Basic Materials,1592.6,6.84,10.94,3.76,61.1,1592.6,1098.7,0.0,1.22,211358040064,96.23,305.12,-3.78,27.03,54.01,-16.24,7.38,93.89,30.77,4.07,7.39,0.96,0.19,9.38,6.36,Revenue +27.03% YoY | EBITDA Margin 30.77%,No recent news
+2026-07-31,M&M.NS,MAHINDRA & MAHINDRA LTD,Consumer Cyclical,3438.9,6.74,6.48,1.91,69.8,3438.9,2921.82,0.0,0.0,4129061076992,22.61,54891.55,6.42,32.38,4667.57,-0.15,46.75,11264.11,20.52,41.77,46.51,N/A,1.25,18.75,7.15,Revenue +32.38% YoY | Profit +46.75% YoY | EPS +46.51% YoY,"M&M shares climb 3% after strong Q1 results. Morgan Stanley sees up to 29% upside scope
+Mahindra Q1 net profit rises 34%, standalone earnings beat estimates
+M&M Q1 Results: Standalone profit rises 7% YoY to Rs 3,685 crore; revenue jumps 23%
+Announcement under Regulation 30 (LODR)-Newspaper Publication"
+2026-07-31,PARKHOSPS.NS,PARK MEDI WORLD LIMITED,Healthcare,297.0,6.36,4.65,2.12,56.7,299.3,254.15,-0.77,4.34,128283467776,43.23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,"Park Medi World shares surge over 6% after listing at discount. Should you buy now?
+Park Medi World shares list at 4% discount to IPO price on exchanges
+Park Medi World IPO Day 2: GMP slips to 9%; check subscription status, review and key highlights
+Unlock Stock Score, Analyst' Ratings & Recommendations
+Get multiple analysts' prediction on Park Medi World"
+2026-07-31,PRICOLLTD.NS,PRICOL LIMITED,Consumer Cyclical,701.35,6.18,12.02,2.96,75.7,701.35,543.05,0.0,0.0,85481586688,34.15,1077.9,5.64,75.01,73.23,14.98,76.67,135.05,12.53,6.0,76.47,N/A,0.3,22.09,10.81,Revenue +75.01% YoY | Profit +76.67% YoY | EPS +76.47% YoY | ROE 22.09%,No recent news
+2026-07-31,IMFA.NS,INDIAN METALS & FERRO,Basic Materials,1456.4,6.1,8.99,2.73,58.4,1536.3,1266.0,-5.2,1.22,78578761728,18.52,763.29,8.6,18.67,103.22,-21.38,10.61,164.97,21.61,19.13,10.58,N/A,0.35,16.71,8.76,—,No recent news
+2026-07-31,ASTRAMICRO.NS,ASTRA MICROWAVE LTD,Technology,1878.7,5.91,5.36,6.44,57.1,1878.7,1316.2,0.0,7.24,178373181440,92.91,488.24,87.61,19.71,105.98,126.38,44.22,168.48,34.51,11.16,44.19,N/A,0.22,15.99,9.44,Revenue +87.61% QoQ | Profit +44.22% YoY | Profit +126.38% QoQ | EPS +44.19% YoY | EBITDA Margin 34.51%,"Multibagger Astra Microwave shares rally 14% to 52-week high after Rs 2,205 crore order win from HAL
+Paras Defence, ideaForge, other defence stocks slide up to 5%. What’s triggering the selloff?
+Zen Tech, HAL & other defence stocks rally up to 6% on DAC's Rs 52,000-crore approval. Motilal picks 3 shares to buy
+Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-07-31,THOMASCOOK.NS,THOMAS COOK (INDIA) LTD,Consumer Cyclical,105.36,5.53,5.06,4.99,54.9,116.56,91.44,-9.61,0.0,49785126912,22.46,1770.69,-17.48,-10.07,38.66,-7.29,-40.13,114.42,6.46,0.83,-40.29,N/A,0.21,9.26,2.27,—,No recent news
+2026-07-31,ASHOKLEY.NS,ASHOK LEYLAND LTD,Industrials,166.32,5.21,10.09,2.06,62.9,166.32,138.58,0.0,0.25,976939515904,28.14,17138.9,16.1,17.09,1290.7,58.66,14.21,3720.23,21.71,2.2,14.58,N/A,3.45,21.64,7.52,Revenue +16.1% QoQ | Profit +58.66% QoQ | ROE 21.64%,"Ashok Leyland partners Shriram Automall for pre-owned commercial vehicles
+Stock picks of the week: 5 stocks with consistent score improvement and upside potential of up to 20%
+Ashok Leyland partners with Rosmerta Recycling to boost commercial vehicle scrapping
+Tata Motors CV acquisition delay won't dent long-term gains: Sudip Bandyopadhyay
+Announcement under Regulation 30 (LODR)-Restructuring"
