@@ -1,445 +1,434 @@
 Date,Stock,Company,Sector,Close Price,Daily Gain %,Week Gain %,Volume Spike (x avg),RSI (14d),52W High,52W Low,Dist from 52W High %,Sector Weekly Gain %,Market Cap,P/E Ratio,Revenue (Cr),Revenue QoQ %,Revenue YoY %,Net Profit (Cr),Profit QoQ %,Profit YoY %,Operating Profit (Cr),EBITDA Margin %,EPS,EPS Growth YoY %,Operating CF (Cr),Debt to Equity,ROE %,ROCE %,Growth Flags,News (Last 2 Days)
-2026-08-03,SUDEEPPHRM.NS,SUDEEP PHARMA LIMITED,Healthcare,,,,2.5,,881.79,728.51,,3.86,97994219520,55.94,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,"$53 billion value unlocking! D-St braces for 85 IPO lock-in expiries in 3 months. Check details
-Mukul Agrawal reshapes Rs 6,500-crore portfolio in Q3: Two new stocks, one exit. Do you own?
-Sudeep Pharma shares rally 8% after solid listing pop. Should you buy, sell or hold?
-Strong Start! Sudeep Pharma shares list at 24% premium over IPO price
+2026-08-03,JYOTICNC.NS,JYOTI CNC AUTOMATION LTD,Industrials,,,,1.88,,822.8,592.7,,0.28,195197239296,57.99,599.16,4.04,4.08,90.57,2.33,-16.89,172.19,28.74,3.98,-16.91,N/A,0.43,18.22,9.3,EBITDA Margin 28.74%,"Jyoti CNC shares crash 16% as France probes subsidiary, seizes bank accounts
+Risk-on trade back? Smallcap stocks rally up to 28% in 2026, but market breadth stays weak
+Ahead of Market: 10 things that will decide stock market action on Wednesday
+Share market update: Most active stocks of the day in terms of traded value
+Get multiple analysts' prediction on Jyoti CNC Automation"
+2026-08-03,DIVISLAB.NS,DIVI S LABORATORIES LTD,Healthcare,,,,3.12,,8056.0,6494.22,,3.86,2279047692288,88.81,2831.0,8.72,22.08,751.0,28.82,27.5,1089.0,38.47,28.31,27.52,N/A,0.0,N/A,N/A,Profit +28.82% QoQ | EBITDA Margin 38.47%,No recent news
+2026-08-03,RENUKA.NS,SHREE RENUKA SUGARS LTD,Consumer Defensive,,,,2.66,,24.06,21.49,,0.46,47529177088,N/A,2546.9,20.16,2.77,-122.2,-219.06,39.98,191.8,7.53,-0.57,40.63,N/A,N/A,N/A,-0.44,Revenue +20.16% QoQ | Profit +39.98% YoY | EPS +40.63% YoY,"Ethanol ecosystem: Judging fear by noise is not evidence; 15 stocks from the ecosystem
+A stock trader’s guide to navigating rare ‘Super El Niño’
+Dalmia Bharat, Shree Renuka and other sugar stocks jump up to 4%. What’s behind the rally?
+Balrampur Chini, other sugar stocks rally up to 18% as oil prices soar. Here’s why
 Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-08-03,TMCV.NS,TATA MOTORS LIMITED,Consumer Cyclical,,,,2.34,,440.5,354.35,,0.0,1666421882880,55.12,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,"Tata Motors CV shares rise 4% as July sales jump 37% YoY. Nomura expects Iveco to support earnings recovery; check target price
+2026-08-03,NH.NS,NARAYANA HRUDAYALAYA LTD.,Healthcare,,,,4.77,,2080.3,1839.02,,3.86,389890768896,47.54,2593.81,20.58,75.8,227.92,78.06,16.19,537.22,20.71,11.02,13.49,N/A,1.29,N/A,N/A,Revenue +75.8% YoY | Revenue +20.58% QoQ | Profit +78.06% QoQ,"Hospital expansion cycle to keep margins rangebound, but 18 per cent revenue growth trend likely to sustain: Kotak Securities
+Get multiple analysts' prediction on Narayana Hruday"
+2026-08-03,FSL.NS,FIRSTSOURCE SOLU. LTD.,Technology,,,,2.12,,302.12,228.45,,6.75,223975129088,33.96,2613.04,5.9,25.15,205.24,70.56,28.03,428.71,16.41,2.97,27.47,N/A,0.67,15.9,8.13,Revenue +25.15% YoY | Profit +70.56% QoQ,No recent news
+2026-08-03,RTNINDIA.NS,RATTANINDIA ENT LIMITED,Consumer Cyclical,,,,2.57,,39.13,31.07,,0.0,45721186304,N/A,1694.39,-15.44,12.77,-110.28,31.64,69.01,34.95,2.06,-0.8,68.99,N/A,1.43,N/A,N/A,Profit +69.01% YoY | Profit +31.64% QoQ | EPS +68.99% YoY,No recent news
+2026-08-03,CHAMBLFERT.NS,CHAMBAL FERTILIZERS LTD,Basic Materials,,,,1.98,,490.0,431.0,,-1.9,182296788992,9.45,5027.02,80.5,105.29,523.61,209.35,301.66,852.55,16.96,13.07,302.15,N/A,0.1,N/A,N/A,Revenue +105.29% YoY | Revenue +80.5% QoQ | Profit +301.66% YoY | Profit +209.35% QoQ | EPS +302.15% YoY,No recent news
+2026-08-03,RELIGARE.NS,RELIGARE ENTER. LTD.,Financial Services,,,,1.97,,278.36,224.7,,1.01,89096126464,101.2,2459.49,20.43,21.63,82.21,281.45,-16.52,148.49,6.04,2.47,-17.67,N/A,0.13,2.0,0.6,Revenue +20.43% QoQ | Profit +281.45% QoQ,No recent news
+2026-08-03,ALIVUS.NS,ALIVUS LIFE SCIENCES LTD,Healthcare,,,,1.96,,1168.4,1002.0,,3.86,149054783488,24.75,640.41,-7.07,-1.41,160.08,-1.59,12.83,234.12,36.56,13.04,12.71,N/A,0.02,N/A,N/A,EBITDA Margin 36.56%,No recent news
+2026-08-03,NETWEB.NS,NETWEB TECH INDIA LTD,Technology,,,,2.16,,5111.1,4156.0,,6.75,261129994240,100.37,819.69,5.94,172.13,85.32,20.87,179.94,128.99,15.74,14.98,178.44,N/A,0.39,N/A,N/A,Revenue +172.13% YoY | Profit +179.94% YoY | Profit +20.87% QoQ | EPS +178.44% YoY,No recent news
+2026-08-03,CORONA.NS,CORONA REMEDIES LIMITED,Healthcare,,,,3.72,,2113.0,1674.03,,3.86,0,69.68,353.09,3.12,18.61,45.33,9.84,0.85,66.41,18.81,7.41,0.82,25.37,0.22,N/A,N/A,—,"Stocks in news: IFCI, Tata Motors, General Insurance Corp, Corona Remedies, HFCL
+Unlock Stock Score, Analyst' Ratings & Recommendations
+Get multiple analysts' prediction on Corona Remedies"
+2026-08-03,MARUTI.NS,MARUTI SUZUKI INDIA LTD.,Consumer Cyclical,,,,2.12,,14538.0,12912.0,,0.0,4448796016640,31.07,51567.5,8.48,40.11,3659.0,-5.67,-1.82,6739.5,13.07,116.38,-1.82,N/A,0.0,N/A,N/A,Revenue +40.11% YoY,"Maruti Suzuki shares decline over 2% after Q1. Morgan Stanley, Motilal Oswal decode the road ahead
 TVS Motor EV sales jump 158% to record high in July as pricey fuel drives demand
-India's electric car sales jump 82% in July as high fuel prices boost EV demand
-India PV sales hit record high in July, up 34% on strong demand and GST cuts
-Get multiple analysts' prediction on Tata Motors CV"
-2026-08-03,ADVENZYMES.NS,ADVANCED ENZYME TECH LTD,Basic Materials,,,,6.97,,378.62,306.18,,-1.9,36252278784,21.5,203.37,18.27,21.65,42.96,1.09,62.23,70.46,34.64,3.84,62.03,N/A,0.02,11.02,6.85,Revenue +18.27% QoQ | Profit +62.23% YoY | EPS +62.03% YoY | EBITDA Margin 34.64%,"Bonus, dividends and stock splits: Bharti Airtel, Hero MotoCorp among 88 stocks turning ex-date this week. Do you own any?
-Market wrap: 263 of BSE 500 stocks end week in green as FIIs turn net buyers. IT, health scrips shine
-Pidilite, Aditya Birla AMC among 18 dividend stocks with record date on Wednesday. Do you own?
-For the calibrated risk taker: 4 stocks where the undercurrent of budget may make the difference to the growth of real business
+Buy, Sell or Hold: Morgan Stanley maintains buy on Maruti Suzuki; Citi retains buy on Sun Pharma
+Maruti Suzuki Production Volume: July 2026
+Get multiple analysts' prediction on Maruti Suzuki"
+2026-08-03,RAINBOW.NS,RAINBOW CHILDRENS MED LTD,Healthcare,,,,1.82,,1525.4,1323.59,,3.86,156801335296,55.06,469.99,2.19,33.17,60.57,-21.38,13.22,147.35,31.35,5.97,13.28,N/A,0.54,N/A,N/A,Revenue +33.17% YoY | EBITDA Margin 31.35%,No recent news
+2026-08-03,LUMAXTECH.NS,LUMAX AUTO TECH LTD,Consumer Cyclical,,,,2.38,,1771.9,1419.6,,0.0,110803976192,39.72,1416.93,11.51,25.07,88.12,6.85,50.94,208.19,14.69,12.93,50.88,N/A,0.83,24.35,8.34,Revenue +25.07% YoY | Profit +50.94% YoY | EPS +50.88% YoY | ROE 24.35%,"Dividends & stock splits: Maruti Suzuki, ICICI Bank among nearly 100 stocks turning ex-date this week. Do you own?
+Time to take selective risks? 5 small-caps from different sectors with upside potential of up to 35%
+These large-, mid- and small-cap stocks can give more than 25% return in 1 year, according to analysts
+Announcement under Regulation 30 (LODR)-Newspaper Publication
 Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-08-03,GAIL.NS,GAIL (INDIA) LTD,Utilities,,,,3.56,,181.44,163.86,,0.0,1146036420608,11.6,35576.55,1.15,-3.42,1484.72,-15.46,-63.62,2703.0,7.6,2.26,-63.61,N/A,0.28,N/A,N/A,—,No recent news
-2026-08-03,AUROPHARMA.NS,AUROBINDO PHARMA LTD,Healthcare,,,,1.74,,1620.5,1396.7,,3.86,894540054528,25.76,8751.5,1.71,10.87,921.26,1.21,8.92,1867.39,21.34,15.86,8.93,N/A,0.21,9.93,5.86,—,"Quant Mid Cap Fund adds Adani Energy and 4 others, exits Paytm and 3 more stocks in May
-Business Responsibility and Sustainability Reporting (BRSR)
-Get multiple analysts' prediction on Aurobindo Pharma"
-2026-08-03,FORTIS.NS,FORTIS HEALTHCARE LTD,Healthcare,,,,1.95,,989.3,929.26,,3.86,709660639232,68.12,2364.67,4.4,17.81,265.85,37.23,44.57,542.94,22.96,3.52,44.26,N/A,0.34,11.01,6.84,Profit +44.57% YoY | Profit +37.23% QoQ | EPS +44.26% YoY,"Stock picks of the week: 5 stocks with consistent score improvement and upside potential of up to 28%
+2026-08-03,3MINDIA.NS,3M INDIA LIMITED,Industrials,,,,1.53,,36018.37,30720.1,,0.28,405035581440,77.52,1399.24,13.94,28.38,215.34,447.02,89.28,269.46,19.26,191.16,89.29,N/A,0.1,28.9,18.76,Revenue +28.38% YoY | Profit +89.28% YoY | Profit +447.02% QoQ | EPS +89.29% YoY | ROE 28.9%,"3M India temporarily shuts Ahmedabad plant amid heavy rains; operations at other facilities remain unaffected
+Get multiple analysts' prediction on 3M India"
+2026-08-03,CENTURYPLY.NS,CENTURY PLYBOARDS (I) LTD,Basic Materials,,,,3.68,,799.5,724.6,,-1.9,171695292416,58.95,1492.21,10.53,24.52,78.08,22.24,48.79,182.12,12.2,3.51,48.73,N/A,0.67,N/A,N/A,Profit +48.79% YoY | Profit +22.24% QoQ | EPS +48.73% YoY,No recent news
+2026-08-03,TBOTEK.NS,TBO TEK LIMITED,Consumer Cyclical,,,,3.92,,1531.2,1189.1,,0.0,172552241152,65.55,925.78,13.68,107.51,83.36,38.7,41.51,150.91,16.3,7.77,40.25,N/A,0.49,N/A,N/A,Revenue +107.51% YoY | Profit +41.51% YoY | Profit +38.7% QoQ | EPS +40.25% YoY,"Market Trading Guide: TBO Tek among 2 stock recommendations for Thursday
+Betting on India’s travel boom? Motilal Oswal sees TBO Tek and Ixigo as key beneficiaries
+Motilal Oswal bullish on online travel portals
+Falling crude oil price sends tyre, paint, oil marketing and airline companies soaring in relief rally
+Get multiple analysts' prediction on TBO Tek"
+2026-08-03,FORTIS.NS,FORTIS HEALTHCARE LTD,Healthcare,,,,2.01,,989.3,929.26,,3.86,709660639232,68.12,2364.67,4.4,17.81,265.85,37.23,44.57,542.94,22.96,3.52,44.26,N/A,0.34,11.01,6.84,Profit +44.57% YoY | Profit +37.23% QoQ | EPS +44.26% YoY,"Stock picks of the week: 5 stocks with consistent score improvement and upside potential of up to 28%
 These large- and mid-cap stocks can give more than 20% return in 1 year, according to analysts
 For low risk-takers: 5 large-caps from different sectors with an upside potential of up to 31%
 Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
 Get multiple analysts' prediction on Fortis Healthcare"
-2026-08-03,GAEL.NS,GUJARAT AMBUJA EXPORTS LT,Consumer Defensive,,,,3.88,,172.59,139.14,,0.46,82872606720,27.25,1466.51,-1.19,15.78,135.32,105.28,324.2,220.15,15.01,2.95,321.43,N/A,0.13,N/A,N/A,Profit +324.2% YoY | Profit +105.28% QoQ | EPS +321.43% YoY,No recent news
-2026-08-03,ABCAPITAL.NS,ADITYA BIRLA CAPITAL LTD.,Financial Services,,,,3.76,,409.75,336.6,,1.01,1161067102208,27.48,13077.54,13.71,45.43,1129.16,19.49,59.49,N/A,N/A,4.31,58.46,N/A,4.96,N/A,N/A,Revenue +45.43% YoY | Profit +59.49% YoY | EPS +58.46% YoY,"Aditya Birla Capital Q1 Results: Profit jumps 40% YoY to Rs 1,175 crore
-Capitalmind Flexi Cap Fund adds Nestle India and 10 others, exits SBI and 14 others in May
-Get multiple analysts' prediction on Aditya Birla Cap."
-2026-08-03,DIVISLAB.NS,DIVI S LABORATORIES LTD,Healthcare,,,,3.12,,8056.0,6494.22,,3.86,2279047692288,88.81,2831.0,8.72,22.08,751.0,28.82,27.5,1089.0,38.47,28.31,27.52,N/A,0.0,N/A,N/A,Profit +28.82% QoQ | EBITDA Margin 38.47%,No recent news
-2026-08-03,JKTYRE.NS,JK TYRE & INDUSTRIES LTD,Consumer Cyclical,,,,1.6,,416.01,348.94,,0.0,118285180928,15.07,4223.44,0.01,14.96,177.99,-14.32,238.38,546.46,12.94,6.25,237.84,N/A,0.81,14.05,6.41,Profit +238.38% YoY | EPS +237.84% YoY,"Stock picks of the week: 5 stocks with consistent score improvement and upside potential of up to 24%
-Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
-Board Meeting Intimation for Interalia, Considering And Approving The Standalone & Consolidated Unaudited Financial Results Of The Company For The First Quarter Ended 30Th June 2026.
-Get multiple analysts' prediction on JK Tyre"
-2026-08-03,IREDA.NS,INDIAN RENEWABLE ENERGY,Financial Services,,,,1.9,,130.85,118.3,,1.01,345535447040,18.28,2150.85,1.39,28.72,492.63,-15.81,15.81,1061.52,49.35,1.76,11.39,N/A,5.66,N/A,N/A,Revenue +28.72% YoY | EBITDA Margin 49.35%,No recent news
+2026-08-03,STAR.NS,STRIDES PHARMA SCI LTD,Healthcare,,,,1.89,,1122.94,973.64,,3.86,94799634432,15.46,1323.47,10.78,14.72,126.94,-37.19,44.34,249.28,18.84,13.77,44.04,N/A,0.56,N/A,N/A,Profit +44.34% YoY | EPS +44.04% YoY,No recent news
+2026-08-03,TI.NS,TILAKNAGAR INDUSTRIES LTD,Consumer Defensive,,,,1.93,,467.1,416.1,,0.46,115132170240,N/A,1046.03,10.17,165.54,31.59,311.93,-64.31,173.46,16.58,1.28,-71.99,N/A,0.77,N/A,N/A,Revenue +165.54% YoY | Profit +311.93% QoQ,"These mid-cap stocks with ‘Strong Buy’ & ‘Buy’ recos can rally over 25%, according to analysts
+Liquor stocks have macro tailwinds, but will FTAs become a problem? 6 liquor stocks with an upside potential of up to 26%
+These large- and mid-cap stocks with ‘Strong Buy’ & ‘Buy’ recos can rally over 20% in one year, according to analysts
+Announcement under Regulation 30 (LODR)-Change in Directorate
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-08-03,ETHOSLTD.NS,ETHOS LIMITED,Consumer Cyclical,,,,11.12,,2663.1,2351.1,,0.0,79275016192,81.59,414.01,-11.63,32.99,22.0,-27.69,-3.28,62.96,15.21,8.2,-11.73,N/A,0.19,7.27,4.1,Revenue +32.99% YoY,No recent news
+2026-08-03,ASKAUTOLTD.NS,ASK AUTOMOTIVE LIMITED,Consumer Cyclical,,,,2.8,,528.05,421.36,,0.0,112302284800,37.73,1147.12,5.8,25.35,71.54,-10.49,8.57,139.29,12.14,3.63,8.68,N/A,0.52,25.26,11.68,Revenue +25.35% YoY | ROE 25.26%,"ET Prime Special Series: Multibagger or IBC - Part 64: An old 2-wheeler supplier that now earns more from a newer business
+Unlock Stock Score, Analyst' Ratings & Recommendations
+Get multiple analysts' prediction on ASK Automotive"
+2026-08-03,MINDACORP.NS,MINDA CORPORATION LTD,Consumer Cyclical,,,,2.86,,709.5,626.4,,0.0,171248599040,48.28,1703.81,9.2,36.03,124.61,45.4,92.3,208.99,12.27,5.29,92.36,N/A,0.55,14.74,5.95,Revenue +36.03% YoY | Profit +92.3% YoY | Profit +45.4% QoQ | EPS +92.36% YoY,"Unexpected gainer of trouble in the Gulf? 13 stocks from backend of the EV shift, with upside potential of up to 33%
+For long-term investors: Look beyond strength of balance sheet; 5 stocks from different sectors with upside potential of up to 31%
+From Kalyan Jewellers' 52-week high to Trent's reality check: LKP Securities' top trading ideas
+For investors with ability – and patience to wait 3 years, not 3 months: 6 large-cap stocks with upside potential of up to 33%
+Get multiple analysts' prediction on Minda Corp."
+2026-08-03,MUTHOOTFIN.NS,MUTHOOT FINANCE LIMITED,Financial Services,,,,7.34,,3218.3,2890.0,,1.01,1160605204480,10.95,6136.58,15.34,74.53,3349.47,19.45,126.67,N/A,N/A,83.43,126.65,N/A,3.94,31.74,6.4,Revenue +74.53% YoY | Revenue +15.34% QoQ | Profit +126.67% YoY | EPS +126.65% YoY | ROE 31.74%,"Muthoot Finance shares crash 10% after Q1 results. What Motilal, other brokerages said
+Stocks in news: Maruti Suzuki, ITC, ZEE, Persistent Systems, and Muthoot Finance
+Muthoot Finance reports 25% rise in Q1 profit, announces leadership transition
+These large-caps have ‘strong buy’ & ‘buy’ recos and an upside potential of up to 25%
+Get multiple analysts' prediction on Muthoot Finance"
+2026-08-03,JSWINFRA.NS,JSW INFRASTRUCTURE LTD,Industrials,,,,1.54,,351.2,267.64,,0.28,761688227840,46.4,1444.83,-5.09,12.6,346.63,-17.13,-31.95,564.84,39.09,1.65,-32.93,N/A,0.59,N/A,N/A,EBITDA Margin 39.09%,"JSW Infra raises ₹7,503 crore via QIP to fund capex plan
+Stocks in news: TCS, JSW Infra, Craftsman Automation, IIFL Finance, Transrail Lighting
+JSW Infrastructure launches Rs 7,500 crore QIP, to fund capex, repay debt
+Get multiple analysts' prediction on JSW Infrastructure"
+2026-08-03,GMRP&UI.NS,GMR POW AND URBAN INFRA L,Energy,,,,1.93,,109.48,96.5,,0.19,75899281408,12.41,2004.09,7.23,15.35,-111.67,33.59,-164.86,570.81,28.48,-1.47,-340.98,N/A,5.5,41.51,3.46,Profit +33.59% QoQ | EBITDA Margin 28.48% | ROE 41.51%,No recent news
+2026-08-03,RATEGAIN.NS,RATEGAIN TRAVEL TECHN LTD,Technology,,,,2.15,,977.2,745.75,,6.75,114298904576,58.72,715.55,32.5,174.48,69.99,164.57,27.7,149.6,20.91,5.93,27.53,N/A,0.47,10.54,5.87,Revenue +174.48% YoY | Revenue +32.5% QoQ | Profit +164.57% QoQ,No recent news
+2026-08-03,MANAPPURAM.NS,MANAPPURAM FINANCE LTD,Financial Services,,,,3.64,,371.85,288.25,,1.01,342857678848,30.88,1496.66,7.24,-7.31,403.96,67.58,43.22,N/A,N/A,4.77,44.98,N/A,3.6,6.97,1.6,Profit +43.22% YoY | Profit +67.58% QoQ | EPS +44.98% YoY,"Tata Capital joins the race to own a piece of India's dormant wealth
+Tata Capital to buy 88.6% in Yogloans, enters gold loan business
+Manappuram Finance, Muthoot Finance, other gold financier stocks drop up to 3%. Here's why
+Get multiple analysts' prediction on Manappuram Finance"
+2026-08-03,JPPOWER.NS,JAIPRAKASH POWER VEN. LTD,Utilities,,,,2.77,,19.33,16.66,,0.0,128570892288,26.8,1775.7,28.08,32.42,468.84,3606.66,201.18,789.81,44.48,0.52,246.67,N/A,0.27,N/A,N/A,Revenue +32.42% YoY | Revenue +28.08% QoQ | Profit +201.18% YoY | Profit +3606.66% QoQ | EPS +246.67% YoY | EBITDA Margin 44.48%,"The accounting trick used by companies to make a weak balance sheet look strong
+Shareholder Meeting / Postal Ballot-Outcome of AGM
+Shareholder Meeting / Postal Ballot-Scrutinizer''s Report
+Nippon India Nifty Smallcap 250 Index Direct-G"
+2026-08-03,SONATSOFTW.NS,SONATA SOFTWARE LTD,Technology,,,,1.71,,322.45,250.63,,6.75,95729369088,20.66,2536.19,-17.67,-3.1,130.5,25.05,21.36,246.26,9.71,4.71,21.71,N/A,0.38,25.72,6.89,Profit +25.05% QoQ | ROE 25.72%,"Sonata Software shares rally 10% as Q4 net profit rises 21% despite revenue contraction; firm announces dividend
+Ahead of Market: 10 things that will decide stock market action on Friday
+Ahead of Market: 10 things that will decide stock market action on Thursday
+Shareholder Meeting / Postal Ballot-Scrutinizer''s Report
+Get multiple analysts' prediction on Sonata Software"
+2026-08-03,BATAINDIA.NS,BATA INDIA LTD,Consumer Cyclical,,,,2.17,,779.74,649.1,,0.0,91209572352,67.97,827.63,-12.39,-9.92,2.21,-96.66,-96.24,170.49,20.6,0.17,-96.28,N/A,0.87,8.47,5.22,—,"Ecommerce isn't adding much to Retail Inc's cart
+Get multiple analysts' prediction on Bata India"
+2026-08-03,BLUEJET.NS,BLUE JET HEALTHCARE LTD,Healthcare,,,,4.81,,626.25,447.1,,3.86,102257868800,41.28,234.67,21.96,-26.29,64.34,60.2,-34.99,94.19,40.14,3.71,-35.03,N/A,0.03,19.88,11.04,Revenue +21.96% QoQ | Profit +60.2% QoQ | EBITDA Margin 40.14%,"Blue Jet Healthcare shares rally 9% after Rs 800 crore QIP allotment
+Get multiple analysts' prediction on Blue Jet Healthcare
+ICICI Pru Pharma Healthcare and Diagnostics (P.H.D) Direct-G"
+2026-08-03,BBTC.NS,BOMBAY BURMAH TRADING COR,Consumer Defensive,,,,3.97,,1589.3,1458.2,,0.46,107253366784,8.63,4785.34,-3.89,7.27,443.96,40.35,43.84,913.45,19.09,63.63,43.83,N/A,0.17,28.71,15.56,Profit +43.84% YoY | Profit +40.35% QoQ | EPS +43.83% YoY | ROE 28.71%,No recent news
+2026-08-03,IEX.NS,INDIAN ENERGY EXC LTD,Financial Services,,,,2.25,,134.19,116.81,,1.01,113830436864,22.46,157.88,-9.42,10.99,134.76,3.84,15.07,183.58,116.28,1.52,15.15,N/A,0.01,N/A,N/A,EBITDA Margin 116.28%,No recent news
+2026-08-03,ARE&M.NS,AMARA RAJA ENERGY MOB LTD,Industrials,,,,1.78,,910.45,791.56,,0.28,170634543104,19.03,3535.75,3.68,8.05,314.33,124.28,5.35,412.34,11.66,17.17,5.34,N/A,0.05,11.57,5.19,Profit +124.28% QoQ,No recent news
+2026-08-03,WOCKPHARMA.NS,WOCKHARDT LIMITED,Healthcare,,,,1.93,,2073.9,1810.7,,3.86,329599123456,154.49,965.0,8.67,33.84,166.0,181.36,1085.71,270.0,27.98,10.23,1024.18,N/A,0.42,4.0,3.67,Revenue +33.84% YoY | Profit +1085.71% YoY | Profit +181.36% QoQ | EPS +1024.18% YoY | EBITDA Margin 27.98%,"Pharma in her DNA, Wockhardt scion ready for deep dive in the US
+CG Power's growth momentum strong, but valuation comfort missing: Sandip Sabharwal"
+2026-08-03,TRAVELFOOD.NS,TRAVEL FOOD SERVICES LTD,Consumer Cyclical,,,,2.02,,1355.5,1184.2,,0.0,177056235520,40.16,460.68,0.99,12.12,120.8,-8.96,23.59,239.29,51.94,9.17,23.58,N/A,0.17,35.7,14.89,EBITDA Margin 51.94% | ROE 35.7%,"Tourism and hotel sector stocks: Time for a correction in business? Are analysts getting it wrong? 15 stocks from the ecosystem
+Dreamfolks shares hit 5% lower circuit for second consecutive session: Here’s why
+DreamFolks shares hit 5% lower circuit after exiting domestic lounge business
+Travel Food Services shares in focus on license for lounge operations at India’s 8th busiest airport
+Get multiple analysts' prediction on Travel Food Services"
+2026-08-03,ASHAPURMIN.NS,ASHAPURA MINECHEM LTD,Basic Materials,,,,1.91,,740.6,627.35,,-1.9,68573405184,17.09,1968.63,104.97,254.55,110.73,31.49,28.03,180.58,9.17,11.59,27.64,N/A,0.88,29.05,7.84,Revenue +254.55% YoY | Revenue +104.97% QoQ | Profit +31.49% QoQ | ROE 29.05%,"Market Trading Guide: Lloyds Metals among 2 stock recommendations for Thursday
+Announcement under Regulation 30 (LODR)-Newspaper Publication
+Board Meeting Intimation for Meeting Of The Board Of Director Of The Company Is Scheduled To Be Held On 7Th August, 2026.
+Unlock Stock Score, Analyst' Ratings & Recommendations
+Motilal Oswal Nifty Microcap 250 Index Direct-G"
+2026-08-03,ABLBL.NS,ADITYA BIRLA LIFES BRAN L,Consumer Cyclical,,,,1.74,,101.55,92.85,,0.0,116495958016,68.02,2174.16,-7.21,1.67,54.52,-21.0,-9.6,374.69,17.23,0.45,-9.27,N/A,2.14,N/A,N/A,—,No recent news
+2026-08-03,CCAVENUE.NS,AVENUESAI LIMITED,Technology,,,,5.37,,18.21,13.24,,6.75,60674174976,18.74,2489.54,4.55,114.52,79.38,10.43,61.67,116.52,4.68,0.28,40.0,N/A,0.09,6.69,2.75,Revenue +114.52% YoY | Profit +61.67% YoY | EPS +40.0% YoY,No recent news
+2026-08-03,TITAGARH.NS,TITAGARH RAIL SYSTEMS LTD,Industrials,,,,2.46,,932.6,810.4,,0.28,115691495424,95.56,875.43,5.21,-12.94,52.02,8.1,142.61,89.61,10.24,3.97,143.15,N/A,0.25,4.92,4.76,Profit +142.61% YoY | EPS +143.15% YoY,No recent news
+2026-08-03,AARTIDRUGS.NS,AARTI DRUGS LTD.,Healthcare,,,,1.68,,426.9,366.05,,3.86,37169709056,19.07,720.3,19.71,6.43,55.19,36.14,-12.2,96.56,13.41,6.05,-12.06,N/A,0.37,N/A,N/A,Revenue +19.71% QoQ | Profit +36.14% QoQ,"Stock picks of the week: 5 stocks with consistent score improvement and upside potential of up to 25%
+Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome
+Announcement under Regulation 30 (LODR)-Newspaper Publication
+Announcement under Regulation 30 (LODR)-Investor Presentation
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-08-03,JIOFIN.NS,JIO FIN SERVICES LTD,Financial Services,,,,1.54,,256.46,228.02,,1.01,1736626274304,82.7,1794.71,107.75,469.44,830.25,204.99,162.65,1397.46,77.87,1.27,154.0,N/A,0.16,N/A,N/A,Revenue +469.44% YoY | Revenue +107.75% QoQ | Profit +162.65% YoY | Profit +204.99% QoQ | EPS +154.0% YoY | EBITDA Margin 77.87%,No recent news
+2026-08-03,THELEELA.NS,LEELA PALACES HOTEL LTD,Consumer Cyclical,,,,4.95,,502.2,406.65,,0.0,167580057600,36.9,484.42,5.9,30.76,171.77,16.15,204.09,275.51,56.87,9.78,1503.28,N/A,0.28,N/A,N/A,Revenue +30.76% YoY | Profit +204.09% YoY | EPS +1503.28% YoY | EBITDA Margin 56.87%,No recent news
+2026-08-03,LATENTVIEW.NS,LATENT VIEW ANALYTICS LTD,Industrials,,,,2.39,,317.6,264.25,,0.28,61632606208,31.19,288.62,3.82,24.31,52.75,5.21,-1.35,83.72,29.01,2.55,-1.54,N/A,0.02,N/A,N/A,EBITDA Margin 29.01%,"Ahead of Market: 10 things that will decide stock market action on Wednesday
+Two Trades for Today: An auto ancillary player for a rise of 7.2%, a mid-cap IT stock for an almost 7% gain
+Ahead of Market: 10 things that will decide stock market action on Tuesday
+Latent View Analytics shares rally 8% after Q3FY26 profit up 19% YoY
+Get multiple analysts' prediction on Latent View Analytics"
+2026-08-03,BALRAMCHIN.NS,BALRAMPUR CHINI MILLS LTD,Consumer Defensive,,,,3.91,,624.75,527.1,,0.46,136776933376,34.81,1603.99,10.31,6.67,159.57,40.68,-30.36,306.43,19.1,7.9,-30.4,N/A,0.77,9.54,4.54,Profit +40.68% QoQ,"The ethanol story is changing. Is investing in the ecosystem the better way? 15 stocks across different market cap segments
+Ethanol ecosystem: Judging fear by noise is not evidence; 15 stocks from the ecosystem
+Dwarikesh Sugar, Dhampur Sugar and other sugar stocks gain up to 4% after excise duty cut on ethanol-blended petrol
+Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS
+Get multiple analysts' prediction on Balrampur Chini"
+2026-08-03,GHCL.NS,GHCL LIMITED,Basic Materials,,,,2.64,,445.7,408.39,,-1.9,40708153344,8.85,790.51,4.49,1.51,115.64,9.08,-31.34,189.22,23.94,12.28,-30.62,N/A,0.02,N/A,N/A,—,"Dividends and bonus issues: 31 stocks turning ex-record date this week. Do you own any?
+Audio Recordings- Investors' Conference (U/R 30 LODR)
+Announcement under Regulation 30 (LODR)-Newspaper Publication
+Announcement under Regulation 30 (LODR)-Press Release / Media Release
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-08-03,AAVAS.NS,AAVAS FINANCIERS LIMITED,Financial Services,,,,1.82,,1525.9,1256.9,,1.01,114098348032,16.69,642.04,2.4,12.21,171.27,-5.72,23.01,123.01,19.16,21.6,22.8,N/A,3.11,N/A,N/A,—,"NHB probing Aavas Financiers over loan classification lapses
+Aavas Financiers sees top-level churn: CFO and CRO to exit, interim replacements named
+Get multiple analysts' prediction on Aavas Financiers"
+2026-08-03,NATIONALUM.NS,NATIONAL ALUMINIUM CO LTD,Basic Materials,,,,1.84,,436.9,332.15,,-1.9,677717147648,11.04,4730.95,10.22,1.47,1595.15,11.55,1.84,2182.35,46.13,8.69,1.88,N/A,0.0,N/A,N/A,EBITDA Margin 46.13%,No recent news
 2026-08-03,APARINDS.NS,APAR INDUSTRIES LTD.,Industrials,,,,2.01,,16665.0,13276.0,,0.28,592549117952,50.13,6566.62,-0.07,26.56,467.45,84.44,86.99,791.48,12.05,116.37,87.0,N/A,0.18,N/A,N/A,Revenue +26.56% YoY | Profit +86.99% YoY | Profit +84.44% QoQ | EPS +87.0% YoY,"AI Powerplay! Proxy power stocks give up to 100% returns in India's hottest trade this year
 Up to 451% return in 6 months! 11 smallcap stocks turn multibaggers as FIIs raise stakes for 2 straight quarters
 Laurus Labs, Biocon, Ather Energy, Lenskart among probable MSCI India Standard Index inclusion candidates, says JM Financial
 Announcement under Regulation 30 (LODR)-Earnings Call Transcript
 Get multiple analysts' prediction on Apar Industries"
-2026-08-03,AADHARHFC.NS,AADHAR HOUSING FINANCE L,Financial Services,,,,1.79,,556.5,453.05,,1.01,220483502080,19.56,910.56,2.97,17.22,310.92,10.57,26.99,273.24,30.01,7.16,26.06,N/A,2.56,N/A,N/A,EBITDA Margin 30.01%,No recent news
-2026-08-03,CRIZAC.NS,CRIZAC LIMITED,Consumer Defensive,,,,5.87,,218.57,184.44,,0.46,34275571712,15.63,391.73,40.59,79.97,74.5,49.18,72.08,100.77,25.72,4.29,73.39,N/A,0.0,40.0,18.18,Revenue +79.97% YoY | Revenue +40.59% QoQ | Profit +72.08% YoY | Profit +49.18% QoQ | EPS +73.39% YoY | EBITDA Margin 25.72% | ROE 40.0%,No recent news
-2026-08-03,THOMASCOOK.NS,THOMAS COOK (INDIA) LTD,Consumer Cyclical,,,,2.11,,116.56,91.44,,0.0,50630946816,22.85,1770.69,-17.48,-10.07,38.66,-7.29,-40.13,114.42,6.46,0.83,-40.29,N/A,0.21,9.26,2.27,—,No recent news
-2026-08-03,RTNINDIA.NS,RATTANINDIA ENT LIMITED,Consumer Cyclical,,,,2.57,,39.13,31.07,,0.0,45721186304,N/A,1694.39,-15.44,12.77,-110.28,31.64,69.01,34.95,2.06,-0.8,68.99,N/A,1.43,N/A,N/A,Profit +69.01% YoY | Profit +31.64% QoQ | EPS +68.99% YoY,No recent news
-2026-08-03,ETHOSLTD.NS,ETHOS LIMITED,Consumer Cyclical,,,,11.12,,2663.1,2351.1,,0.0,79275016192,81.59,414.01,-11.63,32.99,22.0,-27.69,-3.28,62.96,15.21,8.2,-11.73,N/A,0.19,7.27,4.1,Revenue +32.99% YoY,No recent news
-2026-08-03,KNRCON.NS,KNR CONSTRU LTD.,Industrials,,,,1.72,,140.86,117.85,,0.28,35584614400,8.14,695.59,-6.41,-28.67,106.21,3.31,-23.72,188.09,27.04,3.78,-23.64,N/A,0.49,9.19,5.34,EBITDA Margin 27.04%,No recent news
-2026-08-03,GALLANTT.NS,GALLANTT ISPAT LIMITED,Basic Materials,,,,1.72,,741.8,521.2,,-1.9,151427907584,31.22,1204.81,12.22,7.73,122.83,22.33,8.06,208.91,17.34,5.09,8.07,N/A,N/A,N/A,N/A,Profit +22.33% QoQ,No recent news
-2026-08-03,SHREECEM.NS,SHREE CEMENT LIMITED,Basic Materials,,,,2.23,,27245.0,23354.29,,-1.9,974180188160,59.9,6101.0,27.09,33.42,525.69,97.11,171.81,1485.15,24.34,145.7,171.78,N/A,0.38,N/A,N/A,Revenue +33.42% YoY | Revenue +27.09% QoQ | Profit +171.81% YoY | Profit +97.11% QoQ | EPS +171.78% YoY,"India's growth story, not AI trade reversal, will drive foreign flows: Sameer Dalal
-Cement firms do well amid strain, but face capacity test
-Announcement under Regulation 30 (LODR)-Demise
-Voting Results Of The 47Th Annual General Meeting (AGM) Of The Company
-Get multiple analysts' prediction on Shree Cements"
-2026-08-03,PAYTM.NS,ONE 97 COMMUNICATIONS LTD,Technology,,,,2.04,,1386.5,1023.1,,6.75,903365132288,140.02,2448.0,8.13,28.03,220.0,19.57,140.74,385.0,15.73,3.44,140.61,N/A,0.01,N/A,N/A,Revenue +28.03% YoY | Profit +140.74% YoY | EPS +140.61% YoY,No recent news
-2026-08-03,JPPOWER.NS,JAIPRAKASH POWER VEN. LTD,Utilities,,,,2.77,,19.33,16.66,,0.0,128570892288,26.8,1775.7,28.08,32.42,468.84,3606.66,201.18,789.81,44.48,0.52,246.67,N/A,0.27,N/A,N/A,Revenue +32.42% YoY | Revenue +28.08% QoQ | Profit +201.18% YoY | Profit +3606.66% QoQ | EPS +246.67% YoY | EBITDA Margin 44.48%,"The accounting trick used by companies to make a weak balance sheet look strong
-Shareholder Meeting / Postal Ballot-Outcome of AGM
-Shareholder Meeting / Postal Ballot-Scrutinizer''s Report
-Nippon India Nifty Smallcap 250 Index Direct-G"
-2026-08-03,KSCL.NS,KAVERI SEED CO. LTD.,Basic Materials,,,,2.79,,944.2,797.65,,-1.9,39837396992,13.7,107.11,-49.04,18.68,-27.81,-313.85,-21.2,-10.41,-9.72,-6.56,-44.81,N/A,N/A,18.16,6.39,—,No recent news
-2026-08-03,THERMAX.NS,THERMAX LTD,Industrials,,,,1.79,,5138.51,4251.5,,0.28,464360374272,78.47,2300.26,-32.9,9.45,25.24,-89.67,-83.44,164.93,7.17,2.24,-83.44,N/A,0.42,N/A,N/A,—,"Thermax shares crash 16% after firm expects weak quarters ahead after muted Q1 results
-Midcap stocks ignore Middle East war, AI worries to jump up to 85% in 2026. More rally or sharp correction ahead?
-Laurus Labs, Biocon, Ather Energy, Lenskart among probable MSCI India Standard Index inclusion candidates, says JM Financial
-Announcement under Regulation 30 (LODR)-Change in Directorate
-Get multiple analysts' prediction on Thermax"
-2026-08-03,SHARDACROP.NS,SHARDA CROPCHEM LTD.,Basic Materials,,,,1.86,,923.35,820.0,,-1.9,74535665664,11.9,1073.77,-48.0,-41.28,88.04,-72.37,-56.75,216.83,20.19,9.76,-56.76,N/A,0.0,N/A,N/A,—,"Dolly Khanna portfolio rejig: Ace investor likely exits 2 stocks, pares holding in Prakash Industries in Q1
-Unlock Stock Score, Analyst' Ratings & Recommendations
-Get multiple analysts' prediction on Sharda Cropchem"
-2026-08-03,AAVAS.NS,AAVAS FINANCIERS LIMITED,Financial Services,,,,1.78,,1525.9,1256.9,,1.01,114098348032,16.69,642.04,2.4,12.21,171.27,-5.72,23.01,123.01,19.16,21.6,22.8,N/A,3.11,N/A,N/A,—,"NHB probing Aavas Financiers over loan classification lapses
-Aavas Financiers sees top-level churn: CFO and CRO to exit, interim replacements named
-Get multiple analysts' prediction on Aavas Financiers"
-2026-08-03,AVL.NS,ADITYA VISION LIMITED,Consumer Cyclical,,,,1.78,,668.55,521.35,,0.0,80536944640,68.84,625.03,-3.67,28.42,21.73,-20.43,35.98,52.67,8.43,1.69,36.29,N/A,0.83,N/A,N/A,Revenue +28.42% YoY | Profit +35.98% YoY | EPS +36.29% YoY,"Samir Arora-backed Helios Mid Cap Fund adds Groww, 4 more stocks; hikes stake in Paytm and 29 others
-Unlock Stock Score, Analyst' Ratings & Recommendations
-Get multiple analysts' prediction on Aditya Vision"
-2026-08-03,STAR.NS,STRIDES PHARMA SCI LTD,Healthcare,,,,2.82,,1122.94,973.64,,3.86,94799634432,15.46,1323.47,10.78,14.72,126.94,-37.19,44.34,249.28,18.84,13.77,44.04,N/A,0.56,N/A,N/A,Profit +44.34% YoY | EPS +44.04% YoY,No recent news
-2026-08-03,CLEAN.NS,CLEAN SCIENCE & TECH LTD,Basic Materials,,,,9.2,,821.1,721.0,,-1.9,81215791104,35.41,249.25,13.47,3.5,58.27,27.0,-11.23,98.56,39.54,5.48,-11.33,N/A,0.0,N/A,N/A,Profit +27.0% QoQ | EBITDA Margin 39.54%,No recent news
-2026-08-03,IEX.NS,INDIAN ENERGY EXC LTD,Financial Services,,,,2.25,,134.19,116.81,,1.01,113830436864,22.46,157.88,-9.42,10.99,134.76,3.84,15.07,183.58,116.28,1.52,15.15,N/A,0.01,N/A,N/A,EBITDA Margin 116.28%,No recent news
-2026-08-03,KAJARIACER.NS,KAJARIA CERAMICS LTD,Industrials,,,,2.33,,1242.2,1067.4,,0.28,190881660928,35.44,1373.35,17.56,18.84,155.7,76.91,86.18,276.37,20.12,9.78,100.41,N/A,0.07,N/A,N/A,Revenue +17.56% QoQ | Profit +86.18% YoY | Profit +76.91% QoQ | EPS +100.41% YoY,"Kajaria Ceramics share buyback worth Rs 297 crore opens on July 3: Entitlement ratio, other details to know
-Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome
-Opening Of Trading Window - Kajaria Ceramics Limited
-Get multiple analysts' prediction on Kajaria Ceramic"
-2026-08-03,RBA.NS,RESTAURANT BRAND ASIA LTD,Consumer Cyclical,,,,1.56,,80.45,64.9,,0.0,50361225216,N/A,706.84,-1.09,10.61,-43.01,1.21,14.66,103.06,14.58,-0.73,27.72,N/A,2.86,-25.79,-0.86,—,No recent news
-2026-08-03,MINDACORP.NS,MINDA CORPORATION LTD,Consumer Cyclical,,,,2.74,,709.5,626.4,,0.0,171248599040,48.28,1703.81,9.2,36.03,124.61,45.4,92.3,208.99,12.27,5.29,92.36,N/A,0.55,14.74,5.95,Revenue +36.03% YoY | Profit +92.3% YoY | Profit +45.4% QoQ | EPS +92.36% YoY,"Unexpected gainer of trouble in the Gulf? 13 stocks from backend of the EV shift, with upside potential of up to 33%
-For long-term investors: Look beyond strength of balance sheet; 5 stocks from different sectors with upside potential of up to 31%
-From Kalyan Jewellers' 52-week high to Trent's reality check: LKP Securities' top trading ideas
-For investors with ability – and patience to wait 3 years, not 3 months: 6 large-cap stocks with upside potential of up to 33%
-Get multiple analysts' prediction on Minda Corp."
-2026-08-03,SAFARI.NS,SAFARI IND (INDIA) LTD,Consumer Cyclical,,,,3.87,,1681.43,1515.74,,0.0,75850014720,45.12,473.3,-7.63,12.41,37.47,13.93,-0.32,68.97,14.57,7.65,-0.52,N/A,0.1,16.22,9.21,—,No recent news
-2026-08-03,ASHOKLEY.NS,ASHOK LEYLAND LTD,Industrials,,,,2.75,,166.18,138.58,,0.28,1025281294336,29.48,17138.9,16.1,17.09,1290.7,58.66,14.21,3720.23,21.71,2.2,14.58,N/A,3.45,21.64,7.52,Revenue +16.1% QoQ | Profit +58.66% QoQ | ROE 21.64%,"Ashok Leyland partners Shriram Automall for pre-owned commercial vehicles
+2026-08-03,LOTUSDEV.NS,SRI LOTUS DEVLPRS N RTY L,Industrials,,,,1.99,,200.12,129.27,,0.28,96601128960,39.22,307.5,37.26,164.57,95.58,37.03,86.65,135.81,44.17,1.96,87.06,N/A,0.07,17.06,9.77,Revenue +164.57% YoY | Revenue +37.26% QoQ | Profit +86.65% YoY | Profit +37.03% QoQ | EPS +87.06% YoY | EBITDA Margin 44.17%,No recent news
+2026-08-03,RAILTEL.NS,RAILTEL CORP OF IND LTD,Communication Services,,,,1.87,,323.95,284.5,,0.0,93794246656,27.11,893.27,-46.19,-31.11,65.78,-53.59,-42.02,147.9,16.56,2.05,,N/A,0.03,16.25,5.09,—,No recent news
+2026-08-03,ASHOKLEY.NS,ASHOK LEYLAND LTD,Industrials,,,,2.75,,166.18,138.58,,0.28,0,29.48,17138.9,16.1,17.09,1290.7,58.66,14.21,3720.23,21.71,2.2,14.58,N/A,3.45,21.64,7.52,Revenue +16.1% QoQ | Profit +58.66% QoQ | ROE 21.64%,"Ashok Leyland partners Shriram Automall for pre-owned commercial vehicles
 Stock picks of the week: 5 stocks with consistent score improvement and upside potential of up to 20%
 Ashok Leyland partners with Rosmerta Recycling to boost commercial vehicle scrapping
 Tata Motors CV acquisition delay won't dent long-term gains: Sudip Bandyopadhyay
 Board Meeting Intimation for Board Meeting Scheduled To Be Held On August 14, 2026"
-2026-08-03,NAVA.NS,NAVA LIMITED,Industrials,,,,2.26,,622.35,552.3,,0.28,164259643392,20.83,1142.85,15.31,12.24,127.43,-42.71,-45.71,423.2,37.03,4.49,-44.57,N/A,0.21,10.31,6.49,Revenue +15.31% QoQ | EBITDA Margin 37.03%,No recent news
+2026-08-03,IRCTC.NS,INDIAN RAIL TOUR CORP LTD,Consumer Cyclical,,,,2.95,,528.6,485.95,,0.0,410799996928,29.44,1459.72,0.71,15.07,326.4,-17.23,-8.89,451.38,30.92,4.08,-8.93,N/A,0.02,34.96,14.05,EBITDA Margin 30.92% | ROE 34.96%,No recent news
+2026-08-03,ESCORTS.NS,ESCORTS KUBOTA LIMITED,Industrials,,,,4.97,,3086.0,2694.21,,0.28,344990875648,25.27,2968.16,-9.52,0.68,320.53,-10.54,11.33,502.19,16.92,29.13,-0.1,N/A,0.01,12.02,5.39,—,No recent news
+2026-08-03,IRCON.NS,IRCON INTERNATIONAL LTD,Industrials,,,,3.09,,140.72,124.52,,0.28,124035219456,20.87,3188.98,50.49,-6.54,191.6,90.34,-9.13,389.15,12.2,2.04,-8.93,N/A,0.86,9.08,1.85,Revenue +50.49% QoQ | Profit +90.34% QoQ,"Titagarh Rail, RITES, other railway stocks rise up to 4%. Hereâs why
+Get multiple analysts' prediction on Ircon Intl."
+2026-08-03,JYOTHYLAB.NS,JYOTHY LABS LIMITED,Consumer Defensive,,,,1.63,,206.19,189.12,,0.46,75668217856,22.72,715.35,-3.28,7.56,67.52,-16.77,-11.51,78.11,10.92,N/A,N/A,N/A,0.03,22.43,11.63,ROE 22.43%,"Stocks in news: Sun Pharma, Tech Mahindra, Tata Motors, Voltas, ONGC
+Annoucement Under Regulation 30 Of SEBI (LODR) Regulations, 2015 - ESG Rating
+Unlock Stock Score, Analyst' Ratings & Recommendations
+Get multiple analysts' prediction on Jyothy Labs"
+2026-08-03,HEMIPROP.NS,HEMISPHERE PROP IND LTD,Real Estate,,,,5.46,,142.98,133.37,,0.0,39917461504,N/A,0.26,-0.16,6.92,-1.72,46.73,25.82,-1.71,-668.99,-0.06,25.0,N/A,0.2,-2.7,-0.53,Profit +46.73% QoQ,No recent news
+2026-08-03,EMIL.NS,ELECTRONICS MART IND LTD,Consumer Cyclical,,,,2.23,,140.68,101.56,,0.0,50536751104,47.08,1913.24,-1.36,14.96,39.73,34.03,49.03,130.17,6.8,1.03,49.28,N/A,1.23,6.79,4.7,Profit +49.03% YoY | Profit +34.03% QoQ | EPS +49.28% YoY,No recent news
+2026-08-03,AMBUJACEM.NS,AMBUJA CEMENTS LTD,Basic Materials,,,,1.64,,443.4,404.05,,-1.9,1103258845184,24.87,9474.0,-13.02,-7.52,577.0,-68.47,-33.6,1763.0,18.61,2.32,-34.28,N/A,0.01,N/A,N/A,—,"Ambuja Cements share price target: Nuvama, Motilal, other brokerages see up to 30% upside. Here's why
+Cement demand growth likely to moderate to around 5% in FY27: Ambuja Cements
+Dividend rush! Buy these 5 Adani stocks, 4 Tata Group stocks today to lap up payout rewards
+Announcement under Regulation 30 (LODR)-Earnings Call Transcript
+Get multiple analysts' prediction on Ambuja Cements"
+2026-08-03,TENNIND.NS,TENNECO CLEAN AIR INDIA L,Consumer Cyclical,,,,2.15,,607.0,526.9,,0.0,0,36.4,1552.45,20.79,37.98,166.58,40.35,33.05,268.7,17.31,4.13,33.23,265.68,0.04,42.97,19.03,Revenue +37.98% YoY | Revenue +20.79% QoQ | Profit +33.05% YoY | Profit +40.35% QoQ | EPS +33.23% YoY | ROE 42.97%,No recent news
+2026-08-03,TEGA.NS,TEGA INDUSTRIES LIMITED,Industrials,,,,6.23,,1872.2,1477.4,,0.28,119280238592,77.45,526.78,30.49,-1.74,42.67,116.52,-58.13,97.63,18.53,5.68,-62.92,N/A,0.12,5.94,2.65,Revenue +30.49% QoQ | Profit +116.52% QoQ,"Ahead of Market: 10 things that will decide stock market action on Wednesday
+Mukul Agrawal purchases 10 new stocks in Q2; ups stake in 5. How many do you own?
+Mukul Agarwal invests Rs 100 crore in this multibagger stock that’s up over 200% in 5 years
+Autos consolidate, defence a long-term bet, IT valuations attractive: Amnish Aggarwal
+Get multiple analysts' prediction on Tega Industries"
+2026-08-03,INDGN.NS,INDEGENE LIMITED,Healthcare,,,,5.94,,539.08,486.36,,3.86,131148242944,32.87,1063.1,5.95,40.7,116.2,45.8,-1.19,203.2,19.11,4.84,-1.43,N/A,0.05,N/A,N/A,Revenue +40.7% YoY | Profit +45.8% QoQ,"The Q1 verdict: Can TCS, Infosys, other IT results stop a Rs 17 lakh crore AI-led rout?
+More macro headwinds on the cards? Tackle them with core principles: 6 pharma stocks with upside potential of up to 28%
+War, oil price hikes, and risks: Time to still be contrarian? 5 small-caps from different sectors with upside potential of up to 25%
+Sun Pharma deal: Perception changer for Indian pharma sector? 10 pharma stocks with upside potential of up to 38%
+Get multiple analysts' prediction on Indegene"
+2026-08-03,KNRCON.NS,KNR CONSTRU LTD.,Industrials,,,,1.72,,140.86,117.85,,0.28,35584614400,8.14,695.59,-6.41,-28.67,106.21,3.31,-23.72,188.09,27.04,3.78,-23.64,N/A,0.49,9.19,5.34,EBITDA Margin 27.04%,No recent news
+2026-08-03,ORKLAINDIA.NS,ORKLA INDIA LIMITED,Consumer Defensive,,,,1.58,,638.15,556.75,,0.46,78577016832,27.59,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,"IPO investors brace for 83 lock-in expiries worth $55 billion in three months. Do you own any?
+Buy, Sell or Hold: DAM Capital initiates coverage on Orkla India; Citi maintains sell on Dr Reddy's Laboratories
+Orkla India shares rally 10%, biggest single-day jump since listing as Citi initiates 'Buy' call
+Rs 7,000 crore boom! Groww, Lenskart among 7 newly-listed firms to see shareholder lock-in end in December
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-08-03,IREDA.NS,INDIAN RENEWABLE ENERGY,Financial Services,,,,1.9,,130.85,118.3,,1.01,345535447040,18.28,2150.85,1.39,28.72,492.63,-15.81,15.81,1061.52,49.35,1.76,11.39,N/A,5.66,N/A,N/A,Revenue +28.72% YoY | EBITDA Margin 49.35%,No recent news
+2026-08-03,PINELABS.NS,PINE LABS LIMITED,Technology,,,,3.6,,161.27,138.97,,6.75,175582576640,138.34,736.92,5.2,23.1,19.57,-67.03,167.69,135.33,18.36,0.17,167.52,-281.19,0.07,N/A,N/A,Profit +167.69% YoY | EPS +167.52% YoY,"Fintechs chase new revenue; Flipkart’s food delivery launch
+Listed fintech firms are widening revenue bets as core growth cools
+Pine Labs signs six lenders for AI underwriting tool; to launch expense cards
+Atomberg's funding plans; Neocloud firms eye India capacity
+Get multiple analysts' prediction on Pine Labs"
+2026-08-03,HYUNDAI.NS,HYUNDAI MOTOR INDIA LTD,Consumer Cyclical,,,,1.83,,2180.7,1866.4,,0.0,1793278214144,36.28,16096.5,-12.7,-8.16,888.62,-29.23,-44.95,1786.08,11.1,10.94,-44.94,N/A,0.05,N/A,N/A,—,"Hyundai Motor India July total sales up 25.4 pc at 75,360 units
+Hyundai Motor Q1 Results: Profit slumps 35% YoY to Rs 889 crore as headwinds weigh on volumes
+Auto companies find it difficult to monetise software services after complimentary term ends
+June auto sales data: Commercial vehicle turns consensus player; brokerages list stocks to buy
+Get multiple analysts' prediction on Hyundai Motor India"
+2026-08-03,SUDARSCHEM.NS,SUDARSHAN CHEMICAL INDS L,Basic Materials,,,,1.51,,1069.5,854.05,,-1.9,85044781056,376.16,2789.9,32.66,106.75,78.7,168.26,2067.5,263.8,9.46,10.0,2100.0,N/A,0.64,1.04,0.96,Revenue +106.75% YoY | Revenue +32.66% QoQ | Profit +2067.5% YoY | Profit +168.26% QoQ | EPS +2100.0% YoY,No recent news
 2026-08-03,ASHOKA.NS,ASHOKA BUILDCON LTD,Industrials,,,,1.62,,135.53,115.15,,0.28,34001199104,4.77,1954.3,6.95,-27.47,143.14,-93.22,-66.88,296.18,15.16,5.1,-66.88,N/A,0.24,47.99,6.36,ROE 47.99%,"Birla Capital, L&T Finance enter MSCI Index
 Sensex down over 1,500 points after Budget, but 27 stocks drawing attention
 Budget 2026: 7 high speed corridor plan lifts Jupiter Wagons, IRFC and other railway stocks up to 3%
 Intimation Regarding Extension Of Expected Date Of Completion Of Sale/Disposal Of Stake In Subsidiaries Of The Company And Ashoka Concessions Limited (ACL)
 Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-08-03,PRICOLLTD.NS,PRICOL LIMITED,Consumer Cyclical,,,,2.8,,681.05,543.05,,0.0,89320849408,33.3,1083.58,0.53,44.09,67.02,-8.48,91.76,126.83,11.7,5.5,91.64,N/A,0.3,N/A,N/A,Revenue +44.09% YoY | Profit +91.76% YoY | EPS +91.64% YoY,No recent news
-2026-08-03,JUBLFOOD.NS,JUBILANT FOODWORKS LTD,Consumer Cyclical,,,,2.25,,453.66,412.3,,0.0,309107032064,82.46,2499.47,2.55,19.31,90.96,28.28,66.52,508.88,20.36,1.21,65.75,N/A,0.03,16.89,6.52,Profit +66.52% YoY | Profit +28.28% QoQ | EPS +65.75% YoY,"Tourism and hotel sector stocks: Time for a correction in business? Are analysts getting it wrong? 15 stocks from the ecosystem
+2026-08-03,ABCAPITAL.NS,ADITYA BIRLA CAPITAL LTD.,Financial Services,,,,3.43,,409.75,336.6,,1.01,1161067102208,27.48,13077.54,13.71,45.43,1129.16,19.49,59.49,N/A,N/A,4.31,58.46,N/A,4.96,N/A,N/A,Revenue +45.43% YoY | Profit +59.49% YoY | EPS +58.46% YoY,"Aditya Birla Capital Q1 Results: Profit jumps 40% YoY to Rs 1,175 crore
+Capitalmind Flexi Cap Fund adds Nestle India and 10 others, exits SBI and 14 others in May
+Get multiple analysts' prediction on Aditya Birla Cap."
+2026-08-03,JUBLFOOD.NS,JUBILANT FOODWORKS LTD,Consumer Cyclical,,,,2.25,,453.66,412.3,,0.0,0,82.46,2499.47,2.55,19.31,90.96,28.28,66.52,508.88,20.36,1.21,65.75,N/A,0.03,16.89,6.52,Profit +66.52% YoY | Profit +28.28% QoQ | EPS +65.75% YoY,"Tourism and hotel sector stocks: Time for a correction in business? Are analysts getting it wrong? 15 stocks from the ecosystem
 FIIs pull out massive Rs 20,637 crore in single day on Friday. What led to this sharp exit?
 MSCI index rejig, US-Iran deal worries spook Dalal Street
 Announcement under Regulation 30 (LODR)-Newspaper Publication
 Get multiple analysts' prediction on Jubilant Food"
-2026-08-03,NATIONALUM.NS,NATIONAL ALUMINIUM CO LTD,Basic Materials,,,,1.84,,436.9,332.15,,-1.9,677717147648,11.04,4730.95,10.22,1.47,1595.15,11.55,1.84,2182.35,46.13,8.69,1.88,N/A,0.0,N/A,N/A,EBITDA Margin 46.13%,No recent news
-2026-08-03,THELEELA.NS,LEELA PALACES HOTEL LTD,Consumer Cyclical,,,,4.95,,502.2,406.65,,0.0,167580057600,36.9,484.42,5.9,30.76,171.77,16.15,204.09,275.51,56.87,9.78,1503.28,N/A,0.28,N/A,N/A,Revenue +30.76% YoY | Profit +204.09% YoY | EPS +1503.28% YoY | EBITDA Margin 56.87%,No recent news
-2026-08-03,JAMNAAUTO.NS,JAMNA AUTO IND LTD,Consumer Cyclical,,,,3.45,,139.46,114.64,,0.0,56341905408,24.41,839.6,25.73,31.66,87.27,49.86,73.42,138.19,16.46,2.19,72.44,N/A,0.13,21.58,13.21,Revenue +31.66% YoY | Revenue +25.73% QoQ | Profit +73.42% YoY | Profit +49.86% QoQ | EPS +72.44% YoY | ROE 21.58%,No recent news
-2026-08-03,IGIL.NS,INTL GEMOLOGICAL INST LTD,Basic Materials,,,,2.08,,372.05,328.75,,-1.9,157716676608,30.82,370.78,0.6,21.65,165.74,-7.72,17.77,225.69,60.87,3.84,17.79,65.93,0.1,N/A,N/A,EBITDA Margin 60.87%,No recent news
-2026-08-03,BBOX.NS,BLACK BOX LIMITED,Technology,,,,1.53,,1078.2,726.8,,6.75,133856518144,59.39,1690.94,1.89,9.48,64.76,30.35,7.09,166.27,9.83,3.78,5.88,N/A,0.9,21.27,7.47,Profit +30.35% QoQ | ROE 21.27%,No recent news
-2026-08-03,LATENTVIEW.NS,LATENT VIEW ANALYTICS LTD,Industrials,,,,2.37,,317.6,264.25,,0.28,61632606208,31.19,288.62,3.82,24.31,52.75,5.21,-1.35,83.72,29.01,2.55,-1.54,N/A,0.02,N/A,N/A,EBITDA Margin 29.01%,"Ahead of Market: 10 things that will decide stock market action on Wednesday
-Two Trades for Today: An auto ancillary player for a rise of 7.2%, a mid-cap IT stock for an almost 7% gain
-Ahead of Market: 10 things that will decide stock market action on Tuesday
-Latent View Analytics shares rally 8% after Q3FY26 profit up 19% YoY
-Get multiple analysts' prediction on Latent View Analytics"
-2026-08-03,MAHSEAMLES.NS,MAHARASHTRA SEAMLESS LTD,Basic Materials,,,,2.15,,649.1,565.1,,-1.9,76875366400,10.96,1280.11,17.41,-9.09,102.83,-57.66,-44.74,186.31,14.55,7.67,-44.78,N/A,0.0,10.61,4.83,Revenue +17.41% QoQ,"Weekly Top Picks: These stocks scored 10 on 10 on Stock Reports Plus
-Promoters increase stakes in Indian companies amid stock market weakness
-Announcement under Regulation 30 (LODR)-Demise
+2026-08-03,VIPIND.NS,VIP INDUSTRIES LTD,Consumer Cyclical,,,,2.86,,332.45,290.85,,0.0,44093464576,N/A,436.23,-3.94,-11.73,-128.9,-143.81,-371.13,-78.48,-17.99,-3.72,-93.75,N/A,3.36,-89.14,-14.63,—,"India Inc sees first earnings upgrade after a gap of 5 quarters
+Chaos at airports is also a reflection of … : 11 stocks from the tourism & hospitality space with upside potential of up to 33%
+Nifty set for fresh uptrend, says Motilal Oswal. Here are 4 catalysts, 25 stocks to buy
+Announcement Under Regulations 30 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015 - Grant Of Employee Stock Appreciation Rights
 Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-08-03,ABLBL.NS,ADITYA BIRLA LIFES BRAN L,Consumer Cyclical,,,,1.75,,101.55,92.85,,0.0,116495958016,68.02,2174.16,-7.21,1.67,54.52,-21.0,-9.6,374.69,17.23,0.45,-9.27,N/A,2.14,N/A,N/A,—,No recent news
-2026-08-03,JYOTICNC.NS,JYOTI CNC AUTOMATION LTD,Industrials,,,,1.92,,822.8,592.7,,0.28,195197239296,57.99,599.16,4.04,4.08,90.57,2.33,-16.89,172.19,28.74,3.98,-16.91,N/A,0.43,18.22,9.3,EBITDA Margin 28.74%,"Jyoti CNC shares crash 16% as France probes subsidiary, seizes bank accounts
-Risk-on trade back? Smallcap stocks rally up to 28% in 2026, but market breadth stays weak
-Ahead of Market: 10 things that will decide stock market action on Wednesday
-Share market update: Most active stocks of the day in terms of traded value
-Get multiple analysts' prediction on Jyoti CNC Automation"
-2026-08-03,ORKLAINDIA.NS,ORKLA INDIA LIMITED,Consumer Defensive,,,,1.59,,638.15,556.75,,0.46,78577016832,27.59,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,"IPO investors brace for 83 lock-in expiries worth $55 billion in three months. Do you own any?
-Buy, Sell or Hold: DAM Capital initiates coverage on Orkla India; Citi maintains sell on Dr Reddy's Laboratories
-Orkla India shares rally 10%, biggest single-day jump since listing as Citi initiates 'Buy' call
-Rs 7,000 crore boom! Groww, Lenskart among 7 newly-listed firms to see shareholder lock-in end in December
-Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-08-03,GHCL.NS,GHCL LIMITED,Basic Materials,,,,2.67,,445.7,408.39,,-1.9,40708153344,8.85,790.51,4.49,1.51,115.64,9.08,-31.34,189.22,23.94,12.28,-30.62,N/A,0.02,N/A,N/A,—,"Dividends and bonus issues: 31 stocks turning ex-record date this week. Do you own any?
-Audio Recordings- Investors' Conference (U/R 30 LODR)
+2026-08-03,JLHL.NS,JUPITER LIFE LINE HOSP L,Healthcare,,,,2.94,,332.4,261.5,,3.86,104577802240,53.79,387.84,6.15,15.2,50.62,18.94,15.02,98.31,25.35,7.66,11.18,N/A,0.38,N/A,N/A,EBITDA Margin 25.35%,No recent news
+2026-08-03,GLENMARK.NS,GLENMARK PHARMACEUTICALS,Healthcare,,,,2.27,,2305.1,2136.6,,3.86,629307801600,35.02,3760.28,-3.29,16.77,301.41,-25.25,6382.02,951.68,25.31,10.68,6575.0,N/A,0.06,N/A,N/A,Profit +6382.02% YoY | EPS +6575.0% YoY | EBITDA Margin 25.31%,"Stocks in news: Adani Enterprises, Cochin Shipyard, IDFC First Bank, Premier Energies, Glenmark Pharma
+Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome
 Announcement under Regulation 30 (LODR)-Newspaper Publication
-Announcement under Regulation 30 (LODR)-Press Release / Media Release
-Unlock Stock Score, Analyst' Ratings & Recommendations"
+Announcement under Regulation 30 (LODR)-Investor Presentation
+Get multiple analysts' prediction on Glenmark Pharma"
+2026-08-03,CAMS.NS,COMPUTER AGE MNGT SER LTD,Technology,,,,1.8,,828.51,718.92,,6.75,196403363840,41.39,395.22,1.3,10.97,126.43,0.71,10.89,195.65,49.5,5.1,10.39,N/A,0.05,38.69,21.46,EBITDA Margin 49.5% | ROE 38.69%,No recent news
 2026-08-03,JAINREC.NS,JAIN RESOURCE RECYCLING L,Basic Materials,,,,4.21,,380.2,305.25,,-1.9,120849055744,33.74,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,No recent news
 2026-08-03,APLAPOLLO.NS,APL APOLLO TUBES LTD,Basic Materials,,,,6.81,,1893.1,1762.4,,-1.9,539073773568,44.84,6075.98,7.57,15.36,354.35,14.29,63.32,547.52,9.01,12.76,63.17,N/A,0.09,N/A,N/A,Profit +63.32% YoY | EPS +63.17% YoY,"Buy, Sell or Hold: Motilal Oswal recommends buy on CreditAccess Grameen; Nuvama maintains buy on APL Apollo
 Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome
 Announcement under Regulation 30 (LODR)-Newspaper Publication
 Announcement under Regulation 30 (LODR)-Investor Presentation
 Get multiple analysts' prediction on APL Apollo Tube"
-2026-08-03,CONCORDBIO.NS,CONCORD BIOTECH LIMITED,Healthcare,,,,2.82,,1420.8,1189.58,,3.86,147990085632,48.81,326.08,17.39,-24.15,88.79,39.52,-36.75,133.7,41.0,8.46,-36.96,N/A,0.0,N/A,N/A,Revenue +17.39% QoQ | Profit +39.52% QoQ | EBITDA Margin 41.0%,No recent news
-2026-08-03,URBANCO.NS,URBAN COMPANY LIMITED,Technology,,,,14.71,,138.52,120.25,,6.75,213756182528,N/A,425.56,11.21,47.8,-161.16,-658.04,-169.51,-83.01,-19.51,-1.08,-166.89,21.86,0.06,N/A,N/A,Revenue +47.8% YoY,"Urban Company shares zoom 15% after Q1 results. Why Motilal Oswal raised target price
-Urban Company’s InstaHelp, Snabbit cross 100,000 daily bookings mark
-Zepto defers its IPO; Urban Company slips into the red
-InstaHelp prioritising market leadership despite margin pressure: Urban Company
-Get multiple analysts' prediction on Urban Company"
-2026-08-03,SONATSOFTW.NS,SONATA SOFTWARE LTD,Technology,,,,1.75,,317.45,250.63,,6.75,95729369088,20.66,2536.19,-17.67,-3.1,130.5,25.05,21.36,246.26,9.71,4.71,21.71,N/A,0.38,25.72,6.89,Profit +25.05% QoQ | ROE 25.72%,"Sonata Software shares rally 10% as Q4 net profit rises 21% despite revenue contraction; firm announces dividend
-Ahead of Market: 10 things that will decide stock market action on Friday
-Ahead of Market: 10 things that will decide stock market action on Thursday
-Shareholder Meeting / Postal Ballot-Scrutinizer''s Report
-Get multiple analysts' prediction on Sonata Software"
-2026-08-03,ESCORTS.NS,ESCORTS KUBOTA LIMITED,Industrials,,,,4.97,,3086.0,2694.21,,0.28,344990875648,25.27,2968.16,-9.52,0.68,320.53,-10.54,11.33,502.19,16.92,29.13,-0.1,N/A,0.01,12.02,5.39,—,No recent news
-2026-08-03,VIPIND.NS,VIP INDUSTRIES LTD,Consumer Cyclical,,,,2.75,,332.45,290.85,,0.0,44093464576,N/A,436.23,-3.94,-11.73,-128.9,-143.81,-371.13,-78.48,-17.99,-3.72,-93.75,N/A,3.36,-89.14,-14.63,—,"India Inc sees first earnings upgrade after a gap of 5 quarters
-Chaos at airports is also a reflection of … : 11 stocks from the tourism & hospitality space with upside potential of up to 33%
-Nifty set for fresh uptrend, says Motilal Oswal. Here are 4 catalysts, 25 stocks to buy
-Announcement Under Regulations 30 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015 - Grant Of Employee Stock Appreciation Rights
-Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-08-03,GMRP&UI.NS,GMR POW AND URBAN INFRA L,Energy,,,,1.93,,109.48,96.5,,0.19,75899281408,12.41,2004.09,7.23,15.35,-111.67,33.59,-164.86,570.81,28.48,-1.47,-340.98,N/A,5.5,41.51,3.46,Profit +33.59% QoQ | EBITDA Margin 28.48% | ROE 41.51%,No recent news
-2026-08-03,ZEEL.NS,ZEE ENTERTAINMENT ENT LTD,Communication Services,,,,4.38,,115.75,94.5,,0.0,94265376768,34.8,2024.8,-11.2,2.32,-102.4,-165.94,-162.59,-192.3,-9.5,-1.08,-163.53,N/A,0.02,2.33,0.58,—,No recent news
+2026-08-03,BERGEPAINT.NS,BERGER PAINTS (I) LTD,Basic Materials,,,,1.5,,550.7,489.1,,-1.9,613958746112,54.4,2868.03,-3.89,-3.6,334.77,23.46,13.43,514.3,17.93,2.87,13.44,N/A,0.09,17.23,9.57,Profit +23.46% QoQ,No recent news
+2026-08-03,PRICOLLTD.NS,PRICOL LIMITED,Consumer Cyclical,,,,2.51,,696.65,543.05,,0.0,0,33.3,1083.58,0.53,44.09,67.02,-8.48,91.76,126.83,11.7,5.5,91.64,N/A,0.3,N/A,N/A,Revenue +44.09% YoY | Profit +91.76% YoY | EPS +91.64% YoY,No recent news
+2026-08-03,JAMNAAUTO.NS,JAMNA AUTO IND LTD,Consumer Cyclical,,,,3.45,,139.46,114.64,,0.0,56341905408,24.41,839.6,25.73,31.66,87.27,49.86,73.42,138.19,16.46,2.19,72.44,N/A,0.13,21.58,13.21,Revenue +31.66% YoY | Revenue +25.73% QoQ | Profit +73.42% YoY | Profit +49.86% QoQ | EPS +72.44% YoY | ROE 21.58%,No recent news
+2026-08-03,SIEMENS.NS,SIEMENS LTD,Industrials,,,,1.7,,3760.0,3429.25,,0.28,1388869976064,82.31,4617.5,20.54,14.6,354.9,32.28,-9.56,544.2,11.79,10.4,-36.39,N/A,0.02,N/A,N/A,Revenue +20.54% QoQ | Profit +32.28% QoQ,"How AI is helping manufacturers cut downtime before it costs them
+Siemens wins Rs 263 crore RVNL order for Uttarakhand rail electrification
+Match Your AI Strategy to Your Organization’s Reality
+Banks, power finance and infrastructure to lead next leg of market rally: Pankaj Pandey
+Get multiple analysts' prediction on Siemens"
+2026-08-03,ELLEN.NS,ELLENBARRIE INDUS GASES L,Basic Materials,,,,1.69,,296.05,251.55,,-1.9,38482464768,36.26,87.43,7.48,28.54,22.88,-12.28,19.18,40.37,46.17,1.62,10.2,N/A,0.19,14.2,5.64,Revenue +28.54% YoY | EBITDA Margin 46.17%,No recent news
+2026-08-03,NHPC.NS,NHPC LTD,Utilities,,,,1.52,,81.57,72.13,,0.0,796069003264,28.61,2815.53,26.78,23.12,2019.38,311.02,922.78,1501.73,53.34,1.45,530.43,N/A,1.13,9.02,1.83,Revenue +26.78% QoQ | Profit +922.78% YoY | Profit +311.02% QoQ | EPS +530.43% YoY | EBITDA Margin 53.34%,"Stock picks of the week: 5 stocks with consistent score improvement and upside potential of up to 21%
+Sikkim tunnel collapse: Rescue teams retrieve bodies of all 25 workers
+PM Modi unveils India's 1st integrated refinery-cum-petrochem unit with 9 MMTPA capacity, other projects
+Stock picks of the week: 5 stocks with consistent score improvement and upside potential of up to 27%
+Disclosure Under Regulation 30 Of SEBI LODR- ESG Score"
+2026-08-03,SUNDARMFIN.NS,SUNDARAM FINANCE LTD,Financial Services,,,,4.09,,4784.0,4047.76,,1.01,532207599616,25.87,1341.77,5.3,23.54,554.17,2.37,21.67,N/A,N/A,50.28,21.65,N/A,4.09,14.66,2.56,—,"Radhakishan Damani picks up 2% stake in this NBFC stock, which fell 17% in 2026. Do you own it?
+Re-appointment of Chief Compliance Officer
+Standalone & Consolidated Financial Results, Limited Review Report for June 30, 2026
+Get multiple analysts' prediction on Sundaram Finance"
 2026-08-03,CMSINFO.NS,CMS INFO SYSTEMS LIMITED,Industrials,,,,1.96,,305.8,257.9,,0.28,44081463296,15.09,632.93,2.38,8.85,79.06,37.73,-15.17,170.96,27.01,4.81,-15.32,N/A,0.09,12.91,7.64,Profit +37.73% QoQ | EBITDA Margin 27.01%,"Rs 420 crore share buybacks: Welspun Living, CMS Info Systems turn ex-record date today. Tracking any?
 CMS Info Systems shares jump 3% as IPPB awards contract for 1,000 ATMs
 Stocks in news: Ather Energy, Indian Oil, Torrent Power, BHEL, IndusInd Bank
 Peer woes add to CMS appeal even as D-St run faces bumps
 Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-08-03,ACC.NS,ACC LIMITED,Basic Materials,,,,2.33,,1397.1,1296.2,,-1.9,262526599168,13.79,5790.0,-18.73,-4.13,147.0,-38.3,-80.43,512.0,8.84,7.83,-80.42,N/A,0.02,N/A,N/A,—,"ACC Q1 Results: Profit plunges 60% to Rs 147 crore on lower sales
-Born at IIT, this battery tech targets a market China doesn't dominate—yet
-Adani storms Hindalco-Vedanta duopoly with Rs 1.1 lakh crore gambit
-Announcement under Regulation 30 (LODR)-Earnings Call Transcript"
-2026-08-03,ARE&M.NS,AMARA RAJA ENERGY MOB LTD,Industrials,,,,1.91,,906.85,791.56,,0.28,170634543104,19.03,3535.75,3.68,8.05,314.33,124.28,5.35,412.34,11.66,17.17,5.34,N/A,0.05,11.57,5.19,Profit +124.28% QoQ,No recent news
-2026-08-03,JIOFIN.NS,JIO FIN SERVICES LTD,Financial Services,,,,1.54,,256.46,228.02,,1.01,1736626274304,82.7,1794.71,107.75,469.44,830.25,204.99,162.65,1397.46,77.87,1.27,154.0,N/A,0.16,N/A,N/A,Revenue +469.44% YoY | Revenue +107.75% QoQ | Profit +162.65% YoY | Profit +204.99% QoQ | EPS +154.0% YoY | EBITDA Margin 77.87%,No recent news
-2026-08-03,TBOTEK.NS,TBO TEK LIMITED,Consumer Cyclical,,,,4.36,,1526.3,1189.1,,0.0,172552241152,65.55,925.78,13.68,107.51,83.36,38.7,41.51,150.91,16.3,7.77,40.25,N/A,0.49,N/A,N/A,Revenue +107.51% YoY | Profit +41.51% YoY | Profit +38.7% QoQ | EPS +40.25% YoY,"Market Trading Guide: TBO Tek among 2 stock recommendations for Thursday
-Betting on India’s travel boom? Motilal Oswal sees TBO Tek and Ixigo as key beneficiaries
-Motilal Oswal bullish on online travel portals
-Falling crude oil price sends tyre, paint, oil marketing and airline companies soaring in relief rally
-Get multiple analysts' prediction on TBO Tek"
-2026-08-03,IMFA.NS,INDIAN METALS & FERRO,Basic Materials,,,,2.17,,1527.97,1259.13,,-1.9,80499523584,18.97,763.29,8.6,18.67,103.22,-21.38,10.61,164.97,21.61,19.13,10.58,N/A,0.35,16.71,8.76,—,No recent news
-2026-08-03,MEDANTA.NS,GLOBAL HEALTH LIMITED,Healthcare,,,,1.86,,1432.9,1201.3,,3.86,388271865856,69.94,1304.05,12.51,26.5,158.73,10.24,-0.18,308.92,23.69,5.91,-0.17,N/A,0.3,N/A,N/A,Revenue +26.5% YoY,No recent news
-2026-08-03,RAYMONDLSL.NS,RAYMOND LIFESTYLE LIMITED,Consumer Cyclical,,,,5.14,,818.52,705.6,,0.0,44296777728,95.7,1776.45,-3.91,1.27,-52.06,-221.47,-181.13,82.43,4.64,-8.55,-181.2,N/A,0.23,N/A,N/A,—,No recent news
-2026-08-03,RATEGAIN.NS,RATEGAIN TRAVEL TECHN LTD,Technology,,,,2.08,,977.2,745.75,,6.75,114298904576,58.72,715.55,32.5,174.48,69.99,164.57,27.7,149.6,20.91,5.93,27.53,N/A,0.47,10.54,5.87,Revenue +174.48% YoY | Revenue +32.5% QoQ | Profit +164.57% QoQ,No recent news
-2026-08-03,SARDAEN.NS,SARDA ENERGY & MIN LTD,Basic Materials,,,,2.27,,546.55,491.75,,-1.9,181899214848,16.46,1240.31,-1.65,0.85,157.99,-17.01,45.9,352.31,28.4,4.48,45.93,N/A,0.35,N/A,N/A,Profit +45.9% YoY | EPS +45.93% YoY | EBITDA Margin 28.4%,No recent news
-2026-08-03,FIEMIND.NS,FIEM INDUSTRIES LIMITED,Consumer Cyclical,,,,1.53,,2367.0,2143.65,,0.0,61545889792,24.08,744.61,8.56,17.42,71.03,12.09,20.7,114.15,15.33,26.99,20.71,N/A,0.05,22.69,12.93,ROE 22.69%,"These mid-cap stocks with ‘Strong Buy’ & ‘Buy’ recos can rally over 25%, according to analysts
+2026-08-03,BLUEDART.NS,BLUE DART EXPRESS LTD,Industrials,,,,14.46,,5160.3,4647.4,,0.28,128771497984,44.94,1533.47,-5.12,1.44,48.85,-28.51,-39.7,94.2,6.14,20.59,-39.69,N/A,N/A,N/A,N/A,—,"Blue Dart Express shares surge 7% after Q1 results. Here's why Nuvama retains Buy, raises target
+Blue Dart Aviation to expand cargo operations across five emerging Indian hubs, targets high-value cargo
+Announcement under Regulation 30 (LODR)-Newspaper Publication
+Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
+Get multiple analysts' prediction on Blue Dart"
+2026-08-03,THERMAX.NS,THERMAX LTD,Industrials,,,,1.79,,5138.51,4251.5,,0.28,464360374272,78.47,2300.26,-32.9,9.45,25.24,-89.67,-83.44,164.93,7.17,2.24,-83.44,N/A,0.42,N/A,N/A,—,"Thermax shares crash 16% after firm expects weak quarters ahead after muted Q1 results
+Midcap stocks ignore Middle East war, AI worries to jump up to 85% in 2026. More rally or sharp correction ahead?
+Laurus Labs, Biocon, Ather Energy, Lenskart among probable MSCI India Standard Index inclusion candidates, says JM Financial
 Announcement under Regulation 30 (LODR)-Change in Directorate
-Unlock Stock Score, Analyst' Ratings & Recommendations
-Get multiple analysts' prediction on FIEM Industries
-HDFC Transportation and Logistics Direct-G"
-2026-08-03,BLUEJET.NS,BLUE JET HEALTHCARE LTD,Healthcare,,,,5.09,,624.05,447.1,,3.86,102257868800,41.28,234.67,21.96,-26.29,64.34,60.2,-34.99,94.19,40.14,3.71,-35.03,N/A,0.03,19.88,11.04,Revenue +21.96% QoQ | Profit +60.2% QoQ | EBITDA Margin 40.14%,"Blue Jet Healthcare shares rally 9% after Rs 800 crore QIP allotment
-Get multiple analysts' prediction on Blue Jet Healthcare
-ICICI Pru Pharma Healthcare and Diagnostics (P.H.D) Direct-G"
-2026-08-03,LINDEINDIA.NS,LINDE INDIA LIMITED,Basic Materials,,,,2.32,,7460.5,6637.0,,-1.9,595326533632,108.93,614.33,-12.37,1.4,77.45,-59.94,-33.42,179.45,29.21,9.08,-33.43,N/A,N/A,13.58,7.76,EBITDA Margin 29.21%,"Stock picks of the week: 5 stocks with consistent score improvement and upside potential of up to 28%
-Get multiple analysts' prediction on Linde India"
-2026-08-03,EMIL.NS,ELECTRONICS MART IND LTD,Consumer Cyclical,,,,2.23,,140.68,101.56,,0.0,50536751104,47.08,1913.24,-1.36,14.96,39.73,34.03,49.03,130.17,6.8,1.03,49.28,N/A,1.23,6.79,4.7,Profit +49.03% YoY | Profit +34.03% QoQ | EPS +49.28% YoY,No recent news
-2026-08-03,CENTURYPLY.NS,CENTURY PLYBOARDS (I) LTD,Basic Materials,,,,3.68,,799.5,724.6,,-1.9,171695292416,58.95,1492.21,10.53,24.52,78.08,22.24,48.79,182.12,12.2,3.51,48.73,N/A,0.67,N/A,N/A,Profit +48.79% YoY | Profit +22.24% QoQ | EPS +48.73% YoY,No recent news
-2026-08-03,KANSAINER.NS,KANSAI NEROLAC PAINTS LTD,Basic Materials,,,,2.34,,213.95,193.19,,-1.9,165136433152,28.05,1953.71,-1.43,1.66,112.27,-7.49,-83.51,240.43,12.31,1.39,-83.49,N/A,0.05,8.8,5.51,—,"Kansai Nerolac Q1 profit rises 5%; approves Rs 601 crore capacity expansion
-Paint stocks tumble up to 48% from their peaks. Is the worst over?
-Falling crude oil price sends tyre, paint, oil marketing and airline companies soaring in relief rally
-Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome
+Get multiple analysts' prediction on Thermax"
+2026-08-03,SARDAEN.NS,SARDA ENERGY & MIN LTD,Basic Materials,,,,2.25,,546.55,491.75,,-1.9,181899214848,16.46,1240.31,-1.65,0.85,157.99,-17.01,45.9,352.31,28.4,4.48,45.93,N/A,0.35,N/A,N/A,Profit +45.9% YoY | EPS +45.93% YoY | EBITDA Margin 28.4%,No recent news
+2026-08-03,PTC.NS,PTC INDIA LIMITED,Utilities,,,,4.84,,195.24,164.4,,0.0,53314060288,8.8,3859.97,14.75,33.71,105.34,-7.64,-69.32,219.68,5.69,3.56,-70.03,N/A,0.25,10.38,4.47,Revenue +33.71% YoY,"Actis, IndiGrid, Inox among companies in talks for Brookfield's renewable energy asset
+Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order
+Shareholder Meeting / Postal Ballot-Outcome of Postal_Ballot
+Shareholder Meeting / Postal Ballot-Scrutinizer""s Report
 Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-08-03,AARTIDRUGS.NS,AARTI DRUGS LTD.,Healthcare,,,,1.68,,426.9,366.05,,3.86,37169709056,19.07,720.3,19.71,6.43,55.19,36.14,-12.2,96.56,13.41,6.05,-12.06,N/A,0.37,N/A,N/A,Revenue +19.71% QoQ | Profit +36.14% QoQ,"Stock picks of the week: 5 stocks with consistent score improvement and upside potential of up to 25%
-Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome
-Announcement under Regulation 30 (LODR)-Newspaper Publication
-Announcement under Regulation 30 (LODR)-Investor Presentation
-Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-08-03,MARUTI.NS,MARUTI SUZUKI INDIA LTD.,Consumer Cyclical,,,,2.2,,14538.0,12912.0,,0.0,4448796016640,31.07,51567.5,8.48,40.11,3659.0,-5.67,-1.82,6739.5,13.07,116.38,-1.82,N/A,0.0,N/A,N/A,Revenue +40.11% YoY,"Maruti Suzuki shares decline over 2% after Q1. Morgan Stanley, Motilal Oswal decode the road ahead
-TVS Motor EV sales jump 158% to record high in July as pricey fuel drives demand
-Buy, Sell or Hold: Morgan Stanley maintains buy on Maruti Suzuki; Citi retains buy on Sun Pharma
-Maruti Suzuki Production Volume: July 2026
-Get multiple analysts' prediction on Maruti Suzuki"
-2026-08-03,INTELLECT.NS,INTELLECT DESIGN ARENA,Technology,,,,2.91,,779.49,705.5,,6.75,104333017088,30.15,847.02,15.81,38.94,120.23,322.62,71.29,222.95,26.32,8.68,69.86,N/A,0.05,N/A,N/A,Revenue +38.94% YoY | Revenue +15.81% QoQ | Profit +71.29% YoY | Profit +322.62% QoQ | EPS +69.86% YoY | EBITDA Margin 26.32%,"Two Trades for Today: A specialty chemical major for an 8.5% upmove, a mid-cap IT stock for a 6% gain
-Get multiple analysts' prediction on Intellect Design"
-2026-08-03,LUPIN.NS,LUPIN LIMITED,Healthcare,,,,2.04,,2514.8,2231.02,,3.86,1094163038208,20.56,7391.91,4.1,31.56,1460.34,24.23,70.77,2626.29,35.53,31.96,70.45,N/A,0.29,26.91,12.71,Revenue +31.56% YoY | Profit +70.77% YoY | Profit +24.23% QoQ | EPS +70.45% YoY | EBITDA Margin 35.53% | ROE 26.91%,"Stocks in news: Hero MotoCorp, Canara Bank, Bharti Airtel, Indian Hotels, SBI
-Biosimilars and innovation will drive Indian pharma's next growth phase: Vishal Manchanda
-Announcement under Regulation 30 (LODR)-Press Release / Media Release
-Get multiple analysts' prediction on Lupin"
-2026-08-03,MUTHOOTFIN.NS,MUTHOOT FINANCE LIMITED,Financial Services,,,,7.34,,3218.3,2890.0,,1.01,1160605204480,10.95,6136.58,15.34,74.53,3349.47,19.45,126.67,N/A,N/A,83.43,126.65,N/A,3.94,31.74,6.4,Revenue +74.53% YoY | Revenue +15.34% QoQ | Profit +126.67% YoY | EPS +126.65% YoY | ROE 31.74%,"Muthoot Finance shares crash 10% after Q1 results. What Motilal, other brokerages said
-Stocks in news: Maruti Suzuki, ITC, ZEE, Persistent Systems, and Muthoot Finance
-Muthoot Finance reports 25% rise in Q1 profit, announces leadership transition
-These large-caps have ‘strong buy’ & ‘buy’ recos and an upside potential of up to 25%
-Get multiple analysts' prediction on Muthoot Finance"
-2026-08-03,GODFRYPHLP.NS,GODFREY PHILLIPS INDIA LT,Consumer Defensive,,,,3.03,,2301.0,2031.3,,0.46,350491017216,25.63,1191.85,-33.09,-23.88,198.39,-61.9,-32.44,287.98,24.16,12.72,-29.18,N/A,0.04,N/A,N/A,—,No recent news
-2026-08-03,NH.NS,NARAYANA HRUDAYALAYA LTD.,Healthcare,,,,4.75,,2080.3,1839.02,,3.86,389890768896,47.54,2593.81,20.58,75.8,227.92,78.06,16.19,537.22,20.71,11.02,13.49,N/A,1.29,N/A,N/A,Revenue +75.8% YoY | Revenue +20.58% QoQ | Profit +78.06% QoQ,"Hospital expansion cycle to keep margins rangebound, but 18 per cent revenue growth trend likely to sustain: Kotak Securities
-Get multiple analysts' prediction on Narayana Hruday"
-2026-08-03,TRAVELFOOD.NS,TRAVEL FOOD SERVICES LTD,Consumer Cyclical,,,,2.04,,1355.5,1184.2,,0.0,177056235520,40.16,460.68,0.99,12.12,120.8,-8.96,23.59,239.29,51.94,9.17,23.58,N/A,0.17,35.7,14.89,EBITDA Margin 51.94% | ROE 35.7%,"Tourism and hotel sector stocks: Time for a correction in business? Are analysts getting it wrong? 15 stocks from the ecosystem
-Dreamfolks shares hit 5% lower circuit for second consecutive session: Here’s why
-DreamFolks shares hit 5% lower circuit after exiting domestic lounge business
-Travel Food Services shares in focus on license for lounge operations at India’s 8th busiest airport
-Get multiple analysts' prediction on Travel Food Services"
-2026-08-03,JSWINFRA.NS,JSW INFRASTRUCTURE LTD,Industrials,,,,1.58,,351.2,267.64,,0.28,761688227840,46.4,1444.83,-5.09,12.6,346.63,-17.13,-31.95,564.84,39.09,1.65,-32.93,N/A,0.59,N/A,N/A,EBITDA Margin 39.09%,"JSW Infra raises ₹7,503 crore via QIP to fund capex plan
-Stocks in news: TCS, JSW Infra, Craftsman Automation, IIFL Finance, Transrail Lighting
-JSW Infrastructure launches Rs 7,500 crore QIP, to fund capex, repay debt
-Get multiple analysts' prediction on JSW Infrastructure"
-2026-08-03,JLHL.NS,JUPITER LIFE LINE HOSP L,Healthcare,,,,2.94,,332.4,261.5,,3.86,104577802240,53.79,387.84,6.15,15.2,50.62,18.94,15.02,98.31,25.35,7.66,11.18,N/A,0.38,N/A,N/A,EBITDA Margin 25.35%,No recent news
-2026-08-03,ASKAUTOLTD.NS,ASK AUTOMOTIVE LIMITED,Consumer Cyclical,,,,2.9,,522.24,421.36,,0.0,112302284800,37.73,1147.12,5.8,25.35,71.54,-10.49,8.57,139.29,12.14,3.63,8.68,N/A,0.52,25.26,11.68,Revenue +25.35% YoY | ROE 25.26%,"ET Prime Special Series: Multibagger or IBC - Part 64: An old 2-wheeler supplier that now earns more from a newer business
-Unlock Stock Score, Analyst' Ratings & Recommendations
-Get multiple analysts' prediction on ASK Automotive"
-2026-08-03,KIRLOSBROS.NS,KIRLOSKAR BROTHERS LTD,Industrials,,,,1.59,,2065.44,1607.98,,0.28,147676774400,39.46,1415.1,26.78,23.68,111.5,-10.3,-4.86,209.3,14.79,14.04,-4.88,N/A,0.1,N/A,N/A,Revenue +26.78% QoQ,"Land, then power, now water: India's next scarcity. 5 stocks from the water ecosystem to look at with a long-term perspective
-Two Trades for Today: A private power player for a rise of 7.55%, a mid-cap capital goods stock for an almost 6% upmove
-Baap of all trade deals! What Modi-Trump announcement means for your stocks
-Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome
-Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-08-03,RVNL.NS,RAIL VIKAS NIGAM LIMITED,Industrials,,,,1.89,,247.58,221.34,,0.28,485601181696,55.58,6695.91,42.94,4.18,187.07,-42.05,-58.92,357.58,5.34,0.9,-58.72,N/A,0.49,8.98,2.17,Revenue +42.94% QoQ,"Stocks in news: L&T, Tata Capital, Ambuja Cements, Suzlon Energy, RVNL
-RVNL, Railtel Corp, Titagarh Rail, other railway stocks rally up to 4% on Rs 16 lakh crore bullet train plan
-Get multiple analysts' prediction on RVNL
-Motilal Oswal Nifty Midcap 150 Index Direct-G"
-2026-08-03,ABB.NS,ABB INDIA LIMITED,Industrials,,,,2.59,,7667.5,6719.0,,0.28,1610715496448,102.3,3162.41,-9.54,-4.94,341.91,-21.28,-35.72,508.04,16.06,84.18,237.67,N/A,0.02,19.13,7.91,EPS +237.67% YoY,"ABB India shares surge 10%. What’s fuelling the rally?
-TCS bags $200 million three-year deal from industrial technology firm ABB
-TCS dividend alert! Last day to buy IT bellwether's shares for interim dividend worth Rs 12. Do you own?
-Announcement under Regulation 30 (LODR)-Newspaper Publication
-Get multiple analysts' prediction on ABB India"
-2026-08-03,3MINDIA.NS,3M INDIA LIMITED,Industrials,,,,1.59,,36018.37,30720.1,,0.28,405035581440,77.52,1399.24,13.94,28.38,215.34,447.02,89.28,269.46,19.26,191.16,89.29,N/A,0.1,28.9,18.76,Revenue +28.38% YoY | Profit +89.28% YoY | Profit +447.02% QoQ | EPS +89.29% YoY | ROE 28.9%,"3M India temporarily shuts Ahmedabad plant amid heavy rains; operations at other facilities remain unaffected
-Get multiple analysts' prediction on 3M India"
-2026-08-03,PERSISTENT.NS,PERSISTENT SYSTEMS LTD,Technology,,,,1.86,,5514.7,4283.62,,6.75,870988054528,46.95,4055.94,7.35,32.45,529.26,20.44,41.9,801.2,19.75,33.83,39.33,N/A,0.06,N/A,N/A,Revenue +32.45% YoY | Profit +41.9% YoY | Profit +20.44% QoQ | EPS +39.33% YoY,"Stocks in news: Maruti Suzuki, ITC, ZEE, Persistent Systems, and Muthoot Finance
-Dividend alert! Last day to buy Wipro, DLF, Persistent Systems among 12 stocks for dividend rewards. Do you own any?
-Quant Mid Cap Fund exits Reliance Industries and 3 others, adds BHEL, 1 other stock in June
-Announcement under Regulation 30 (LODR)-Newspaper Publication
-Get multiple analysts' prediction on Persistent System"
-2026-08-03,BBTC.NS,BOMBAY BURMAH TRADING COR,Consumer Defensive,,,,3.97,,1589.3,1458.2,,0.46,107253366784,8.63,4785.34,-3.89,7.27,443.96,40.35,43.84,913.45,19.09,63.63,43.83,N/A,0.17,28.71,15.56,Profit +43.84% YoY | Profit +40.35% QoQ | EPS +43.83% YoY | ROE 28.71%,No recent news
-2026-08-03,JYOTHYLAB.NS,JYOTHY LABS LIMITED,Consumer Defensive,,,,1.66,,206.19,189.12,,0.46,75668217856,22.72,715.35,-3.28,7.56,67.52,-16.77,-11.51,78.11,10.92,N/A,N/A,N/A,0.03,22.43,11.63,ROE 22.43%,"Stocks in news: Sun Pharma, Tech Mahindra, Tata Motors, Voltas, ONGC
-Annoucement Under Regulation 30 Of SEBI (LODR) Regulations, 2015 - ESG Rating
-Unlock Stock Score, Analyst' Ratings & Recommendations
-Get multiple analysts' prediction on Jyothy Labs"
-2026-08-03,KRBL.NS,KRBL LIMITED,Consumer Defensive,,,,2.57,,393.95,341.85,,0.46,85536153600,13.2,1525.5,3.29,5.77,155.38,-8.58,0.76,237.44,15.56,6.79,0.74,N/A,0.03,11.73,7.9,—,"The ethanol story is changing. Is investing in the ecosystem the better way? 15 stocks across different market cap segments
+2026-08-03,GALLANTT.NS,GALLANTT ISPAT LIMITED,Basic Materials,,,,1.69,,741.8,521.2,,-1.9,151427907584,31.22,1204.81,12.22,7.73,122.83,22.33,8.06,208.91,17.34,5.09,8.07,N/A,N/A,N/A,N/A,Profit +22.33% QoQ,No recent news
+2026-08-03,LEMONTREE.NS,LEMON TREE HOTELS LTD,Consumer Cyclical,,,,1.96,,120.62,103.68,,0.0,90294386688,39.73,416.4,2.55,10.01,91.49,46.0,8.1,221.08,53.09,1.16,8.41,N/A,0.96,14.9,8.38,Profit +46.0% QoQ | EBITDA Margin 53.09%,"Tourism and hotel sector stocks: Time for a correction in business? Are analysts getting it wrong? 15 stocks from the ecosystem
+Get multiple analysts' prediction on Lemon Tree Hotels"
+2026-08-03,THOMASCOOK.NS,THOMAS COOK (INDIA) LTD,Consumer Cyclical,,,,2.11,,116.56,91.44,,0.0,50630946816,22.85,1770.69,-17.48,-10.07,38.66,-7.29,-40.13,114.42,6.46,0.83,-40.29,N/A,0.21,9.26,2.27,—,No recent news
+2026-08-03,KRBL.NS,KRBL LIMITED,Consumer Defensive,,,,2.46,,393.95,341.85,,0.46,85536153600,13.2,1525.5,3.29,5.77,155.38,-8.58,0.76,237.44,15.56,6.79,0.74,N/A,0.03,11.73,7.9,—,"The ethanol story is changing. Is investing in the ecosystem the better way? 15 stocks across different market cap segments
 Ethanol ecosystem: Judging fear by noise is not evidence; 15 stocks from the ecosystem
 Knack Packaging shares list at 11% premium; expert sees further upside
 Knack Packaging shares list at up to 11% premium over IPO price on NSE, BSE
 Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-08-03,FSL.NS,FIRSTSOURCE SOLU. LTD.,Technology,,,,2.12,,302.12,228.45,,6.75,223975129088,33.96,2613.04,5.9,25.15,205.24,70.56,28.03,428.71,16.41,2.97,27.47,N/A,0.67,15.9,8.13,Revenue +25.15% YoY | Profit +70.56% QoQ,No recent news
-2026-08-03,PARKHOSPS.NS,PARK MEDI WORLD LIMITED,Healthcare,,,,1.74,,299.3,254.15,,3.86,124655255552,41.95,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,"Park Medi World shares surge over 6% after listing at discount. Should you buy now?
-Park Medi World shares list at 4% discount to IPO price on exchanges
-Park Medi World IPO Day 2: GMP slips to 9%; check subscription status, review and key highlights
+2026-08-03,ZEEL.NS,ZEE ENTERTAINMENT ENT LTD,Communication Services,,,,4.05,,115.75,94.5,,0.0,94265376768,34.8,2024.8,-11.2,2.32,-102.4,-165.94,-162.59,-192.3,-9.5,-1.08,-163.53,N/A,0.02,2.33,0.58,—,No recent news
+2026-08-03,KIMS.NS,KRISHNA INST OF MED SCI L,Healthcare,,,,1.5,,850.65,737.45,,3.86,328354004992,135.86,1074.6,7.71,34.85,42.5,-20.41,-58.25,218.8,20.36,1.06,-58.27,N/A,1.66,9.72,4.82,Revenue +34.85% YoY,No recent news
+2026-08-03,GAEL.NS,GUJARAT AMBUJA EXPORTS LT,Consumer Defensive,,,,3.88,,172.59,139.14,,0.46,82872606720,27.25,1466.51,-1.19,15.78,135.32,105.28,324.2,220.15,15.01,2.95,321.43,N/A,0.13,N/A,N/A,Profit +324.2% YoY | Profit +105.28% QoQ | EPS +321.43% YoY,No recent news
+2026-08-03,LTM.NS,LTM LIMITED,Technology,,,,3.2,,4441.4,3538.0,,6.75,1390403125248,26.61,11608.0,2.8,18.79,1466.3,5.31,29.93,2118.2,18.25,49.46,29.82,1032.9,0.1,21.97,12.69,ROE 21.97%,No recent news
+2026-08-03,VIYASH.NS,VIYASH SCIENTIFIC LIMITED,Healthcare,,,,2.21,,294.15,244.35,,3.86,115095363584,65.76,919.96,7.17,19.12,52.11,35.56,298.59,204.33,22.21,1.2,296.72,N/A,0.16,7.91,6.0,Profit +298.59% YoY | Profit +35.56% QoQ | EPS +296.72% YoY,No recent news
+2026-08-03,AVL.NS,ADITYA VISION LIMITED,Consumer Cyclical,,,,1.63,,668.55,521.35,,0.0,80536944640,68.84,625.03,-3.67,28.42,21.73,-20.43,35.98,52.67,8.43,1.69,36.29,N/A,0.83,N/A,N/A,Revenue +28.42% YoY | Profit +35.98% YoY | EPS +36.29% YoY,"Samir Arora-backed Helios Mid Cap Fund adds Groww, 4 more stocks; hikes stake in Paytm and 29 others
 Unlock Stock Score, Analyst' Ratings & Recommendations
-Get multiple analysts' prediction on Park Medi World"
-2026-08-03,ABFRL.NS,ADITYA BIRLA FASHION & RT,Consumer Cyclical,,,,2.41,,62.47,56.03,,0.0,75939069952,N/A,1990.13,-16.16,-9.56,-148.4,2.52,-32.94,311.49,15.65,1.22,216.19,N/A,0.99,-12.69,-2.37,EPS +216.19% YoY,No recent news
-2026-08-03,TITAGARH.NS,TITAGARH RAIL SYSTEMS LTD,Industrials,,,,2.35,,932.6,810.4,,0.28,115691495424,95.56,875.43,5.21,-12.94,52.02,8.1,142.61,89.61,10.24,3.97,143.15,N/A,0.25,4.92,4.76,Profit +142.61% YoY | EPS +143.15% YoY,No recent news
-2026-08-03,RENUKA.NS,SHREE RENUKA SUGARS LTD,Consumer Defensive,,,,2.66,,24.06,21.49,,0.46,47529177088,N/A,2546.9,20.16,2.77,-122.2,-219.06,39.98,191.8,7.53,-0.57,40.63,N/A,N/A,N/A,-0.44,Revenue +20.16% QoQ | Profit +39.98% YoY | EPS +40.63% YoY,"Ethanol ecosystem: Judging fear by noise is not evidence; 15 stocks from the ecosystem
-A stock trader’s guide to navigating rare ‘Super El Niño’
-Dalmia Bharat, Shree Renuka and other sugar stocks jump up to 4%. What’s behind the rally?
-Balrampur Chini, other sugar stocks rally up to 18% as oil prices soar. Here’s why
+Get multiple analysts' prediction on Aditya Vision"
+2026-08-03,ITC.NS,ITC LTD,Consumer Defensive,,,,2.67,,292.5,275.55,,0.46,3595957436416,18.11,17628.89,-11.49,-5.12,5387.97,9.26,13.88,7648.95,43.39,4.3,8.86,N/A,0.03,N/A,N/A,EBITDA Margin 43.39%,"Rub-off effect? Godfrey Phillips shares jump 6% after rival cigarette maker ITC's Q1 earnings
+Buy, Sell or Hold: Morgan Stanley maintains buy on Maruti Suzuki; Citi retains buy on Sun Pharma
+ITC shares gain 3% after Q1 results. Hereâs why Nomura upgraded the stock to Buy
+Stocks in news: Maruti Suzuki, ITC, ZEE, Persistent Systems, and Muthoot Finance
+Acquisition Of Pulp And Paper Undertaking Of Aditya Birla Real Estate Limited - Update"
+2026-08-03,BAJAJFINSV.NS,BAJAJ FINSERV LTD.,Financial Services,,,,2.02,,2029.1,1643.7,,1.01,3350945071104,33.21,33482.55,2.65,7.59,2538.67,13.89,5.09,N/A,N/A,15.9,5.3,N/A,2.56,N/A,N/A,—,"Bajaj Finserv shares rise over 2% after Q1 earnings. Here's why Motilal Oswal upgrades to Buy, raises target price
+Stock picks of the week: 5 stocks with consistent score improvement and upside potential of up to 28%
+Why did market rise today? Sensex surges 965 points; Nifty ends above 24,300. 4 reasons why D-Street defied global rout
+Shareholder Meeting / Postal Ballot-Scrutinizer''s Report
+Get multiple analysts' prediction on Bajaj Finserv"
+2026-08-03,KSCL.NS,KAVERI SEED CO. LTD.,Basic Materials,,,,2.73,,944.2,782.45,,-1.9,39837396992,13.7,107.11,-49.04,18.68,-27.81,-313.85,-21.2,-10.41,-9.72,-6.56,-44.81,N/A,N/A,18.16,6.39,—,No recent news
+2026-08-03,EICHERMOT.NS,EICHER MOTORS LTD,Consumer Cyclical,,,,1.65,,7833.5,6976.94,,0.0,2209899610112,38.34,6488.74,8.85,31.2,1462.51,-3.78,21.35,2224.43,34.28,53.3,21.27,N/A,0.02,N/A,N/A,Revenue +31.2% YoY | EBITDA Margin 34.28%,"Buy, Sell or Hold: Morgan Stanley maintains an Equal-Weight on Eicher Motors; Citi recommends sell on Colgate-Palmolive
+Eicher Motors share price target: What are Morgan Stanley, Nomura saying about Royal Enfield maker?
+Stocks in news: Adani Ports, Adani Enterprises, Vedanta Oil & Gas, Asian Paints, 6 others
+Announcement under Regulation 30 (LODR)-Monthly Business Updates
+Get multiple analysts' prediction on Eicher Motors"
+2026-08-03,ABB.NS,ABB INDIA LIMITED,Industrials,,,,2.56,,7667.5,6719.0,,0.28,1610715496448,102.3,3162.41,-9.54,-4.94,341.91,-21.28,-35.72,508.04,16.06,84.18,237.67,N/A,0.02,19.13,7.91,EPS +237.67% YoY,"ABB India shares surge 10%. What’s fuelling the rally?
+TCS bags $200 million three-year deal from industrial technology firm ABB
+TCS dividend alert! Last day to buy IT bellwether's shares for interim dividend worth Rs 12. Do you own?
+Announcement under Regulation 30 (LODR)-Newspaper Publication
+Get multiple analysts' prediction on ABB India"
+2026-08-03,BBOX.NS,BLACK BOX LIMITED,Technology,,,,1.53,,1078.2,726.8,,6.75,133856518144,59.39,1690.94,1.89,9.48,64.76,30.35,7.09,166.27,9.83,3.78,5.88,N/A,0.9,21.27,7.47,Profit +30.35% QoQ | ROE 21.27%,No recent news
+2026-08-03,MAHSEAMLES.NS,MAHARASHTRA SEAMLESS LTD,Basic Materials,,,,1.94,,649.1,565.1,,-1.9,76875366400,10.96,1280.11,17.41,-9.09,102.83,-57.66,-44.74,186.31,14.55,7.67,-44.78,N/A,0.0,10.61,4.83,Revenue +17.41% QoQ,"Weekly Top Picks: These stocks scored 10 on 10 on Stock Reports Plus
+Promoters increase stakes in Indian companies amid stock market weakness
+Announcement under Regulation 30 (LODR)-Demise
 Unlock Stock Score, Analyst' Ratings & Recommendations"
 2026-08-03,LICHSGFIN.NS,LIC HOUSING FINANCE LTD,Financial Services,,,,1.67,,564.0,523.1,,1.01,285482680320,4.98,2064.29,-12.61,-10.06,1498.85,0.42,9.14,N/A,N/A,27.25,9.13,N/A,6.43,N/A,N/A,—,"Quant Small Cap Fund exits RIL, 8 others; raises exposure to two Adani stocks. Check full list
 Appointment Of Ms. Varsha Hardasani As Company Secretary Of LICHFL Care Homes Limited (Additional Charge)
 Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome
 Announcement under Regulation 30 (LODR)-Investor Presentation
 Get multiple analysts' prediction on LIC Housing"
-2026-08-03,RTNPOWER.NS,RATTANINDIA POWER LIMITED,Utilities,,,,1.69,,9.74,8.39,,0.0,47256932352,41.9,798.55,1.38,-14.71,45.85,7.03,-63.59,192.85,24.15,0.09,-60.87,N/A,0.8,N/A,N/A,—,"From red to black: 50 companies turn losses into profit in Q3. Do you own them?
+2026-08-03,MEDANTA.NS,GLOBAL HEALTH LIMITED,Healthcare,,,,1.72,,1432.9,1201.3,,3.86,388271865856,69.94,1304.05,12.51,26.5,158.73,10.24,-0.18,308.92,23.69,5.91,-0.17,N/A,0.3,N/A,N/A,Revenue +26.5% YoY,No recent news
+2026-08-03,CLEAN.NS,CLEAN SCIENCE & TECH LTD,Basic Materials,,,,9.26,,821.1,721.0,,-1.9,81215791104,35.41,249.25,13.47,3.5,58.27,27.0,-11.23,98.56,39.54,5.48,-11.33,N/A,0.0,N/A,N/A,Profit +27.0% QoQ | EBITDA Margin 39.54%,No recent news
+2026-08-03,IGIL.NS,INTL GEMOLOGICAL INST LTD,Basic Materials,,,,1.95,,372.05,328.75,,-1.9,157716676608,30.82,370.78,0.6,21.65,165.74,-7.72,17.77,225.69,60.87,3.84,17.79,65.93,0.1,N/A,N/A,EBITDA Margin 60.87%,No recent news
+2026-08-03,SHREECEM.NS,SHREE CEMENT LIMITED,Basic Materials,,,,1.65,,27245.0,23354.29,,-1.9,974180188160,59.9,6101.0,27.09,33.42,525.69,97.11,171.81,1485.15,24.34,145.7,171.78,N/A,0.38,N/A,N/A,Revenue +33.42% YoY | Revenue +27.09% QoQ | Profit +171.81% YoY | Profit +97.11% QoQ | EPS +171.78% YoY,"India's growth story, not AI trade reversal, will drive foreign flows: Sameer Dalal
+Cement firms do well amid strain, but face capacity test
+Announcement under Regulation 30 (LODR)-Demise
+Voting Results Of The 47Th Annual General Meeting (AGM) Of The Company
+Get multiple analysts' prediction on Shree Cements"
+2026-08-03,SAFARI.NS,SAFARI IND (INDIA) LTD,Consumer Cyclical,,,,3.53,,1681.43,1515.74,,0.0,75850014720,45.12,473.3,-7.63,12.41,37.47,13.93,-0.32,68.97,14.57,7.65,-0.52,N/A,0.1,16.22,9.21,—,No recent news
+2026-08-03,PAYTM.NS,ONE 97 COMMUNICATIONS LTD,Technology,,,,2.04,,1386.5,1023.1,,6.75,903365132288,140.02,2448.0,8.13,28.03,220.0,19.57,140.74,385.0,15.73,3.44,140.61,N/A,0.01,N/A,N/A,Revenue +28.03% YoY | Profit +140.74% YoY | EPS +140.61% YoY,No recent news
+2026-08-03,INTELLECT.NS,INTELLECT DESIGN ARENA,Technology,,,,2.48,,779.49,705.5,,6.75,104333017088,30.15,847.02,15.81,38.94,120.23,322.62,71.29,222.95,26.32,8.68,69.86,N/A,0.05,N/A,N/A,Revenue +38.94% YoY | Revenue +15.81% QoQ | Profit +71.29% YoY | Profit +322.62% QoQ | EPS +69.86% YoY | EBITDA Margin 26.32%,"Two Trades for Today: A specialty chemical major for an 8.5% upmove, a mid-cap IT stock for a 6% gain
+Get multiple analysts' prediction on Intellect Design"
+2026-08-03,ACC.NS,ACC LIMITED,Basic Materials,,,,2.32,,1397.1,1296.2,,-1.9,262526599168,13.79,5790.0,-18.73,-4.13,147.0,-38.3,-80.43,512.0,8.84,7.83,-80.42,N/A,0.02,N/A,N/A,—,"ACC Q1 Results: Profit plunges 60% to Rs 147 crore on lower sales
+Born at IIT, this battery tech targets a market China doesn't dominate—yet
+Adani storms Hindalco-Vedanta duopoly with Rs 1.1 lakh crore gambit
+Announcement under Regulation 30 (LODR)-Earnings Call Transcript"
+2026-08-03,LINDEINDIA.NS,LINDE INDIA LIMITED,Basic Materials,,,,2.11,,7460.5,6637.0,,-1.9,595326533632,108.93,614.33,-12.37,1.4,77.45,-59.94,-33.42,179.45,29.21,9.08,-33.43,N/A,N/A,13.58,7.76,EBITDA Margin 29.21%,"Stock picks of the week: 5 stocks with consistent score improvement and upside potential of up to 28%
+Get multiple analysts' prediction on Linde India"
+2026-08-03,SUDEEPPHRM.NS,SUDEEP PHARMA LIMITED,Healthcare,,,,2.57,,881.79,728.51,,3.86,97994219520,55.94,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,"$53 billion value unlocking! D-St braces for 85 IPO lock-in expiries in 3 months. Check details
+Mukul Agrawal reshapes Rs 6,500-crore portfolio in Q3: Two new stocks, one exit. Do you own?
+Sudeep Pharma shares rally 8% after solid listing pop. Should you buy, sell or hold?
+Strong Start! Sudeep Pharma shares list at 24% premium over IPO price
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-08-03,ABFRL.NS,ADITYA BIRLA FASHION & RT,Consumer Cyclical,,,,2.17,,62.47,56.03,,0.0,75939069952,N/A,1990.13,-16.16,-9.56,-148.4,2.52,-32.94,311.49,15.65,1.22,216.19,N/A,0.99,-12.69,-2.37,EPS +216.19% YoY,No recent news
+2026-08-03,KAJARIACER.NS,KAJARIA CERAMICS LTD,Industrials,,,,2.02,,1242.2,1067.4,,0.28,190881660928,35.44,1373.35,17.56,18.84,155.7,76.91,86.18,276.37,20.12,9.78,100.41,N/A,0.07,N/A,N/A,Revenue +17.56% QoQ | Profit +86.18% YoY | Profit +76.91% QoQ | EPS +100.41% YoY,"Kajaria Ceramics share buyback worth Rs 297 crore opens on July 3: Entitlement ratio, other details to know
+Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome
+Opening Of Trading Window - Kajaria Ceramics Limited
+Get multiple analysts' prediction on Kajaria Ceramic"
+2026-08-03,GAIL.NS,GAIL (INDIA) LTD,Utilities,,,,3.56,,181.44,163.86,,0.0,1146036420608,11.6,35576.55,1.15,-3.42,1484.72,-15.46,-63.62,2703.0,7.6,2.26,-63.61,N/A,0.28,N/A,N/A,—,No recent news
+2026-08-03,DYNAMATECH.NS,DYNAMATIC TECHNOLOGIES,Consumer Cyclical,,,,1.72,,10988.0,9882.0,,0.0,73096298496,226.3,433.16,1.95,13.79,12.56,117.68,-21.94,55.53,12.82,18.5,-21.94,N/A,0.8,4.29,3.79,Profit +117.68% QoQ,"Defence stocks fire up! Paras Defence, BEL, GRSE, other stocks surge up to 24% in 2 days. What's powering the rally?
+Pahalgam anniversary: How the 2025 terror attack triggered Rs 3 lakh crore defence boom and created 3 multibagger stocks
+Defence stocks set for mixed Q4; Nuvama bets on BEL, Solar Industries, and a smallcap pick
+Board Meeting Intimation for Notice Calling The Board Meeting For The Quarter Ended 3O June 2026.
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-08-03,LUPIN.NS,LUPIN LIMITED,Healthcare,,,,1.97,,2514.8,2231.02,,3.86,1094163038208,20.56,7391.91,4.1,31.56,1460.34,24.23,70.77,2626.29,35.53,31.96,70.45,N/A,0.29,26.91,12.71,Revenue +31.56% YoY | Profit +70.77% YoY | Profit +24.23% QoQ | EPS +70.45% YoY | EBITDA Margin 35.53% | ROE 26.91%,"Stocks in news: Hero MotoCorp, Canara Bank, Bharti Airtel, Indian Hotels, SBI
+Biosimilars and innovation will drive Indian pharma's next growth phase: Vishal Manchanda
+Announcement under Regulation 30 (LODR)-Press Release / Media Release
+Get multiple analysts' prediction on Lupin"
+2026-08-03,ADVENZYMES.NS,ADVANCED ENZYME TECH LTD,Basic Materials,,,,6.92,,378.62,306.18,,-1.9,36252278784,21.5,203.37,18.27,21.65,42.96,1.09,62.23,70.46,34.64,3.84,62.03,N/A,0.02,11.02,6.85,Revenue +18.27% QoQ | Profit +62.23% YoY | EPS +62.03% YoY | EBITDA Margin 34.64%,"Bonus, dividends and stock splits: Bharti Airtel, Hero MotoCorp among 88 stocks turning ex-date this week. Do you own any?
+Market wrap: 263 of BSE 500 stocks end week in green as FIIs turn net buyers. IT, health scrips shine
+Pidilite, Aditya Birla AMC among 18 dividend stocks with record date on Wednesday. Do you own?
+For the calibrated risk taker: 4 stocks where the undercurrent of budget may make the difference to the growth of real business
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-08-03,CRIZAC.NS,CRIZAC LIMITED,Consumer Defensive,,,,5.87,,218.57,184.44,,0.46,34275571712,15.63,391.73,40.59,79.97,74.5,49.18,72.08,100.77,25.72,4.29,73.39,N/A,0.0,40.0,18.18,Revenue +79.97% YoY | Revenue +40.59% QoQ | Profit +72.08% YoY | Profit +49.18% QoQ | EPS +73.39% YoY | EBITDA Margin 25.72% | ROE 40.0%,No recent news
+2026-08-03,MAHSCOOTER.NS,MAHARASHTRA SCOOTERS LTD,Financial Services,,,,4.25,,13250.0,11988.63,,1.01,159279955968,57.29,5.41,-10.28,-81.52,3.32,-17.21,-90.61,4.55,84.1,2.91,-90.59,N/A,N/A,N/A,N/A,EBITDA Margin 84.1%,"Dividend alert! Last day to buy Bajaj Finance, 2 other Bajaj Group stocks for dividends worth Rs 138
+Ahead of Market: 10 things that will decide stock market action on Wednesday
+Ahead of Market: 10 things that will decide stock market action on Tuesday
+Shareholder Meeting / Postal Ballot-Scrutinizer''s Report
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-08-03,AUROPHARMA.NS,AUROBINDO PHARMA LTD,Healthcare,,,,1.78,,1620.5,1396.7,,3.86,894540054528,25.76,8751.5,1.71,10.87,921.26,1.21,8.92,1867.39,21.34,15.86,8.93,N/A,0.21,9.93,5.86,—,"Quant Mid Cap Fund adds Adani Energy and 4 others, exits Paytm and 3 more stocks in May
+Business Responsibility and Sustainability Reporting (BRSR)
+Get multiple analysts' prediction on Aurobindo Pharma"
+2026-08-03,RBA.NS,RESTAURANT BRAND ASIA LTD,Consumer Cyclical,,,,1.67,,80.45,64.9,,0.0,50361225216,N/A,706.84,-1.09,10.61,-43.01,1.21,14.66,103.06,14.58,-0.73,27.72,N/A,2.86,-25.79,-0.86,—,No recent news
+2026-08-03,GODFRYPHLP.NS,GODFREY PHILLIPS INDIA LT,Consumer Defensive,,,,3.03,,2301.0,2031.3,,0.46,350491017216,25.63,1191.85,-33.09,-23.88,198.39,-61.9,-32.44,287.98,24.16,12.72,-29.18,N/A,0.04,N/A,N/A,—,No recent news
+2026-08-03,RTNPOWER.NS,RATTANINDIA POWER LIMITED,Utilities,,,,1.58,,9.74,8.39,,0.0,47256932352,41.9,798.55,1.38,-14.71,45.85,7.03,-63.59,192.85,24.15,0.09,-60.87,N/A,0.8,N/A,N/A,—,"From red to black: 50 companies turn losses into profit in Q3. Do you own them?
 Stock market update: Power stocks down as market falls
 Release Of Non Disposal Undertaking (NDU) On The Shares Of The Company
 Unlock Stock Score, Analyst' Ratings & Recommendations
 Motilal Oswal Nifty Microcap 250 Index Direct-G"
-2026-08-03,NHPC.NS,NHPC LTD,Utilities,,,,1.52,,81.57,72.13,,0.0,796069003264,28.61,2815.53,26.78,23.12,2019.38,311.02,922.78,1501.73,53.34,1.45,530.43,N/A,1.13,9.02,1.83,Revenue +26.78% QoQ | Profit +922.78% YoY | Profit +311.02% QoQ | EPS +530.43% YoY | EBITDA Margin 53.34%,"Stock picks of the week: 5 stocks with consistent score improvement and upside potential of up to 21%
-Sikkim tunnel collapse: Rescue teams retrieve bodies of all 25 workers
-PM Modi unveils India's 1st integrated refinery-cum-petrochem unit with 9 MMTPA capacity, other projects
-Stock picks of the week: 5 stocks with consistent score improvement and upside potential of up to 27%
-Disclosure Under Regulation 30 Of SEBI LODR- ESG Score"
-2026-08-03,LUMAXTECH.NS,LUMAX AUTO TECH LTD,Consumer Cyclical,,,,2.38,,1771.9,1419.6,,0.0,110803976192,39.72,1416.93,11.51,25.07,88.12,6.85,50.94,208.19,14.69,12.93,50.88,N/A,0.83,24.35,8.34,Revenue +25.07% YoY | Profit +50.94% YoY | EPS +50.88% YoY | ROE 24.35%,"Dividends & stock splits: Maruti Suzuki, ICICI Bank among nearly 100 stocks turning ex-date this week. Do you own?
-Time to take selective risks? 5 small-caps from different sectors with upside potential of up to 35%
-These large-, mid- and small-cap stocks can give more than 25% return in 1 year, according to analysts
+2026-08-03,TMCV.NS,TATA MOTORS LIMITED,Consumer Cyclical,,,,2.34,,440.5,354.35,,0.0,1666421882880,55.12,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,"Tata Motors CV shares rise 4% as July sales jump 37% YoY. Nomura expects Iveco to support earnings recovery; check target price
+TVS Motor EV sales jump 158% to record high in July as pricey fuel drives demand
+India's electric car sales jump 82% in July as high fuel prices boost EV demand
+India PV sales hit record high in July, up 34% on strong demand and GST cuts
+Get multiple analysts' prediction on Tata Motors CV"
+2026-08-03,VARROC.NS,VARROC ENGINEERING LTD.,Consumer Cyclical,,,,2.54,,679.2,561.5,,0.0,104957861888,46.6,2368.08,3.52,12.81,69.31,773.16,236.91,229.3,9.68,4.54,236.3,N/A,0.51,13.46,6.61,Profit +236.91% YoY | Profit +773.16% QoQ | EPS +236.3% YoY,"Unexpected gainer of trouble in the Gulf? 13 stocks from backend of the EV shift, with upside potential of up to 33%
+Stock picks of the week: 5 stocks with consistent score improvement and upside potential of up to 27% in 1 year
+These large- and mid-cap stocks can give more than 25% return in 1 year, according to analysts
+Time to select & focus on a few as EV inflection point comes closer: 7 auto ancillary stocks with upside potential of up to 39%
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-08-03,RVNL.NS,RAIL VIKAS NIGAM LIMITED,Industrials,,,,1.89,,247.58,221.34,,0.28,485601181696,55.58,6695.91,42.94,4.18,187.07,-42.05,-58.92,357.58,5.34,0.9,-58.72,N/A,0.49,8.98,2.17,Revenue +42.94% QoQ,"Stocks in news: L&T, Tata Capital, Ambuja Cements, Suzlon Energy, RVNL
+RVNL, Railtel Corp, Titagarh Rail, other railway stocks rally up to 4% on Rs 16 lakh crore bullet train plan
+Get multiple analysts' prediction on RVNL
+Motilal Oswal Nifty Midcap 150 Index Direct-G"
+2026-08-03,AADHARHFC.NS,AADHAR HOUSING FINANCE L,Financial Services,,,,1.92,,556.5,453.05,,1.01,220483502080,19.56,910.56,2.97,17.22,310.92,10.57,26.99,273.24,30.01,7.16,26.06,N/A,2.56,N/A,N/A,EBITDA Margin 30.01%,No recent news
+2026-08-03,LGEINDIA.NS,LG ELECTRONICS INDIA LTD,Technology,,,,1.68,,1647.8,1490.5,,6.75,1065536978944,63.07,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,"He survived a terror attack, sustained five bullet injuries, lost his father young, and now leads LG Electronics India's sales division
+Get multiple analysts' prediction on LG Electronics India"
+2026-08-03,IMFA.NS,INDIAN METALS & FERRO,Basic Materials,,,,2.17,,1527.97,1259.13,,-1.9,80499523584,18.97,763.29,8.6,18.67,103.22,-21.38,10.61,164.97,21.61,19.13,10.58,N/A,0.35,16.71,8.76,—,No recent news
+2026-08-03,URBANCO.NS,URBAN COMPANY LIMITED,Technology,,,,14.71,,138.52,120.25,,6.75,213756182528,N/A,425.56,11.21,47.8,-161.16,-658.04,-169.51,-83.01,-19.51,-1.08,-166.89,21.86,0.06,N/A,N/A,Revenue +47.8% YoY,"Urban Company shares zoom 15% after Q1 results. Why Motilal Oswal raised target price
+Urban Company’s InstaHelp, Snabbit cross 100,000 daily bookings mark
+Zepto defers its IPO; Urban Company slips into the red
+InstaHelp prioritising market leadership despite margin pressure: Urban Company
+Get multiple analysts' prediction on Urban Company"
+2026-08-03,PERSISTENT.NS,PERSISTENT SYSTEMS LTD,Technology,,,,1.76,,5549.0,4283.62,,6.75,870988054528,46.95,4055.94,7.35,32.45,529.26,20.44,41.9,801.2,19.75,33.83,39.33,N/A,0.06,N/A,N/A,Revenue +32.45% YoY | Profit +41.9% YoY | Profit +20.44% QoQ | EPS +39.33% YoY,"Stocks in news: Maruti Suzuki, ITC, ZEE, Persistent Systems, and Muthoot Finance
+Dividend alert! Last day to buy Wipro, DLF, Persistent Systems among 12 stocks for dividend rewards. Do you own any?
+Quant Mid Cap Fund exits Reliance Industries and 3 others, adds BHEL, 1 other stock in June
 Announcement under Regulation 30 (LODR)-Newspaper Publication
+Get multiple analysts' prediction on Persistent System"
+2026-08-03,PARKHOSPS.NS,PARK MEDI WORLD LIMITED,Healthcare,,,,1.74,,299.3,254.15,,3.86,124655255552,41.95,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,"Park Medi World shares surge over 6% after listing at discount. Should you buy now?
+Park Medi World shares list at 4% discount to IPO price on exchanges
+Park Medi World IPO Day 2: GMP slips to 9%; check subscription status, review and key highlights
+Unlock Stock Score, Analyst' Ratings & Recommendations
+Get multiple analysts' prediction on Park Medi World"
+2026-08-03,VOLTAMP.NS,VOLTAMP TRANSFORMERS LTD,Industrials,,,,2.1,,10458.37,9180.0,,0.28,101383659520,31.96,617.23,-2.08,-1.21,47.9,-51.65,-50.53,71.3,11.55,47.35,-50.52,N/A,0.0,N/A,N/A,—,"AI Powerplay! Proxy power stocks give up to 100% returns in India's hottest trade this year
+Dividend alert! Last day to buy Bharti Airtel, Hero MotoCorp, among 43 stocks for dividend payout worth Rs 1,127
+Voltamp Transformers Q4 Results: Shares crash 20% after weak March quarter numbers. Check details
+Announcement under Regulation 30 (LODR)-Newspaper Publication
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-08-03,RPOWER.NS,RELIANCE POWER LTD.,Utilities,,,,1.53,,28.59,23.33,,0.0,0,N/A,1887.26,0.77,-4.59,-493.86,-2066.79,-493.29,635.36,33.67,-1.19,-481.47,N/A,0.92,-2.08,2.34,EBITDA Margin 33.67%,"Reliance Power shares soar 18%, snap 4-day losing streak. Whatâs triggering the sharp surge?
+Board Meeting Intimation for Board Meeting
+Nippon India Nifty Smallcap 250 Index Direct-G"
+2026-08-03,RAYMONDLSL.NS,RAYMOND LIFESTYLE LIMITED,Consumer Cyclical,,,,4.7,,818.52,705.6,,0.0,44296777728,95.7,1776.45,-3.91,1.27,-52.06,-221.47,-181.13,82.43,4.64,-8.55,-181.2,N/A,0.23,N/A,N/A,—,No recent news
+2026-08-03,CONCORDBIO.NS,CONCORD BIOTECH LIMITED,Healthcare,,,,2.82,,1420.8,1189.58,,3.86,147990085632,48.81,326.08,17.39,-24.15,88.79,39.52,-36.75,133.7,41.0,8.46,-36.96,N/A,0.0,N/A,N/A,Revenue +17.39% QoQ | Profit +39.52% QoQ | EBITDA Margin 41.0%,No recent news
+2026-08-03,SHARDACROP.NS,SHARDA CROPCHEM LTD.,Basic Materials,,,,1.86,,923.35,819.75,,-1.9,74535665664,11.9,1073.77,-48.0,-41.28,88.04,-72.37,-56.75,216.83,20.19,9.76,-56.76,N/A,0.0,N/A,N/A,—,"Dolly Khanna portfolio rejig: Ace investor likely exits 2 stocks, pares holding in Prakash Industries in Q1
+Unlock Stock Score, Analyst' Ratings & Recommendations
+Get multiple analysts' prediction on Sharda Cropchem"
+2026-08-03,NAVA.NS,NAVA LIMITED,Industrials,,,,2.21,,622.35,552.3,,0.28,164259643392,20.83,1142.85,15.31,12.24,127.43,-42.71,-45.71,423.2,37.03,4.49,-44.57,N/A,0.21,10.31,6.49,Revenue +15.31% QoQ | EBITDA Margin 37.03%,No recent news
+2026-08-03,REDINGTON.NS,REDINGTON LIMITED,Technology,,,,7.26,,321.65,224.61,,6.75,271940222976,15.97,34922.47,5.15,32.08,485.98,24.19,-26.99,750.91,2.15,6.22,-26.91,N/A,0.27,N/A,N/A,Revenue +32.08% YoY | Profit +24.19% QoQ,"Stocks in news: Adani Ports, Adani Enterprises, Vedanta Oil & Gas, Asian Paints, 6 others
+Will Nifty hit 25,000 this month? Key levels to watch in the week ahead
+Redington shares rally 10% after Apple CEO Tim Cook says price hikes 'unavoidable' amid AI boom
+Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011
+Get multiple analysts' prediction on Redington"
+2026-08-03,JKTYRE.NS,JK TYRE & INDUSTRIES LTD,Consumer Cyclical,,,,1.6,,416.01,348.94,,0.0,118285180928,15.07,4223.44,0.01,14.96,177.99,-14.32,238.38,546.46,12.94,6.25,237.84,N/A,0.81,14.05,6.41,Profit +238.38% YoY | EPS +237.84% YoY,"Stock picks of the week: 5 stocks with consistent score improvement and upside potential of up to 24%
+Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
+Board Meeting Intimation for Interalia, Considering And Approving The Standalone & Consolidated Unaudited Financial Results Of The Company For The First Quarter Ended 30Th June 2026.
+Get multiple analysts' prediction on JK Tyre"
+2026-08-03,KANSAINER.NS,KANSAI NEROLAC PAINTS LTD,Basic Materials,,,,2.27,,213.95,193.19,,-1.9,165136433152,28.05,1953.71,-1.43,1.66,112.27,-7.49,-83.51,240.43,12.31,1.39,-83.49,N/A,0.05,8.8,5.51,—,"Kansai Nerolac Q1 profit rises 5%; approves Rs 601 crore capacity expansion
+Paint stocks tumble up to 48% from their peaks. Is the worst over?
+Falling crude oil price sends tyre, paint, oil marketing and airline companies soaring in relief rally
+Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome
 Unlock Stock Score, Analyst' Ratings & Recommendations"
 2026-08-03,JMFINANCIL.NS,JM FINANCIAL LIMITED,Financial Services,,,,3.68,,132.16,113.94,,1.01,115686883328,9.63,724.6,-19.61,5.62,165.36,-44.76,-20.86,N/A,N/A,1.73,-21.0,N/A,1.02,11.13,4.71,—,"Swiggy shares fall 6% in 2 days despite strong Q1 earnings. Should you buy, sell or hold?
 GAIL India shares tumble 5% despite Q1 net profit doubling to Rs 4,665 crore. Buy, sell or hold?
 Swiggy contra view: Why JM Financial downgraded the stock to 'sell' despite strong Q1 results
 Announcement under Regulation 30 (LODR)-Investor Presentation
 Get multiple analysts' prediction on JM Financial"
-2026-08-03,BAJAJFINSV.NS,BAJAJ FINSERV LTD.,Financial Services,,,,2.02,,2029.1,1643.7,,1.01,3350945071104,33.21,33482.55,2.65,7.59,2538.67,13.89,5.09,N/A,N/A,15.9,5.3,N/A,2.56,N/A,N/A,—,"Bajaj Finserv shares rise over 2% after Q1 earnings. Here's why Motilal Oswal upgrades to Buy, raises target price
-Stock picks of the week: 5 stocks with consistent score improvement and upside potential of up to 28%
-Why did market rise today? Sensex surges 965 points; Nifty ends above 24,300. 4 reasons why D-Street defied global rout
-Shareholder Meeting / Postal Ballot-Scrutinizer''s Report
-Get multiple analysts' prediction on Bajaj Finserv"
-2026-08-03,KIMS.NS,KRISHNA INST OF MED SCI L,Healthcare,,,,1.51,,850.65,737.45,,3.86,328354004992,135.86,1074.6,7.71,34.85,42.5,-20.41,-58.25,218.8,20.36,1.06,-58.27,N/A,1.66,9.72,4.82,Revenue +34.85% YoY,No recent news
-2026-08-03,VIYASH.NS,VIYASH SCIENTIFIC LIMITED,Healthcare,,,,2.21,,294.15,244.35,,3.86,115095363584,65.76,919.96,7.17,19.12,52.11,35.56,298.59,204.33,22.21,1.2,296.72,N/A,0.16,7.91,6.0,Profit +298.59% YoY | Profit +35.56% QoQ | EPS +296.72% YoY,No recent news
-2026-08-03,PINELABS.NS,PINE LABS LIMITED,Technology,,,,3.6,,161.27,138.97,,6.75,175582576640,138.34,736.92,5.2,23.1,19.57,-67.03,167.69,135.33,18.36,0.17,167.52,-281.19,0.07,N/A,N/A,Profit +167.69% YoY | EPS +167.52% YoY,"Fintechs chase new revenue; Flipkart’s food delivery launch
-Listed fintech firms are widening revenue bets as core growth cools
-Pine Labs signs six lenders for AI underwriting tool; to launch expense cards
-Atomberg's funding plans; Neocloud firms eye India capacity
-Get multiple analysts' prediction on Pine Labs"
-2026-08-03,CORONA.NS,CORONA REMEDIES LIMITED,Healthcare,,,,3.71,,2113.0,1674.03,,3.86,0,69.68,353.09,3.12,18.61,45.33,9.84,0.85,66.41,18.81,7.41,0.82,25.37,0.22,N/A,N/A,—,"Stocks in news: IFCI, Tata Motors, General Insurance Corp, Corona Remedies, HFCL
-Unlock Stock Score, Analyst' Ratings & Recommendations
-Get multiple analysts' prediction on Corona Remedies"
-2026-08-03,NETWEB.NS,NETWEB TECH INDIA LTD,Technology,,,,2.16,,5111.1,4156.0,,6.75,261129994240,100.37,819.69,5.94,172.13,85.32,20.87,179.94,128.99,15.74,14.98,178.44,N/A,0.39,N/A,N/A,Revenue +172.13% YoY | Profit +179.94% YoY | Profit +20.87% QoQ | EPS +178.44% YoY,No recent news
-2026-08-03,CAMS.NS,COMPUTER AGE MNGT SER LTD,Technology,,,,1.8,,828.51,718.92,,6.75,196403363840,41.39,395.22,1.3,10.97,126.43,0.71,10.89,195.65,49.5,5.1,10.39,N/A,0.05,38.69,21.46,EBITDA Margin 49.5% | ROE 38.69%,No recent news
-2026-08-03,TENNIND.NS,TENNECO CLEAN AIR INDIA L,Consumer Cyclical,,,,2.19,,607.0,526.9,,0.0,0,36.4,1552.45,20.79,37.98,166.58,40.35,33.05,268.7,17.31,4.13,33.23,265.68,0.04,42.97,19.03,Revenue +37.98% YoY | Revenue +20.79% QoQ | Profit +33.05% YoY | Profit +40.35% QoQ | EPS +33.23% YoY | ROE 42.97%,No recent news
-2026-08-03,LOTUSDEV.NS,SRI LOTUS DEVLPRS N RTY L,Industrials,,,,2.05,,193.24,129.27,,0.28,96601128960,39.22,307.5,37.26,164.57,95.58,37.03,86.65,135.81,44.17,1.96,87.06,N/A,0.07,17.06,9.77,Revenue +164.57% YoY | Revenue +37.26% QoQ | Profit +86.65% YoY | Profit +37.03% QoQ | EPS +87.06% YoY | EBITDA Margin 44.17%,No recent news
-2026-08-03,WOCKPHARMA.NS,WOCKHARDT LIMITED,Healthcare,,,,1.93,,2073.9,1810.7,,3.86,329599123456,154.49,965.0,8.67,33.84,166.0,181.36,1085.71,270.0,27.98,10.23,1024.18,N/A,0.42,4.0,3.67,Revenue +33.84% YoY | Profit +1085.71% YoY | Profit +181.36% QoQ | EPS +1024.18% YoY | EBITDA Margin 27.98%,"Pharma in her DNA, Wockhardt scion ready for deep dive in the US
-CG Power's growth momentum strong, but valuation comfort missing: Sandip Sabharwal"
-2026-08-03,VARROC.NS,VARROC ENGINEERING LTD.,Consumer Cyclical,,,,2.54,,679.2,561.5,,0.0,104957861888,46.6,2368.08,3.52,12.81,69.31,773.16,236.91,229.3,9.68,4.54,236.3,N/A,0.51,13.46,6.61,Profit +236.91% YoY | Profit +773.16% QoQ | EPS +236.3% YoY,"Unexpected gainer of trouble in the Gulf? 13 stocks from backend of the EV shift, with upside potential of up to 33%
-Stock picks of the week: 5 stocks with consistent score improvement and upside potential of up to 27% in 1 year
-These large- and mid-cap stocks can give more than 25% return in 1 year, according to analysts
-Time to select & focus on a few as EV inflection point comes closer: 7 auto ancillary stocks with upside potential of up to 39%
-Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-08-03,EICHERMOT.NS,EICHER MOTORS LTD,Consumer Cyclical,,,,1.65,,7833.5,6976.94,,0.0,2209899610112,38.34,6488.74,8.85,31.2,1462.51,-3.78,21.35,2224.43,34.28,53.3,21.27,N/A,0.02,N/A,N/A,Revenue +31.2% YoY | EBITDA Margin 34.28%,"Buy, Sell or Hold: Morgan Stanley maintains an Equal-Weight on Eicher Motors; Citi recommends sell on Colgate-Palmolive
-Eicher Motors share price target: What are Morgan Stanley, Nomura saying about Royal Enfield maker?
-Stocks in news: Adani Ports, Adani Enterprises, Vedanta Oil & Gas, Asian Paints, 6 others
-Announcement under Regulation 30 (LODR)-Monthly Business Updates
-Get multiple analysts' prediction on Eicher Motors"
-2026-08-03,LTM.NS,LTM LIMITED,Technology,,,,3.2,,4441.4,3538.0,,6.75,1390403125248,26.61,11608.0,2.8,18.79,1466.3,5.31,29.93,2118.2,18.25,49.46,29.82,1032.9,0.1,21.97,12.69,ROE 21.97%,No recent news
-2026-08-03,RPOWER.NS,RELIANCE POWER LTD.,Utilities,,,,1.53,,28.59,23.33,,0.0,98720858112,N/A,1887.26,0.77,-4.59,-493.86,-2066.79,-493.29,635.36,33.67,-1.19,-481.47,N/A,0.92,-2.08,2.34,EBITDA Margin 33.67%,"Reliance Power shares soar 18%, snap 4-day losing streak. Whatâs triggering the sharp surge?
-Board Meeting Intimation for Board Meeting
-Nippon India Nifty Smallcap 250 Index Direct-G"
-2026-08-03,LGEINDIA.NS,LG ELECTRONICS INDIA LTD,Technology,,,,1.68,,1647.8,1490.5,,6.75,1065536978944,63.07,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,"He survived a terror attack, sustained five bullet injuries, lost his father young, and now leads LG Electronics India's sales division
-Get multiple analysts' prediction on LG Electronics India"
-2026-08-03,DYNAMATECH.NS,DYNAMATIC TECHNOLOGIES,Consumer Cyclical,,,,1.63,,10988.0,9882.0,,0.0,73096298496,226.3,433.16,1.95,13.79,12.56,117.68,-21.94,55.53,12.82,18.5,-21.94,N/A,0.8,4.29,3.79,Profit +117.68% QoQ,"Defence stocks fire up! Paras Defence, BEL, GRSE, other stocks surge up to 24% in 2 days. What's powering the rally?
-Pahalgam anniversary: How the 2025 terror attack triggered Rs 3 lakh crore defence boom and created 3 multibagger stocks
-Defence stocks set for mixed Q4; Nuvama bets on BEL, Solar Industries, and a smallcap pick
-Board Meeting Intimation for Notice Calling The Board Meeting For The Quarter Ended 3O June 2026.
-Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-08-03,HEMIPROP.NS,HEMISPHERE PROP IND LTD,Real Estate,,,,5.26,,142.98,133.37,,0.0,39917461504,N/A,0.26,-0.16,6.92,-1.72,46.73,25.82,-1.71,-668.99,-0.06,25.0,N/A,0.2,-2.7,-0.53,Profit +46.73% QoQ,No recent news
-2026-08-03,GLENMARK.NS,GLENMARK PHARMACEUTICALS,Healthcare,,,,2.23,,2305.1,2136.6,,3.86,629307801600,35.02,3760.28,-3.29,16.77,301.41,-25.25,6382.02,951.68,25.31,10.68,6575.0,N/A,0.06,N/A,N/A,Profit +6382.02% YoY | EPS +6575.0% YoY | EBITDA Margin 25.31%,"Stocks in news: Adani Enterprises, Cochin Shipyard, IDFC First Bank, Premier Energies, Glenmark Pharma
-Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome
-Announcement under Regulation 30 (LODR)-Newspaper Publication
-Announcement under Regulation 30 (LODR)-Investor Presentation
-Get multiple analysts' prediction on Glenmark Pharma"
-2026-08-03,TEGA.NS,TEGA INDUSTRIES LIMITED,Industrials,,,,6.46,,1872.2,1477.4,,0.28,119280238592,77.45,526.78,30.49,-1.74,42.67,116.52,-58.13,97.63,18.53,5.68,-62.92,N/A,0.12,5.94,2.65,Revenue +30.49% QoQ | Profit +116.52% QoQ,"Ahead of Market: 10 things that will decide stock market action on Wednesday
-Mukul Agrawal purchases 10 new stocks in Q2; ups stake in 5. How many do you own?
-Mukul Agarwal invests Rs 100 crore in this multibagger stock that’s up over 200% in 5 years
-Autos consolidate, defence a long-term bet, IT valuations attractive: Amnish Aggarwal
-Get multiple analysts' prediction on Tega Industries"
-2026-08-03,SIEMENS.NS,SIEMENS LTD,Industrials,,,,1.74,,3749.38,3429.25,,0.28,1388869976064,82.31,4617.5,20.54,14.6,354.9,32.28,-9.56,544.2,11.79,10.4,-36.39,N/A,0.02,N/A,N/A,Revenue +20.54% QoQ | Profit +32.28% QoQ,"How AI is helping manufacturers cut downtime before it costs them
-Siemens wins Rs 263 crore RVNL order for Uttarakhand rail electrification
-Match Your AI Strategy to Your Organization’s Reality
-Banks, power finance and infrastructure to lead next leg of market rally: Pankaj Pandey
-Get multiple analysts' prediction on Siemens"
-2026-08-03,ELLEN.NS,ELLENBARRIE INDUS GASES L,Basic Materials,,,,1.72,,296.05,251.55,,-1.9,38482464768,36.26,87.43,7.48,28.54,22.88,-12.28,19.18,40.37,46.17,1.62,10.2,N/A,0.19,14.2,5.64,Revenue +28.54% YoY | EBITDA Margin 46.17%,No recent news
-2026-08-03,ITC.NS,ITC LTD,Consumer Defensive,,,,2.67,,292.5,275.55,,0.46,3595957436416,18.11,17628.89,-11.49,-5.12,5387.97,9.26,13.88,7648.95,43.39,4.3,8.86,N/A,0.03,N/A,N/A,EBITDA Margin 43.39%,"Rub-off effect? Godfrey Phillips shares jump 6% after rival cigarette maker ITC's Q1 earnings
-Buy, Sell or Hold: Morgan Stanley maintains buy on Maruti Suzuki; Citi retains buy on Sun Pharma
-ITC shares gain 3% after Q1 results. Hereâs why Nomura upgraded the stock to Buy
-Stocks in news: Maruti Suzuki, ITC, ZEE, Persistent Systems, and Muthoot Finance
-Acquisition Of Pulp And Paper Undertaking Of Aditya Birla Real Estate Limited - Update"
-2026-08-03,SUNDARMFIN.NS,SUNDARAM FINANCE LTD,Financial Services,,,,4.35,,4784.0,4047.76,,1.01,532207599616,25.87,1341.77,5.3,23.54,554.17,2.37,21.67,N/A,N/A,50.28,21.65,N/A,4.09,14.66,2.56,—,"Radhakishan Damani picks up 2% stake in this NBFC stock, which fell 17% in 2026. Do you own it?
-Re-appointment of Chief Compliance Officer
-Standalone & Consolidated Financial Results, Limited Review Report for June 30, 2026
-Get multiple analysts' prediction on Sundaram Finance"
-2026-08-03,RELIGARE.NS,RELIGARE ENTER. LTD.,Financial Services,,,,2.0,,278.36,224.7,,1.01,89096126464,101.2,2459.49,20.43,21.63,82.21,281.45,-16.52,148.49,6.04,2.47,-17.67,N/A,0.13,2.0,0.6,Revenue +20.43% QoQ | Profit +281.45% QoQ,No recent news
-2026-08-03,BALRAMCHIN.NS,BALRAMPUR CHINI MILLS LTD,Consumer Defensive,,,,3.84,,624.75,527.1,,0.46,136776933376,34.81,1603.99,10.31,6.67,159.57,40.68,-30.36,306.43,19.1,7.9,-30.4,N/A,0.77,9.54,4.54,Profit +40.68% QoQ,"The ethanol story is changing. Is investing in the ecosystem the better way? 15 stocks across different market cap segments
-Ethanol ecosystem: Judging fear by noise is not evidence; 15 stocks from the ecosystem
-Dwarikesh Sugar, Dhampur Sugar and other sugar stocks gain up to 4% after excise duty cut on ethanol-blended petrol
-Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS
-Get multiple analysts' prediction on Balrampur Chini"
-2026-08-03,MANAPPURAM.NS,MANAPPURAM FINANCE LTD,Financial Services,,,,3.48,,370.15,288.25,,1.01,342857678848,30.88,1496.66,7.24,-7.31,403.96,67.58,43.22,N/A,N/A,4.77,44.98,N/A,3.6,6.97,1.6,Profit +43.22% YoY | Profit +67.58% QoQ | EPS +44.98% YoY,"Tata Capital joins the race to own a piece of India's dormant wealth
-Tata Capital to buy 88.6% in Yogloans, enters gold loan business
-Manappuram Finance, Muthoot Finance, other gold financier stocks drop up to 3%. Here's why
-Get multiple analysts' prediction on Manappuram Finance"
-2026-08-03,HYUNDAI.NS,HYUNDAI MOTOR INDIA LTD,Consumer Cyclical,,,,1.83,,2180.7,1866.4,,0.0,1793278214144,36.28,16096.5,-12.7,-8.16,888.62,-29.23,-44.95,1786.08,11.1,10.94,-44.94,N/A,0.05,N/A,N/A,—,"Hyundai Motor India July total sales up 25.4 pc at 75,360 units
-Hyundai Motor Q1 Results: Profit slumps 35% YoY to Rs 889 crore as headwinds weigh on volumes
-Auto companies find it difficult to monetise software services after complimentary term ends
-June auto sales data: Commercial vehicle turns consensus player; brokerages list stocks to buy
-Get multiple analysts' prediction on Hyundai Motor India"
-2026-08-03,RAILTEL.NS,RAILTEL CORP OF IND LTD,Communication Services,,,,1.87,,323.95,284.5,,0.0,93794246656,27.11,893.27,-46.19,-31.11,65.78,-53.59,-42.02,147.9,16.56,2.05,,N/A,0.03,16.25,5.09,—,No recent news
-2026-08-03,TI.NS,TILAKNAGAR INDUSTRIES LTD,Consumer Defensive,,,,1.92,,467.1,416.1,,0.46,115132170240,N/A,1046.03,10.17,165.54,31.59,311.93,-64.31,173.46,16.58,1.28,-71.99,N/A,0.77,N/A,N/A,Revenue +165.54% YoY | Profit +311.93% QoQ,"These mid-cap stocks with ‘Strong Buy’ & ‘Buy’ recos can rally over 25%, according to analysts
-Liquor stocks have macro tailwinds, but will FTAs become a problem? 6 liquor stocks with an upside potential of up to 26%
-These large- and mid-cap stocks with ‘Strong Buy’ & ‘Buy’ recos can rally over 20% in one year, according to analysts
-Announcement under Regulation 30 (LODR)-Change in Directorate
-Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-08-03,RAINBOW.NS,RAINBOW CHILDRENS MED LTD,Healthcare,,,,1.96,,1520.6,1323.59,,3.86,156801335296,55.06,469.99,2.19,33.17,60.57,-21.38,13.22,147.35,31.35,5.97,13.28,N/A,0.54,N/A,N/A,Revenue +33.17% YoY | EBITDA Margin 31.35%,No recent news
-2026-08-03,BATAINDIA.NS,BATA INDIA LTD,Consumer Cyclical,,,,2.17,,779.74,649.1,,0.0,91209572352,67.97,827.63,-12.39,-9.92,2.21,-96.66,-96.24,170.49,20.6,0.17,-96.28,N/A,0.87,8.47,5.22,—,"Ecommerce isn't adding much to Retail Inc's cart
-Get multiple analysts' prediction on Bata India"
-2026-08-03,AMBUJACEM.NS,AMBUJA CEMENTS LTD,Basic Materials,,,,1.64,,443.4,404.05,,-1.9,1103258845184,24.87,9474.0,-13.02,-7.52,577.0,-68.47,-33.6,1763.0,18.61,2.32,-34.28,N/A,0.01,N/A,N/A,—,"Ambuja Cements share price target: Nuvama, Motilal, other brokerages see up to 30% upside. Here's why
-Cement demand growth likely to moderate to around 5% in FY27: Ambuja Cements
-Dividend rush! Buy these 5 Adani stocks, 4 Tata Group stocks today to lap up payout rewards
-Announcement under Regulation 30 (LODR)-Earnings Call Transcript
-Get multiple analysts' prediction on Ambuja Cements"
-2026-08-03,IRCON.NS,IRCON INTERNATIONAL LTD,Industrials,,,,3.09,,140.72,124.52,,0.28,124035219456,20.87,3188.98,50.49,-6.54,191.6,90.34,-9.13,389.15,12.2,2.04,-8.93,N/A,0.86,9.08,1.85,Revenue +50.49% QoQ | Profit +90.34% QoQ,"Titagarh Rail, RITES, other railway stocks rise up to 4%. Hereâs why
-Get multiple analysts' prediction on Ircon Intl."
-2026-08-03,REDINGTON.NS,REDINGTON LIMITED,Technology,,,,7.26,,321.65,224.61,,6.75,271940222976,15.97,34922.47,5.15,32.08,485.98,24.19,-26.99,750.91,2.15,6.22,-26.91,N/A,0.27,N/A,N/A,Revenue +32.08% YoY | Profit +24.19% QoQ,"Stocks in news: Adani Ports, Adani Enterprises, Vedanta Oil & Gas, Asian Paints, 6 others
-Will Nifty hit 25,000 this month? Key levels to watch in the week ahead
-Redington shares rally 10% after Apple CEO Tim Cook says price hikes 'unavoidable' amid AI boom
-Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011
-Get multiple analysts' prediction on Redington"
-2026-08-03,POWERMECH.NS,POWER MECH PROJECTS LTD.,Industrials,,,,1.56,,2895.3,2486.8,,0.28,81981046784,22.5,2110.73,48.69,13.89,142.55,51.81,21.59,235.95,11.18,45.09,21.6,N/A,0.26,17.26,7.72,Revenue +48.69% QoQ | Profit +51.81% QoQ,"Power Mech Projects jumps 4% as company bags Rs 1,009 crore JSW Thermal Energy contract
-Unlock Stock Score, Analyst' Ratings & Recommendations
-Get multiple analysts' prediction on Power Mech Proj"
-2026-08-03,CCAVENUE.NS,AVENUESAI LIMITED,Technology,,,,5.41,,18.21,13.24,,6.75,60674174976,18.74,2489.54,4.55,114.52,79.38,10.43,61.67,116.52,4.68,0.28,40.0,N/A,0.09,6.69,2.75,Revenue +114.52% YoY | Profit +61.67% YoY | EPS +40.0% YoY,No recent news
-2026-08-03,ALIVUS.NS,ALIVUS LIFE SCIENCES LTD,Healthcare,,,,1.96,,1168.4,1002.0,,3.86,149054783488,24.75,640.41,-7.07,-1.41,160.08,-1.59,12.83,234.12,36.56,13.04,12.71,N/A,0.02,N/A,N/A,EBITDA Margin 36.56%,No recent news
-2026-08-03,MAHSCOOTER.NS,MAHARASHTRA SCOOTERS LTD,Financial Services,,,,4.63,,13250.0,11988.63,,1.01,159279955968,57.29,5.41,-10.28,-81.52,3.32,-17.21,-90.61,4.55,84.1,2.91,-90.59,N/A,N/A,N/A,N/A,EBITDA Margin 84.1%,"Dividend alert! Last day to buy Bajaj Finance, 2 other Bajaj Group stocks for dividends worth Rs 138
-Ahead of Market: 10 things that will decide stock market action on Wednesday
-Ahead of Market: 10 things that will decide stock market action on Tuesday
-Shareholder Meeting / Postal Ballot-Scrutinizer''s Report
-Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-08-03,VOLTAMP.NS,VOLTAMP TRANSFORMERS LTD,Industrials,,,,4.27,,10458.37,9180.0,,0.28,101383659520,31.96,617.23,-2.08,-1.21,47.9,-51.65,-50.53,71.3,11.55,47.35,-50.52,N/A,0.0,N/A,N/A,—,"AI Powerplay! Proxy power stocks give up to 100% returns in India's hottest trade this year
-Dividend alert! Last day to buy Bharti Airtel, Hero MotoCorp, among 43 stocks for dividend payout worth Rs 1,127
-Voltamp Transformers Q4 Results: Shares crash 20% after weak March quarter numbers. Check details
-Announcement under Regulation 30 (LODR)-Newspaper Publication
-Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-08-03,INDGN.NS,INDEGENE LIMITED,Healthcare,,,,5.94,,539.08,486.36,,3.86,131148242944,32.87,1063.1,5.95,40.7,116.2,45.8,-1.19,203.2,19.11,4.84,-1.43,N/A,0.05,N/A,N/A,Revenue +40.7% YoY | Profit +45.8% QoQ,"The Q1 verdict: Can TCS, Infosys, other IT results stop a Rs 17 lakh crore AI-led rout?
-More macro headwinds on the cards? Tackle them with core principles: 6 pharma stocks with upside potential of up to 28%
-War, oil price hikes, and risks: Time to still be contrarian? 5 small-caps from different sectors with upside potential of up to 25%
-Sun Pharma deal: Perception changer for Indian pharma sector? 10 pharma stocks with upside potential of up to 38%
-Get multiple analysts' prediction on Indegene"
-2026-08-03,PTC.NS,PTC INDIA LIMITED,Utilities,,,,5.31,,195.24,164.4,,0.0,53314060288,8.8,3859.97,14.75,33.71,105.34,-7.64,-69.32,219.68,5.69,3.56,-70.03,N/A,0.25,10.38,4.47,Revenue +33.71% YoY,"Actis, IndiGrid, Inox among companies in talks for Brookfield's renewable energy asset
-Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order
-Shareholder Meeting / Postal Ballot-Outcome of Postal_Ballot
-Shareholder Meeting / Postal Ballot-Scrutinizer""s Report
-Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-08-03,ASHAPURMIN.NS,ASHAPURA MINECHEM LTD,Basic Materials,,,,1.97,,740.6,627.35,,-1.9,68573405184,17.09,1968.63,104.97,254.55,110.73,31.49,28.03,180.58,9.17,11.59,27.64,N/A,0.88,29.05,7.84,Revenue +254.55% YoY | Revenue +104.97% QoQ | Profit +31.49% QoQ | ROE 29.05%,"Market Trading Guide: Lloyds Metals among 2 stock recommendations for Thursday
-Announcement under Regulation 30 (LODR)-Newspaper Publication
-Board Meeting Intimation for Meeting Of The Board Of Director Of The Company Is Scheduled To Be Held On 7Th August, 2026.
-Unlock Stock Score, Analyst' Ratings & Recommendations
-Motilal Oswal Nifty Microcap 250 Index Direct-G"
-2026-08-03,BLUEDART.NS,BLUE DART EXPRESS LTD,Industrials,,,,14.94,,5114.2,4647.4,,0.28,128771497984,44.94,1533.47,-5.12,1.44,48.85,-28.51,-39.7,94.2,6.14,20.59,-39.69,N/A,N/A,N/A,N/A,—,"Blue Dart Express shares surge 7% after Q1 results. Here's why Nuvama retains Buy, raises target
-Blue Dart Aviation to expand cargo operations across five emerging Indian hubs, targets high-value cargo
-Announcement under Regulation 30 (LODR)-Newspaper Publication
-Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
-Get multiple analysts' prediction on Blue Dart"
-2026-08-03,IRCTC.NS,INDIAN RAIL TOUR CORP LTD,Consumer Cyclical,,,,3.01,,528.6,485.95,,0.0,410799996928,29.44,1459.72,0.71,15.07,326.4,-17.23,-8.89,451.38,30.92,4.08,-8.93,N/A,0.02,34.96,14.05,EBITDA Margin 30.92% | ROE 34.96%,No recent news
-2026-08-03,CHAMBLFERT.NS,CHAMBAL FERTILIZERS LTD,Basic Materials,,,,2.12,,490.0,431.0,,-1.9,182296788992,9.45,5027.02,80.5,105.29,523.61,209.35,301.66,852.55,16.96,13.07,302.15,N/A,0.1,N/A,N/A,Revenue +105.29% YoY | Revenue +80.5% QoQ | Profit +301.66% YoY | Profit +209.35% QoQ | EPS +302.15% YoY,No recent news
-2026-08-03,LEMONTREE.NS,LEMON TREE HOTELS LTD,Consumer Cyclical,,,,1.97,,120.62,103.68,,0.0,90294386688,39.73,416.4,2.55,10.01,91.49,46.0,8.1,221.08,53.09,1.16,8.41,N/A,0.96,14.9,8.38,Profit +46.0% QoQ | EBITDA Margin 53.09%,"Tourism and hotel sector stocks: Time for a correction in business? Are analysts getting it wrong? 15 stocks from the ecosystem
-Get multiple analysts' prediction on Lemon Tree Hotels"
