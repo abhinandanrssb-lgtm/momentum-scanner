@@ -1,36 +1,72 @@
 Date,Stock,Company,Sector,Close Price,Daily Gain %,Week Gain %,Volume Spike (x avg),RSI (14d),52W High,52W Low,Dist from 52W High %,Sector Weekly Gain %,Market Cap,P/E Ratio,Revenue (Cr),Revenue QoQ %,Revenue YoY %,Net Profit (Cr),Profit QoQ %,Profit YoY %,Operating Profit (Cr),EBITDA Margin %,EPS,EPS Growth YoY %,Operating CF (Cr),Debt to Equity,ROE %,ROCE %,Growth Flags,News (Last 2 Days)
-2026-08-05,RBA.NS,RESTAURANT BRAND ASIA LTD,Consumer Cyclical,89.0,25.78,33.49,11.96,78.8,89.0,64.9,0.0,0.0,63342977024,N/A,706.84,-1.09,10.61,-43.01,1.21,14.66,103.06,14.58,-0.73,27.72,N/A,2.86,N/A,N/A,—,No recent news
-2026-08-05,ASKAUTOLTD.NS,ASK AUTOMOTIVE LIMITED,Consumer Cyclical,629.3,14.15,21.71,8.87,81.7,629.3,421.36,0.0,0.0,124061827072,43.07,1147.12,5.8,25.35,71.54,-10.49,8.57,139.29,12.14,3.63,8.68,N/A,0.52,25.26,11.68,Revenue +25.35% YoY | ROE 25.26%,"ET Prime Special Series: Multibagger or IBC - Part 64: An old 2-wheeler supplier that now earns more from a newer business
-Unlock Stock Score, Analyst' Ratings & Recommendations
-Get multiple analysts' prediction on ASK Automotive"
-2026-08-05,CELLO.NS,CELLO WORLD LIMITED,Consumer Cyclical,381.0,10.26,11.1,12.81,60.3,388.48,338.75,-1.93,0.0,84157202432,25.94,653.59,18.05,11.0,90.12,41.62,-6.27,136.56,20.89,4.0,-6.1,N/A,0.01,12.98,8.73,Revenue +18.05% QoQ | Profit +41.62% QoQ,"Goldman Sachs fund sells Cello World shares worth Rs 55 crore via bulk deals
+2026-08-05,RBA.NS,RESTAURANT BRAND ASIA LTD,Consumer Cyclical,89.26,26.14,33.88,12.82,78.9,89.26,64.9,0.0,0.0,63528026112,N/A,706.84,-1.09,10.61,-43.01,1.21,14.66,103.06,14.58,-0.73,27.72,N/A,2.86,N/A,N/A,—,No recent news
+2026-08-05,CELLO.NS,CELLO WORLD LIMITED,Consumer Cyclical,401.3,16.13,17.02,17.04,67.5,401.3,338.75,0.0,0.0,88596987904,27.12,653.59,18.05,11.0,90.12,41.62,-6.27,136.56,20.89,4.0,-6.1,N/A,0.01,12.98,8.73,Revenue +18.05% QoQ | Profit +41.62% QoQ,"Goldman Sachs fund sells Cello World shares worth Rs 55 crore via bulk deals
 Two Trades for Today: An energy major for a 6.3% gain, a mid-cap consumer goods stock for close to 7% rise
 Buy, Sell or Hold: Morgan Stanley remains underweight on L&T Finance; YES Securities recommends ADD on Hindustan Zinc
 All Time Plastics IPO: GMP drops to 3%; issue booked 8.34x on Day 3. Check key details
 Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-08-05,OLAELEC.NS,OLA ELECTRIC MOBILITY LTD,Consumer Cyclical,41.24,6.92,7.4,3.72,56.5,47.34,36.67,-12.89,0.0,182270590976,N/A,265.0,-43.62,-74.64,-500.0,-2.67,11.35,-242.0,-91.32,-1.13,11.72,N/A,0.82,-43.16,-10.98,—,No recent news
-2026-08-05,EMIL.NS,ELECTRONICS MART IND LTD,Consumer Cyclical,142.15,6.74,7.32,4.44,62.7,142.15,101.56,0.0,0.0,54692036608,50.41,1913.24,-1.36,14.96,39.73,34.03,49.03,130.17,6.8,1.03,49.28,N/A,1.23,6.79,4.7,Profit +49.03% YoY | Profit +34.03% QoQ | EPS +49.28% YoY,No recent news
-2026-08-05,CAPILLARY.NS,CAPILLARY TECHNO INDIA L,Technology,571.0,6.74,8.26,2.06,66.9,571.0,476.25,0.0,1.09,45378502656,76.75,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,No recent news
-2026-08-05,FIEMIND.NS,FIEM INDUSTRIES LIMITED,Consumer Cyclical,2492.5,6.59,6.97,4.2,77.6,2492.5,2143.65,0.0,0.0,65601753088,25.67,744.61,8.56,17.42,71.03,12.09,20.7,114.15,15.33,26.99,20.71,N/A,0.05,22.69,12.93,ROE 22.69%,"These mid-cap stocks with ‘Strong Buy’ & ‘Buy’ recos can rally over 25%, according to analysts
-Board Meeting Intimation for Financial Results
+2026-08-05,ASKAUTOLTD.NS,ASK AUTOMOTIVE LIMITED,Consumer Cyclical,639.9,16.07,23.76,13.97,82.5,639.9,421.36,0.0,0.0,126151548928,43.8,1147.12,5.8,25.35,71.54,-10.49,8.57,139.29,12.14,3.63,8.68,N/A,0.52,25.26,11.68,Revenue +25.35% YoY | ROE 25.26%,"ET Prime Special Series: Multibagger or IBC - Part 64: An old 2-wheeler supplier that now earns more from a newer business
 Unlock Stock Score, Analyst' Ratings & Recommendations
-Get multiple analysts' prediction on FIEM Industries
-HDFC Transportation and Logistics Direct-G"
-2026-08-05,PTC.NS,PTC INDIA LIMITED,Utilities,195.5,6.57,16.5,7.76,76.5,195.5,164.4,0.0,0.0,57869627392,9.38,3859.97,14.75,33.71,105.34,-7.64,-69.32,219.68,5.69,3.56,-70.03,N/A,0.25,10.38,4.47,Revenue +33.71% YoY,"Actis, IndiGrid, Inox among companies in talks for Brookfield's renewable energy asset
+Get multiple analysts' prediction on ASK Automotive"
+2026-08-05,SHILPAMED.NS,SHILPA MEDICARE LTD,Healthcare,735.6,14.11,21.67,9.74,70.3,735.6,532.5,0.0,0.67,143869984768,57.07,436.99,6.65,32.09,107.79,141.78,642.87,139.71,31.97,5.51,644.59,N/A,0.25,9.82,5.61,Revenue +32.09% YoY | Profit +642.87% YoY | Profit +141.78% QoQ | EPS +644.59% YoY | EBITDA Margin 31.97%,"Up to 451% return in 6 months! 11 smallcap stocks turn multibaggers as FIIs raise stakes for 2 straight quarters
+Sun Pharma deal: Perception changer for Indian pharma sector? 10 pharma stocks with upside potential of up to 38%
+Natco Pharma, 3 other pharma stocks decline up to 2.5% after important inspections at their units. Do you own?
+Unaudited Standalone And Consolidated Financial Results For The Quarter Ended 30 June 2026
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-08-05,WESTLIFE.NS,WESTLIFE FOODWORLD LTD,Consumer Cyclical,583.75,9.89,25.05,1.76,70.0,583.75,429.4,0.0,0.0,90607198208,288.99,727.86,13.3,22.35,0.59,-75.29,-61.46,99.23,13.63,0.04,-60.0,N/A,2.92,N/A,N/A,—,No recent news
+2026-08-05,EMIL.NS,ELECTRONICS MART IND LTD,Consumer Cyclical,145.7,9.41,10.0,5.86,65.7,145.7,101.56,0.0,0.0,56019423232,52.19,1913.24,-1.36,14.96,39.73,34.03,49.03,130.17,6.8,1.03,49.28,N/A,1.23,6.79,4.7,Profit +49.03% YoY | Profit +34.03% QoQ | EPS +49.28% YoY,No recent news
+2026-08-05,CAPILLARY.NS,CAPILLARY TECHNO INDIA L,Technology,578.4,8.12,9.66,5.79,67.9,578.4,476.25,0.0,0.51,45966598144,77.74,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,No recent news
+2026-08-05,PTC.NS,PTC INDIA LIMITED,Utilities,198.24,8.07,18.13,9.34,77.8,198.24,164.4,0.0,0.0,58683650048,9.51,3859.97,14.75,33.71,105.34,-7.64,-69.32,219.68,5.69,3.56,-70.03,N/A,0.25,10.38,4.47,Revenue +33.71% YoY,"Actis, IndiGrid, Inox among companies in talks for Brookfield's renewable energy asset
 Announcement under Regulation 30 (LODR)-Investor Presentation
 Announcement under Regulation 30 (LODR)-Press Release / Media Release
 Record Dividend For Interim Dividend FY 2026-27
 Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-08-05,VARROC.NS,VARROC ENGINEERING LTD.,Consumer Cyclical,728.8,6.1,10.64,4.68,72.1,728.8,561.5,0.0,0.0,111360147456,49.58,2368.08,3.52,12.81,69.31,773.16,236.91,229.3,9.68,4.54,236.3,N/A,0.51,13.46,6.61,Profit +236.91% YoY | Profit +773.16% QoQ | EPS +236.3% YoY,"Unexpected gainer of trouble in the Gulf? 13 stocks from backend of the EV shift, with upside potential of up to 33%
-Stock picks of the week: 5 stocks with consistent score improvement and upside potential of up to 27% in 1 year
-These large- and mid-cap stocks can give more than 25% return in 1 year, according to analysts
-Time to select & focus on a few as EV inflection point comes closer: 7 auto ancillary stocks with upside potential of up to 39%
+2026-08-05,SUDEEPPHRM.NS,SUDEEP PHARMA LIMITED,Healthcare,939.55,7.77,6.87,5.51,60.4,939.55,728.51,0.0,0.67,106120880128,60.19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,"$53 billion value unlocking! D-St braces for 85 IPO lock-in expiries in 3 months. Check details
+Mukul Agrawal reshapes Rs 6,500-crore portfolio in Q3: Two new stocks, one exit. Do you own?
+Sudeep Pharma shares rally 8% after solid listing pop. Should you buy, sell or hold?
+Strong Start! Sudeep Pharma shares list at 24% premium over IPO price
 Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-08-05,NIACL.NS,THE NEW INDIA ASSU CO LTD,Financial Services,181.97,5.94,10.87,12.19,54.0,210.38,145.73,-13.5,0.87,299886575616,39.82,11876.12,-5.13,1.48,-242.65,-141.99,-160.61,N/A,N/A,-1.47,-160.49,N/A,N/A,N/A,N/A,—,No recent news
-2026-08-05,GODIGIT.NS,GO DIGIT GENERAL INS LTD,Financial Services,278.0,5.8,13.17,4.71,39.1,322.75,245.65,-13.87,0.87,257010728960,52.35,2427.02,-10.47,-6.45,86.39,-42.18,-25.27,N/A,N/A,0.93,-25.6,N/A,0.07,N/A,N/A,—,"Brookfield-Oaktree deal, digit merger get CCI approval
+2026-08-05,OLAELEC.NS,OLA ELECTRIC MOBILITY LTD,Consumer Cyclical,41.34,7.18,7.66,4.2,57.0,47.34,36.67,-12.67,0.0,182668263424,N/A,265.0,-43.62,-74.64,-500.0,-2.67,11.35,-242.0,-91.32,-1.13,11.72,N/A,0.82,-43.16,-10.98,—,No recent news
+2026-08-05,IFBIND.NS,IFB INDUSTRIES LTD,Consumer Cyclical,1447.7,6.92,10.29,1.77,60.6,1447.7,1238.3,0.0,0.0,58659057664,40.81,1498.2,6.06,18.01,42.67,78.24,37.25,87.43,5.84,10.53,37.29,N/A,0.16,15.63,5.09,Profit +37.25% YoY | Profit +78.24% QoQ | EPS +37.29% YoY,"IFB Industries Q4 results: Net profit rises two fold to Rs 42.67 crore
+Mukul Agrawal purchases 10 new stocks in Q2; ups stake in 5. How many do you own?
+IFB Industries, PG Electroplast, Voltas and other consumer durable shares rally up to 20% on GST cut hopes
+Announcement under Regulation 30 (LODR)-Demise
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-08-05,FIEMIND.NS,FIEM INDUSTRIES LIMITED,Consumer Cyclical,2498.5,6.85,7.23,5.43,77.9,2498.5,2143.65,0.0,0.0,65759670272,25.75,744.61,8.56,17.42,71.03,12.09,20.7,114.15,15.33,26.99,20.71,N/A,0.05,22.69,12.93,ROE 22.69%,"These mid-cap stocks with ‘Strong Buy’ & ‘Buy’ recos can rally over 25%, according to analysts
+Board Meeting Intimation for Financial Results
+Unlock Stock Score, Analyst' Ratings & Recommendations
+Get multiple analysts' prediction on FIEM Industries
+HDFC Transportation and Logistics Direct-G"
+2026-08-05,TENNIND.NS,TENNECO CLEAN AIR INDIA L,Consumer Cyclical,581.0,6.68,10.27,3.09,56.6,607.0,526.9,-4.28,0.0,0,38.38,1552.45,20.79,37.98,166.58,40.35,33.05,268.7,17.31,4.13,33.23,265.68,0.04,42.97,19.03,Revenue +37.98% YoY | Revenue +20.79% QoQ | Profit +33.05% YoY | Profit +40.35% QoQ | EPS +33.23% YoY | ROE 42.97%,No recent news
+2026-08-05,ENGINERSIN.NS,ENGINEERS INDIA LTD,Industrials,239.53,6.51,6.19,4.26,58.7,260.24,221.98,-7.96,0.81,134626009088,19.65,926.29,-23.46,-8.31,195.53,-43.68,-30.12,253.17,27.33,3.47,-30.32,N/A,0.01,23.79,7.34,EBITDA Margin 27.33% | ROE 23.79%,"Nifty to hit 27,000 in one year? PL Capital says Middle East crisis, El Nino can play a spoil sport; names 15 top picks
+Market Trading Guide: Titagarh Rail among 2 stock recommendations for Thursday
+FIIs bought 120 Indian stocks in Q4 amid Rs 1.3 lakh crore exodus. What's special about them?
+Board Meeting Intimation for Notice Of Board Meeting To, Inter-Alia, Consider And ApproveUn-Audited Financial Results For The Quarter Ended 30.06.2026
+Get multiple analysts' prediction on Engineers India"
+2026-08-05,GODIGIT.NS,GO DIGIT GENERAL INS LTD,Financial Services,279.55,6.39,13.8,5.5,40.1,322.75,245.65,-13.38,0.53,258443689984,52.65,2427.02,-10.47,-6.45,86.39,-42.18,-25.27,N/A,N/A,0.93,-25.6,N/A,0.07,N/A,N/A,—,"Brookfield-Oaktree deal, digit merger get CCI approval
 CCI clears Go Digit Infoworks merger with insurer; Fairfax entity to hold 57.28% stake
 Get multiple analysts' prediction on Go Digit General Ins"
-2026-08-05,BOSCHLTD.NS,BOSCH LIMITED,Consumer Cyclical,43315.0,5.57,5.54,2.75,65.6,43315.0,36370.66,0.0,0.0,0,46.0,5565.7,13.92,13.34,570.0,7.02,2.98,937.9,16.85,193.25,2.98,N/A,0.01,19.35,6.73,—,"1,000-plus km on a single tank: While world focuses on EVs, this hydrogen bus, which refuels in just 15 minutes, has emerged as clean-fuel alternative
-AI creating new consumer demands, business opportunities beyond productivity gains: Dattatri Salagame
-A German and a Chinese walk into a hot Indian corporate battleground
-Get multiple analysts' prediction on Bosch"
+2026-08-05,NIACL.NS,THE NEW INDIA ASSU CO LTD,Financial Services,182.27,6.11,11.05,12.88,54.3,210.38,145.73,-13.36,0.53,300380979200,39.88,11876.12,-5.13,1.48,-242.65,-141.99,-160.61,N/A,N/A,-1.47,-160.49,N/A,N/A,N/A,N/A,—,No recent news
+2026-08-05,JUBLFOOD.NS,JUBILANT FOODWORKS LTD,Consumer Cyclical,492.7,5.96,11.95,4.12,79.4,492.7,412.3,0.0,0.0,0,87.49,2499.47,2.55,19.31,90.96,28.28,66.52,508.88,20.36,1.21,65.75,N/A,0.03,16.89,6.52,Profit +66.52% YoY | Profit +28.28% QoQ | EPS +65.75% YoY,"QSR stocks near turning point as risk-reward turns favorable, says Motilal Oswal
+Tourism and hotel sector stocks: Time for a correction in business? Are analysts getting it wrong? 15 stocks from the ecosystem
+FIIs pull out massive Rs 20,637 crore in single day on Friday. What led to this sharp exit?
+Announcement under Regulation 30 (LODR)-Newspaper Publication
+Get multiple analysts' prediction on Jubilant Food"
+2026-08-05,KANSAINER.NS,KANSAI NEROLAC PAINTS LTD,Basic Materials,210.7,5.92,5.32,4.15,58.7,213.95,193.19,-1.52,5.22,170409672704,29.68,1953.71,-1.43,1.66,112.27,-7.49,-83.51,240.43,12.31,1.39,-83.49,N/A,0.05,N/A,N/A,—,"Monarch Networth initiates coverage on Asian Paints, Colgate and Kansai Nerolac; sees up to 17% upside
+Kansai Nerolac Q1 profit rises 5%; approves Rs 601 crore capacity expansion
+Paint stocks tumble up to 48% from their peaks. Is the worst over?
+Revised Intimation For Capacity Addition In Accordance With The E-Mail Dated 4Th August, 2026 Received From BSE Team
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-08-05,SANSERA.NS,SANSERA ENGINEERING LTD,Consumer Cyclical,3714.0,5.85,14.87,1.53,72.6,3714.0,2838.8,0.0,0.0,231766851584,70.57,998.74,10.03,27.77,121.41,76.7,104.83,223.91,22.42,19.51,103.87,N/A,0.19,11.13,6.47,Revenue +27.77% YoY | Profit +104.83% YoY | Profit +76.7% QoQ | EPS +103.87% YoY,"Goldman Sachs initiates coverage on Sansera Engineering, 3 other auto ancillary stocks with upside of up to 28%. Here’s why
+ET Prime Special Series: Multibagger or IBC - Part 63: This engine parts maker is now chasing aerospace, defence
+Unlock Stock Score, Analyst' Ratings & Recommendations
+Get multiple analysts' prediction on Sansera Engineering"
+2026-08-05,SAPPHIRE.NS,SAPPHIRE FOODS INDIA LTD,Consumer Cyclical,203.53,5.84,5.09,5.18,69.5,203.53,166.91,0.0,0.0,65487400960,N/A,890.96,12.46,25.25,14.04,211.39,683.98,145.46,16.33,0.44,633.33,N/A,1.02,N/A,N/A,Revenue +25.25% YoY | Profit +683.98% YoY | Profit +211.39% QoQ | EPS +633.33% YoY,"KFC India operator bets on first-time customers as ₹99 meals drive turnaround
+Pizza Hut: From $600 loan to 20,000 stores and the new $2.7 billion twist for the global empire
+Get multiple analysts' prediction on Sapphire Foods"
+2026-08-05,HINDCOPPER.NS,HINDUSTAN COPPER LTD,Basic Materials,519.25,5.46,7.41,3.57,67.7,526.35,473.15,-1.35,5.22,502127198208,54.37,1156.08,68.2,58.06,444.06,184.11,134.34,593.01,51.29,4.59,136.6,N/A,0.03,30.6,19.92,Revenue +58.06% YoY | Revenue +68.2% QoQ | Profit +134.34% YoY | Profit +184.11% QoQ | EPS +136.6% YoY | EBITDA Margin 51.29% | ROE 30.6%,"HCL in 'positive direction' on takeover of 4 copper blocks in Chile; advisors studying data
+India to require 500,000 tonnes of additional copper refining capacity every five years: ICA India
+Board Meeting Intimation for Prior Intimation Of Meeting Of The Board Of Directors Of Hindustan Copper Ltd Scheduled On 10.08.2026
+Get multiple analysts' prediction on Hind Copper
+Nippon India Nifty Smallcap 250 Index Direct-G"
+2026-08-05,AGARWALEYE.NS,DR AGARWALS HEALTH CARE L,Healthcare,519.4,5.25,6.26,2.68,64.6,519.4,438.45,0.0,0.67,164663410688,122.5,564.11,6.46,22.57,39.71,17.69,21.92,174.05,30.85,1.25,20.19,N/A,0.5,8.31,4.81,EBITDA Margin 30.85%,No recent news
