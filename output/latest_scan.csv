@@ -1,17 +1,23 @@
 Date,Stock,Company,Sector,Close Price,Daily Gain %,Week Gain %,Volume Spike (x avg),RSI (14d),52W High,52W Low,Dist from 52W High %,Sector Weekly Gain %,Market Cap,P/E Ratio,Revenue (Cr),Revenue QoQ %,Revenue YoY %,Net Profit (Cr),Profit QoQ %,Profit YoY %,Operating Profit (Cr),EBITDA Margin %,EPS,EPS Growth YoY %,Operating CF (Cr),Debt to Equity,ROE %,ROCE %,Growth Flags,News (Last 2 Days)
-2026-08-13,BBOX.NS,BLACK BOX LIMITED,Technology,839.9,12.99,12.17,4.23,60.9,1042.0,726.8,-19.4,0.92,149165572096,66.45,1690.94,1.89,9.48,64.76,30.35,7.09,166.27,9.83,3.78,5.88,N/A,0.9,21.27,7.47,Profit +30.35% QoQ | ROE 21.27%,No recent news
-2026-08-13,ELLEN.NS,ELLENBARRIE INDUS GASES L,Basic Materials,329.25,11.84,17.19,2.53,67.8,329.25,254.3,0.0,0.0,46403047424,43.67,87.43,7.48,28.54,22.88,-12.28,19.18,40.37,46.17,1.62,10.2,N/A,0.19,N/A,N/A,Revenue +28.54% YoY | EBITDA Margin 46.17%,No recent news
-2026-08-13,ASTRAL.NS,ASTRAL LIMITED,Industrials,1581.5,8.03,9.67,9.8,76.4,1581.5,1317.1,0.0,0.0,424870248448,77.15,2088.5,35.48,49.5,213.0,97.77,86.68,384.1,18.39,7.93,86.59,N/A,0.06,13.8,8.86,Revenue +49.5% YoY | Revenue +35.48% QoQ | Profit +86.68% YoY | Profit +97.77% QoQ | EPS +86.59% YoY,No recent news
-2026-08-13,SARDAEN.NS,SARDA ENERGY & MIN LTD,Basic Materials,529.3,6.75,5.92,15.38,64.0,530.1,491.75,-0.15,0.0,186515406848,16.53,1589.47,28.15,-2.22,458.25,190.05,5.5,761.92,47.94,13.0,5.43,N/A,0.35,N/A,N/A,Revenue +28.15% QoQ | Profit +190.05% QoQ | EBITDA Margin 47.94%,No recent news
-2026-08-13,NETWEB.NS,NETWEB TECH INDIA LTD,Technology,5139.4,6.24,6.78,1.78,78.2,5139.4,4153.41,0.0,0.92,292640980992,113.03,819.69,5.94,172.13,85.32,20.87,179.94,128.99,15.74,14.98,178.44,N/A,0.39,N/A,N/A,Revenue +172.13% YoY | Profit +179.94% YoY | Profit +20.87% QoQ | EPS +178.44% YoY,No recent news
-2026-08-13,GPIL.NS,GODAWARI POW & ISP LTD,Basic Materials,242.59,5.94,-0.89,3.37,51.2,281.75,228.99,-13.9,0.0,157704814592,19.56,1750.47,8.71,32.29,221.74,-20.83,2.68,372.2,21.26,3.59,1.99,N/A,0.08,N/A,N/A,Revenue +32.29% YoY,No recent news
-2026-08-13,AZAD.NS,AZAD ENGINEERING LIMITED,Industrials,2625.0,5.87,6.89,2.42,67.4,2625.0,1984.0,0.0,0.0,169527083008,121.7,172.6,6.85,35.98,35.74,-0.67,41.47,67.91,39.35,5.53,33.25,N/A,0.31,N/A,N/A,Revenue +35.98% YoY | Profit +41.47% YoY | EPS +33.25% YoY | EBITDA Margin 39.35%,"Market Trading Guide: 360 One Wam among 6 stock recommendations for Wednesday
+2026-08-13,ELLEN.NS,ELLENBARRIE INDUS GASES L,Basic Materials,331.0,12.43,17.81,2.73,68.3,331.0,254.3,0.0,0.0,46649683968,43.9,87.43,7.48,28.54,22.88,-12.28,19.18,40.37,46.17,1.62,10.2,N/A,0.19,N/A,N/A,Revenue +28.54% YoY | EBITDA Margin 46.17%,No recent news
+2026-08-13,BBOX.NS,BLACK BOX LIMITED,Technology,832.5,11.99,11.19,4.62,59.6,1042.0,726.8,-20.11,0.85,147851329536,65.86,1690.94,1.89,9.48,64.76,30.35,7.09,166.27,9.83,3.78,5.88,N/A,0.9,21.27,7.47,Profit +30.35% QoQ | ROE 21.27%,No recent news
+2026-08-13,MIDHANI.NS,MISHRA DHATU NIGAM LTD,Basic Materials,448.05,9.7,3.18,9.43,69.4,448.85,389.1,-0.18,0.0,83937681408,66.87,531.17,93.47,30.8,77.9,181.82,38.61,130.57,24.58,4.16,38.67,N/A,0.27,8.92,3.49,Revenue +30.8% YoY | Revenue +93.47% QoQ | Profit +38.61% YoY | Profit +181.82% QoQ | EPS +38.67% YoY,"Stock picks of the week: 5 stocks with consistent score improvement and upside potential of up to 28%
+Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
+Board Meeting Outcome for Results For Q1 FY 27.
+Unlock Stock Score, Analyst' Ratings & Recommendations
+Get multiple analysts' prediction on Mishra Dhatu Nigam"
+2026-08-13,ASTRAL.NS,ASTRAL LIMITED,Industrials,1594.5,8.91,10.58,10.84,77.3,1594.5,1317.1,0.0,0.0,428362694656,77.78,2088.5,35.48,49.5,213.0,97.77,86.68,384.1,18.39,7.93,86.59,N/A,0.06,13.8,8.86,Revenue +49.5% YoY | Revenue +35.48% QoQ | Profit +86.68% YoY | Profit +97.77% QoQ | EPS +86.59% YoY,No recent news
+2026-08-13,SARDAEN.NS,SARDA ENERGY & MIN LTD,Basic Materials,528.75,8.03,5.56,15.82,61.3,530.1,489.45,-0.25,0.0,186321600512,16.51,1589.47,28.15,-2.22,458.25,190.05,5.5,761.92,47.94,13.0,5.43,N/A,0.35,N/A,N/A,Revenue +28.15% QoQ | Profit +190.05% QoQ | EBITDA Margin 47.94%,No recent news
+2026-08-13,UTLSOLAR.NS,FUJIYAMA POWER SYSTEMS L,Technology,416.4,7.04,3.93,2.25,65.1,416.4,307.5,0.0,0.85,127793889280,40.74,900.77,53.07,166.03,106.32,57.95,254.24,174.29,19.35,3.58,265.48,-4.55,0.41,36.42,16.61,Revenue +166.03% YoY | Revenue +53.07% QoQ | Profit +254.24% YoY | Profit +57.95% QoQ | EPS +265.48% YoY | ROE 36.42%,No recent news
+2026-08-13,NETWEB.NS,NETWEB TECH INDIA LTD,Technology,5157.4,6.62,7.16,2.16,78.5,5157.4,4153.41,0.0,0.85,293665898496,112.9,819.69,5.94,172.13,85.32,20.87,179.94,128.99,15.74,14.98,178.44,N/A,0.39,N/A,N/A,Revenue +172.13% YoY | Profit +179.94% YoY | Profit +20.87% QoQ | EPS +178.44% YoY,No recent news
+2026-08-13,GPIL.NS,GODAWARI POW & ISP LTD,Basic Materials,243.35,6.27,-0.58,4.33,52.6,281.75,228.99,-13.63,0.0,158322884608,19.64,1750.47,8.71,32.29,221.74,-20.83,2.68,372.2,21.26,3.59,1.99,N/A,0.08,N/A,N/A,Revenue +32.29% YoY,No recent news
+2026-08-13,BHARTIHEXA.NS,BHARTI HEXACOM LIMITED,Communication Services,1564.8,5.3,3.32,3.94,47.1,1645.8,1422.15,-4.92,0.0,782400028672,42.86,2509.9,3.99,9.65,482.4,7.99,2.99,1394.3,55.55,9.65,2.99,1562.5,0.86,N/A,N/A,EBITDA Margin 55.55%,"These large and mid-cap stocks can give more than 20% return in 1 year, according to analysts
+These large-caps have ‘strong buy’ & ‘buy’ recos and upside potential of up to 29% in one year, according to analysts
+Buy, Sell or Hold: Elara Capital initiates buy on Bharti Airtel; Goldman Sachs has buy rating on Indigo
+Shareholder Meeting / Postal Ballot-Scrutinizer''s Report
+Get multiple analysts' prediction on Bharti Hexacom"
+2026-08-13,AZAD.NS,AZAD ENGINEERING LIMITED,Industrials,2606.0,5.1,6.12,2.66,62.2,2606.0,1984.0,0.0,0.0,168300019712,120.82,172.6,6.85,35.98,35.74,-0.67,41.47,67.91,39.35,5.53,33.25,N/A,0.31,N/A,N/A,Revenue +35.98% YoY | Profit +41.47% YoY | EPS +33.25% YoY | EBITDA Margin 39.35%,"Market Trading Guide: 360 One Wam among 6 stock recommendations for Wednesday
 Stocks in news: RIL, Infosys, Adani Energy, Dabur India, Adani Green
 Mutual funds bought 505 smallcap stocks in March crash. Two weeks later, they're winning big
 Buy, Sell or Hold? Morgan Stanley maintains Equal Weight on Infosys; Elara Capital upgrades United Spirits
-Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-08-13,EPL.NS,EPL LIMITED,Consumer Cyclical,248.0,5.18,7.89,4.73,63.9,248.0,224.72,0.0,0.0,79433818112,20.46,1300.5,13.21,17.65,102.9,25.95,-9.97,265.3,20.4,3.22,-10.06,N/A,0.34,N/A,N/A,Profit +25.95% QoQ,"Q1 earnings preview: Here’s what Nomura expects from Nestle, Titan, other consumer majors’ June quarter results
-Newspaper Publication With Respect To The Unaudited Standalone And Consolidated Financial Results For The Quarter Ended On June 30, 2026
-Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome
-Announcement under Regulation 30 (LODR)-Press Release / Media Release
 Unlock Stock Score, Analyst' Ratings & Recommendations"
