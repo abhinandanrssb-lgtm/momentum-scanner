@@ -1,32 +1,49 @@
 Date,Stock,Company,Sector,Close Price,Daily Gain %,Week Gain %,Volume Spike (x avg),RSI (14d),52W High,52W Low,Dist from 52W High %,Sector Weekly Gain %,Market Cap,P/E Ratio,Revenue (Cr),Revenue QoQ %,Revenue YoY %,Net Profit (Cr),Profit QoQ %,Profit YoY %,Operating Profit (Cr),EBITDA Margin %,EPS,EPS Growth YoY %,Operating CF (Cr),Debt to Equity,ROE %,ROCE %,Growth Flags,News (Last 2 Days)
-2026-08-17,AZAD.NS,AZAD ENGINEERING LIMITED,Industrials,2942.0,8.25,15.39,1.71,74.5,2942.0,1984.0,0.0,0.0,189999497216,137.03,172.6,6.85,35.98,35.74,-0.67,41.47,67.91,39.35,5.53,33.25,N/A,0.31,N/A,N/A,Revenue +35.98% YoY | Profit +41.47% YoY | EPS +33.25% YoY | EBITDA Margin 39.35%,"Market Trading Guide: 360 One Wam among 6 stock recommendations for Wednesday
-Stocks in news: RIL, Infosys, Adani Energy, Dabur India, Adani Green
-Mutual funds bought 505 smallcap stocks in March crash. Two weeks later, they're winning big
-Announcement under Regulation 30 (LODR)-Earnings Call Transcript
-Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-08-17,MANORAMA.NS,MANORAMA INDUSTRIES LTD,Consumer Defensive,1873.0,7.82,11.89,4.08,71.5,1873.0,1510.8,0.0,0.0,118228238336,45.31,391.34,7.94,87.06,42.48,-41.22,39.44,77.51,19.81,7.12,39.33,N/A,0.52,N/A,N/A,Revenue +87.06% YoY | Profit +39.44% YoY | EPS +39.33% YoY,"Manorama Industries shares surge over 8% after strong Q1 results
-Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome
-Announcement under Regulation 30 (LODR)-Newspaper Publication
-Announcement under Regulation 30 (LODR)-Investor Presentation
-Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-08-17,PURVA.NS,PURAVANKARA LIMITED,Real Estate,235.1,7.74,10.29,16.83,68.5,248.4,207.67,-5.35,0.0,55756263424,87.73,1501.92,40.46,177.33,113.24,88.92,231.95,340.13,22.65,4.77,231.77,N/A,3.15,3.23,2.58,Revenue +177.33% YoY | Revenue +40.46% QoQ | Profit +231.95% YoY | Profit +88.92% QoQ | EPS +231.77% YoY,No recent news
-2026-08-17,RUBICON.NS,RUBICON RESEARCH LIMITED,Healthcare,1736.7,7.26,8.8,5.22,70.3,1736.7,1305.72,0.0,-0.42,286715478016,99.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,"Broader market winners! How investors found 15 multibaggers in a muted Nifty year?
-Rubicon Research shares can rally 22%, says Motilal Oswal after initiating with ‘Buy’ rating
-Buy, Sell or Hold: Motilal Oswal initiates buy on Rubicon Research; Morgan Stanley recommends overweight on Aditya Birla Capital
-Announcement under Regulation 30 (LODR)-Newspaper Publication
-Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-08-17,VIKRAMSOLR.NS,VIKRAM SOLAR LIMITED,Technology,171.4,7.02,9.31,2.16,42.6,209.95,156.8,-18.36,-2.23,62107537408,16.39,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,"Tamil Nadu government signs MoU with Vikram Solar to set up Rs 15,037 cr BESS plant in Tirunelveli
+2026-08-17,VIKRAMSOLR.NS,VIKRAM SOLAR LIMITED,Technology,175.38,9.51,11.85,3.8,48.5,209.95,156.8,-16.47,-2.53,63549710336,16.77,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,"Tamil Nadu government signs MoU with Vikram Solar to set up Rs 15,037 cr BESS plant in Tirunelveli
 Announcement under Regulation 30 (LODR)-Earnings Call Transcript
 Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
 Announcement under Regulation 30 (LODR)-Credit Rating
 Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-08-17,BALUFORGE.NS,BALU FORGE INDUSTRIES LTD,Industrials,526.0,6.53,14.05,2.19,73.5,526.0,428.1,0.0,0.0,60485742592,21.61,263.55,-15.28,-2.26,65.74,-7.53,4.86,83.4,31.64,6.35,10.63,N/A,0.1,19.56,11.67,EBITDA Margin 31.64%,"Balu Forge Industries shares hit 10% upper circuit. Here’s what’s behind the surge
+2026-08-17,MANORAMA.NS,MANORAMA INDUSTRIES LTD,Consumer Defensive,1888.8,8.73,12.83,4.99,72.3,1888.8,1510.8,0.0,0.0,119130890240,45.65,391.34,7.94,87.06,42.48,-41.22,39.44,77.51,19.81,7.12,39.33,N/A,0.52,N/A,N/A,Revenue +87.06% YoY | Profit +39.44% YoY | EPS +39.33% YoY,"Manorama Industries shares surge over 8% after strong Q1 results
+Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome
+Announcement under Regulation 30 (LODR)-Newspaper Publication
+Announcement under Regulation 30 (LODR)-Investor Presentation
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-08-17,PURVA.NS,PURAVANKARA LIMITED,Real Estate,235.8,8.06,10.62,16.92,69.0,248.4,207.67,-5.07,0.0,55919894528,87.99,1501.92,40.46,177.33,113.24,88.92,231.95,340.13,22.65,4.77,231.77,N/A,3.15,3.23,2.58,Revenue +177.33% YoY | Revenue +40.46% QoQ | Profit +231.95% YoY | Profit +88.92% QoQ | EPS +231.77% YoY,No recent news
+2026-08-17,ELGIEQUIP.NS,ELGI EQUIPMENTS LTD,Industrials,619.5,7.45,5.28,2.46,67.3,619.5,568.35,0.0,0.0,195292086272,43.63,1112.6,10.88,12.06,128.0,34.45,25.49,194.9,17.52,4.06,25.7,N/A,0.24,N/A,N/A,Profit +34.45% QoQ,"Two Trades for Today: A PSU bank for a gain of 6.85%, a mid-cap capital goods stock for an almost 7% upmove
+Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome
+Shareholder Meeting / Postal Ballot-Scrutinizer''s Report
+Shareholder Meeting / Postal Ballot-Outcome of AGM
+Get multiple analysts' prediction on Elgi Equipments"
+2026-08-17,RUBICON.NS,RUBICON RESEARCH LIMITED,Healthcare,1739.0,7.41,8.94,6.55,72.9,1739.0,1305.72,0.0,-0.43,287276793856,99.49,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,"Broader market winners! How investors found 15 multibaggers in a muted Nifty year?
+Rubicon Research shares can rally 22%, says Motilal Oswal after initiating with ‘Buy’ rating
+Buy, Sell or Hold: Motilal Oswal initiates buy on Rubicon Research; Morgan Stanley recommends overweight on Aditya Birla Capital
+Announcement under Regulation 30 (LODR)-Newspaper Publication
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-08-17,AZAD.NS,AZAD ENGINEERING LIMITED,Industrials,2915.2,7.26,14.34,2.54,73.9,2915.2,1984.0,0.0,0.0,188268691456,135.78,172.6,6.85,35.98,35.74,-0.67,41.47,67.91,39.35,5.53,33.25,N/A,0.31,N/A,N/A,Revenue +35.98% YoY | Profit +41.47% YoY | EPS +33.25% YoY | EBITDA Margin 39.35%,"Market Trading Guide: 360 One Wam among 6 stock recommendations for Wednesday
+Stocks in news: RIL, Infosys, Adani Energy, Dabur India, Adani Green
+Mutual funds bought 505 smallcap stocks in March crash. Two weeks later, they're winning big
+Announcement under Regulation 30 (LODR)-Earnings Call Transcript
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-08-17,BALUFORGE.NS,BALU FORGE INDUSTRIES LTD,Industrials,526.85,6.7,14.23,2.83,73.6,526.85,428.1,0.0,0.0,60583481344,21.65,263.55,-15.28,-2.26,65.74,-7.53,4.86,83.4,31.64,6.35,10.63,N/A,0.1,19.56,11.67,EBITDA Margin 31.64%,"Balu Forge Industries shares hit 10% upper circuit. Here’s what’s behind the surge
 Ashish Kacholia-backed Balu Forge shares bounce back 13% after sharp YTD fall
 Balu Forge shares plunge 20%. Is the rout done or is more pain ahead?
 Announcement under Regulation 30 (LODR)-Monitoring Agency Report
 Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-08-17,IPCALAB.NS,IPCA LABORATORIES LTD,Healthcare,1839.5,6.07,9.12,8.08,56.3,1894.02,1533.38,-2.88,-0.42,466612781056,35.59,2388.48,-0.17,6.31,299.07,-8.34,340.98,577.61,24.18,11.79,341.57,N/A,0.08,13.22,8.42,Profit +340.98% YoY | EPS +341.57% YoY,"Picking the right pharma stock is getting harder; so pick a portfolio: 20 stocks with -23% to +22% downside to upside potential
+2026-08-17,PWL.NS,PHYSICSWALLAH LIMITED,Consumer Defensive,124.66,6.44,-2.24,7.98,50.6,151.38,113.38,-17.65,0.0,356718051328,1782.0,918.8,-15.12,13.48,-74.89,-174.51,-181.71,61.42,6.68,-0.26,-181.13,966.71,0.23,N/A,N/A,—,"Stocks in news: Cochin Shipyard, Voltas, Patanjali Foods, and PhysicsWallah
+Zetwerk promoters pledge stake; PhysicsWallah Q1 losses narrow
+PhysicsWallah Q1 loss narrows 31%; edtech to transfer FinZ loan book
+Announcement under Regulation 30 (LODR)-Newspaper Publication
+Get multiple analysts' prediction on Physicswallah"
+2026-08-17,IPCALAB.NS,IPCA LABORATORIES LTD,Healthcare,1841.9,6.21,9.26,8.75,55.5,1894.02,1533.38,-2.75,-0.43,467297828864,35.64,2388.48,-0.17,6.31,299.07,-8.34,340.98,577.61,24.18,11.79,341.57,N/A,0.08,13.22,8.42,Profit +340.98% YoY | EPS +341.57% YoY,"Picking the right pharma stock is getting harder; so pick a portfolio: 20 stocks with -23% to +22% downside to upside potential
 Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome
 Announcement under Regulation 30 (LODR)-Newspaper Publication
 Shareholder Meeting / Postal Ballot-Scrutinizer''s Report
 Get multiple analysts' prediction on Ipca Labs"
+2026-08-17,GNFC.NS,GUJ NAR VAL FER & CHEM L,Basic Materials,583.7,6.05,9.0,2.25,78.2,583.7,493.85,0.0,0.0,85769281536,8.27,2238.0,1.36,39.79,312.0,-21.21,275.9,494.0,22.07,21.22,275.58,N/A,0.0,N/A,N/A,Revenue +39.79% YoY | Profit +275.9% YoY | EPS +275.58% YoY,No recent news
+2026-08-17,PTCIL.NS,PTC INDUSTRIES LIMITED,Industrials,20139.0,5.72,3.97,5.21,78.8,20139.0,16998.0,0.0,0.0,301934936064,240.26,225.47,44.97,84.93,59.91,226.42,143.8,84.4,37.43,39.96,143.66,N/A,0.17,7.02,3.36,Revenue +84.93% YoY | Revenue +44.97% QoQ | Profit +143.8% YoY | Profit +226.42% QoQ | EPS +143.66% YoY | EBITDA Margin 37.43%,"PTC Industries bags two-year BrahMos missile subsystem order
+Stocks in news: Waaree Energies, Kotak Bank, HDFC Bank, Strides Pharma, Persistent Systems
+Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
+Announcement under Regulation 30 (LODR)-Monitoring Agency Report
+Get multiple analysts' prediction on PTC Industries"
+2026-08-17,SUDARSCHEM.NS,SUDARSHAN CHEMICAL INDS L,Basic Materials,1108.3,5.27,-2.31,1.51,59.2,1134.53,872.9,-2.31,0.0,88229076992,122.33,2789.9,32.66,106.75,78.7,168.26,2067.5,263.8,9.46,10.0,2100.0,N/A,0.64,N/A,N/A,Revenue +106.75% YoY | Revenue +32.66% QoQ | Profit +2067.5% YoY | Profit +168.26% QoQ | EPS +2100.0% YoY,No recent news
