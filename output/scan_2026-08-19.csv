@@ -1,12 +1,9 @@
 Date,Stock,Company,Sector,Close Price,Daily Gain %,Week Gain %,Volume Spike (x avg),RSI (14d),52W High,52W Low,Dist from 52W High %,Sector Weekly Gain %,Market Cap,P/E Ratio,Revenue (Cr),Revenue QoQ %,Revenue YoY %,Net Profit (Cr),Profit QoQ %,Profit YoY %,Operating Profit (Cr),EBITDA Margin %,EPS,EPS Growth YoY %,Operating CF (Cr),Debt to Equity,ROE %,ROCE %,Growth Flags,News (Last 2 Days)
-2026-08-19,ZAGGLE.NS,ZAGGLE PREPA OCEAN SER L,Technology,185.09,11.58,-8.24,9.67,36.6,217.8,160.48,-15.02,-2.87,24935999488,17.46,617.92,17.58,49.94,40.6,11.58,30.4,68.61,11.1,3.02,30.17,N/A,0.04,10.45,28.47,Revenue +49.94% YoY | Revenue +17.58% QoQ | Profit +30.4% YoY | EPS +30.17% YoY,No recent news
-2026-08-19,ICICIAMC.NS,ICICI PRUDENTIAL AMC LTD,Financial Services,3290.0,5.92,7.01,4.24,69.6,3429.0,3028.5,-4.05,-1.12,1626110558208,46.83,1564.22,3.11,17.55,964.63,26.36,23.1,1313.45,83.97,19.52,23.15,N/A,0.04,N/A,N/A,Profit +26.36% QoQ | EBITDA Margin 83.97%,"Puravankara Q1 Results: Revenue surges 63% to Rs 877 crore; PAT at Rs 25 crore
-Stock picks of the week: 5 stocks with consistent score improvement and upside potential of up to 21%
-Buy, Sell or Hold: Nuvama maintains hold on HCL Technologies; Motilal Oswal recommends buy on ICICI Prudential AMC
+2026-08-19,ZAGGLE.NS,ZAGGLE PREPA OCEAN SER L,Technology,186.04,12.15,-7.77,9.67,37.4,217.8,160.48,-14.58,-2.87,25063987200,17.55,617.92,17.58,49.94,40.6,11.58,30.4,68.61,11.1,3.02,30.17,N/A,0.04,10.45,28.47,Revenue +49.94% YoY | Revenue +17.58% QoQ | Profit +30.4% YoY | EPS +30.17% YoY,No recent news
+2026-08-19,VIYASH.NS,VIYASH SCIENTIFIC LIMITED,Healthcare,271.4,6.45,3.29,3.18,62.0,294.15,250.9,-7.73,-1.68,119390912512,57.26,919.96,7.17,19.12,52.11,35.56,298.59,204.33,22.21,1.2,296.72,N/A,0.16,N/A,N/A,Profit +298.59% YoY | Profit +35.56% QoQ | EPS +296.72% YoY,No recent news
+2026-08-19,GLAXO.NS,GLAXOSMITHKLINE PHARMA LT,Healthcare,3032.4,5.39,15.73,8.94,84.7,3032.4,2332.0,0.0,-1.68,513706819584,48.12,938.44,-5.71,-3.69,237.18,-14.64,-9.77,339.26,36.15,14.0,-9.79,N/A,0.01,N/A,N/A,EBITDA Margin 36.15%,No recent news
+2026-08-19,PRSMJOHNSN.NS,PRISM JOHNSON LIMITED,Basic Materials,110.27,5.03,1.55,7.91,56.3,121.74,104.85,-9.42,0.0,55505129472,27.85,2091.62,15.56,7.32,-22.38,-136.62,-117.31,189.09,9.04,0.13,-94.94,N/A,0.93,N/A,N/A,Revenue +15.56% QoQ,"Prism Johnson shares jump 11% after securing contracts from Coal India subsidiaries
 Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
-Get multiple analysts' prediction on ICICI Prudential AMC"
-2026-08-19,VIYASH.NS,VIYASH SCIENTIFIC LIMITED,Healthcare,269.8,5.82,2.68,3.18,61.2,294.15,250.9,-8.28,-1.67,118687064064,56.92,919.96,7.17,19.12,52.11,35.56,298.59,204.33,22.21,1.2,296.72,N/A,0.16,N/A,N/A,Profit +298.59% YoY | Profit +35.56% QoQ | EPS +296.72% YoY,No recent news
-2026-08-19,SKFINDUS.NS,SKF IND (INDUSTRIAL) LTD,Industrials,2812.8,5.44,4.1,4.29,64.0,2875.12,2597.98,-2.17,0.0,139059101696,67.04,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,No recent news
-2026-08-19,HCG.NS,HEALTHCARE GLOB. ENT. LTD,Healthcare,752.25,5.41,2.14,2.17,75.5,752.25,595.05,0.0,-1.67,112312582144,479.14,693.39,6.63,13.34,13.77,534.56,189.89,135.32,19.52,0.92,170.59,N/A,1.23,N/A,N/A,Profit +189.89% YoY | Profit +534.56% QoQ | EPS +170.59% YoY,No recent news
-2026-08-19,TRIVENI.NS,TRIVENI ENGG. & INDS. LTD,Consumer Defensive,291.0,5.24,20.13,1.95,77.7,477.15,221.5,-39.01,0.0,64125636608,22.99,1580.52,4.81,-2.99,3.65,-97.82,-98.01,67.83,4.29,0.17,-98.01,N/A,0.65,N/A,N/A,—,No recent news
-2026-08-19,GLAXO.NS,GLAXOSMITHKLINE PHARMA LT,Healthcare,3025.2,5.14,15.46,8.94,84.6,3025.2,2332.0,0.0,-1.67,512487129088,45.13,938.44,-5.71,-3.69,237.18,-14.64,-9.77,339.26,36.15,14.0,-9.79,N/A,0.01,N/A,N/A,EBITDA Margin 36.15%,No recent news
+Disclosure Under Regulation 30 Of SEBI (LODR), 2015
+Unlock Stock Score, Analyst' Ratings & Recommendations
+Get multiple analysts' prediction on Prism Johnson"
