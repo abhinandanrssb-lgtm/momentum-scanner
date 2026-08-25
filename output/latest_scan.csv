@@ -1,29 +1,41 @@
 Date,Stock,Company,Sector,Close Price,Daily Gain %,Week Gain %,Volume Spike (x avg),RSI (14d),52W High,52W Low,Dist from 52W High %,Sector Weekly Gain %,Market Cap,P/E Ratio,Revenue (Cr),Revenue QoQ %,Revenue YoY %,Net Profit (Cr),Profit QoQ %,Profit YoY %,Operating Profit (Cr),EBITDA Margin %,EPS,EPS Growth YoY %,Operating CF (Cr),Debt to Equity,ROE %,ROCE %,Growth Flags,News (Last 2 Days)
-2026-08-25,RATNAMANI.NS,RATNAMANI MET & TUB LTD.,Basic Materials,2698.0,14.59,14.63,8.82,68.7,2698.0,2187.92,0.0,0.0,189108224000,43.73,971.63,-10.43,-15.63,82.16,-21.49,-37.67,179.79,18.5,11.72,-37.69,N/A,0.08,N/A,N/A,—,No recent news
-2026-08-25,ENTERO.NS,ENTERO HEALTHCARE SOLU L,Healthcare,1624.6,14.12,15.91,7.02,84.2,1624.6,1172.4,0.0,0.2,70707585024,56.49,1909.93,11.92,42.63,28.01,1.39,9.04,90.05,4.71,6.44,8.97,N/A,0.39,N/A,N/A,Revenue +42.63% YoY,No recent news
-2026-08-25,FACT.NS,FACT LTD,Basic Materials,884.35,12.9,11.48,18.82,61.1,890.0,772.95,-0.63,0.0,572238135296,N/A,1483.85,-5.36,56.29,3.16,104.65,-60.5,82.65,5.57,0.05,-58.33,N/A,2.95,N/A,N/A,Revenue +56.29% YoY | Profit +104.65% QoQ,No recent news
-2026-08-25,IDEA.NS,VODAFONE IDEA LIMITED,Communication Services,15.23,8.24,7.86,2.99,80.5,15.23,12.63,0.0,0.0,1650064359424,4.33,11303.0,-0.04,3.21,51970.0,1083.16,825.13,4993.0,44.17,4.8,575.25,N/A,N/A,N/A,N/A,Profit +825.13% YoY | Profit +1083.16% QoQ | EPS +575.25% YoY | EBITDA Margin 44.17%,"Delhi HC raps I-T dept over Rs 53 crore Vodafone Idea refund delay
-Voda Idea gets Rs 26.8 cr DoT notice for alleged default in spectrum-related rollout obligations
-India mobile subscriber base up marginally to 1282.38 million in June: TRAI data
-Telecom subscriber base rises to 134.8 crore in June; Airtel leads growth: TRAI data
-Announcement under Regulation 30 (LODR)-Earnings Call Transcript"
-2026-08-25,PARADEEP.NS,PARADEEP PHOSPHATES LTD,Basic Materials,159.99,7.09,8.23,2.95,72.3,159.99,134.52,0.0,0.0,166152863744,15.41,6124.25,30.25,46.03,392.54,152.28,127.97,741.74,12.11,3.78,127.71,N/A,1.02,N/A,N/A,Revenue +46.03% YoY | Revenue +30.25% QoQ | Profit +127.97% YoY | Profit +152.28% QoQ | EPS +127.71% YoY,No recent news
-2026-08-25,ZYDUSWELL.NS,ZYDUS WELLNESS LIMITED,Consumer Defensive,524.05,6.77,2.72,1.54,39.9,602.5,490.8,-13.02,0.0,166732120064,88.22,1429.9,-3.13,57.03,118.9,-26.6,-30.83,245.5,17.17,3.74,-30.74,N/A,0.55,N/A,N/A,Revenue +57.03% YoY,"Ahead of Market: 10 things that will decide stock market action on Tuesday
-Announcement under Regulation 30 (LODR)-Code of Conduct under SEBI (PIT) Regulations, 2015
-Announcement under Regulation 30 (LODR)-Credit Rating
-Get multiple analysts' prediction on Zydus Wellness"
-2026-08-25,GODREJAGRO.NS,GODREJ AGROVET LIMITED,Consumer Defensive,610.65,6.28,2.29,8.66,63.5,610.65,540.94,0.0,0.0,117464621056,26.31,2852.2,22.78,34.19,134.5,28.28,90.03,267.58,9.38,6.99,89.95,N/A,0.73,N/A,N/A,Revenue +34.19% YoY | Revenue +22.78% QoQ | Profit +90.03% YoY | Profit +28.28% QoQ | EPS +89.95% YoY,"India's agro-chemical companies seek data protection law to expedite farm innovation
-Godrej Agrovet to set up Rs 300-cr oil palm complex in Telangana
-Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS
-Unlock Stock Score, Analyst' Ratings & Recommendations
-Get multiple analysts' prediction on Godrej Agrovet"
-2026-08-25,CYIENT.NS,CYIENT LIMITED,Industrials,962.2,5.85,12.07,2.0,72.6,962.2,825.2,0.0,0.0,100239106048,27.81,2075.7,7.72,8.72,104.1,89.96,-38.91,269.5,12.98,9.42,-39.11,N/A,0.08,N/A,N/A,Profit +89.96% QoQ,"Two Trades for Today: A top EMS company for a 8.5% gain, a mid-cap IT stock for an almost 7% rise
+2026-08-25,RATNAMANI.NS,RATNAMANI MET & TUB LTD.,Basic Materials,2708.0,15.02,15.06,9.22,69.0,2708.0,2187.92,0.0,0.0,189809131520,43.9,971.63,-10.43,-15.63,82.16,-21.49,-37.67,179.79,18.5,11.72,-37.69,N/A,0.08,N/A,N/A,—,No recent news
+2026-08-25,ENTERO.NS,ENTERO HEALTHCARE SOLU L,Healthcare,1624.1,14.08,15.87,7.42,84.2,1624.1,1172.4,0.0,0.47,70685818880,56.47,1909.93,11.92,42.63,28.01,1.39,9.04,90.05,4.71,6.44,8.97,N/A,0.39,N/A,N/A,Revenue +42.63% YoY,No recent news
+2026-08-25,FACT.NS,FACT LTD,Basic Materials,877.7,12.05,10.65,18.9,59.7,890.0,772.95,-1.38,0.0,567935107072,N/A,1483.85,-5.36,56.29,3.16,104.65,-60.5,82.65,5.57,0.05,-58.33,N/A,2.95,N/A,N/A,Revenue +56.29% YoY | Profit +104.65% QoQ,No recent news
+2026-08-25,CYIENT.NS,CYIENT LIMITED,Industrials,984.0,8.24,14.61,5.39,75.1,984.0,825.2,0.0,0.0,102425010176,28.41,2075.7,7.72,8.72,104.1,89.96,-38.91,269.5,12.98,9.42,-39.11,N/A,0.08,N/A,N/A,Profit +89.96% QoQ,"Two Trades for Today: A top EMS company for a 8.5% gain, a mid-cap IT stock for an almost 7% rise
 Buy, Sell or Hold? Citi maintains buy on Meesho; Elara Capital recommends buy on Vishal Mega Mart
 Indian ER&D firms brace for a bumpy first quarter on EU auto speedbump
 Announcement under Regulation 30 (LODR)-Press Release / Media Release
 Get multiple analysts' prediction on Cyient"
-2026-08-25,SUNTECK.NS,SUNTECK REALTY LIMITED,Real Estate,313.0,5.62,4.49,2.79,62.2,338.9,290.7,-7.64,0.0,45961555968,21.51,191.56,-43.5,-7.03,41.96,-34.18,-16.73,77.94,40.69,2.88,-16.28,N/A,0.17,N/A,N/A,EBITDA Margin 40.69%,"Sunteck Realty Q1 profit jumps 26% on strong sales, margin growth
+2026-08-25,IDEA.NS,VODAFONE IDEA LIMITED,Communication Services,15.2,8.03,7.65,3.45,80.3,15.2,12.63,0.0,0.0,1646814035968,4.32,11303.0,-0.04,3.21,51970.0,1083.16,825.13,4993.0,44.17,4.8,575.25,N/A,N/A,N/A,N/A,Profit +825.13% YoY | Profit +1083.16% QoQ | EPS +575.25% YoY | EBITDA Margin 44.17%,"Delhi HC raps I-T dept over Rs 53 crore Vodafone Idea refund delay
+Voda Idea gets Rs 26.8 cr DoT notice for alleged default in spectrum-related rollout obligations
+India mobile subscriber base up marginally to 1282.38 million in June: TRAI data
+Telecom subscriber base rises to 134.8 crore in June; Airtel leads growth: TRAI data
+Announcement under Regulation 30 (LODR)-Earnings Call Transcript"
+2026-08-25,ZYDUSWELL.NS,ZYDUS WELLNESS LIMITED,Consumer Defensive,524.7,6.91,2.85,1.79,40.2,602.5,490.8,-12.91,0.0,166938918912,88.33,1429.9,-3.13,57.03,118.9,-26.6,-30.83,245.5,17.17,3.74,-30.74,N/A,0.55,N/A,N/A,Revenue +57.03% YoY,"Ahead of Market: 10 things that will decide stock market action on Tuesday
+Announcement under Regulation 30 (LODR)-Code of Conduct under SEBI (PIT) Regulations, 2015
+Announcement under Regulation 30 (LODR)-Credit Rating
+Get multiple analysts' prediction on Zydus Wellness"
+2026-08-25,PARADEEP.NS,PARADEEP PHOSPHATES LTD,Basic Materials,159.3,6.63,7.77,3.26,71.7,159.3,134.52,0.0,0.0,165415501824,15.34,6124.25,30.25,46.03,392.54,152.28,127.97,741.74,12.11,3.78,127.71,N/A,1.02,N/A,N/A,Revenue +46.03% YoY | Revenue +30.25% QoQ | Profit +127.97% YoY | Profit +152.28% QoQ | EPS +127.71% YoY,No recent news
+2026-08-25,GODREJAGRO.NS,GODREJ AGROVET LIMITED,Consumer Defensive,610.25,6.21,2.22,9.26,63.4,610.25,540.94,0.0,0.0,117387673600,26.29,2852.2,22.78,34.19,134.5,28.28,90.03,267.58,9.38,6.99,89.95,N/A,0.73,N/A,N/A,Revenue +34.19% YoY | Revenue +22.78% QoQ | Profit +90.03% YoY | Profit +28.28% QoQ | EPS +89.95% YoY,"India's agro-chemical companies seek data protection law to expedite farm innovation
+Godrej Agrovet to set up Rs 300-cr oil palm complex in Telangana
+Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS
+Unlock Stock Score, Analyst' Ratings & Recommendations
+Get multiple analysts' prediction on Godrej Agrovet"
+2026-08-25,SUNTECK.NS,SUNTECK REALTY LIMITED,Real Estate,314.3,6.06,4.92,3.01,63.4,338.9,290.7,-7.26,0.0,46152450048,21.6,191.56,-43.5,-7.03,41.96,-34.18,-16.73,77.94,40.69,2.88,-16.28,N/A,0.17,N/A,N/A,EBITDA Margin 40.69%,"Sunteck Realty Q1 profit jumps 26% on strong sales, margin growth
 Sunteck Realty Q4 profit rises 27% to Rs 64 crore
 Societe Generale enters Gokaldas Exports with Rs 41 cr bulk deal as stock rallies 43%
 Bulk deal: Goldman Sachs trims Manappuram Finance stake; CLSA offloads Sunteck Realty shares
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-08-25,BALAMINES.NS,BALAJI AMINES LIMITED,Basic Materials,2354.7,5.85,11.93,2.73,75.6,2414.9,1882.87,-2.49,0.0,76294635520,34.94,455.93,15.49,27.23,74.94,18.56,97.2,121.4,26.63,23.13,97.19,N/A,0.06,N/A,N/A,Revenue +27.23% YoY | Revenue +15.49% QoQ | Profit +97.2% YoY | EPS +97.19% YoY | EBITDA Margin 26.63%,"Q1 Results today: Coal India, Tata Power, BEL, Coforge, among 68 companies to announce earnings
+Dividend Alert! Last day to buy M&M, Swaraj Engines, 31 other stocks to earn payouts up to Rs 110
+Higher input costs likely to erode chemical companies' profits
+Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-08-25,PAYTM.NS,ONE 97 COMMUNICATIONS LTD,Technology,1708.5,5.24,10.49,1.92,77.7,1708.5,1124.8,0.0,1.21,1095375912960,169.66,2448.0,8.13,28.03,220.0,19.57,140.74,385.0,15.73,3.44,140.61,N/A,0.01,N/A,N/A,Revenue +28.03% YoY | Profit +140.74% YoY | EPS +140.61% YoY,No recent news
+2026-08-25,ANGELONE.NS,ANGEL ONE LIMITED,Financial Services,300.9,5.21,3.14,2.12,51.8,351.16,286.0,-14.31,0.33,274928533504,27.33,1424.39,-2.1,25.57,231.4,-27.74,102.15,484.16,33.99,2.54,100.0,N/A,1.29,N/A,N/A,Revenue +25.57% YoY | Profit +102.15% YoY | EPS +100.0% YoY | EBITDA Margin 33.99%,No recent news
+2026-08-25,CSBBANK.NS,CSB BANK LIMITED,Financial Services,339.6,5.17,6.14,2.01,57.3,370.0,314.6,-8.22,0.33,57554587648,8.87,707.41,-8.17,13.35,150.04,-25.57,26.51,N/A,N/A,8.65,26.46,N/A,N/A,N/A,N/A,—,"India to give Canada's Fairfax two years to consolidate holdings for IDBI Bank deal: Sources
+Southern banks on a golden lending streak; gold-loan books swell 2x
+Reconstitution Of Committees Of The Board
+Announcement under Regulation 30 (LODR)-Appointment of Statutory Auditor/s
 Unlock Stock Score, Analyst' Ratings & Recommendations"
