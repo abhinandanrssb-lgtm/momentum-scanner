@@ -1,13 +1,50 @@
 Date,Stock,Company,Sector,Close Price,Daily Gain %,Week Gain %,Volume Spike (x avg),RSI (14d),52W High,52W Low,Dist from 52W High %,Sector Weekly Gain %,Market Cap,P/E Ratio,Revenue (Cr),Revenue QoQ %,Revenue YoY %,Net Profit (Cr),Profit QoQ %,Profit YoY %,Operating Profit (Cr),EBITDA Margin %,EPS,EPS Growth YoY %,Operating CF (Cr),Debt to Equity,ROE %,ROCE %,Growth Flags,News (Last 2 Days)
-2026-08-28,TEJASNET.NS,TEJAS NETWORKS LIMITED,Technology,572.65,12.03,12.19,9.02,68.5,612.5,494.3,-6.51,1.77,101763964928,N/A,401.82,20.89,-77.76,-202.24,4.31,-181.67,-91.39,-22.74,-11.37,-178.68,N/A,1.43,N/A,N/A,Revenue +20.89% QoQ,"Two Trades for Today: A top solar PV cell maker for a 7.95% upmove, a mid-cap telecom sector stock for a 7% gain
-Ahead of Market: 10 things that will decide stock market action on Friday
-Ahead of Market: 10 things that will decide stock market action on Thursday
-Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order
-Nippon India Nifty Smallcap 250 Index Direct-G"
-2026-08-28,TTML.NS,TATA TELESERV(MAHARASTRA),Communication Services,39.78,9.11,5.29,9.34,54.7,43.18,36.46,-7.87,0.0,77767024640,209.37,301.57,2.04,-2.17,-72.15,-112.42,76.45,165.96,55.03,-0.37,76.43,N/A,N/A,N/A,N/A,Profit +76.45% YoY | EPS +76.43% YoY | EBITDA Margin 55.03%,No recent news
-2026-08-28,JUSTDIAL.NS,JUSTDIAL LTD.,Communication Services,704.55,8.79,3.51,3.15,56.5,804.05,524.95,-12.37,0.0,59921293312,11.9,327.47,6.58,13.23,166.22,66.22,5.47,97.63,29.81,19.54,5.45,N/A,0.02,N/A,N/A,Profit +66.22% QoQ | EBITDA Margin 29.81%,No recent news
-2026-08-28,MASTEK.NS,MASTEK LTD,Technology,1766.0,7.39,4.28,3.61,41.6,1930.2,1563.0,-8.51,1.77,54757261312,13.19,985.25,5.04,8.82,105.88,-0.25,30.6,163.39,16.58,34.16,30.18,N/A,0.15,N/A,N/A,Profit +30.6% YoY | EPS +30.18% YoY,"Buy, Sell or Hold: HDFC Securities maintains buy on Mastek; Elara Capital recommends accumulate rating on IEX
+2026-08-28,MASTEK.NS,MASTEK LTD,Technology,1901.4,17.98,11.51,16.05,58.8,1930.2,1563.0,-1.49,2.45,58955522048,14.2,985.25,5.04,8.82,105.88,-0.25,30.6,163.39,16.58,34.16,30.18,N/A,0.15,N/A,N/A,Profit +30.6% YoY | EPS +30.18% YoY,"Buy, Sell or Hold: HDFC Securities maintains buy on Mastek; Elara Capital recommends accumulate rating on IEX
 Valuation comfort sparks fresh buying in IT stocks
 Weekly Top Picks: These stocks scored 10 on 10 on Stock Reports Plus
 Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS
 Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-08-28,JUSTDIAL.NS,JUSTDIAL LTD.,Communication Services,704.55,10.0,4.52,3.64,54.9,804.05,524.95,-12.37,0.0,59921293312,11.91,327.47,6.58,13.23,166.22,66.22,5.47,97.63,29.81,19.54,5.45,N/A,0.02,N/A,N/A,Profit +66.22% QoQ | EBITDA Margin 29.81%,No recent news
+2026-08-28,NSLNISP.NS,NMDC STEEL LIMITED,Basic Materials,49.02,8.96,23.2,4.83,62.5,49.02,39.52,0.0,0.0,143658303488,175.07,3879.0,28.97,36.67,391.91,260.64,182.79,831.89,21.45,1.34,182.72,N/A,0.35,N/A,N/A,Revenue +36.67% YoY | Revenue +28.97% QoQ | Profit +182.79% YoY | Profit +260.64% QoQ | EPS +182.72% YoY,No recent news
+2026-08-28,NEWGEN.NS,NEWGEN SOFTWARE TECH LTD,Technology,567.1,8.43,8.49,8.5,51.6,583.96,460.49,-2.89,2.45,80160563200,25.57,356.68,-21.2,-17.03,62.82,-40.9,-42.01,92.18,25.84,4.44,,N/A,0.02,N/A,N/A,EBITDA Margin 25.84%,"Q1 results today: Jio Financial, Wipro, Polycab India, BHEL among 41 companies to report earnings
+Ahead of Market: 10 things that will decide stock market action on Wednesday
+Dividends and stock splits: TCS, Dabur, MRF among nearly 100 stocks turning ex-date this week. Do you own any?
+Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
+Get multiple analysts' prediction on Newgen Software"
+2026-08-28,ATHERENERG.NS,ATHER ENERGY LIMITED,Consumer Cyclical,1616.3,8.09,10.55,2.94,66.4,1616.3,1083.75,0.0,0.0,640247463936,N/A,1216.92,3.6,88.79,-51.09,49.03,71.33,9.45,0.78,-1.33,74.57,-3.6,0.26,N/A,N/A,Revenue +88.79% YoY | Profit +71.33% YoY | Profit +49.03% QoQ | EPS +74.57% YoY,"Ather Energy shares rally 4% as Hero MotoCorp plans Rs 1,758 crore investment
+Stocks in news: Wipro, Lenskart, Tata Motors PV, Ather Energy and Kotak Bank
+New-age stocks take off; Swiggy goes Indian
+Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
+Get multiple analysts' prediction on Ather Energy"
+2026-08-28,TEJASNET.NS,TEJAS NETWORKS LIMITED,Technology,550.15,7.63,7.78,13.65,62.4,612.5,494.3,-10.18,2.45,97765556224,N/A,401.82,20.89,-77.76,-202.24,4.31,-181.67,-91.39,-22.74,-11.37,-178.68,N/A,1.43,N/A,N/A,Revenue +20.89% QoQ,"Tejas Networks shares zoom 13% after TCS’s Rs 1,537-crore LOI for BSNL 4G rollout
+Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order
+Nippon India Nifty Smallcap 250 Index Direct-G"
+2026-08-28,PTCIL.NS,PTC INDUSTRIES LIMITED,Industrials,22110.0,7.22,7.18,2.24,66.6,22110.0,16998.0,0.0,0.0,331485249536,261.5,225.47,44.97,84.93,59.91,226.42,143.8,84.4,37.43,39.96,143.66,N/A,0.17,N/A,N/A,Revenue +84.93% YoY | Revenue +44.97% QoQ | Profit +143.8% YoY | Profit +226.42% QoQ | EPS +143.66% YoY | EBITDA Margin 37.43%,"Mukul Agrawal-backed PTC Industries shares slip 4% despite 466% surge in Q1 profit and 180% EBITDA growth
+PTC Industries bags two-year BrahMos missile subsystem order
+Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
+Get multiple analysts' prediction on PTC Industries"
+2026-08-28,IFCI.NS,IFCI LTD,Financial Services,89.96,6.75,11.19,4.3,80.3,89.96,68.52,0.0,-0.46,242380505088,136.3,340.52,1.0,32.2,13.22,186.75,-94.18,N/A,N/A,0.05,-94.25,N/A,N/A,N/A,N/A,Revenue +32.2% YoY | Profit +186.75% QoQ,"Ahead of Market: 10 things that will decide stock market action on Monday
+NSE IPO: NIACL, IFCI, other stocks gain up to 14% as NSE files for India's largest IPO. Who's selling stake?
+BSE shares in focus as rival NSE files DRHP with Sebi for mega IPO
+Stocks in news: IFCI, Tata Motors, General Insurance Corp, Corona Remedies, HFCL
+Nippon India Nifty Smallcap 250 Index Direct-G"
+2026-08-28,SPARC.NS,SUN PHARMA ADV.RES.CO.LTD,Healthcare,207.71,6.53,5.59,2.56,50.4,277.57,192.93,-25.17,2.4,67406385152,4.25,1853.22,21831.6,6715.81,1761.34,2290.18,3046.86,1775.0,95.78,54.27,3049.46,N/A,0.42,N/A,N/A,Revenue +6715.81% YoY | Revenue +21831.6% QoQ | Profit +3046.86% YoY | Profit +2290.18% QoQ | EPS +3049.46% YoY | EBITDA Margin 95.78%,No recent news
+2026-08-28,TTML.NS,TATA TELESERV(MAHARASTRA),Communication Services,38.84,6.53,2.81,13.39,48.7,43.18,36.46,-10.05,0.0,75929395200,204.42,301.57,2.04,-2.17,-72.15,-112.42,76.45,165.96,55.03,-0.37,76.43,N/A,N/A,N/A,N/A,Profit +76.45% YoY | EPS +76.43% YoY | EBITDA Margin 55.03%,No recent news
+2026-08-28,COFORGE.NS,COFORGE LIMITED,Technology,2014.6,5.93,6.5,2.6,74.7,2014.6,1364.38,0.0,2.45,892307570688,41.22,5527.7,24.21,61.52,518.6,-15.3,99.62,1084.8,19.62,12.34,58.21,N/A,0.08,N/A,N/A,Revenue +61.52% YoY | Revenue +24.21% QoQ | Profit +99.62% YoY | EPS +58.21% YoY,"AI reshapes India's IT services sector contracts as clients demand more for less
+IT stocks extend gains for second day; Coforge, Infosys, Persistent Systems rise up to 3%
+Announcement under Regulation 30 (LODR)-Press Release / Media Release
+Get multiple analysts' prediction on Coforge"
+2026-08-28,NAZARA.NS,NAZARA TECHNOLOGIES LTD,Communication Services,374.6,5.67,5.71,3.3,65.7,374.6,295.55,0.0,0.0,144107143168,15.91,428.77,7.79,-14.03,-79.92,-270.19,-307.37,-7.15,-1.67,-2.16,-211.92,N/A,0.06,N/A,N/A,—,"Disclosure Under Regulation 30 Of The SEBI (LODR) Regulations, 2015
+Unlock Stock Score, Analyst' Ratings & Recommendations
+Get multiple analysts' prediction on Nazara Technologies"
+2026-08-28,SHYAMMETL.NS,SHYAM METALICS AND ENGY L,Basic Materials,1099.8,5.51,11.67,4.35,74.2,1099.8,924.28,0.0,0.0,306103549952,27.19,5455.09,4.1,23.33,345.07,8.14,18.11,817.96,14.99,12.6,20.57,N/A,0.08,N/A,N/A,—,No recent news
+2026-08-28,CGCL.NS,CAPRI GLOBAL CAPITAL LTD,Financial Services,257.98,5.38,15.15,4.55,66.5,258.89,216.62,-0.35,-0.46,248216502272,21.96,1491.71,15.02,68.8,353.38,24.95,98.82,449.1,30.11,3.67,70.7,N/A,3.35,N/A,N/A,Revenue +68.8% YoY | Revenue +15.02% QoQ | Profit +98.82% YoY | Profit +24.95% QoQ | EPS +70.7% YoY | EBITDA Margin 30.11%,"Capri Global shares slip after NSE, BSE impose Rs 74,000 penalty for compliance lapses
+Two Trades for Today: A maker of stainless steel hoses for a 6.3% gain, a mid-cap NBFC stock for rise of 7%
+Business Responsibility and Sustainability Reporting (BRSR)
+Intimation Under Regulation 30 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015
+Get multiple analysts' prediction on Capri Global"
+2026-08-28,CYIENT.NS,CYIENT LIMITED,Industrials,1107.45,5.2,24.06,1.62,86.4,1107.45,825.2,0.0,0.0,115274973184,32.57,2075.7,7.72,8.72,104.1,89.96,-38.91,269.5,12.98,9.42,-39.11,N/A,0.08,N/A,N/A,Profit +89.96% QoQ,"Cyient shares rocket 8% after investor day, but brokerages see up to 24% downside. Here’s why
+Buy, Sell or Hold: Morgan Stanley maintains overweight on Varun Beverages; Nuvama retains hold on Cyient
+Two Trades for Today: A top EMS company for a 8.5% gain, a mid-cap IT stock for an almost 7% rise
+Disclosures under Reg. 29(1) of SEBI (SAST) Regulations, 2011
+Get multiple analysts' prediction on Cyient"
