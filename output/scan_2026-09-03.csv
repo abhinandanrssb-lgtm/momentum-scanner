@@ -1,18 +1,15 @@
 Date,Stock,Company,Sector,Close Price,Daily Gain %,Week Gain %,Volume Spike (x avg),RSI (14d),52W High,52W Low,Dist from 52W High %,Sector Weekly Gain %,Market Cap,P/E Ratio,Revenue (Cr),Revenue QoQ %,Revenue YoY %,Net Profit (Cr),Profit QoQ %,Profit YoY %,Operating Profit (Cr),EBITDA Margin %,EPS,EPS Growth YoY %,Operating CF (Cr),Debt to Equity,ROE %,ROCE %,Growth Flags,News (Last 2 Days)
-2026-09-03,ANANTRAJ.NS,ANANT RAJ LIMITED,Real Estate,638.1,8.36,5.43,6.56,53.8,638.1,537.22,0.0,0.0,229655478272,39.13,631.4,-2.38,6.58,149.64,2.07,18.88,202.74,32.11,4.16,13.35,N/A,0.12,N/A,N/A,EBITDA Margin 32.11%,No recent news
-2026-09-03,ELECON.NS,ELECON ENG. CO. LTD,Industrials,445.4,8.04,4.73,5.86,50.8,531.05,411.85,-16.13,0.0,99947732992,42.38,520.56,-30.18,-34.73,70.35,1072.5,-51.97,131.03,25.17,3.14,-51.91,N/A,0.12,N/A,N/A,Profit +1072.5% QoQ | EBITDA Margin 25.17%,No recent news
-2026-09-03,TORNTPOWER.NS,TORRENT POWER LTD,Utilities,1306.1,7.12,3.79,5.25,47.5,1465.3,1215.1,-10.86,0.0,658148425728,28.34,8124.15,26.82,2.75,638.85,100.77,-12.66,1618.59,19.92,12.68,-12.67,N/A,0.71,N/A,N/A,Revenue +26.82% QoQ | Profit +100.77% QoQ,"For investors who can bear the noise created by Trump and missiles: 5 mid-cap stocks with upside potential of up to 22%
-For investors who can hold stocks for 1 to 2 years: 6 mid-cap stocks from different sectors with an upside potential up to 21%
-Power sector stocks: Rising demand, uneven risk; best owned as a basket. 10 power stocks with upside potential of up to 28%
-For investors with ability to ignore short-term volatility: 5 mid-cap stocks from different sectors with upside potential up to 19%
-Get multiple analysts' prediction on Torrent Power"
-2026-09-03,MAHABANK.NS,BANK OF MAHARASHTRA,Financial Services,87.04,5.63,2.77,1.86,70.1,88.53,78.17,-1.68,-0.26,669549854720,8.92,4799.24,3.41,17.12,2023.32,-1.05,34.68,N/A,N/A,2.63,34.87,N/A,N/A,22.96,1.9,Profit +34.68% YoY | EPS +34.87% YoY | ROE 22.96%,"Widow gets husband’s provident fund and gratuity but loses family pension due to a paperwork mistake
-Home loan interest rates start at 7%: Check banks offering lowest interest rates on Rs 30 lakh–Rs 75 lakh loans
-FIIs increase PSU exposure, trim stakes in private banks
-Announcement under Regulation 30 (LODR)-Interest Rates Updates
-Get multiple analysts' prediction on Bank of Maharashtra"
-2026-09-03,CAPLIPOINT.NS,CAPLIN POINT LAB LTD.,Healthcare,2856.1,5.34,13.5,2.33,75.4,2856.1,2467.1,0.0,0.2,217097011200,32.72,600.16,10.57,21.75,170.11,3.8,22.42,232.6,38.76,22.38,22.43,N/A,0.0,N/A,N/A,EBITDA Margin 38.76%,"Two Trades for Today: A graphite electrode maker for a 7.9% rise, a mid-cap pharma stock for a gain of about 6%
-Stocks in news: Reliance Industries, Bank of Baroda, Power Grid, NATCO Pharma and JSW Infra
-Announcement under Regulation 30 (LODR)-Newspaper Publication
-Get multiple analysts' prediction on Caplin Point"
-2026-09-03,SOUTHBANK.NS,THE SOUTH INDIAN BANK LTD,Financial Services,48.14,5.25,5.27,2.57,68.5,48.14,43.27,0.0,-0.26,126093156352,8.39,1404.31,7.93,-2.52,377.66,-7.3,10.29,N/A,N/A,1.44,9.92,N/A,N/A,13.6,1.11,—,No recent news
+2026-09-03,BRIGADE.NS,BRIGADE ENTER. LTD,Real Estate,712.3,11.3,8.46,6.42,79.4,712.3,501.02,0.0,0.0,232325447680,36.08,1457.6,-7.46,-0.19,145.49,-22.0,-41.06,431.46,29.6,4.46,-42.51,N/A,0.84,N/A,N/A,EBITDA Margin 29.6%,No recent news
+2026-09-03,SMLMAH.NS,SML MAHINDRA LIMITED,Consumer Cyclical,5726.0,7.66,10.24,2.1,69.2,5917.5,3805.0,-3.24,0.0,82864644096,53.83,957.54,77.56,188.59,63.62,262.71,11903.77,101.29,10.58,43.96,12111.11,N/A,0.56,N/A,N/A,Revenue +188.59% YoY | Revenue +77.56% QoQ | Profit +11903.77% YoY | Profit +262.71% QoQ | EPS +12111.11% YoY,No recent news
+2026-09-03,JYOTICNC.NS,JYOTI CNC AUTOMATION LTD,Industrials,1026.85,7.45,-0.29,1.98,75.9,1039.4,753.65,-1.21,0.0,233529409536,75.12,508.47,-15.14,23.97,57.14,-36.91,-19.99,112.81,22.19,2.51,-20.06,N/A,0.43,N/A,N/A,—,"Jyoti CNC shares crash 16% as France probes subsidiary, seizes bank accounts
+Risk-on trade back? Smallcap stocks rally up to 28% in 2026, but market breadth stays weak
+Ahead of Market: 10 things that will decide stock market action on Wednesday
+Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
+Get multiple analysts' prediction on Jyoti CNC Automation"
+2026-09-03,EDELWEISS.NS,EDELWEISS FIN SERV LTD,Financial Services,134.76,6.8,8.15,2.52,68.5,134.76,114.08,0.0,-0.7,127554600960,18.49,1866.9,32.42,19.8,122.22,39.52,83.05,N/A,N/A,1.42,29.09,N/A,3.2,N/A,N/A,Revenue +32.42% QoQ | Profit +83.05% YoY | Profit +39.52% QoQ,No recent news
+2026-09-03,ANANTRAJ.NS,ANANT RAJ LIMITED,Real Estate,628.3,6.7,3.81,8.45,49.2,633.85,537.22,-0.88,0.0,226110668800,38.52,631.4,-2.38,6.58,149.64,2.07,18.88,202.74,32.11,4.16,13.35,N/A,0.12,N/A,N/A,EBITDA Margin 32.11%,No recent news
+2026-09-03,CGCL.NS,CAPRI GLOBAL CAPITAL LTD,Financial Services,271.7,5.88,10.99,1.91,75.4,271.7,220.8,0.0,-0.7,261417254912,22.62,1491.71,15.02,68.8,353.38,24.95,98.82,449.1,30.11,3.67,70.7,N/A,3.35,N/A,N/A,Revenue +68.8% YoY | Revenue +15.02% QoQ | Profit +98.82% YoY | Profit +24.95% QoQ | EPS +70.7% YoY | EBITDA Margin 30.11%,"Capri Global faces Rs 74,000 penalty from NSE, BSE over compliance lapses
+Two Trades for Today: A maker of stainless steel hoses for a 6.3% gain, a mid-cap NBFC stock for rise of 7%
+Announcement under Regulation 30 (LODR)-Credit Rating
+Announcement under Regulation 30 (LODR)-Press Release / Media Release
+Get multiple analysts' prediction on Capri Global"
