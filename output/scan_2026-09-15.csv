@@ -1,18 +1,16 @@
 Date,Stock,Company,Sector,Close Price,Daily Gain %,Week Gain %,Volume Spike (x avg),RSI (14d),52W High,52W Low,Dist from 52W High %,Sector Weekly Gain %,Market Cap,P/E Ratio,Revenue (Cr),Revenue QoQ %,Revenue YoY %,Net Profit (Cr),Profit QoQ %,Profit YoY %,Operating Profit (Cr),EBITDA Margin %,EPS,EPS Growth YoY %,Operating CF (Cr),Debt to Equity,ROE %,ROCE %,Growth Flags,News (Last 2 Days)
-2026-09-15,TATACHEM.NS,TATA CHEMICALS LTD,Basic Materials,734.9,19.99,19.82,2.65,73.7,734.9,603.05,0.0,0.0,187220393984,N/A,4255.0,23.76,21.26,-17.0,99.2,77.03,594.0,13.96,-0.67,69.41,N/A,0.36,N/A,N/A,Revenue +23.76% QoQ | Profit +77.03% YoY | Profit +99.2% QoQ | EPS +69.41% YoY,"Tata Sons IPO buzz adds Rs 17,200 cr to m-cap of 5 group stocks. Who gains most?
+2026-09-15,TATACHEM.NS,TATA CHEMICALS LTD,Basic Materials,734.9,19.99,19.82,3.04,73.7,734.9,603.05,0.0,0.0,187220393984,N/A,4255.0,23.76,21.26,-17.0,99.2,77.03,594.0,13.96,-0.67,69.41,N/A,0.36,N/A,N/A,Revenue +23.76% QoQ | Profit +77.03% YoY | Profit +99.2% QoQ | EPS +69.41% YoY,"Tata Sons IPO buzz adds Rs 17,200 cr to m-cap of 5 group stocks. Who gains most?
 Tata Chemicals sets up high-level committee to decide on Kenya operations
 After Adani, Tata feels the heat: Indian firms under fire in Kenya?
 Intimation Under Regulation 30 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015
 Get multiple analysts' prediction on Tata Chemicals"
-2026-09-15,FSL.NS,FIRSTSOURCE SOLU. LTD.,Technology,288.35,16.46,11.07,11.29,58.0,339.45,247.6,-15.05,-0.06,199150370816,30.33,2751.75,5.31,26.94,165.92,-19.16,3.26,457.42,16.62,2.4,3.0,N/A,0.67,N/A,N/A,Revenue +26.94% YoY,No recent news
-2026-09-15,AFCONS.NS,AFCONS INFRASTRUCTURE LTD,Industrials,278.5,9.73,-5.01,10.27,45.5,297.68,253.8,-6.44,0.0,102428024832,71.23,2671.0,2.19,-20.75,30.6,134.62,-77.73,307.16,11.5,0.82,-78.07,N/A,0.67,N/A,N/A,Profit +134.62% QoQ,No recent news
-2026-09-15,ZENSARTECH.NS,ZENSAR TECHNOLOGIES  LTD,Technology,464.7,9.28,2.39,13.51,47.3,534.95,425.25,-13.13,-0.06,105393709056,13.76,1508.3,3.99,10.99,183.8,-12.73,4.2,278.2,18.44,8.11,4.38,N/A,0.02,N/A,N/A,—,"Ahead of Market: 10 things that will decide stock market action on Friday
-Zensar Technologies, IIFL Finance among 7 stocks going ex-dividend. Last day to buy today
-For investors with a 1- to 2-year time horizon: 7 mid-cap stocks from different sectors with upside potential of more than 28%
-Market wrap: Red reigns on D-Street as 347 of BSE 500 stocks see up to 12% WoW fall. IT, power scrips among worst hit
-Get multiple analysts' prediction on Zensar Tech"
-2026-09-15,TATAINVEST.NS,TATA INVESTMENT CORP LTD,Financial Services,710.25,9.12,13.13,11.4,72.9,710.25,618.8,0.0,-1.66,359353090048,83.26,193.76,179.68,323.33,143.51,124.83,280.46,N/A,N/A,2.84,278.67,N/A,0.0,N/A,N/A,Revenue +323.33% YoY | Revenue +179.68% QoQ | Profit +280.46% YoY | Profit +124.83% QoQ | EPS +278.67% YoY,No recent news
-2026-09-15,REDTAPE.NS,REDTAPE LIMITED,Consumer Cyclical,123.42,6.3,2.48,14.33,52.2,139.97,115.06,-11.82,0.0,68227514368,27.73,481.28,-28.75,3.65,44.48,-36.35,15.23,98.67,20.5,0.8,14.29,N/A,0.7,N/A,N/A,—,No recent news
-2026-09-15,SONATSOFTW.NS,SONATA SOFTWARE LTD,Technology,281.55,5.91,-0.81,4.08,41.1,348.96,260.1,-19.32,-0.06,77931479040,16.84,3279.1,29.29,10.59,108.11,-17.16,-1.12,177.53,5.41,3.91,-0.76,N/A,0.38,N/A,N/A,Revenue +29.29% QoQ,"Small-tier IT punches above their weight as AI levels the field
+2026-09-15,FSL.NS,FIRSTSOURCE SOLU. LTD.,Technology,283.35,14.44,9.15,13.56,55.2,339.45,247.6,-16.53,-1.47,195819012096,29.79,2751.75,5.31,26.94,165.92,-19.16,3.26,457.42,16.62,2.4,3.0,N/A,0.67,N/A,N/A,Revenue +26.94% YoY,No recent news
+2026-09-15,TATAINVEST.NS,TATA INVESTMENT CORP LTD,Financial Services,718.35,10.36,14.42,13.7,74.4,718.35,618.8,0.0,-2.27,363451285504,84.21,193.76,179.68,323.33,143.51,124.83,280.46,N/A,N/A,2.84,278.67,N/A,0.0,N/A,N/A,Revenue +323.33% YoY | Revenue +179.68% QoQ | Profit +280.46% YoY | Profit +124.83% QoQ | EPS +278.67% YoY,No recent news
+2026-09-15,OPTIEMUS.NS,OPTIEMUS INFRACOM LTD,Technology,604.95,6.83,6.26,5.72,56.0,657.8,540.2,-8.03,-1.47,54546194432,74.69,882.99,82.07,102.82,21.18,-5.76,45.76,41.11,4.66,2.39,43.11,N/A,0.45,N/A,N/A,Revenue +102.82% YoY | Revenue +82.07% QoQ | Profit +45.76% YoY | EPS +43.11% YoY,"Stocks in news: HDFC Life, Adani Energy, CESC, Sula Vineyards, Shoppers Stop
+Q2 results today: Vodafone Idea, Eicher Motors among 650 companies to announce earnings on Wednesday
+Technical breakout: Shree Renuka Sugars, DC Shriram and 6 other stocks cross 100-day SMA
+Tata Power & 4 other stocks trade ex-dividend today
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-09-15,SONATSOFTW.NS,SONATA SOFTWARE LTD,Technology,281.3,5.81,-0.9,5.08,41.0,348.96,260.1,-19.39,-1.47,77862281216,16.82,3279.1,29.29,10.59,108.11,-17.16,-1.12,177.53,5.41,3.91,-0.76,N/A,0.38,N/A,N/A,Revenue +29.29% QoQ,"Small-tier IT punches above their weight as AI levels the field
 Sonata Software appoints Hariprasad Rebala as chief AI officer
 Get multiple analysts' prediction on Sonata Software"
