@@ -1,13 +1,27 @@
 Date,Stock,Company,Sector,Close Price,Daily Gain %,Week Gain %,Volume Spike (x avg),RSI (14d),52W High,52W Low,Dist from 52W High %,Sector Weekly Gain %,Market Cap,P/E Ratio,Revenue (Cr),Revenue QoQ %,Revenue YoY %,Net Profit (Cr),Profit QoQ %,Profit YoY %,Operating Profit (Cr),EBITDA Margin %,EPS,EPS Growth YoY %,Operating CF (Cr),Debt to Equity,ROE %,ROCE %,Growth Flags,News (Last 2 Days)
-2026-09-17,GNFC.NS,GUJ NAR VAL FER & CHEM L,Basic Materials,591.55,9.42,2.95,3.33,63.5,591.55,479.72,0.0,0.0,86922764288,8.38,2238.0,1.36,39.79,312.0,-21.21,275.9,494.0,22.07,21.22,275.58,N/A,0.0,N/A,N/A,Revenue +39.79% YoY | Profit +275.9% YoY | EPS +275.58% YoY,No recent news
-2026-09-17,SYRMA.NS,SYRMA SGS TECHNOLOGY LTD,Technology,1639.0,8.46,2.51,4.43,63.2,1639.2,1286.98,-0.01,-0.02,315712339968,84.75,1588.62,8.44,68.29,100.07,-1.11,101.19,176.65,11.12,5.19,86.02,N/A,0.13,N/A,N/A,Revenue +68.29% YoY | Profit +101.19% YoY | EPS +86.02% YoY,No recent news
-2026-09-17,YATHARTH.NS,YATHARTH HOSP & TRA C S L,Healthcare,1052.9,7.24,8.56,2.24,71.0,1052.9,817.97,0.0,-1.39,101451505664,56.15,392.65,14.96,51.46,47.06,-0.97,11.95,96.03,24.46,4.88,12.18,N/A,0.15,N/A,N/A,Revenue +51.46% YoY,No recent news
-2026-09-17,CSBBANK.NS,CSB BANK LIMITED,Financial Services,316.2,6.7,1.64,1.58,33.4,370.0,296.35,-14.54,0.01,53588815872,8.25,707.41,-8.17,13.35,150.04,-25.57,26.51,N/A,N/A,8.65,26.46,N/A,N/A,N/A,N/A,—,"5 stocks with consistent score improvement and upside potential of up to 25% in 1 year, according to analysts
-Advent, Temasek in talks for Fairfax stake in IIFL Fin
-ICICI Prudential AMC gets RBI approval to buy up to 9.95% stake in Kotak and 3 other banks
-Fairfax plans IIFL Finance exit to fund IDBI Bank bid
-Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-09-17,PFOCUS.NS,PRIME FOCUS LIMITED,Communication Services,336.55,5.02,7.34,2.09,74.8,336.55,266.4,0.0,0.0,261862719488,238.48,1256.08,-8.68,28.59,-41.33,-150.18,-166.81,338.02,26.91,-0.53,-126.56,N/A,2.25,N/A,N/A,Revenue +28.59% YoY | EBITDA Margin 26.91%,"Two Trades for Today: A top precision manufacturer for an 8.7% rise, a mid-cap media stock for an almost 7% upmove
-India’s Rs 1 lakh crore digital-media boom: Two stocks ICICI Securities is betting on
-Intimation Regarding Dispatch Of Physical Letter(S) To The Members Whose Email Address(Es) Are Not Registered.
-Get multiple analysts' prediction on Prime Focus"
+2026-09-17,TEGA.NS,TEGA INDUSTRIES LIMITED,Industrials,1920.0,11.82,14.53,7.94,69.4,1920.0,1475.68,0.0,0.0,144245178368,500.0,1723.44,227.16,383.99,-86.19,-301.98,-343.92,73.86,4.29,-11.47,-316.01,N/A,0.12,N/A,N/A,Revenue +383.99% YoY | Revenue +227.16% QoQ,"Ahead of Market: 10 things that will decide stock market action on Wednesday
+Mukul Agrawal purchases 10 new stocks in Q2; ups stake in 5. How many do you own?
+Mukul Agarwal invests Rs 100 crore in this multibagger stock that’s up over 200% in 5 years
+Announcement Pursuant To Reg. 30 Of The SEBI LODR Regulations, 2015.
+Get multiple analysts' prediction on Tega Industries"
+2026-09-17,SHAREINDIA.NS,SHARE IND. SECURITIES LTD,Financial Services,218.44,11.42,11.27,4.11,87.7,218.44,165.24,0.0,-0.43,47800250368,13.18,179.22,-10.15,58.11,124.15,114.68,561.6,204.04,113.85,5.67,698.59,N/A,0.28,N/A,N/A,Revenue +58.11% YoY | Profit +561.6% YoY | Profit +114.68% QoQ | EPS +698.59% YoY | EBITDA Margin 113.85%,No recent news
+2026-09-17,AXISCADES.NS,AXISCADES TECH LTD,Industrials,1852.3,9.96,-1.25,2.38,66.2,1875.7,1484.8,-1.25,0.0,78784782336,125.41,183.35,-32.84,94.17,-7.13,-1773.36,-637.96,11.18,6.1,-3.49,-171.52,N/A,0.53,N/A,N/A,Revenue +94.17% YoY,No recent news
+2026-09-17,YATHARTH.NS,YATHARTH HOSP & TRA C S L,Healthcare,1072.4,9.17,8.36,5.86,68.7,1072.4,817.97,0.0,-0.41,103330414592,57.19,392.65,14.96,51.46,47.06,-0.97,11.95,96.03,24.46,4.88,12.18,N/A,0.15,N/A,N/A,Revenue +51.46% YoY,No recent news
+2026-09-17,GNFC.NS,GUJ NAR VAL FER & CHEM L,Basic Materials,584.85,8.36,2.47,8.69,60.4,588.01,479.72,-0.54,0.0,85938257920,8.28,2238.0,1.36,39.79,312.0,-21.21,275.9,494.0,22.07,21.22,275.58,N/A,0.0,N/A,N/A,Revenue +39.79% YoY | Profit +275.9% YoY | EPS +275.58% YoY,No recent news
+2026-09-17,HBLENGINE.NS,HBL ENGINEERING LTD,Industrials,756.75,7.39,5.12,3.74,74.2,756.75,656.44,0.0,0.0,209767268352,26.84,638.03,5.61,6.03,109.08,71.11,-23.86,167.3,26.22,3.95,-23.6,N/A,0.03,N/A,N/A,Profit +71.11% QoQ | EBITDA Margin 26.22%,No recent news
+2026-09-17,SYRMA.NS,SYRMA SGS TECHNOLOGY LTD,Technology,1617.7,7.05,1.18,6.86,61.8,1639.2,1286.98,-1.31,0.84,311609425920,83.65,1588.62,8.44,68.29,100.07,-1.11,101.19,176.65,11.12,5.19,86.02,N/A,0.13,N/A,N/A,Revenue +68.29% YoY | Profit +101.19% YoY | EPS +86.02% YoY,No recent news
+2026-09-17,NIACL.NS,THE NEW INDIA ASSU CO LTD,Financial Services,197.05,6.98,-0.15,2.6,54.3,231.2,163.07,-14.77,-0.43,324738416640,42.19,11876.12,-5.13,1.48,-242.65,-141.99,-160.61,N/A,N/A,-1.47,-160.49,N/A,N/A,N/A,N/A,—,No recent news
+2026-09-17,CCAVENUE.NS,AVENUESAI LIMITED,Technology,16.32,6.53,5.91,3.24,61.4,17.54,14.89,-6.96,0.84,56810237952,17.0,2680.4,7.67,109.37,76.15,-4.07,24.33,130.36,4.86,0.24,14.29,N/A,0.09,N/A,N/A,Revenue +109.37% YoY,No recent news
+2026-09-17,TATACHEM.NS,TATA CHEMICALS LTD,Basic Materials,779.3,6.49,27.64,5.65,74.6,779.3,603.05,0.0,0.0,198531563520,N/A,4255.0,23.76,21.26,-17.0,99.2,77.03,594.0,13.96,-0.67,69.41,N/A,0.36,N/A,N/A,Revenue +23.76% QoQ | Profit +77.03% YoY | Profit +99.2% QoQ | EPS +69.41% YoY,"Tata stocks rally on RBI ruling, potential Tata Sons listing
+Tata Sons IPO buzz adds Rs 17,200 cr to m-cap of 5 group stocks. Who gains most?
+Tata Chemicals sets up high-level committee to decide on Kenya operations
+Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
+Get multiple analysts' prediction on Tata Chemicals"
+2026-09-17,JKCEMENT.NS,JK CEMENT LIMITED,Basic Materials,5027.0,5.83,2.27,2.16,40.1,5762.0,4712.0,-12.76,0.0,388427481088,40.7,4031.72,3.71,12.58,277.47,-16.65,-23.0,686.99,17.04,35.91,-23.01,N/A,0.88,N/A,N/A,—,"Market Trading Guide: JK Cement among 2 stock recommendations for Wednesday
+JK Cement Q1 profit drops 15.3% YoY to Rs 274.62 crore
+Stock picks of the week: 5 stocks with consistent score improvement and upside potential of up to 20%
+Dividend alert! Last day to buy Axis Bank, BSE and 28 other stocks for payouts worth nearly Rs 187 per share. Do you own any?
+Get multiple analysts' prediction on JK Cement"
+2026-09-17,TATAINVEST.NS,TATA INVESTMENT CORP LTD,Financial Services,719.3,5.48,11.49,1.7,68.3,719.3,618.8,0.0,-0.43,363931959296,88.58,193.76,179.68,323.33,143.51,124.83,280.46,N/A,N/A,2.84,278.67,N/A,0.0,N/A,N/A,Revenue +323.33% YoY | Revenue +179.68% QoQ | Profit +280.46% YoY | Profit +124.83% QoQ | EPS +278.67% YoY,No recent news
+2026-09-17,INDIACEM.NS,THE INDIA CEMENTS LIMITED,Basic Materials,351.7,5.09,1.08,9.56,36.2,410.3,334.65,-14.28,0.0,163486072832,118.02,1019.42,-17.03,-14.88,26.85,-54.87,26.35,159.17,15.61,0.87,85.11,N/A,0.13,N/A,N/A,EPS +85.11% YoY,No recent news
+2026-09-17,HDFCLIFE.NS,HDFC LIFE INS CO LTD,Financial Services,557.0,5.05,5.86,2.63,53.4,564.65,514.0,-1.35,-0.43,1209831391232,59.38,33726.79,70.21,39.66,611.19,22.85,28.57,N/A,N/A,2.83,28.05,N/A,0.16,10.83,0.38,Revenue +39.66% YoY | Revenue +70.21% QoQ | Profit +22.85% QoQ,No recent news
