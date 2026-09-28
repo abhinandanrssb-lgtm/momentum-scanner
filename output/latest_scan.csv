@@ -1,20 +1,7 @@
 Date,Stock,Company,Sector,Close Price,Daily Gain %,Week Gain %,Volume Spike (x avg),RSI (14d),52W High,52W Low,Dist from 52W High %,Sector Weekly Gain %,Market Cap,P/E Ratio,Revenue (Cr),Revenue QoQ %,Revenue YoY %,Net Profit (Cr),Profit QoQ %,Profit YoY %,Operating Profit (Cr),EBITDA Margin %,EPS,EPS Growth YoY %,Operating CF (Cr),Debt to Equity,ROE %,ROCE %,Growth Flags,News (Last 2 Days)
-2026-09-25,LLOYDSENGG.NS,LLOYDS ENGG WORK LIMITED,Industrials,98.56,8.41,19.57,6.95,77.5,98.56,79.71,0.0,0.0,152817401856,58.01,527.15,6.49,142.92,63.97,36.6,111.96,79.23,15.03,0.47,88.0,N/A,0.06,N/A,N/A,Revenue +142.92% YoY | Profit +111.96% YoY | Profit +36.6% QoQ | EPS +88.0% YoY,No recent news
-2026-09-25,WHIRLPOOL.NS,WHIRLPOOL OF INDIA LTD,Consumer Cyclical,918.9,7.67,28.03,10.91,65.7,918.9,717.7,0.0,0.0,114678874112,45.73,2726.75,25.04,36.02,102.88,28.28,-13.69,208.0,7.63,8.11,-13.72,N/A,0.09,N/A,N/A,Revenue +36.02% YoY | Revenue +25.04% QoQ | Profit +28.28% QoQ,"Ahead of Market: 10 things that will decide stock market action on Monday
-Whirlpool of India stock soars 20% to hit upper circuit on promoter stake sale buzz
-How to get mildew smell out of clothes: White vinegar and baking soda may help, but don't put vinegar directly in your washer
-Get multiple analysts' prediction on Whirlpool India"
-2026-09-25,AETHER.NS,AETHER INDUSTRIES LIMITED,Basic Materials,1767.0,7.34,8.4,6.5,68.5,1767.0,1464.7,0.0,0.0,235193745408,99.27,326.56,7.03,27.25,62.75,16.19,33.45,110.45,33.82,4.77,34.37,0.96,0.19,N/A,N/A,Revenue +27.25% YoY | Profit +33.45% YoY | EPS +34.37% YoY | EBITDA Margin 33.82%,No recent news
-2026-09-25,ENGINERSIN.NS,ENGINEERS INDIA LTD,Industrials,315.65,6.4,19.49,2.3,72.3,315.65,220.17,0.0,0.0,176115974144,22.46,819.84,-11.49,-5.8,157.94,-19.23,141.49,164.62,20.08,2.81,142.24,N/A,0.01,N/A,N/A,Profit +141.49% YoY | EPS +142.24% YoY,"Ahead of Market: 10 things that will decide stock market action on Wednesday
-Stocks in news: Hyundai Motor India, BSE, HEG, Hexaware Tech and Oil India
-Announcement under Regulation 30 (LODR)-Press Release / Media Release
-Get multiple analysts' prediction on Engineers India
-HDFC Nifty500 Multicap 50:25:25 Index Direct-G"
-2026-09-25,EMIL.NS,ELECTRONICS MART IND LTD,Consumer Cyclical,200.22,5.85,2.01,2.07,66.3,200.22,125.67,0.0,0.0,76565004288,37.06,2418.95,26.43,39.07,120.64,203.61,458.07,240.89,9.96,3.14,460.71,N/A,1.23,N/A,N/A,Revenue +39.07% YoY | Revenue +26.43% QoQ | Profit +458.07% YoY | Profit +203.61% QoQ | EPS +460.71% YoY,No recent news
-2026-09-25,GREAVESCOT.NS,GREAVES COTTON LTD.,Industrials,234.78,5.84,18.97,4.9,83.4,243.99,185.64,-3.77,0.0,54631772160,55.18,974.12,-2.61,18.39,25.77,14.33,7.15,67.27,6.91,1.11,7.77,N/A,0.26,N/A,N/A,—,"Greaves Cotton acquires 100% stake in Excel Controlinkage
-Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
-Announcement under Regulation 30 (LODR)-Newspaper Publication
-Unlock Stock Score, Analyst' Ratings & Recommendations
-Get multiple analysts' prediction on Greaves Cotton"
-2026-09-25,CAPILLARY.NS,CAPILLARY TECHNO INDIA L,Technology,599.45,5.62,23.84,3.06,80.9,599.45,448.95,0.0,-2.4,48255389696,115.0,256.64,34.13,42.66,-9.55,-122.03,-1382.15,46.01,17.93,-1.2,-1377.51,N/A,0.05,N/A,N/A,Revenue +42.66% YoY | Revenue +34.13% QoQ,No recent news
-2026-09-25,LLOYDSENT.NS,LLOYDS ENTERPRISES LTD,Basic Materials,79.67,5.41,15.73,4.39,70.3,83.5,66.96,-4.59,0.0,121498263552,142.12,563.03,-21.76,70.15,58.58,53.71,-74.5,130.75,23.22,0.73,-62.56,N/A,0.15,N/A,N/A,Revenue +70.15% YoY | Profit +53.71% QoQ,No recent news
+2026-09-28,KPIGREEN.NS,KPI GREEN ENERGY LIMITED,Utilities,363.1,6.87,13.12,2.25,76.2,389.86,276.01,-6.87,0.0,71774691328,15.74,693.84,-12.81,15.08,94.63,-34.87,-14.99,261.56,37.7,4.34,-17.8,N/A,1.59,N/A,N/A,EBITDA Margin 37.7%,No recent news
+2026-09-28,TTML.NS,TATA TELESERV(MAHARASTRA),Communication Services,36.65,6.42,3.65,13.02,50.9,40.21,34.44,-8.85,0.0,71648108544,192.89,301.57,2.04,-2.17,-72.15,-112.42,76.45,165.96,55.03,-0.37,76.43,N/A,N/A,N/A,N/A,Profit +76.45% YoY | EPS +76.43% YoY | EBITDA Margin 55.03%,No recent news
+2026-09-28,AEQUS.NS,AEQUS LIMITED,Industrials,258.55,5.08,11.65,5.92,75.8,262.45,220.68,-1.49,0.0,169312534528,N/A,395.55,7.75,54.77,-53.23,1.59,-1458.55,24.35,6.16,-0.81,-1566.49,N/A,0.47,N/A,N/A,Revenue +54.77% YoY,"Stocks in news: Adani Power, SAIL, BCCL, SAIL, Cupid and CleanMax Enviro
+Up to 407% returns! 12 recently listed stocks turn multibaggers as Nifty IPO index hits 52-week high
+HDFC Defence Fund adds Cochin Shipyard & INDO-MIM, increases stake in HAL, Mazagon Dock, 5 others
+Announcement under Regulation 30 (LODR)-Press Release / Media Release"
