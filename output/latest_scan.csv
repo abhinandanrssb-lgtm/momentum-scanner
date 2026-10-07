@@ -1,19 +1,35 @@
 Date,Stock,Company,Sector,Close Price,Daily Gain %,Week Gain %,Volume Spike (x avg),RSI (14d),52W High,52W Low,Dist from 52W High %,Sector Weekly Gain %,Market Cap,P/E Ratio,Revenue (Cr),Revenue QoQ %,Revenue YoY %,Net Profit (Cr),Profit QoQ %,Profit YoY %,Operating Profit (Cr),EBITDA Margin %,EPS,EPS Growth YoY %,Operating CF (Cr),Debt to Equity,ROE %,ROCE %,Growth Flags,News (Last 2 Days)
-2026-10-07,INDIAGLYCO.NS,INDIA GLYCOLS LTD,Basic Materials,343.95,13.38,15.61,3.36,66.9,1203.3,236.2,-71.42,0.0,23053856768,7.32,1130.39,15.78,8.64,96.83,11.45,32.19,263.48,23.31,14.45,-38.93,N/A,0.58,N/A,N/A,Revenue +15.78% QoQ | Profit +32.19% YoY,"The debate is settling, the business is moving. Time to look at a larger set? 9 sugar-ethanol ecosystem stocks for the watchlist
+2026-10-07,INDIAGLYCO.NS,INDIA GLYCOLS LTD,Basic Materials,382.7,19.99,25.68,7.64,77.3,1203.3,236.2,-68.2,0.0,25651142656,7.75,1130.39,15.78,8.64,96.83,11.45,32.19,263.48,23.31,14.45,-38.93,N/A,0.58,N/A,N/A,Revenue +15.78% QoQ | Profit +32.19% YoY,"The debate is settling, the business is moving. Time to look at a larger set? 9 sugar-ethanol ecosystem stocks for the watchlist
 Ethanol ecosystem: Judging fear by noise is not evidence; 15 stocks from the ecosystem
 India Glycols announces Rs 7.5/share dividend. Check smallcap's record date, dividend yield
 Update On Analyst / Institutional Investor Meetings.
 Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-10-07,KRN.NS,KRN HEAT EXCHANGE N REF L,Technology,1509.1,8.36,4.57,1.74,58.9,1660.2,1208.4,-9.1,1.5,98783404032,102.24,252.32,40.58,91.87,32.9,40.81,121.27,51.84,20.55,5.2,117.57,N/A,0.33,N/A,N/A,Revenue +91.87% YoY | Revenue +40.58% QoQ | Profit +121.27% YoY | Profit +40.81% QoQ | EPS +117.57% YoY,No recent news
-2026-10-07,CHENNPETRO.NS,CHENNAI PETROLEUM CORP LT,Energy,1513.4,7.66,5.37,2.17,62.4,1626.4,1240.1,-6.95,0.0,225362509824,5.38,27369.27,62.74,58.67,1031.35,-27.46,119.47,1432.38,5.23,69.26,119.46,N/A,0.18,N/A,N/A,Revenue +58.67% YoY | Revenue +62.74% QoQ | Profit +119.47% YoY | EPS +119.46% YoY,No recent news
-2026-10-07,ADANIGREEN.NS,ADANI GREEN ENERGY LTD,Utilities,1369.0,6.62,8.65,2.53,64.7,1372.4,1214.9,-0.25,0.0,2254984183808,134.08,4323.0,29.9,15.56,845.0,112.85,18.51,4217.0,97.55,5.05,18.54,N/A,3.47,N/A,N/A,Revenue +29.9% QoQ | Profit +112.85% QoQ | EBITDA Margin 97.55%,"5 Adani group stocks in focus as firms settle Sebi proceedings linked to Hindenburg report
-Adani Group firms settle Sebi case on governance issues
-After Hindenburg: 5 Adani group companies settle disclosure violation case with Sebi
-Stocks in news: Reliance Industries, Wipro, Tata Motors, among 9 stocks that will be in focus today
-Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018"
-2026-10-07,PTCIL.NS,PTC INDUSTRIES LIMITED,Industrials,23900.0,6.08,10.21,2.39,63.0,23900.0,18895.0,0.0,0.0,358321913856,292.96,191.8,-14.93,97.43,29.19,-51.27,466.23,54.21,28.27,19.47,465.99,N/A,0.17,N/A,N/A,Revenue +97.43% YoY | Profit +466.23% YoY | EPS +465.99% YoY | EBITDA Margin 28.27%,"Mukul Agrawal-backed PTC Industries shares slip 4% despite 466% surge in Q1 profit and 180% EBITDA growth
+2026-10-07,CHENNPETRO.NS,CHENNAI PETROLEUM CORP LT,Energy,1612.3,14.7,12.25,7.92,69.8,1626.4,1240.1,-0.87,0.0,240089841664,5.75,27369.27,62.74,58.67,1031.35,-27.46,119.47,1432.38,5.23,69.26,119.46,N/A,0.18,N/A,N/A,Revenue +58.67% YoY | Revenue +62.74% QoQ | Profit +119.47% YoY | EPS +119.46% YoY,No recent news
+2026-10-07,PVRINOX.NS,PVR INOX LIMITED,Communication Services,1343.8,7.56,8.14,7.16,58.0,1349.3,1144.0,-0.41,0.0,129180844032,48.5,1622.2,4.84,31.9,56.5,269.28,146.89,554.7,34.19,5.75,145.17,N/A,0.92,N/A,N/A,Revenue +31.9% YoY | Profit +146.89% YoY | Profit +269.28% QoQ | EPS +145.17% YoY | EBITDA Margin 34.19%,No recent news
+2026-10-07,PTCIL.NS,PTC INDUSTRIES LIMITED,Industrials,24685.0,6.75,9.54,4.7,68.5,24685.0,18895.0,0.0,0.0,370091065344,302.59,191.8,-14.93,97.43,29.19,-51.27,466.23,54.21,28.27,19.47,465.99,N/A,0.17,N/A,N/A,Revenue +97.43% YoY | Profit +466.23% YoY | EPS +465.99% YoY | EBITDA Margin 28.27%,"Mukul Agrawal-backed PTC Industries shares slip 4% despite 466% surge in Q1 profit and 180% EBITDA growth
 Announcement under Regulation 30 (LODR)-Qualified Institutional Placement
 Submission Of Special Purpose Condensed Interim Consolidated Financial Information
 Shareholder Meeting / Postal Ballot-Scrutinizer''s Report
 Get multiple analysts' prediction on PTC Industries"
-2026-10-07,PVRINOX.NS,PVR INOX LIMITED,Communication Services,1294.6,5.13,8.78,1.64,54.8,1349.3,1144.0,-4.05,0.0,124451192832,46.72,1622.2,4.84,31.9,56.5,269.28,146.89,554.7,34.19,5.75,145.17,N/A,0.92,N/A,N/A,Revenue +31.9% YoY | Profit +146.89% YoY | Profit +269.28% QoQ | EPS +145.17% YoY | EBITDA Margin 34.19%,No recent news
+2026-10-07,EBGNG.NS,GNG ELECTRONICS LIMITED,Technology,731.35,6.74,6.49,1.5,65.4,731.35,525.65,0.0,0.32,83382321152,59.17,412.46,-36.71,32.08,28.93,-31.36,56.21,52.88,12.82,2.54,56.37,N/A,0.59,N/A,N/A,Revenue +32.08% YoY | Profit +56.21% YoY | EPS +56.37% YoY,"Up to 407% returns! 12 recently listed stocks turn multibaggers as Nifty IPO index hits 52-week high
+Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011
+Announcement under Regulation 30 (LODR)-Code of Conduct under SEBI (PIT) Regulations, 2015
+Unlock Stock Score, Analyst' Ratings & Recommendations
+Get multiple analysts' prediction on GNG Electronics"
+2026-10-07,BHARTIHEXA.NS,BHARTI HEXACOM LIMITED,Communication Services,1477.9,6.57,3.75,7.85,49.6,1641.0,1379.2,-9.94,0.0,738949988352,40.52,2509.9,3.99,9.65,482.4,7.99,2.99,1394.3,55.55,9.65,2.99,1562.5,0.86,N/A,N/A,EBITDA Margin 55.55%,"5 stocks with consistent score improvement and upside potential of up to 28% in 1 year, according to analysts
+Get multiple analysts' prediction on Bharti Hexacom
+Nippon India Vision Large & Mid Cap Direct-G"
+2026-10-07,CUPID.NS,CUPID LIMITED,Consumer Defensive,343.95,6.09,10.36,1.69,71.4,343.95,251.3,0.0,0.0,462496071680,343.95,154.72,28.97,158.7,44.15,21.75,194.18,62.36,40.31,0.33,200.0,N/A,0.13,N/A,N/A,Revenue +158.7% YoY | Revenue +28.97% QoQ | Profit +194.18% YoY | Profit +21.75% QoQ | EPS +200.0% YoY | EBITDA Margin 40.31%,No recent news
+2026-10-07,PWL.NS,PHYSICSWALLAH LIMITED,Consumer Defensive,139.57,5.85,13.03,2.98,61.5,139.57,114.94,0.0,0.0,404878655488,1744.63,1053.91,14.71,72.89,-77.57,-3.58,73.53,96.08,9.12,-0.27,73.66,966.71,0.23,N/A,N/A,Revenue +72.89% YoY | Profit +73.53% YoY | EPS +73.66% YoY,"PhysicsWallah shares surge over 4% after Motilal Oswal initiates coverage with Buy rating. Should you buy?
+Tech layoffs continue; ITC Infotech-Happiest Minds to merge
+WestBridge books 2.6x return on Rs 130-crore partial PhysicsWallah exit
+Announcement Under Regulation 30 (LODR)- Partial/Piecemeal Closure Of Loan Portfolio Of The Wholly Owned Subsidiary
+Get multiple analysts' prediction on Physicswallah"
+2026-10-07,CELLO.NS,CELLO WORLD LIMITED,Consumer Cyclical,390.65,5.82,20.0,5.66,78.0,390.65,320.3,0.0,0.0,86288736256,27.9,526.72,-19.41,-0.43,73.4,-18.55,-8.99,117.12,22.24,3.25,-9.22,N/A,0.01,N/A,N/A,—,"These mid-cap stocks with ‘Strong Buy’ & ‘Buy’ recos can rally over 25%, according to analysts
+Goldman Sachs fund sells Cello World shares worth Rs 55 crore via bulk deals
+Two Trades for Today: An energy major for a 6.3% gain, a mid-cap consumer goods stock for close to 7% rise
+Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-10-07,BBOX.NS,BLACK BOX LIMITED,Technology,884.85,5.35,9.95,2.87,73.0,884.85,712.25,0.0,0.32,157148643328,67.86,1718.5,1.63,23.92,55.92,-13.65,17.9,163.63,9.52,3.15,12.5,N/A,0.9,N/A,N/A,—,No recent news
+2026-10-07,JAMNAAUTO.NS,JAMNA AUTO IND LTD,Consumer Cyclical,151.77,5.24,11.31,3.43,78.2,151.77,117.44,0.0,0.0,60705742848,25.94,611.46,-27.17,6.65,48.52,-44.4,6.06,87.95,14.38,1.21,5.22,N/A,0.13,N/A,N/A,—,No recent news
+2026-10-07,EMIL.NS,ELECTRONICS MART IND LTD,Consumer Cyclical,211.54,5.02,3.01,1.83,68.8,211.54,165.83,0.0,0.0,81389748224,39.47,2418.95,26.43,39.07,120.64,203.61,458.07,240.89,9.96,3.14,460.71,N/A,1.23,N/A,N/A,Revenue +39.07% YoY | Revenue +26.43% QoQ | Profit +458.07% YoY | Profit +203.61% QoQ | EPS +460.71% YoY,No recent news
