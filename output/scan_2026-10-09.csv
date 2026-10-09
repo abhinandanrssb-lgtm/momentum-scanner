@@ -1,21 +1,26 @@
 Date,Stock,Company,Sector,Close Price,Daily Gain %,Week Gain %,Volume Spike (x avg),RSI (14d),52W High,52W Low,Dist from 52W High %,Sector Weekly Gain %,Market Cap,P/E Ratio,Revenue (Cr),Revenue QoQ %,Revenue YoY %,Net Profit (Cr),Profit QoQ %,Profit YoY %,Operating Profit (Cr),EBITDA Margin %,EPS,EPS Growth YoY %,Operating CF (Cr),Debt to Equity,ROE %,ROCE %,Growth Flags,News (Last 2 Days)
-2026-10-09,BBOX.NS,BLACK BOX LIMITED,Technology,920.35,7.45,15.64,4.58,68.9,920.35,712.25,0.0,0.72,163453419520,70.58,1718.5,1.63,23.92,55.92,-13.65,17.9,163.63,9.52,3.15,12.5,N/A,0.9,N/A,N/A,—,No recent news
-2026-10-09,KEC.NS,KEC INTL. LIMITED,Industrials,372.2,6.46,-0.04,2.98,35.5,475.85,349.6,-21.78,0.0,99079643136,17.89,5023.54,-21.38,0.01,72.62,-62.33,-41.72,304.75,6.07,2.73,-41.67,N/A,0.87,N/A,N/A,—,No recent news
-2026-10-09,INOXWIND.NS,INOX WIND LIMITED,Industrials,66.27,6.15,-3.61,2.03,29.4,78.13,62.43,-15.18,0.0,114530312192,27.5,814.1,-34.57,-1.47,44.0,-51.78,-58.44,210.09,25.81,0.37,-38.33,N/A,0.21,N/A,N/A,EBITDA Margin 25.81%,"Inox Wind bags Rs 755-crore turnkey project from Indian Oil Corporation
-Get multiple analysts' prediction on Inox Wind Ltd."
-2026-10-09,COLPAL.NS,COLGATE PALMOLIVE LTD.,Consumer Defensive,1838.7,5.93,5.98,5.19,41.6,2019.5,1735.0,-8.95,0.0,500235960320,37.12,1590.56,0.49,9.54,343.08,-2.9,-3.36,505.77,31.8,12.61,-3.37,N/A,0.03,N/A,N/A,EBITDA Margin 31.8%,"As China slows, global FMCG and consumer giants from L'Oreal to Nestle bet big on India
-Inside FMCG's leadership shake-up: The boardroom churn behind HUL, GCPL, Britannia, Dabur, Colgate
-Expensive living? Inflation hits coriander to cars in India
-Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018
-Get multiple analysts' prediction on Colgate-Palmolive"
-2026-10-09,CYIENT.NS,CYIENT LIMITED,Industrials,1148.1,5.84,3.94,4.86,61.3,1174.8,840.5,-2.27,0.0,119519092736,33.73,2075.7,7.72,8.72,104.1,89.96,-38.91,269.5,12.98,9.42,-39.11,N/A,0.08,N/A,N/A,Profit +89.96% QoQ,"Two Trades for Today: A precision engineering firm for a 10.2% surge, a mid-cap IT stock for a gain of almost 7%
+2026-10-09,CYIENT.NS,CYIENT LIMITED,Industrials,1158.8,6.83,4.91,5.56,62.5,1174.8,840.5,-1.36,0.0,120632983552,34.04,2075.7,7.72,8.72,104.1,89.96,-38.91,269.5,12.98,9.42,-39.11,N/A,0.08,N/A,N/A,Profit +89.96% QoQ,"Two Trades for Today: A precision engineering firm for a 10.2% surge, a mid-cap IT stock for a gain of almost 7%
 Small-tier IT punches above their weight as AI levels the field
 Cyient shares rocket 8% after investor day, but brokerages see up to 24% downside. Here’s why
 Board Meeting Intimation for Consider And Approve The Q2 FY27 Financial Results
 Get multiple analysts' prediction on Cyient"
-2026-10-09,HEXT.NS,HEXAWARE TECHNOLOGIES LTD,Technology,540.5,5.69,10.2,17.68,57.4,574.55,482.1,-5.93,0.72,329592569856,24.79,3845.2,6.43,19.87,329.9,-6.17,0.83,559.9,14.56,5.41,0.56,400.4,0.1,21.47,11.84,ROE 21.47%,No recent news
-2026-10-09,TATAELXSI.NS,TATA ELXSI LIMITED,Technology,3147.7,5.06,1.78,1.61,39.2,3808.0,2996.0,-17.34,0.72,196100325376,30.82,1021.11,2.75,12.42,170.6,-22.58,-1.06,257.44,25.21,27.38,-1.08,N/A,0.05,N/A,N/A,EBITDA Margin 25.21%,"Tata Sons IPO buzz adds Rs 17,200 cr to m-cap of 5 group stocks. Who gains most?
-Tata Elxsi backs seven-seater Shunya eVTOL, first flight targeted in 18-24 months
+2026-10-09,INOXWIND.NS,INOX WIND LIMITED,Industrials,66.65,6.76,-3.05,3.3,30.4,78.13,62.43,-14.69,0.0,115187056640,27.66,814.1,-34.57,-1.47,44.0,-51.78,-58.44,210.09,25.81,0.37,-38.33,N/A,0.21,N/A,N/A,EBITDA Margin 25.81%,"Inox Wind bags Rs 755-crore turnkey project from Indian Oil Corporation
+Get multiple analysts' prediction on Inox Wind Ltd."
+2026-10-09,PCJEWELLER.NS,PC JEWELLER LTD,Consumer Cyclical,14.81,6.55,15.52,2.13,68.5,14.81,9.57,0.0,0.0,145252892672,20.01,877.04,-5.42,20.99,222.18,45.32,37.21,243.79,27.8,0.18,-28.0,N/A,0.14,N/A,N/A,Profit +37.21% YoY | Profit +45.32% QoQ | EBITDA Margin 27.8%,"PC Jeweller shares rise 4% as firm becomes debt-free; stock rallies 89% in 6 months
+PC Jeweller shares jump 4%, surge 38% in one week. What's polishing the stock's shine?
+PC Jeweller shares fall 5% after sharp 3-day rally; stock up 388% in 3 years
+Release Of Mortgaged Assets, Charges, Securities, Etc. -  Update On Clearance Of Outstanding Debt
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-10-09,KEC.NS,KEC INTL. LIMITED,Industrials,369.85,5.79,-0.67,8.65,34.1,475.85,349.6,-22.28,0.0,98454069248,17.78,5023.54,-21.38,0.01,72.62,-62.33,-41.72,304.75,6.07,2.73,-41.67,N/A,0.87,N/A,N/A,—,No recent news
+2026-10-09,PERSISTENT.NS,PERSISTENT SYSTEMS LTD,Technology,5770.0,5.52,7.51,1.76,63.4,5875.0,5162.0,-1.79,0.95,901453119488,47.24,4303.23,6.1,32.73,483.04,-8.73,22.05,767.53,17.84,30.88,20.44,N/A,0.07,25.2,14.81,Revenue +32.73% YoY | ROE 25.2%,"Persistent Systems buys additional stake to get 83.2% control of Nagarro
+SaaS is beating the ‘SaaSpocalypse’! CLSA explains what AI means for Indian IT stocks
+Coforge shares double from March low, outperform Nifty IT peers. Is more steam left in the rally?
+Update On Voluntary Public Takeover Offer Made By Persistent Systems Limited To The Shareholders Of Nagarro SE
+Get multiple analysts' prediction on Persistent System"
+2026-10-09,CPPLUS.NS,ADITYA INFOTECH LIMITED,Industrials,4185.2,5.36,10.15,2.78,79.1,4185.2,3303.5,0.0,0.0,513218314240,102.43,1402.42,-1.38,89.51,142.2,-15.92,332.51,207.8,14.82,12.07,330.34,N/A,0.1,N/A,N/A,Revenue +89.51% YoY | Profit +332.51% YoY | EPS +330.34% YoY,"20 stocks, 100% returns: How retail investors tapped a multibagger wave in deeper Indian market
+Up to 407% returns! 12 recently listed stocks turn multibaggers as Nifty IPO index hits 52-week high
+Aditya Infotech rebounds on fundraise plans; analysts see up to 20% upside
 Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018
-Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
-Get multiple analysts' prediction on Tata Elxsi"
+Get multiple analysts' prediction on Aditya Infotech"
+2026-10-09,HEXT.NS,HEXAWARE TECHNOLOGIES LTD,Technology,538.5,5.3,9.8,17.97,56.6,574.55,482.1,-6.27,0.95,328372977664,24.7,3845.2,6.43,19.87,329.9,-6.17,0.83,559.9,14.56,5.41,0.56,400.4,0.1,21.47,11.84,ROE 21.47%,No recent news
+2026-10-09,GMRAIRPORT.NS,GMR AIRPORTS LIMITED,Industrials,92.31,5.17,-0.91,3.68,34.2,106.3,87.77,-13.16,0.0,984114659328,242.92,3963.99,0.66,23.67,91.04,-69.89,143.03,1161.1,29.29,0.09,145.0,N/A,N/A,N/A,N/A,Profit +143.03% YoY | EPS +145.0% YoY | EBITDA Margin 29.29%,No recent news
