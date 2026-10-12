@@ -1,26 +1,46 @@
 Date,Stock,Company,Sector,Close Price,Daily Gain %,Week Gain %,Volume Spike (x avg),RSI (14d),52W High,52W Low,Dist from 52W High %,Sector Weekly Gain %,Market Cap,P/E Ratio,Revenue (Cr),Revenue QoQ %,Revenue YoY %,Net Profit (Cr),Profit QoQ %,Profit YoY %,Operating Profit (Cr),EBITDA Margin %,EPS,EPS Growth YoY %,Operating CF (Cr),Debt to Equity,ROE %,ROCE %,Growth Flags,News (Last 2 Days)
-2026-10-09,CYIENT.NS,CYIENT LIMITED,Industrials,1158.8,6.83,4.91,5.57,62.5,1174.8,840.5,-1.36,0.0,120393547776,33.97,2075.7,7.72,8.72,104.1,89.96,-38.91,269.5,12.98,9.42,-39.11,N/A,0.08,N/A,N/A,Profit +89.96% QoQ,"Two Trades for Today: A precision engineering firm for a 10.2% surge, a mid-cap IT stock for a gain of almost 7%
-Small-tier IT punches above their weight as AI levels the field
-Cyient shares rocket 8% after investor day, but brokerages see up to 24% downside. Here’s why
-Shareholder Meeting / Postal Ballot-Scrutinizer""s Report
-Get multiple analysts' prediction on Cyient"
-2026-10-09,INOXWIND.NS,INOX WIND LIMITED,Industrials,66.65,6.76,-3.05,3.3,30.4,78.13,62.43,-14.69,0.0,115187056640,27.66,814.1,-34.57,-1.47,44.0,-51.78,-58.44,210.09,25.81,0.37,-38.33,N/A,0.21,N/A,N/A,EBITDA Margin 25.81%,"Inox Wind bags Rs 755-crore turnkey project from Indian Oil Corporation
-Get multiple analysts' prediction on Inox Wind Ltd."
-2026-10-09,PCJEWELLER.NS,PC JEWELLER LTD,Consumer Cyclical,14.81,6.55,15.52,2.13,68.5,14.81,9.57,0.0,0.0,144664428544,19.93,877.04,-5.42,20.99,222.18,45.32,37.21,243.79,27.8,0.18,-28.0,N/A,0.14,N/A,N/A,Profit +37.21% YoY | Profit +45.32% QoQ | EBITDA Margin 27.8%,"PC Jeweller shares rise 4% as firm becomes debt-free; stock rallies 89% in 6 months
-PC Jeweller shares jump 4%, surge 38% in one week. What's polishing the stock's shine?
-PC Jeweller shares fall 5% after sharp 3-day rally; stock up 388% in 3 years
-Release Of Mortgaged Assets, Charges, Securities, Etc. -  Update On Clearance Of Outstanding Debt
-Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-10-09,KEC.NS,KEC INTL. LIMITED,Industrials,369.85,5.79,-0.67,8.65,34.1,475.85,349.6,-22.28,0.0,97362649088,17.58,5023.54,-21.38,0.01,72.62,-62.33,-41.72,304.75,6.07,2.73,-41.67,N/A,0.87,N/A,N/A,—,No recent news
-2026-10-09,PERSISTENT.NS,PERSISTENT SYSTEMS LTD,Technology,5770.0,5.52,7.51,1.76,63.4,5875.0,5162.0,-1.79,0.95,905181069312,47.24,4303.23,6.1,32.73,483.04,-8.73,22.05,767.53,17.84,30.88,20.44,N/A,0.07,25.2,14.81,Revenue +32.73% YoY | ROE 25.2%,"Persistent Systems buys additional stake to get 83.2% control of Nagarro
-SaaS is beating the ‘SaaSpocalypse’! CLSA explains what AI means for Indian IT stocks
-Coforge shares double from March low, outperform Nifty IT peers. Is more steam left in the rally?
-Announcement under Regulation 30 (LODR)-Credit Rating
-Get multiple analysts' prediction on Persistent System"
-2026-10-09,CPPLUS.NS,ADITYA INFOTECH LIMITED,Industrials,4185.2,5.36,10.15,2.78,79.1,4185.2,3303.5,0.0,0.0,520465514496,103.87,1402.42,-1.38,89.51,142.2,-15.92,332.51,207.8,14.82,12.07,330.34,N/A,0.1,N/A,N/A,Revenue +89.51% YoY | Profit +332.51% YoY | EPS +330.34% YoY,"20 stocks, 100% returns: How retail investors tapped a multibagger wave in deeper Indian market
-Up to 407% returns! 12 recently listed stocks turn multibaggers as Nifty IPO index hits 52-week high
-Aditya Infotech rebounds on fundraise plans; analysts see up to 20% upside
+2026-10-12,GALLANTT.NS,GALLANTT ISPAT LIMITED,Basic Materials,588.75,16.87,12.59,18.6,62.7,588.75,503.15,0.0,0.0,141957644288,32.69,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,No recent news
+2026-10-12,NIACL.NS,THE NEW INDIA ASSU CO LTD,Financial Services,184.4,13.67,16.44,9.19,48.4,231.2,158.14,-20.24,0.14,303891185664,39.4,11876.12,-5.13,1.48,-242.65,-141.99,-160.61,N/A,N/A,-1.47,-160.49,N/A,N/A,N/A,N/A,—,No recent news
+2026-10-12,PFOCUS.NS,PRIME FOCUS LIMITED,Communication Services,282.95,8.37,-0.95,3.7,25.4,357.45,261.1,-20.84,0.0,220587704320,159.13,1256.08,-8.68,28.59,-41.33,-150.18,-166.81,338.02,26.91,-0.53,-126.56,N/A,2.25,N/A,N/A,Revenue +28.59% YoY | EBITDA Margin 26.91%,"Brahma AI targets global scale with $2 billion valuation, Silicon Valley push
+Two Trades for Today: A top precision manufacturer for an 8.7% rise, a mid-cap media stock for an almost 7% upmove
+India’s Rs 1 lakh crore digital-media boom: Two stocks ICICI Securities is betting on
+Clarification/Confirmation On News Item Appearing In 'Https://Www.Cnbctv18.Com""
+Get multiple analysts' prediction on Prime Focus"
+2026-10-12,CARTRADE.NS,CARTRADE TECH LIMITED,Consumer Cyclical,3194.0,8.23,8.81,4.09,64.6,3194.0,2714.6,0.0,0.0,155275935744,69.04,201.16,-0.97,18.67,51.24,-20.69,22.53,74.59,37.08,10.69,21.2,N/A,0.05,N/A,N/A,EBITDA Margin 37.08%,"CarTrade Tech shares slip 7% despite 19% YoY rise in Q1 profit; EBITDA surges 45%
+Two Trades for Today: A leading NBFC for a 5.95% upmove, a mid-cap e-commerce platform stock for an almost 7% rise
+UBS initiates coverage on CarTrade Tech with Buy rating, sees 42% upside. 4 reasons why
+CarTrade Tech shares rocket 6% as Nomura raises target price. Here are 3 reasons why
+Get multiple analysts' prediction on CarTrade Tech"
+2026-10-12,NAZARA.NS,NAZARA TECHNOLOGIES LTD,Communication Services,408.2,8.09,5.81,2.28,76.6,408.2,347.95,0.0,0.0,157032923136,N/A,428.77,7.79,-14.03,-79.92,-270.19,-307.37,-7.15,-1.67,-2.16,-211.92,N/A,0.06,N/A,N/A,—,"Up to 152X return! Rentomojo IPO delivers eye-popping gains to Nitish Mittersain, other early backers
 Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018
-Get multiple analysts' prediction on Aditya Infotech"
-2026-10-09,HEXT.NS,HEXAWARE TECHNOLOGIES LTD,Technology,538.5,5.3,9.8,17.97,56.6,574.55,482.1,-6.27,0.95,330507255808,24.86,3845.2,6.43,19.87,329.9,-6.17,0.83,559.9,14.56,5.41,0.56,400.4,0.1,21.47,11.84,ROE 21.47%,No recent news
-2026-10-09,GMRAIRPORT.NS,GMR AIRPORTS LIMITED,Industrials,92.31,5.17,-0.91,3.68,34.2,106.3,87.77,-13.16,0.0,984114659328,242.92,3963.99,0.66,23.67,91.04,-69.89,143.03,1161.1,29.29,0.09,145.0,N/A,N/A,N/A,N/A,Profit +143.03% YoY | EPS +145.0% YoY | EBITDA Margin 29.29%,No recent news
+Announcement under Regulation 30 (LODR)-Press Release / Media Release
+Unlock Stock Score, Analyst' Ratings & Recommendations
+Get multiple analysts' prediction on Nazara Technologies"
+2026-10-12,AEROFLEX.NS,AEROFLEX INDUSTRIES LTD,Industrials,561.3,7.84,3.11,6.14,61.6,573.5,446.55,-2.13,0.0,74277257216,108.78,145.38,15.53,58.55,18.79,6.57,67.32,34.09,23.45,1.42,63.22,N/A,0.02,N/A,N/A,Revenue +58.55% YoY | Revenue +15.53% QoQ | Profit +67.32% YoY | EPS +63.22% YoY,"Two Trades for Today: A maker of stainless steel hoses for a 6.3% gain, a mid-cap NBFC stock for rise of 7%
+Market Trading Guide: Aeroflex Industries among 2 stock recommendations for Wednesday
+Q1 Results today: Coal India, Tata Power, BEL, Coforge, among 68 companies to announce earnings
+Board Meeting Intimation for To Consider And Approve The Company'S Expansion Plans, Including Further Capacity Enhancements.
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-10-12,TATACHEM.NS,TATA CHEMICALS LTD,Basic Materials,635.95,7.83,3.0,2.07,32.8,779.3,589.75,-18.39,0.0,161846657024,N/A,4255.0,23.76,21.26,-17.0,99.2,77.03,594.0,13.96,-0.67,69.41,N/A,0.36,N/A,N/A,Revenue +23.76% QoQ | Profit +77.03% YoY | Profit +99.2% QoQ | EPS +69.41% YoY,"SC stays coercive action against Tata Chemicals over environment damage to marine sanctuary
+Tata Chemicals, Tata Motors PV, other Tata stocks slide up to 4% as Tata Sons rejig clouds listing prospects
+How to trade TCS, Tata Chemicals, other Tata stocks as boardroom battles could reach court
+Intimation Under Regulation 30 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015
+Get multiple analysts' prediction on Tata Chemicals"
+2026-10-12,TIPSMUSIC.NS,TIPS MUSIC LIMITED,Communication Services,683.55,7.42,6.96,4.54,56.2,683.55,618.15,0.0,0.0,86919979008,40.71,106.51,2.48,35.7,43.7,-26.0,42.76,59.37,55.74,3.42,43.1,N/A,0.02,N/A,N/A,Revenue +35.7% YoY | Profit +42.76% YoY | EPS +43.1% YoY | EBITDA Margin 55.74%,No recent news
+2026-10-12,NEOGEN.NS,NEOGEN CHEMICALS LIMITED,Basic Materials,2547.4,7.11,10.22,1.65,63.3,2547.4,2067.2,0.0,0.0,76530081792,191.68,250.29,1.51,34.04,17.11,50.22,66.76,52.29,20.89,6.29,61.7,N/A,1.71,N/A,N/A,Revenue +34.04% YoY | Profit +66.76% YoY | Profit +50.22% QoQ | EPS +61.7% YoY,"Stock picks of the week: 5 stocks with consistent score improvement and return potential of 13 to 45% in 1 year
+Stock picks of the week: 5 stocks with consistent score improvement and upside potential of up to 31%
+Buy Neogen Chemicals, target price Rs 2,076: HDFC Securities
+Number of smallcap stocks offering double-digit returns falls even as bulls dominate the week
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-10-12,SYNGENE.NS,SYNGENE INTERNATIONAL LTD,Healthcare,370.55,6.66,3.68,4.35,41.3,413.8,346.0,-10.45,-0.32,148929101824,67.5,736.0,-28.99,-27.7,-9.0,-106.09,-104.91,116.1,15.77,-0.22,-104.82,N/A,0.09,N/A,N/A,—,"These mid-caps have ‘strong buy’ & ‘buy’ recos and an upside potential of over 25%, according to analysts
+Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018
+Get multiple analysts' prediction on Syngene Int."
+2026-10-12,NETWEB.NS,NETWEB TECH INDIA LTD,Technology,5012.1,6.15,5.18,1.95,62.4,5601.0,4520.3,-10.51,-0.15,297957097472,109.2,819.69,5.94,172.13,85.32,20.87,179.94,128.99,15.74,14.98,178.44,N/A,0.39,N/A,N/A,Revenue +172.13% YoY | Profit +179.94% YoY | Profit +20.87% QoQ | EPS +178.44% YoY,No recent news
+2026-10-12,ZEEL.NS,ZEE ENTERTAINMENT ENT LTD,Communication Services,73.95,5.69,0.52,1.61,41.4,105.51,68.37,-29.91,0.0,71030407168,34.88,1907.3,-5.8,-12.67,76.3,174.51,-59.54,110.1,5.77,0.79,-59.69,N/A,0.02,N/A,N/A,Profit +174.51% QoQ,No recent news
+2026-10-12,BRIGADE.NS,BRIGADE ENTER. LTD,Real Estate,579.75,5.64,1.43,2.01,39.5,712.3,547.2,-18.61,0.0,189092626432,27.23,1115.55,-23.47,-12.93,200.41,37.75,33.71,424.37,38.04,6.14,0.16,N/A,0.84,N/A,N/A,Profit +33.71% YoY | Profit +37.75% QoQ | EBITDA Margin 38.04%,No recent news
+2026-10-12,DCBBANK.NS,DCB BANK LIMITED,Financial Services,215.0,5.5,8.94,3.1,47.0,229.55,181.81,-6.34,0.14,69270724608,8.79,880.28,1.56,13.32,213.2,3.67,20.4,N/A,N/A,6.62,17.38,N/A,N/A,N/A,N/A,—,"Highest senior citizen FD interest rates after RBI repo rate hike: Public vs private vs small finance bank rates of 3 and 5-year fixed deposits
+FD rates up to 8.50% for senior citizens on 5-year deposits; Check the list of banks
+ICICI Prudential AMC gets RBI approval to buy up to 9.95% stake in Kotak and 3 other banks
+Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-10-12,SKYGOLD.NS,SKY GOLD AND DIAMONDS LTD,Consumer Cyclical,968.35,5.14,17.25,2.28,87.1,968.35,742.0,0.0,0.0,149972123648,44.69,2012.79,5.3,77.93,104.9,24.47,140.67,164.68,8.18,6.67,124.58,N/A,0.72,N/A,N/A,Revenue +77.93% YoY | Profit +140.67% YoY | Profit +24.47% QoQ | EPS +124.58% YoY,No recent news
