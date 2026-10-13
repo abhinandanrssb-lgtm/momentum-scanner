@@ -1,41 +1,70 @@
 Date,Stock,Company,Sector,Close Price,Daily Gain %,Week Gain %,Volume Spike (x avg),RSI (14d),52W High,52W Low,Dist from 52W High %,Sector Weekly Gain %,Market Cap,P/E Ratio,Revenue (Cr),Revenue QoQ %,Revenue YoY %,Net Profit (Cr),Profit QoQ %,Profit YoY %,Operating Profit (Cr),EBITDA Margin %,EPS,EPS Growth YoY %,Operating CF (Cr),Debt to Equity,ROE %,ROCE %,Growth Flags,News (Last 2 Days)
-2026-10-13,NIACL.NS,THE NEW INDIA ASSU CO LTD,Financial Services,191.11,17.8,20.68,3.7,53.0,231.2,158.14,-17.34,0.01,314998718464,47.08,11876.12,-5.13,1.48,-242.65,-141.99,-160.61,N/A,N/A,-1.47,-160.49,N/A,N/A,N/A,N/A,—,No recent news
-2026-10-13,GALLANTT.NS,GALLANTT ISPAT LIMITED,Basic Materials,575.45,14.23,10.05,14.48,59.6,582.26,503.15,-1.17,0.0,138845126656,37.81,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,No recent news
-2026-10-13,PNCINFRA.NS,PNC INFRATECH LTD.,Industrials,152.5,13.18,11.29,2.87,64.4,218.45,129.8,-30.19,0.0,39122223104,5.48,1688.46,4.42,18.67,331.95,208.05,-23.06,594.59,35.21,12.94,-23.02,N/A,0.76,N/A,N/A,Profit +208.05% QoQ | EBITDA Margin 35.21%,"First-ever full toll suspension: Expressway develops defects weeks after opening; NHAI bans concessionaire for 3 years, seeks Rs 42 lakh daily compensation
+2026-10-13,NIACL.NS,THE NEW INDIA ASSU CO LTD,Financial Services,191.38,17.97,20.85,4.74,53.2,231.2,158.14,-17.22,0.64,315394260992,47.14,11876.12,-5.13,1.48,-242.65,-141.99,-160.61,N/A,N/A,-1.47,-160.49,N/A,N/A,N/A,N/A,—,No recent news
+2026-10-13,GALLANTT.NS,GALLANTT ISPAT LIMITED,Basic Materials,588.05,16.73,12.46,15.17,62.6,588.05,503.15,0.0,0.0,141885259776,38.64,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,No recent news
+2026-10-13,PNCINFRA.NS,PNC INFRATECH LTD.,Industrials,155.44,15.36,13.44,7.33,66.7,218.45,129.8,-28.84,0.0,39876448256,5.59,1688.46,4.42,18.67,331.95,208.05,-23.06,594.59,35.21,12.94,-23.02,N/A,0.76,N/A,N/A,Profit +208.05% QoQ | EBITDA Margin 35.21%,"First-ever full toll suspension: Expressway develops defects weeks after opening; NHAI bans concessionaire for 3 years, seeks Rs 42 lakh daily compensation
 PNC Infratech shares tank 20%. What’s triggering the steep plunge on Tuesday?
+Intimation Under Regulation 30 Of SEBI (Listing Obligations And Disclosure Requirements) Regulation, 2015 - Order Passed By The Hon'Ble High Court Of Delhi
 Incorporation Of A Subsidiary Company In Republic Of Kazakhstan By PNC Infratech Limited
-Unlock Stock Score, Analyst' Ratings & Recommendations
-Get multiple analysts' prediction on PNC Infratech"
-2026-10-13,TIPSMUSIC.NS,TIPS MUSIC LIMITED,Communication Services,702.6,10.41,9.94,1.64,60.1,702.6,618.15,0.0,0.0,89342361600,44.87,106.51,2.48,35.7,43.7,-26.0,42.76,59.37,55.74,3.42,43.1,N/A,0.02,N/A,N/A,Revenue +35.7% YoY | Profit +42.76% YoY | EPS +43.1% YoY | EBITDA Margin 55.74%,No recent news
-2026-10-13,FSL.NS,FIRSTSOURCE SOLU. LTD.,Technology,294.25,9.75,14.32,3.06,65.7,294.25,247.6,0.0,4.97,203190009856,31.98,2751.75,5.31,26.94,165.92,-19.16,3.26,457.42,16.62,2.4,3.0,N/A,0.67,N/A,N/A,Revenue +26.94% YoY,No recent news
-2026-10-13,BANDHANBNK.NS,BANDHAN BANK LIMITED,Financial Services,170.36,8.51,1.24,2.62,44.7,191.38,155.54,-10.98,0.01,274475876352,20.31,3524.41,-1.17,1.99,501.67,-6.08,57.8,N/A,N/A,3.11,57.87,N/A,N/A,N/A,N/A,Profit +57.8% YoY | EPS +57.87% YoY,"IHC, First Abu Dhabi eye stake in Bandhan Bank promoter
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-10-13,TIPSMUSIC.NS,TIPS MUSIC LIMITED,Communication Services,706.95,11.09,10.62,2.37,60.9,706.95,618.15,0.0,0.0,89895518208,45.14,106.51,2.48,35.7,43.7,-26.0,42.76,59.37,55.74,3.42,43.1,N/A,0.02,N/A,N/A,Revenue +35.7% YoY | Profit +42.76% YoY | EPS +43.1% YoY | EBITDA Margin 55.74%,No recent news
+2026-10-13,BANDHANBNK.NS,BANDHAN BANK LIMITED,Financial Services,172.0,9.55,2.22,3.06,45.8,191.38,155.54,-10.13,0.64,277118156800,20.57,3524.41,-1.17,1.99,501.67,-6.08,57.8,N/A,N/A,3.11,57.87,N/A,N/A,N/A,N/A,Profit +57.8% YoY | EPS +57.87% YoY,"IHC, First Abu Dhabi eye stake in Bandhan Bank promoter
 Will RBI’s CRR hike to 99% hit HDFC, SBI and other bank stocks? Here’s what Jefferies says
 Highest senior citizen FD interest rates after RBI repo rate hike: Public vs private vs small finance bank rates of 3 and 5-year fixed deposits
-Clarification sought from Bandhan Bank Ltd
-Get multiple analysts' prediction on Bandhan Bank"
-2026-10-13,TATAELXSI.NS,TATA ELXSI LIMITED,Technology,3388.0,8.24,9.11,2.68,56.5,3778.0,2996.0,-10.32,4.97,211070910464,33.55,1021.11,2.75,12.42,170.6,-22.58,-1.06,257.44,25.21,27.38,-1.08,N/A,0.05,N/A,N/A,EBITDA Margin 25.21%,"Tata Sons IPO buzz adds Rs 17,200 cr to m-cap of 5 group stocks. Who gains most?
+Get multiple analysts' prediction on Bandhan Bank
+ICICI Pru Banking and Financial Services Direct-G"
+2026-10-13,TATAELXSI.NS,TATA ELXSI LIMITED,Technology,3426.7,9.48,10.36,3.21,58.6,3778.0,2996.0,-9.3,6.02,213481897984,33.93,1021.11,2.75,12.42,170.6,-22.58,-1.06,257.44,25.21,27.38,-1.08,N/A,0.05,N/A,N/A,EBITDA Margin 25.21%,"Tata Sons IPO buzz adds Rs 17,200 cr to m-cap of 5 group stocks. Who gains most?
 Tata Elxsi backs seven-seater Shunya eVTOL, first flight targeted in 18-24 months
-Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018
-Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
+Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS
+Announcement under Regulation 30 (LODR)-Investor Presentation
 Get multiple analysts' prediction on Tata Elxsi"
-2026-10-13,HCLTECH.NS,HCL TECHNOLOGIES LTD,Technology,1309.9,7.66,8.99,4.93,54.6,1370.0,1176.9,-4.39,4.97,3543742545920,19.48,34579.0,1.76,13.94,4624.0,3.03,20.32,7231.0,20.91,17.09,20.52,N/A,0.07,24.07,13.31,ROE 24.07%,"Rs 26,340 crore added in minutes! Why HCL Tech, TCS and other IT stocks rallied up to 7%
+2026-10-13,HCLTECH.NS,HCL TECHNOLOGIES LTD,Technology,1326.0,8.98,10.33,5.8,56.8,1370.0,1176.9,-3.21,6.02,3587846701056,19.72,34579.0,1.76,13.94,4624.0,3.03,20.32,7231.0,20.91,17.09,20.52,N/A,0.07,24.07,13.31,ROE 24.07%,"Rs 26,340 crore added in minutes! Why HCL Tech, TCS and other IT stocks rallied up to 7%
 HCL Tech shares rally over 4% after Q2 results. What are CLSA, JPMorgan, others saying?
 Stocks in news: HCL Tech, RBL Bank, Nazara Tech, Hero Motors, Power Grid and IRCON
 Audio Recording Of The Conference Call Held On October 12, 2026
 Get multiple analysts' prediction on HCL Tech"
-2026-10-13,GAEL.NS,GUJARAT AMBUJA EXPORTS LT,Consumer Defensive,173.82,6.36,9.82,2.33,63.6,183.03,156.95,-5.03,0.0,79726133248,19.57,1594.22,8.71,23.47,176.77,30.63,171.87,271.06,17.0,3.85,171.13,N/A,0.13,N/A,N/A,Profit +171.87% YoY | Profit +30.63% QoQ | EPS +171.13% YoY,No recent news
-2026-10-13,KPITTECH.NS,KPIT TECHNOLOGIES LIMITED,Technology,508.05,6.06,3.79,2.58,39.4,620.5,471.0,-18.12,4.97,138305044480,23.98,1674.99,-2.1,8.85,117.18,-28.13,-31.83,265.79,15.87,4.3,-31.96,N/A,0.24,N/A,N/A,—,"Quant Small Cap Fund exits ICICI Bank and 5 others, reduce stake in Zydus Wellness and 5 more in September
-More than half of mid-to-large cap companies fail to deliver returns in 2026
-Get multiple analysts' prediction on KPIT Tech"
-2026-10-13,TANLA.NS,TANLA PLATFORMS LIMITED,Technology,528.3,6.01,8.26,3.47,68.0,584.25,485.35,-9.58,4.97,69762392064,13.16,1226.39,4.15,19.72,142.17,5.84,21.16,215.25,17.55,10.77,23.23,N/A,0.02,N/A,N/A,—,"Tanla Platforms shares jump nearly 14% post Q1 earnings, revenue surges 17.8% YoY
+2026-10-13,FSL.NS,FIRSTSOURCE SOLU. LTD.,Technology,291.75,8.82,13.34,3.51,64.6,291.75,247.6,0.0,6.02,201463676928,31.71,2751.75,5.31,26.94,165.92,-19.16,3.26,457.42,16.62,2.4,3.0,N/A,0.67,N/A,N/A,Revenue +26.94% YoY,No recent news
+2026-10-13,TANLA.NS,TANLA PLATFORMS LIMITED,Technology,535.15,7.38,9.66,4.34,70.1,584.25,485.35,-8.4,6.02,70666944512,13.34,1226.39,4.15,19.72,142.17,5.84,21.16,215.25,17.55,10.77,23.23,N/A,0.02,N/A,N/A,—,"Tanla Platforms shares jump nearly 14% post Q1 earnings, revenue surges 17.8% YoY
 Tanla Platforms shares jump nearly 12% on double-digit Q3 FY26 growth
 Infosys shares to turn ex-dividend as Oct 26 marks last day to qualify for interim payout
 Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018
 Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-10-13,SMLMAH.NS,SML MAHINDRA LIMITED,Consumer Cyclical,6156.5,5.94,-3.11,1.77,43.9,6825.5,5108.0,-9.8,0.0,89094684672,56.8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,No recent news
-2026-10-13,INDIAGLYCO.NS,INDIA GLYCOLS LTD,Basic Materials,348.2,5.64,14.78,6.41,68.9,1203.3,236.2,-71.06,0.0,23318609920,6.83,1130.39,15.78,8.64,96.83,11.45,32.19,263.48,23.31,14.45,-38.93,N/A,0.58,N/A,N/A,Revenue +15.78% QoQ | Profit +32.19% YoY,"The debate is settling, the business is moving. Time to look at a larger set? 9 sugar-ethanol ecosystem stocks for the watchlist
+2026-10-13,KPITTECH.NS,KPIT TECHNOLOGIES LIMITED,Technology,513.75,7.25,4.95,3.14,41.9,620.5,471.0,-17.2,6.02,139856740352,24.24,1674.99,-2.1,8.85,117.18,-28.13,-31.83,265.79,15.87,4.3,-31.96,N/A,0.24,N/A,N/A,—,"Quant Small Cap Fund exits ICICI Bank and 5 others, reduce stake in Zydus Wellness and 5 more in September
+More than half of mid-to-large cap companies fail to deliver returns in 2026
+Get multiple analysts' prediction on KPIT Tech"
+2026-10-13,NETWEB.NS,NETWEB TECH INDIA LTD,Technology,5054.6,7.05,6.08,2.14,63.7,5601.0,4520.3,-9.76,6.02,300483608576,116.65,819.69,5.94,172.13,85.32,20.87,179.94,128.99,15.74,14.98,178.44,N/A,0.39,N/A,N/A,Revenue +172.13% YoY | Profit +179.94% YoY | Profit +20.87% QoQ | EPS +178.44% YoY,No recent news
+2026-10-13,INDIAGLYCO.NS,INDIA GLYCOLS LTD,Basic Materials,352.4,6.92,16.17,7.64,69.4,1203.3,236.2,-70.71,0.0,23620231168,6.92,1130.39,15.78,8.64,96.83,11.45,32.19,263.48,23.31,14.45,-38.93,N/A,0.58,N/A,N/A,Revenue +15.78% QoQ | Profit +32.19% YoY,"The debate is settling, the business is moving. Time to look at a larger set? 9 sugar-ethanol ecosystem stocks for the watchlist
 Ethanol ecosystem: Judging fear by noise is not evidence; 15 stocks from the ecosystem
 India Glycols announces Rs 7.5/share dividend. Check smallcap's record date, dividend yield
 Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-10-13,NETWEB.NS,NETWEB TECH INDIA LTD,Technology,4985.7,5.59,4.63,1.82,61.6,5601.0,4520.3,-10.99,4.97,296387674112,115.06,819.69,5.94,172.13,85.32,20.87,179.94,128.99,15.74,14.98,178.44,N/A,0.39,N/A,N/A,Revenue +172.13% YoY | Profit +179.94% YoY | Profit +20.87% QoQ | EPS +178.44% YoY,No recent news
-2026-10-13,GMRP&UI.NS,GMR POW AND URBAN INFRA L,Energy,103.15,5.15,2.28,3.48,65.8,105.38,89.91,-2.12,0.0,80561963008,12.77,1705.18,-14.91,3.44,-41.47,62.86,-16.39,489.71,28.72,-0.53,-381.82,N/A,5.5,N/A,N/A,Profit +62.86% QoQ | EBITDA Margin 28.72%,No recent news
+2026-10-13,PFIZER.NS,PFIZER LTD,Healthcare,4053.5,6.44,5.5,1.67,51.3,4990.4,3750.0,-18.77,-1.79,185438437376,25.65,653.17,3.8,8.31,204.47,2.33,6.63,292.4,44.77,44.69,6.63,N/A,0.02,N/A,N/A,EBITDA Margin 44.77%,"Fake drugs: Karnataka cancels 16 licenses, suspends 8 including that of Pfizer depot
+Is severance pay received under a VRS taxable for all employees? Know what the Income Tax law says
+Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018
+Get multiple analysts' prediction on Pfizer"
+2026-10-13,NETWORK18.NS,NETWORK18 MEDIA & INV LTD,Communication Services,26.23,6.24,3.11,1.8,45.7,30.59,24.39,-14.25,0.0,40511909888,N/A,516.26,-16.16,-8.03,-38.71,-26.83,-27.71,49.37,9.56,-0.25,-25.0,N/A,0.66,N/A,N/A,—,No recent news
+2026-10-13,SKYGOLD.NS,SKY GOLD AND DIAMONDS LTD,Consumer Cyclical,978.25,6.22,18.45,1.68,87.7,978.25,742.0,0.0,0.0,151505387520,47.46,2012.79,5.3,77.93,104.9,24.47,140.67,164.68,8.18,6.67,124.58,N/A,0.72,N/A,N/A,Revenue +77.93% YoY | Profit +140.67% YoY | Profit +24.47% QoQ | EPS +124.58% YoY,No recent news
+2026-10-13,SMLMAH.NS,SML MAHINDRA LIMITED,Consumer Cyclical,6171.5,6.19,-2.87,2.27,44.2,6825.5,5108.0,-9.58,0.0,89311764480,56.94,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,No recent news
+2026-10-13,GAEL.NS,GUJARAT AMBUJA EXPORTS LT,Consumer Defensive,173.26,6.01,9.46,2.82,63.2,183.03,156.95,-5.34,0.0,79469273088,19.51,1594.22,8.71,23.47,176.77,30.63,171.87,271.06,17.0,3.85,171.13,N/A,0.13,N/A,N/A,Profit +171.87% YoY | Profit +30.63% QoQ | EPS +171.13% YoY,No recent news
+2026-10-13,AARTIIND.NS,AARTI INDUSTRIES LTD,Basic Materials,487.8,6.01,3.6,2.72,45.4,542.07,460.15,-10.01,0.0,176945233920,34.38,2387.0,8.25,22.47,155.0,13.14,61.46,385.0,16.13,4.27,61.74,N/A,0.83,N/A,N/A,Profit +61.46% YoY | EPS +61.74% YoY,"Strong Q1 results spark stock-picking rush: 50 top ideas for investors to buy
+Chemical sector: Although long, there is a way around China trouble; combine 20 stocks to get your portfolio’s chemistry right
+Two Trades for Today: A metals major for an upmove of 7.8%, a mid-cap chemical stock for a gain of about 7.5%
+Agreement With A Global Speciality Chemical Company.
+Get multiple analysts' prediction on Aarti Inds"
+2026-10-13,KFINTECH.NS,KFIN TECHNOLOGIES LIMITED,Technology,889.9,5.64,2.58,2.48,48.4,980.0,832.0,-9.19,6.02,153838862336,46.47,356.54,2.65,26.12,75.21,-7.31,-11.57,132.09,37.05,4.36,-11.92,N/A,0.03,N/A,N/A,Revenue +26.12% YoY | EBITDA Margin 37.05%,No recent news
+2026-10-13,WAAREEENER.NS,WAAREE ENERGIES LIMITED,Technology,2451.0,5.51,4.45,1.73,45.2,2706.97,2317.0,-9.46,6.02,705033404416,18.67,7931.79,-6.47,98.1,850.22,-19.87,37.37,1610.73,20.31,29.56,36.92,N/A,0.21,N/A,N/A,Revenue +98.1% YoY | Profit +37.37% YoY | EPS +36.92% YoY,"Stocks in news: Bharat Dynamics, NTPC, Canara Bank and Waaree Energies
+Waaree Energies shares gain 2% after company bags 2 GW solar module order
+Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018
+Get multiple analysts' prediction on Waaree Energies
+Nippon India Nifty Midcap 150 Index Direct-G"
+2026-10-13,NEWGEN.NS,NEWGEN SOFTWARE TECH LTD,Technology,473.6,5.41,3.24,3.76,40.5,567.1,442.55,-16.49,6.02,66944180224,21.4,356.68,-21.2,-17.03,62.82,-40.9,-42.01,92.18,25.84,4.44,-42.56,N/A,0.02,N/A,N/A,EBITDA Margin 25.84%,"Q1 results today: Jio Financial, Wipro, Polycab India, BHEL among 41 companies to report earnings
+Ahead of Market: 10 things that will decide stock market action on Wednesday
+Dividends and stock splits: TCS, Dabur, MRF among nearly 100 stocks turning ex-date this week. Do you own any?
+Announcement under Regulation 30 (LODR)-Retirement
+Get multiple analysts' prediction on Newgen Software"
+2026-10-13,TCS.NS,TATA CONSULTANCY SERV LT,Technology,2269.3,5.26,7.33,2.62,67.1,2399.3,2032.4,-5.42,6.02,0,15.68,72275.0,2.23,12.09,13349.0,-2.69,9.2,20124.0,27.84,36.9,9.2,13888.0,0.1,45.57,23.79,EBITDA Margin 27.84% | ROE 45.57%,No recent news
+2026-10-13,ECLERX.NS,ECLERX SERVICES LTD,Technology,1964.5,5.23,4.26,3.05,51.2,2004.5,1769.7,-2.0,6.02,180783644672,25.6,1152.36,4.07,23.31,164.34,-13.21,16.0,283.1,24.57,17.86,18.44,N/A,0.15,N/A,N/A,—,"Two Trades for Today: A mid-sized private bank for an 8.3% upmove, a mid-cap commercial services stock for a 7% gain
+Get multiple analysts' prediction on eClerx Services"
+2026-10-13,SHRIRAMFIN.NS,SHRIRAM FINANCE LIMITED,Financial Services,988.0,5.06,1.71,1.65,45.4,1138.5,917.25,-13.22,0.64,2324849754112,17.24,7922.82,11.4,30.61,3452.77,14.28,61.06,N/A,N/A,14.86,30.35,N/A,2.76,18.5,N/A,Revenue +30.61% YoY | Profit +61.06% YoY | EPS +30.35% YoY,"5 stocks with consistent score improvement and upside potential of up to 33% in 1 year, according to analysts
+Shriram Finance plans $500 million bond buyback
+Which stocks should you buy ahead of the festive season? Here are Kotak Securities’ top 10 picks
+Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS
+Get multiple analysts' prediction on Shriram Finance"
