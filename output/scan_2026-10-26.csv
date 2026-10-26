@@ -1,15 +1,50 @@
 Date,Stock,Company,Sector,Close Price,Daily Gain %,Week Gain %,Volume Spike (x avg),RSI (14d),52W High,52W Low,Dist from 52W High %,Sector Weekly Gain %,Market Cap,P/E Ratio,Revenue (Cr),Revenue QoQ %,Revenue YoY %,Net Profit (Cr),Profit QoQ %,Profit YoY %,Operating Profit (Cr),EBITDA Margin %,EPS,EPS Growth YoY %,Operating CF (Cr),Debt to Equity,ROE %,ROCE %,Growth Flags,News (Last 2 Days)
-2026-10-26,MRPL.NS,MRPL,Energy,178.42,9.97,5.12,2.33,56.3,182.06,160.94,-2.0,-3.75,312540954624,7.08,32516.24,-15.0,43.57,1900.76,100.99,,2941.41,9.05,10.85,,N/A,1.08,N/A,N/A,Revenue +43.57% YoY | Profit +100.99% QoQ,"Stocks in news: Reliance Industries, Jio Financial, Tata Tech, HDB Financial and Wipro
+2026-10-26,ATHERENERG.NS,ATHER ENERGY LIMITED,Consumer Cyclical,1575.0,14.13,7.14,2.81,65.5,1725.6,1380.0,-8.73,0.0,624831037440,N/A,1216.92,3.6,88.79,-51.09,49.03,71.33,9.45,0.78,-1.33,74.57,-3.6,0.26,N/A,N/A,Revenue +88.79% YoY | Profit +71.33% YoY | Profit +49.03% QoQ | EPS +74.57% YoY,"Unacademy cofounder Gaurav Munjal pushes back against criticism of Indian VCs
+Motilal Oswal entities apply for 2.39 crore Ola Electric shares in Rs 1,000-crore rights issue
+10-minute househelp startups & their crore-sized losses
+Disclosure Under Regulation 30 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015
+Get multiple analysts' prediction on Ather Energy"
+2026-10-26,MRPL.NS,MRPL,Energy,182.61,12.55,7.59,5.81,58.7,182.61,160.94,0.0,-3.23,320042074112,7.25,32516.24,-15.0,43.57,1900.76,100.99,,2941.41,9.05,10.85,,N/A,1.08,N/A,N/A,Revenue +43.57% YoY | Profit +100.99% QoQ,"Stocks in news: Reliance Industries, Jio Financial, Tata Tech, HDB Financial and Wipro
 MRPL shares tumble 5% after explosion at Mangaluru plant, thick smoke seen from refinery unit
 India's refineries operating at 105% to 108% of capacity, MRPL official says
 Get multiple analysts' prediction on MRPL"
-2026-10-26,TATACHEM.NS,TATA CHEMICALS LTD,Basic Materials,619.6,7.42,-2.14,2.39,50.6,779.3,576.8,-20.49,-4.22,157846978560,N/A,4255.0,23.76,21.26,-17.0,99.2,77.03,594.0,13.96,-0.67,69.41,N/A,0.36,N/A,N/A,Revenue +23.76% QoQ | Profit +77.03% YoY | Profit +99.2% QoQ | EPS +69.41% YoY,"Tata Chemicals gets relief in ₹908 crore arbitration case, directed to pay ₹1 crore plus interest
-5 stocks with consistent score improvement and upside potential of up to 34% in 1 year, according to analysts
-SC stays coercive action against Tata Chemicals over environment damage to marine sanctuary
-Intimation Under Regulation 30 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015 For Update On Notice Issued To Tata Chemicals Magadi Limited
-Get multiple analysts' prediction on Tata Chemicals"
-2026-10-26,APOLLO.NS,APOLLO MICRO SYSTEMS LTD,Industrials,396.6,5.83,-7.55,1.95,48.5,429.0,370.12,-7.55,-1.5,147376373760,116.99,251.29,-14.31,55.34,26.91,-28.46,92.19,48.39,19.26,0.75,63.04,N/A,0.42,N/A,N/A,Revenue +55.34% YoY | Profit +92.19% YoY | EPS +63.04% YoY,"Multibagger trap: 15 stocks that soared up to 4,000% in 2025 crashed as much as 90%
+2026-10-26,TTML.NS,TATA TELESERV(MAHARASTRA),Communication Services,41.53,10.22,23.79,4.31,74.6,41.53,32.06,0.0,0.0,81188143104,27.14,309.65,2.68,8.94,-59.2,17.95,81.78,164.73,53.2,-0.3,81.93,N/A,N/A,N/A,N/A,Profit +81.78% YoY | EPS +81.93% YoY | EBITDA Margin 53.2%,No recent news
+2026-10-26,CARBORUNIV.NS,CARBORUNDUM UNIVERSAL LTD,Industrials,1129.2,9.76,1.72,2.54,30.5,1296.5,1028.8,-12.9,-0.74,215124033536,102.1,1410.57,1.98,17.65,76.4,534.34,162.18,190.52,13.51,4.04,133.53,N/A,0.1,N/A,N/A,Profit +162.18% YoY | Profit +534.34% QoQ | EPS +133.53% YoY,"Two Trades for Today: A top PSU bank for a 6.05% upmove, a mid-cap ceramic manufacturer’s stock for a 7% rise
+Two Trades for Today: A metals major for a 7.7% rise, a mid-cap ceramic maker’s stock for an almost 6% gain
+Time to be selectively bullish again? 8 mid-cap stocks from different sectors with an upside potential of up to 41%
+Carborundum Universal Q1 Results: Co reports net profit at Rs 60 crore
+Get multiple analysts' prediction on Carborundum Uni"
+2026-10-26,APOLLO.NS,APOLLO MICRO SYSTEMS LTD,Industrials,410.9,9.65,-4.22,5.73,52.6,429.0,370.12,-4.22,-0.74,152690245632,121.21,251.29,-14.31,55.34,26.91,-28.46,92.19,48.39,19.26,0.75,63.04,N/A,0.42,N/A,N/A,Revenue +55.34% YoY | Profit +92.19% YoY | EPS +63.04% YoY,"Multibagger trap: 15 stocks that soared up to 4,000% in 2025 crashed as much as 90%
 Why Systematix is bullish on Apollo Micro Systems after 47% YTD rally; check target price
 AMS Letter To Shareholders By Managing Director
 Unlock Stock Score, Analyst' Ratings & Recommendations
 Motilal Oswal Nifty India Defence Index Direct-G"
+2026-10-26,AVALON.NS,AVALON TECHNOLOGIES LTD,Technology,2002.2,7.84,0.75,1.7,38.6,2537.7,1856.6,-21.1,1.09,133911740416,100.46,484.41,0.94,49.83,34.87,-15.27,145.31,60.77,12.55,5.22,143.93,N/A,0.3,N/A,N/A,Revenue +49.83% YoY | Profit +145.31% YoY | EPS +143.93% YoY,"Avalon Tech block deal: Promoters divest 6% stake worth Rs 871 crore
+Promoters dilute 6% stake in Avalon Technologies for Rs 871 crore
+Avalon Tech shares fall 6% after Rs 883 crore block deal; 3 promoter entities likely sellers
+Board Meeting Intimation for The Meeting To Be Held On October 27, 2026
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-10-26,GRAPHITE.NS,GRAPHITE INDIA LTD,Industrials,736.05,6.82,-4.44,1.87,35.5,851.2,683.0,-13.53,-0.74,143806201856,67.4,842.0,3.19,26.62,172.0,265.38,28.36,241.0,28.62,8.82,28.38,N/A,0.06,N/A,N/A,Revenue +26.62% YoY | Profit +265.38% QoQ | EBITDA Margin 28.62%,"Two Trades for Today: A private energy player for an 8.55% upmove, a mid-cap graphite maker’s stock for a gain of almost 8%
+Two Trades for Today: A digital payments service provider for a 6.2% gain, a mid-cap graphite manufacturer for an almost 7% rise
+Graphite India shares rocket over 18% to extend gains for second session. What’s behind the surge?
+Announcement under Regulation 30 (LODR)-Acquisition
+Get multiple analysts' prediction on Graphite India"
+2026-10-26,ACUTAAS.NS,ACUTAAS CHEMICALS LIMITED,Basic Materials,3348.8,6.73,4.45,3.19,62.1,3448.82,3056.7,-2.9,-3.31,274170003456,71.25,329.67,-21.94,9.32,74.26,-43.64,18.85,114.87,34.84,9.07,,N/A,0.02,N/A,N/A,EBITDA Margin 34.84%,No recent news
+2026-10-26,CONCORDBIO.NS,CONCORD BIOTECH LIMITED,Healthcare,1311.2,6.66,-2.08,1.96,43.7,1579.4,1229.3,-16.98,-0.03,137172770816,45.17,257.49,-21.03,26.23,57.7,-35.02,30.96,96.48,37.47,8.46,100.95,N/A,0.0,N/A,N/A,Revenue +26.23% YoY | Profit +30.96% YoY | EPS +100.95% YoY | EBITDA Margin 37.47%,No recent news
+2026-10-26,DRREDDY.NS,DR. REDDY S LABORATORIES,Healthcare,1310.9,6.62,6.32,3.87,72.3,1310.9,1140.0,0.0,-0.03,1092075192320,39.03,8070.5,7.37,-5.56,443.5,100.77,-68.72,981.0,12.16,5.32,-68.78,-92.7,0.19,7.34,3.37,Profit +100.77% QoQ,No recent news
+2026-10-26,PARAS.NS,PARAS DEF AND SPCE TECH L,Industrials,1254.0,6.52,-3.46,1.89,48.7,1504.0,1177.2,-16.62,-0.74,101056512000,107.0,127.91,-25.33,37.26,21.22,-38.28,42.7,33.85,26.46,2.63,42.16,N/A,0.04,N/A,N/A,Revenue +37.26% YoY | Profit +42.7% YoY | EPS +42.16% YoY | EBITDA Margin 26.46%,No recent news
+2026-10-26,JSWSTEEL.NS,JSW STEEL LIMITED,Basic Materials,1260.0,6.28,3.59,1.61,53.9,1341.0,1168.0,-6.04,-3.31,3075632529408,10.83,46662.0,-6.3,5.23,4651.0,-71.59,209.45,10009.0,21.45,19.05,209.76,N/A,0.62,31.93,7.18,Profit +209.45% YoY | EPS +209.76% YoY | ROE 31.93%,"Top Nifty50 stocks analysts suggest buying in this volatile week
+JSW Steel posts three-fold jump in profit, lines up capacity expansion
+JSW Steel Q2 Results: Net profit rockets 225% YoY to Rs 5,279 crore; revenue rises 21%
+Announcement under Regulation 30 (LODR)-Newspaper Publication
+Get multiple analysts' prediction on JSW Steel"
+2026-10-26,HSCL.NS,HIMADRI SPECIALITY CHEM L,Basic Materials,522.25,6.15,-20.96,2.49,20.7,680.85,492.0,-23.29,-3.31,263513866240,30.77,1691.43,18.13,,232.32,1.22,,356.75,21.09,4.6,,N/A,0.22,18.51,10.7,Revenue +18.13% QoQ,No recent news
+2026-10-26,IOB.NS,INDIAN OVERSEAS BANK,Financial Services,30.38,5.93,-1.97,4.22,43.5,33.55,28.68,-9.45,-2.65,585015230464,9.93,5847.85,22.84,24.28,1716.29,10.29,57.18,N/A,N/A,0.89,53.45,N/A,N/A,16.53,1.33,Revenue +22.84% QoQ | Profit +57.18% YoY | EPS +53.45% YoY,"Government plans to pare stakes in 4 PSU banks to 75%
+Want to invest Rs 1 lakh for 1 year in FD? These public, private and small finance banks offer highest maturity amounts
+Highest senior citizen FD interest rates after RBI repo rate hike: Public vs private vs small finance bank rates of 3 and 5-year fixed deposits
+Announcement under Regulation 30 (LODR)-Press Release / Media Release"
+2026-10-26,SWIGGY.NS,SWIGGY LIMITED,Consumer Cyclical,185.75,5.54,-20.72,2.98,24.1,286.55,176.0,-35.18,0.0,487194624000,N/A,7571.0,11.14,,-922.0,-16.56,,-560.0,-7.4,-3.45,,N/A,0.15,-26.73,-12.53,—,No recent news
+2026-10-26,ITCHOTELS.NS,ITC HOTELS LIMITED,Consumer Cyclical,164.31,5.16,1.13,7.61,56.4,166.67,152.22,-1.42,0.0,342290006016,39.5,928.8,-25.33,14.82,180.25,-42.94,35.42,354.5,38.17,0.87,35.94,N/A,0.01,N/A,N/A,Profit +35.42% YoY | EPS +35.94% YoY | EBITDA Margin 38.17%,"From Deoghar to Udupi: Family offices bet Rs 2,000 crore on hotels in pilgrimage towns
+Launch of 6,000 luxury hotel rooms likely in Delhi NCR by 2030
+Media Statement And Investor Presentation
+Get multiple analysts' prediction on ITC Hotels"
