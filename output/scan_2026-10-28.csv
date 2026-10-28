@@ -1,25 +1,53 @@
 Date,Stock,Company,Sector,Close Price,Daily Gain %,Week Gain %,Volume Spike (x avg),RSI (14d),52W High,52W Low,Dist from 52W High %,Sector Weekly Gain %,Market Cap,P/E Ratio,Revenue (Cr),Revenue QoQ %,Revenue YoY %,Net Profit (Cr),Profit QoQ %,Profit YoY %,Operating Profit (Cr),EBITDA Margin %,EPS,EPS Growth YoY %,Operating CF (Cr),Debt to Equity,ROE %,ROCE %,Growth Flags,News (Last 2 Days)
-2026-10-28,ONESOURCE.NS,ONESOURCE SPECL PHARMA L,Healthcare,1611.1,15.3,17.89,7.27,57.0,1611.1,1334.1,0.0,3.66,184750948352,N/A,516.24,14.97,37.39,57.48,129.96,448.25,164.25,31.82,5.01,444.57,N/A,0.26,N/A,N/A,Revenue +37.39% YoY | Profit +448.25% YoY | Profit +129.96% QoQ | EPS +444.57% YoY | EBITDA Margin 31.82%,No recent news
-2026-10-28,PPLPHARMA.NS,PIRAMAL PHARMA LIMITED,Healthcare,227.62,14.54,19.05,12.33,69.1,227.62,191.07,0.0,3.66,301843349504,N/A,2269.92,-17.51,-17.58,-69.39,-686.73,-145.21,304.17,13.4,-0.52,-144.83,N/A,0.7,N/A,N/A,—,No recent news
-2026-10-28,PGEL.NS,PG ELECTROPLAST LTD,Technology,532.0,12.0,4.72,4.38,51.5,585.57,470.05,-9.15,-3.93,152301633536,74.35,2033.96,18.48,35.25,76.22,17.51,13.78,156.23,7.68,2.67,12.66,N/A,0.2,N/A,N/A,Revenue +35.25% YoY | Revenue +18.48% QoQ,"Electronics makers turn to cheaper materials and localisation as commodity costs bite
+2026-10-28,PPLPHARMA.NS,PIRAMAL PHARMA LIMITED,Healthcare,232.8,17.15,21.76,14.59,71.4,232.8,191.07,0.0,3.82,308712472576,N/A,2269.92,-17.51,-17.58,-69.39,-686.73,-145.21,304.17,13.4,-0.52,-144.83,N/A,0.7,N/A,N/A,—,No recent news
+2026-10-28,SYNGENE.NS,SYNGENE INTERNATIONAL LTD,Healthcare,410.85,12.19,9.14,13.78,65.1,410.85,346.0,0.0,3.82,165126225920,73.5,736.0,-28.99,-27.7,-9.0,-106.09,-104.91,116.1,15.77,-0.22,-104.82,N/A,0.09,N/A,N/A,—,"Jefferies lists 6 factors that will shape CRDMO winners; Divi’s Labs, Sai Life, Laurus, Anthem among stocks to watch
+These mid-caps have ‘strong buy’ & ‘buy’ recos and an upside potential of over 25%, according to analysts
+Announcement under Regulation 30 (LODR)-Investor Presentation
+Get multiple analysts' prediction on Syngene Int."
+2026-10-28,SBFC.NS,SBFC FINANCE LIMITED,Financial Services,90.49,9.63,11.11,5.7,64.5,100.08,77.54,-9.58,-1.29,100552720384,18.51,542.14,11.33,42.77,138.87,6.73,37.65,269.2,49.66,1.25,34.41,N/A,2.31,13.63,4.34,Revenue +42.77% YoY | Profit +37.65% YoY | EPS +34.41% YoY | EBITDA Margin 49.66%,"These mid-caps have ‘strong buy’ & ‘buy’ recos and an upside potential of over 25%, according to analysts
+Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome
+Unlock Stock Score, Analyst' Ratings & Recommendations
+Get multiple analysts' prediction on SBFC Finance"
+2026-10-28,SUDEEPPHRM.NS,SUDEEP PHARMA LIMITED,Healthcare,1119.0,9.45,15.17,3.1,44.4,1344.2,962.0,-16.75,3.82,126389510144,65.98,158.27,-13.2,26.7,40.55,-17.04,31.63,60.36,38.14,3.59,31.62,23.22,0.17,N/A,N/A,Revenue +26.7% YoY | Profit +31.63% YoY | EPS +31.62% YoY | EBITDA Margin 38.14%,"$53 billion value unlocking! D-St braces for 85 IPO lock-in expiries in 3 months. Check details
+Mukul Agrawal reshapes Rs 6,500-crore portfolio in Q3: Two new stocks, one exit. Do you own?
+Sudeep Pharma shares rally 8% after solid listing pop. Should you buy, sell or hold?
+Unaudited Financial Results For The Quarter And Half Year Ended 30Th September 2026
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-10-28,PGEL.NS,PG ELECTROPLAST LTD,Technology,536.4,7.16,8.95,6.26,54.8,585.57,470.05,-8.4,-2.68,153816465408,71.24,2033.96,18.48,35.25,76.22,17.51,13.78,156.23,7.68,2.67,12.66,N/A,0.2,N/A,N/A,Revenue +35.25% YoY | Revenue +18.48% QoQ,"Electronics makers turn to cheaper materials and localisation as commodity costs bite
+Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome
 Announcement under Regulation 30 (LODR)-Press Release / Media Release
 Announcement under Regulation 30 (LODR)-Investor Presentation
-Results - Unaudited Financial Results For Quarter And Half Year Ended September 30, 2026.
 Get multiple analysts' prediction on PG Electroplast"
-2026-10-28,NAVINFLUOR.NS,NAVIN FLUORINE INT. LTD,Basic Materials,8542.0,11.49,4.78,1.95,50.1,8775.5,7662.0,-2.66,-0.9,438342778880,55.48,1045.08,11.45,49.1,243.31,14.43,156.22,392.16,37.52,47.45,147.78,N/A,0.32,N/A,N/A,Revenue +49.1% YoY | Profit +156.22% YoY | EPS +147.78% YoY | EBITDA Margin 37.52%,No recent news
-2026-10-28,LUMAXTECH.NS,LUMAX AUTO TECH LTD,Consumer Cyclical,2048.8,10.83,7.67,1.63,63.5,2116.4,1770.2,-3.19,0.0,139641503744,38.5,1555.51,14.07,34.52,105.51,21.78,57.82,228.2,14.67,15.48,57.8,N/A,0.67,28.43,9.37,Revenue +34.52% YoY | Profit +57.82% YoY | Profit +21.78% QoQ | EPS +57.8% YoY | ROE 28.43%,"Multibagger trap: 15 stocks that soared up to 4,000% in 2025 crashed as much as 90%
+2026-10-28,TIPSMUSIC.NS,TIPS MUSIC LIMITED,Communication Services,793.9,7.05,7.07,1.81,71.8,793.9,612.78,0.0,0.0,100952047616,44.68,120.06,12.72,,65.74,50.44,,89.1,74.21,5.15,,N/A,0.01,78.12,45.92,Profit +50.44% QoQ | EBITDA Margin 74.21% | ROE 78.12%,No recent news
+2026-10-28,ZEEL.NS,ZEE ENTERTAINMENT ENT LTD,Communication Services,69.09,6.98,-4.52,2.11,47.9,99.14,64.24,-30.31,0.0,66362281984,32.59,1907.3,-5.8,-12.67,76.3,174.51,-59.54,110.1,5.77,0.79,-59.69,N/A,0.02,N/A,N/A,Profit +174.51% QoQ,No recent news
+2026-10-28,LUMAXTECH.NS,LUMAX AUTO TECH LTD,Consumer Cyclical,2043.1,6.95,11.43,2.95,63.9,2116.4,1770.2,-3.46,0.0,139253006336,37.15,1555.51,14.07,34.52,105.51,21.78,57.82,228.2,14.67,15.48,57.8,N/A,0.67,28.43,9.25,Revenue +34.52% YoY | Profit +57.82% YoY | Profit +21.78% QoQ | EPS +57.8% YoY | ROE 28.43%,"Multibagger trap: 15 stocks that soared up to 4,000% in 2025 crashed as much as 90%
 Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome
 Announcement under Regulation 30 (LODR)-Investor Presentation
 Announcement under Regulation 30 (LODR)-Newspaper Publication
 Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-10-28,SYNGENE.NS,SYNGENE INTERNATIONAL LTD,Healthcare,389.1,8.13,-2.11,5.92,58.7,403.4,346.0,-3.54,3.66,156384608256,70.87,736.0,-28.99,-27.7,-9.0,-106.09,-104.91,116.1,15.77,-0.22,-104.82,N/A,0.09,N/A,N/A,—,"Jefferies lists 6 factors that will shape CRDMO winners; Divi’s Labs, Sai Life, Laurus, Anthem among stocks to watch
-These mid-caps have ‘strong buy’ & ‘buy’ recos and an upside potential of over 25%, according to analysts
-Announcement under Regulation 30 (LODR)-Investor Presentation
-Get multiple analysts' prediction on Syngene Int."
-2026-10-28,UBL.NS,UNITED BREWERIES LTD,Consumer Defensive,1224.1,7.74,1.6,8.92,59.1,1334.1,1136.2,-8.25,-2.72,323658350592,81.82,3066.86,36.3,32.02,166.33,63.42,70.47,333.31,10.87,6.29,70.46,N/A,0.29,N/A,N/A,Revenue +32.02% YoY | Revenue +36.3% QoQ | Profit +70.47% YoY | Profit +63.42% QoQ | EPS +70.46% YoY,"United Breweries Q2 Results: Profit jumps nearly 3 times to Rs 134 crore on volume growth, premiumisation
-Carlsberg India told to close Alwar unit over pollution breach ahead of $700 million IPO plans
-Stock picks of the week: 5 stocks with consistent score improvement and upside potential of up to 24%
-Results-Financial Results For The Quarter Ended September 30, 2026
-Get multiple analysts' prediction on United Breweries"
-2026-10-28,TITAGARH.NS,TITAGARH RAIL SYSTEMS LTD,Industrials,691.65,6.48,-6.64,4.53,21.5,895.38,649.55,-22.75,0.73,93147111424,49.47,765.07,-12.61,12.63,52.6,1.11,333.26,85.98,11.24,3.91,328.65,N/A,0.25,N/A,N/A,Profit +333.26% YoY | EPS +328.65% YoY,No recent news
-2026-10-28,HEGAM.NS,HEG ADVANCED MATERIAL LTD,Industrials,227.81,5.83,8.4,2.6,38.2,737.35,198.78,-69.1,0.73,75131486208,12.43,680.79,12.86,11.1,122.34,202.98,22.57,234.31,34.42,6.34,16.76,N/A,0.17,N/A,N/A,Profit +202.98% QoQ | EBITDA Margin 34.42%,No recent news
+2026-10-28,VOLTAS.NS,VOLTAS LTD,Consumer Cyclical,1011.9,6.94,1.35,3.8,40.9,1205.0,946.2,-16.02,0.0,334822277120,74.68,4623.3,-4.55,18.17,213.76,83.99,52.19,319.52,6.91,6.46,52.0,N/A,0.16,N/A,N/A,Profit +52.19% YoY | Profit +83.99% QoQ | EPS +52.0% YoY,"Flipkart Big Billion Days 2026: 13 Must-Grab Deals on Phones, Laptops & Appliances
+PLI push and rising demand take AC makers deeper into South India
+Behind bigger price tags hides a fault line in India’s growth story
+Costly Diwali: Appliance makers set to serve up another price shock
+Get multiple analysts' prediction on Voltas"
+2026-10-28,HEGAM.NS,HEG ADVANCED MATERIAL LTD,Industrials,228.74,6.26,8.85,3.44,38.9,737.35,198.78,-68.98,0.65,75438202880,12.48,680.79,12.86,11.1,122.34,202.98,22.57,234.31,34.42,6.34,16.76,N/A,0.17,N/A,N/A,Profit +202.98% QoQ | EBITDA Margin 34.42%,No recent news
+2026-10-28,PATANJALI.NS,PATANJALI FOODS LIMITED,Consumer Defensive,369.6,6.22,3.53,3.61,56.5,409.45,338.55,-9.73,-1.93,402164940800,20.37,11337.45,1.63,19.19,335.73,-35.93,-6.36,547.71,4.83,3.09,-6.36,N/A,0.21,N/A,N/A,—,No recent news
+2026-10-28,TITAGARH.NS,TITAGARH RAIL SYSTEMS LTD,Industrials,692.5,6.07,-2.4,6.61,22.4,895.38,649.55,-22.66,0.65,93261578240,49.29,765.07,-12.61,12.63,52.6,1.11,333.26,85.98,11.24,3.91,328.65,N/A,0.25,N/A,N/A,Profit +333.26% YoY | EPS +328.65% YoY,No recent news
+2026-10-28,VIYASH.NS,VIYASH SCIENTIFIC LIMITED,Healthcare,227.0,5.65,6.28,1.84,39.1,267.4,204.18,-15.11,3.82,100186742784,55.5,946.36,2.87,19.54,65.87,26.41,107.07,188.13,19.88,1.51,104.05,N/A,0.16,N/A,N/A,Profit +107.07% YoY | Profit +26.41% QoQ | EPS +104.05% YoY,No recent news
+2026-10-28,BIOCON.NS,BIOCON LIMITED.,Healthcare,350.7,5.49,4.69,1.52,43.9,412.0,323.5,-14.88,3.82,574360322048,102.54,4291.8,-4.29,9.76,141.1,12.07,349.36,901.7,21.01,0.87,234.62,N/A,0.42,N/A,N/A,Profit +349.36% YoY | EPS +234.62% YoY,"Biocon clears path for cancer drug launch
+Biocon founder Kiran Mazumdar Shaw says India must shift pharma industry from generics to innovation-led growth
+Indian pharma's risk aversion holding back innovation: Kiran Mazumdar-Shaw
+Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
+Get multiple analysts' prediction on Biocon"
+2026-10-28,SHARDACROP.NS,SHARDA CROPCHEM LTD.,Basic Materials,683.2,5.36,0.94,2.63,34.0,795.9,630.5,-14.16,-0.76,61638643712,9.57,1073.77,-48.0,-41.28,88.04,-72.37,-56.75,216.83,20.19,9.76,-56.76,N/A,0.0,N/A,N/A,—,"Dividend alert! Last day to buy Maruti Suzuki, Grasim and 36 other stocks for payouts. Do you own any?
+Which stocks did Ashish Kacholia, Mukul Agrawal, other ace investors sell in Q1?
+Have all possible headwinds been priced in by the street? 7 agro-chem stocks with upside potential of up to 38%
+Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-10-28,OLAELEC.NS,OLA ELECTRIC MOBILITY LTD,Consumer Cyclical,36.66,5.34,10.92,4.26,53.1,42.52,29.93,-13.78,0.0,161988837376,N/A,455.0,71.7,-25.53,-336.0,32.8,61.38,-136.0,-29.89,-0.75,61.93,N/A,0.82,N/A,N/A,Revenue +71.7% QoQ | Profit +61.38% YoY | Profit +32.8% QoQ | EPS +61.93% YoY,No recent news
+2026-10-28,CHOLAFIN.NS,CHOLAMANDALAM IN & FIN CO,Financial Services,1545.2,5.19,1.0,1.84,47.7,1862.9,1447.9,-17.05,-1.29,1325025591296,22.85,4949.31,2.89,31.2,1656.22,0.67,31.49,N/A,N/A,19.33,29.04,N/A,6.95,N/A,N/A,Revenue +31.2% YoY | Profit +31.49% YoY,No recent news
+2026-10-28,KPRMILL.NS,KPR MILL LTD.,Consumer Cyclical,1091.5,5.0,5.99,7.37,48.4,1186.3,1010.3,-7.99,0.0,373863383040,39.75,1854.29,8.06,9.01,258.54,13.81,26.39,409.58,22.09,7.56,26.42,N/A,0.1,N/A,N/A,—,"These large and mid-cap stocks can give more than 20% return in 1 year, according to analysts
+Nuvama initiates coverage on KPR Mill and 2 other textile stocks, sees up to 35% upside. Here's why
+India's textile stocks become market standouts on trade deals
+Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
+Get multiple analysts' prediction on KPR Mill"
