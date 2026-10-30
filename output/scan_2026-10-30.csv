@@ -1,21 +1,35 @@
 Date,Stock,Company,Sector,Close Price,Daily Gain %,Week Gain %,Volume Spike (x avg),RSI (14d),52W High,52W Low,Dist from 52W High %,Sector Weekly Gain %,Market Cap,P/E Ratio,Revenue (Cr),Revenue QoQ %,Revenue YoY %,Net Profit (Cr),Profit QoQ %,Profit YoY %,Operating Profit (Cr),EBITDA Margin %,EPS,EPS Growth YoY %,Operating CF (Cr),Debt to Equity,ROE %,ROCE %,Growth Flags,News (Last 2 Days)
-2026-10-30,VOGL.NS,VEDANTA OIL AND GAS LTD,Basic Materials,31.67,13.68,16.56,6.47,55.8,38.71,27.17,-18.19,3.01,123605565440,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,"Vedanta plans $200 million push to lift Rajasthan oil output
-Vedanta Oil & Gas partners with Beicip-Franlab to accelerate exploration, production in Northeast
-Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome
-Announcement under Regulation 30 (LODR)-Press Release / Media Release"
-2026-10-30,VEDPOWER.NS,VEDANTA POWER LIMITED,Utilities,32.65,13.05,15.53,5.6,53.3,35.18,28.21,-7.19,0.0,127470690304,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,"Stocks in news: RIL, Jio, Trent, Suzlon Energy, IndiGo, Vedanta Power and RVNL
+2026-10-30,VEDPOWER.NS,VEDANTA POWER LIMITED,Utilities,33.13,14.72,17.23,7.35,54.7,35.18,28.21,-5.83,0.0,129344684032,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,"Stocks in news: RIL, Jio, Trent, Suzlon Energy, IndiGo, Vedanta Power and RVNL
 Vedanta Power Q2 results: Company swings to profit at Rs 83 crore; revenue rises 38% YoY
 Power Mech Projects shares gain 3% after securing Rs 279 crore order from Telangana Power Generation Corporation
 Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome"
-2026-10-30,GREAVESCOT.NS,GREAVES COTTON LTD.,Industrials,203.99,12.63,6.2,8.58,43.6,234.99,181.11,-13.19,2.71,47519764480,49.39,974.12,-2.61,18.39,25.77,14.33,7.15,67.27,6.91,1.11,7.77,N/A,0.26,N/A,N/A,—,"Greaves Electric Mobility’s Rs 530 crore rights issue offer gets fully subscribed
+2026-10-30,VOGL.NS,VEDANTA OIL AND GAS LTD,Basic Materials,30.23,8.51,11.26,8.2,50.5,38.71,27.17,-21.91,2.67,118022627328,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,—,"Vedanta plans $200 million push to lift Rajasthan oil output
+Vedanta Oil & Gas partners with Beicip-Franlab to accelerate exploration, production in Northeast
+Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome
+Announcement under Regulation 30 (LODR)-Press Release / Media Release"
+2026-10-30,LAURUSLABS.NS,LAURUS LABS LIMITED,Healthcare,2405.5,7.2,22.11,4.01,77.6,2405.5,1840.0,0.0,7.09,1299720962048,97.07,2026.31,11.85,17.79,367.6,31.69,57.32,647.45,31.95,6.81,56.91,N/A,0.42,23.97,11.19,Profit +57.32% YoY | Profit +31.69% QoQ | EPS +56.91% YoY | EBITDA Margin 31.95% | ROE 23.97%,"Laurus Labs shares climb 4% after Q2 profit zooms 126% YoY
+Laurus Labs shifts gears as CDMO emerges as key growth driver; Nuvama sees 24% upside
+Jefferies lists 6 factors that will shape CRDMO winners; Divi’s Labs, Sai Life, Laurus, Anthem among stocks to watch
+Announcement under Regulation 30 (LODR)-Newspaper Publication
+Get multiple analysts' prediction on Laurus Labs"
+2026-10-30,GREAVESCOT.NS,GREAVES COTTON LTD.,Industrials,199.4,6.75,8.65,10.55,42.3,234.99,181.11,-15.15,2.86,46450515968,46.81,974.12,-2.61,18.39,25.77,14.33,7.15,67.27,6.91,1.11,7.77,N/A,0.26,N/A,N/A,—,"Greaves Electric Mobility’s Rs 530 crore rights issue offer gets fully subscribed
 Pidilite, Aditya Birla AMC among 18 dividend stocks with record date on Wednesday. Do you own?
 Q4 results today: Vedanta, Adani Power among 52 companies to announce earnings on Wednesday
-Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome
+Announcement under Regulation 30 (LODR)-Newspaper Publication
 Unlock Stock Score, Analyst' Ratings & Recommendations"
-2026-10-30,HOMEFIRST.NS,HOME FIRST FIN CO IND LTD,Financial Services,1089.2,7.37,6.65,2.16,53.6,1257.7,1002.0,-13.4,1.04,113901617152,19.39,517.5,6.62,25.11,170.19,6.47,43.15,164.29,31.75,16.28,39.26,N/A,2.63,14.28,4.0,Revenue +25.11% YoY | Profit +43.15% YoY | EPS +39.26% YoY | EBITDA Margin 31.75%,No recent news
-2026-10-30,TRENT.NS,TRENT LTD,Consumer Cyclical,3046.0,6.44,11.68,2.3,58.2,3046.0,2580.0,0.0,0.0,1624225611776,89.8,5754.71,14.45,17.84,519.01,29.65,20.79,1148.99,19.97,9.73,20.72,N/A,0.36,N/A,N/A,Profit +29.65% QoQ,"Stocks in news: RIL, Jio, Trent, Suzlon Energy, IndiGo, Vedanta Power and RVNL
+2026-10-30,ATHERENERG.NS,ATHER ENERGY LIMITED,Consumer Cyclical,1756.0,5.59,27.25,2.07,75.2,1756.0,1380.0,0.0,0.0,696636997632,N/A,1464.24,20.32,62.9,1.26,102.47,100.82,74.17,5.07,0.03,100.73,-3.6,0.22,-6.7,-3.72,Revenue +62.9% YoY | Revenue +20.32% QoQ | Profit +100.82% YoY | Profit +102.47% QoQ | EPS +100.73% YoY,"TVS Motor to make 80,000 electric two-wheelers a month as EVs capture over 20% of India's scooter market
+Ola Electric’s Rs 1,000-crore rights issue fully subscribed ahead of closing date
+Cognizant eyes Sarvam stake; Ather aims for higher market share
+Announcement under Regulation 30 (LODR)-Earnings Call Transcript
+Get multiple analysts' prediction on Ather Energy"
+2026-10-30,TRENT.NS,TRENT LTD,Consumer Cyclical,3017.3,5.44,10.63,3.33,56.6,3017.3,2580.0,0.0,0.0,1608921776128,88.95,5754.71,14.45,17.84,519.01,29.65,20.79,1148.99,19.97,9.73,20.72,N/A,0.29,27.06,14.13,Profit +29.65% QoQ | ROE 27.06%,"Trent shares soar 7% after Q2 results. Here’s why Elara Capital, Nuvama remain bullish on the Tata stock
+Stocks in news: RIL, Jio, Trent, Suzlon Energy, IndiGo, Vedanta Power and RVNL
 A Fresh Brew: Trent set to serve up Caffe Nero at Westside, Zudio outlets
-Inditex's Bershka turns profitable in first full year in India as Zara growth stalls
 Announcement under Regulation 30 (LODR)-Investor Presentation
 Get multiple analysts' prediction on Trent"
-2026-10-30,SHAILY.NS,SHAILY ENG PLASTICS LTD,Basic Materials,3215.2,5.46,7.64,1.7,61.2,3451.94,2937.2,-6.86,3.01,147883917312,83.9,280.67,18.52,13.77,48.01,19.55,16.76,83.3,29.68,10.44,16.65,N/A,0.25,N/A,N/A,Revenue +18.52% QoQ | EBITDA Margin 29.68%,No recent news
+2026-10-30,ZYDUSLIFE.NS,ZYDUS LIFESCIENCES LTD,Healthcare,1245.5,5.16,10.28,2.55,80.3,1245.5,1099.0,0.0,7.09,1242390986752,27.76,7802.0,4.94,24.03,939.8,-26.15,-19.74,2035.5,26.09,9.35,-19.67,N/A,0.42,N/A,N/A,EBITDA Margin 26.09%,"Zydus moves closer to US market for Keytruda biosimilar as FDA accepts application
+Stocks in news: Vedanta, Kotak Mahindra Bank, Marico, Axis Bank, Trent and Zydus Lifesciences
+Stocks in news: Tata Group, ITC, IRFC, NCC, Zydus Lifesciences and JSW Energy
+Announcement under Regulation 30 (LODR)-Newspaper Publication
+Get multiple analysts' prediction on Cadila Healthcare"
+2026-10-30,NAVINFLUOR.NS,NAVIN FLUORINE INT. LTD,Basic Materials,8680.0,5.08,13.19,2.83,56.3,8775.5,7662.0,-1.09,2.67,445558423552,56.37,1045.08,11.45,49.1,243.31,14.43,156.22,392.16,37.52,47.45,147.78,N/A,0.32,N/A,N/A,Revenue +49.1% YoY | Profit +156.22% YoY | EPS +147.78% YoY | EBITDA Margin 37.52%,No recent news
