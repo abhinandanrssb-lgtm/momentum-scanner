@@ -1,20 +1,23 @@
 Date,Stock,Company,Sector,Close Price,Daily Gain %,Week Gain %,Volume Spike (x avg),RSI (14d),52W High,52W Low,Dist from 52W High %,Sector Weekly Gain %,Market Cap,P/E Ratio,Revenue (Cr),Revenue QoQ %,Revenue YoY %,Net Profit (Cr),Profit QoQ %,Profit YoY %,Operating Profit (Cr),EBITDA Margin %,EPS,EPS Growth YoY %,Operating CF (Cr),Debt to Equity,ROE %,ROCE %,Growth Flags,News (Last 2 Days)
-2026-11-20,INDUSINDBK.NS,INDUSIND BANK LIMITED,Financial Services,1003.0,8.59,9.69,4.71,80.5,1003.0,833.3,0.0,5.9,781482131456,26.09,6817.38,5.35,0.3,1241.79,19.74,105.57,N/A,N/A,15.94,105.68,N/A,N/A,4.51,0.54,Profit +105.57% YoY | EPS +105.68% YoY,"IndusInd Bank ends ex-CEO Kathpalia's employment, seeks to recover pay
-IndusInd Bank customers can now send money abroad in 123 currencies through J.P. Morgan tie-up
-Money changes from November 1, 2026: Revised PNB credit card charges, increased Indusind Bank fees and ITR deadline; know key changes
-Disclosure Under Regulation 30 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015
-Get multiple analysts' prediction on IndusInd Bank"
-2026-11-20,SGMART.NS,SG MART LIMITED,Industrials,1097.05,8.57,16.53,1.8,83.5,1097.05,717.15,0.0,2.21,136557486080,89.96,1561.84,19.35,36.55,54.02,18.52,67.19,80.7,5.17,4.29,59.48,N/A,0.03,9.4,5.17,Revenue +36.55% YoY | Revenue +19.35% QoQ | Profit +67.19% YoY | EPS +59.48% YoY,No recent news
-2026-11-20,EIHOTEL.NS,EIH LIMITED,Consumer Cyclical,334.15,7.79,5.56,9.86,81.4,334.15,286.35,0.0,0.0,207777234944,28.3,694.19,5.67,16.1,136.43,16.47,19.92,238.02,34.29,2.18,19.78,N/A,0.05,14.72,9.72,EBITDA Margin 34.29%,"For investors with a 3- to 5-year horizon: 5 mid-cap stocks from different sectors with upside potential of more than 19%
-Tourism is the sector the market writes off in a downturn. Is it indicating something else? 7 stocks with upside potential of up to 27%
-Ashish Kacholia, Vijay Kedia beat Nifty in Q1, portfolios swell up to 40%
-Announcement under Regulation 30 (LODR)-Earnings Call Transcript"
-2026-11-20,NAVA.NS,NAVA LIMITED,Industrials,563.95,6.3,-1.88,3.24,67.6,575.0,474.6,-1.92,2.21,157506584576,16.68,1252.32,3.34,29.94,315.76,13.71,143.09,560.55,44.76,11.14,143.76,N/A,0.26,11.19,6.26,Revenue +29.94% YoY | Profit +143.09% YoY | EPS +143.76% YoY | EBITDA Margin 44.76%,No recent news
-2026-11-20,CUB.NS,CITY UNION BANK LTD,Financial Services,248.8,6.25,7.06,4.27,79.8,248.8,207.0,0.0,5.9,246507880448,15.63,1222.97,14.97,32.11,415.91,8.71,,N/A,N/A,4.2,26.51,N/A,N/A,14.11,1.59,Revenue +32.11% YoY,"City Union Bank shares rally 7% after Q2 net profit grows 27% YoY to Rs 416 Crore
-Rs 77,538 spent from a man's ATM card for shopping in Philippines while he had it with him in India, court orders bank to refund only Rs 41,852
-Two Trades for Today: A liquor major for a 5.45% rise, a mid-cap private bank stock for a gain of about 5%
-Announcement under Regulation 30 (LODR)-Newspaper Publication
-Get multiple analysts' prediction on City Union Bank"
-2026-11-20,WELSPUNLIV.NS,WELSPUN LIVING LIMITED,Consumer Cyclical,268.78,6.18,7.45,1.78,67.1,268.78,208.96,0.0,0.0,248353177600,57.72,2838.12,1.53,16.27,169.1,5.21,1202.77,369.62,13.02,1.8,1284.62,N/A,0.47,8.85,4.06,Profit +1202.77% YoY | EPS +1284.62% YoY,No recent news
-2026-11-20,ASTERDM.NS,ASTER DM QUALITY CARE LTD,Healthcare,779.3,5.41,7.86,2.38,73.5,779.3,644.75,0.0,-0.52,676948672512,98.92,2829.2,115.86,162.48,262.02,1531.51,206.38,706.94,24.99,3.19,91.02,N/A,0.64,8.05,5.05,Revenue +162.48% YoY | Revenue +115.86% QoQ | Profit +206.38% YoY | Profit +1531.51% QoQ | EPS +91.02% YoY,No recent news
-2026-11-20,APOLLOHOSP.NS,APOLLO HOSPITALS ENTER. L,Healthcare,9200.0,5.29,7.91,2.45,72.0,9200.0,7600.0,0.0,-0.52,1322818863104,58.83,7614.9,8.11,23.04,628.8,8.28,29.97,1247.5,16.38,43.82,31.99,N/A,0.73,22.53,9.12,EPS +31.99% YoY | ROE 22.53%,No recent news
+2026-11-23,THOMASCOOK.NS,THOMAS COOK (INDIA) LTD,Consumer Cyclical,127.94,11.58,15.28,10.77,86.6,127.94,85.52,0.0,0.0,59617628160,29.21,1944.15,-7.06,-6.25,51.67,-28.14,-22.23,151.28,7.78,1.11,-21.83,N/A,0.22,7.81,2.0,—,No recent news
+2026-11-23,ITI.NS,ITI LTD,Technology,270.42,10.05,5.91,6.43,56.8,270.42,215.38,0.0,-0.18,260374446080,130.01,481.99,13.4,-11.3,-31.44,2.51,42.16,20.04,4.16,-0.33,42.11,N/A,0.59,20.75,0.16,Profit +42.16% YoY | EPS +42.11% YoY | ROE 20.75%,No recent news
+2026-11-23,JSLL.NS,JEENA SIKHO LIFECARE LTD,Healthcare,328.0,9.26,5.65,8.57,46.6,524.3,296.35,-37.44,1.18,40778305536,17.07,224.4,4.11,28.76,65.95,46.12,28.57,106.39,47.41,5.3,28.64,N/A,0.33,49.19,25.8,Revenue +28.76% YoY | Profit +46.12% QoQ | EBITDA Margin 47.41% | ROE 49.19%,"Dividend alert! Last day to buy Bharat Dynamics, Dixon Tech among 55 stocks for dividends. Do you own any?
+Stock market update: Nifty Realty index advances 1.16%
+Stock market update: Nifty Bank index advances 0.35%
+Submission Of Receipt Of Disclosure Under Regulation 29(1) Of The SEBI (Substantial Acquisition Of Shares And Takeovers) Regulations, 2011
+Unlock Stock Score, Analyst' Ratings & Recommendations"
+2026-11-23,INTELLECT.NS,INTELLECT DESIGN ARENA,Technology,589.0,7.29,9.78,2.15,68.8,668.05,504.55,-11.83,-0.18,82834522112,23.55,846.73,0.18,,104.12,2.01,,197.46,23.32,N/A,N/A,N/A,0.03,11.12,5.57,—,"Dividend alert! Last day to buy Bharti Airtel, Hero MotoCorp, among 43 stocks for dividend payout worth Rs 1,127
+Which stocks did Ashish Kacholia, Mukul Agrawal, other ace investors sell in Q1?
+Bonus, dividends and stock splits: Bharti Airtel, Hero MotoCorp among 88 stocks turning ex-date this week. Do you own any?
+Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS
+Get multiple analysts' prediction on Intellect Design"
+2026-11-23,POLICYBZR.NS,PB FINTECH LIMITED,Financial Services,1095.5,7.11,1.32,1.87,71.3,1886.3,928.0,-41.92,2.57,508887007232,63.25,2177.71,15.33,61.55,192.45,18.15,127.51,260.86,11.98,4.16,124.86,N/A,0.05,11.07,3.83,Revenue +61.55% YoY | Revenue +15.33% QoQ | Profit +127.51% YoY | EPS +124.86% YoY,"EV startups attract funding; InsuranceDekho cuts jobs
+Insurance fee caps may force insurers to rejig business models
+AI on the clock as fintechs demand payoff for spends
+Disclosure Under Regulation 30 Of The SEBI (LODR) Regulations, 2015
+Get multiple analysts' prediction on Policy Bazaar"
+2026-11-23,LINDEINDIA.NS,LINDE INDIA LIMITED,Basic Materials,6923.5,5.35,0.17,2.81,76.8,6923.5,5632.5,0.0,-5.3,590465335296,119.47,723.2,4.15,26.64,118.81,13.59,10.84,242.3,33.5,13.93,10.82,N/A,0.23,11.79,6.33,Revenue +26.64% YoY | EBITDA Margin 33.5%,"Chemical sector: Although long, there is a way around China trouble; combine 20 stocks to get your portfolio’s chemistry right
+Stock picks of the week: 5 stocks with consistent score improvement and upside potential of up to 28%
+Holding stocks is harder than finding them: 10 mid- and small-caps stocks that may be worth holding on to
+Specialty chemicals: Is China still the same threat, or is this a contrarian moment? 7 stocks to be brought back on the watchlist
+Get multiple analysts' prediction on Linde India"
